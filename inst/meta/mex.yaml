@@ -1,7 +1,6 @@
 mex_states:
   label: Mexico states
-  file: mex-states.topo.json
-  codes: mex-states.csv
+  basename: mex-states
   scope: states
   geographyName: name
   geographyId: id

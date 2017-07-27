@@ -1,7 +1,6 @@
 usa_states:
   label: US States
-  file: usa-states.topo.json
-  codes: usa-state-codes.csv
+  basename: usa-states
   scope: states
   geographyName: name
   geographyId: id

@@ -9,6 +9,7 @@ Description: geodata package for maps
 Depends:
     R (>= 3.1.2),
     tidyverse,
+    purrrlyr,
     yaml
 License: MIT + file LICENSE
 Encoding: UTF-8

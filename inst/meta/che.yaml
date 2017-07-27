@@ -1,7 +1,6 @@
 che_cantons:
   label: Switzerlan cantons
-  file: che-cantons.topo.json
-  codes: che-cantons.csv
+  basename: che-cantons
   scope: cantons
   geographyName: name
   geographyId: id
