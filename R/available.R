@@ -9,18 +9,19 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE){
   dir <- system.file("meta",package="geodata", mustWork=TRUE)
   files <- list.files(dir,pattern = ".*.yaml",full.names = TRUE)
   l <- map(files,function(x){
-    #x <- files[[3]] #col
+    #x <- files[[1]]
     ll <- yaml.load_file(x)
     map(ll, function(y){
-      #y <- ll[[2]]
+      #y <- ll[[1]]
       y$geoname = basename(file_path_sans_ext(x))
       if(!"basename" %in% names(y))
         stop("No basename in yaml: ", y)
       if(load_data){
-        y$codes = read_csv(file.path("inst","geodata",y$geoname,paste0(y$basename, ".csv")))
-        regionFilename <- file.path("inst","geodata",y$geoname,paste0(y$basename, "-regions.csv"))
+        codesFilename <- system.file(file.path("geodata",y$geoname,paste0(y$basename, ".csv")),package = "geodata")
+        y$codes = read_csv(codesFilename)
+        regionFilename <- file.path("geodata",y$geoname,paste0(y$basename, "-regions.csv"))
         if(file.exists(system.file(regionFilename, package = "geodata"))){
-          r <- read_csv(regionFilename)
+          r <- read_csv(system.file(regionFilename, package = "geodata"))
           y$regions <- r
         }
       }

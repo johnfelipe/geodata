@@ -31,6 +31,18 @@ test_that("Resource exists",{
 
 })
 
+
+context("geodataMeta")
+
+test_that("geodataMeta loads properly",{
+
+  geodatas <- availableGeodata()
+  map <- "bra_states"
+  geodataMeta(map)
+  #map(geodatas, geodataMeta)
+})
+
+
 context("Topojson")
 
 test_that("Good topojson",{
