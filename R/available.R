@@ -18,11 +18,16 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE){
         stop("No basename in yaml: ", y)
       if(load_data){
         codesFilename <- system.file(file.path("geodata",y$geoname,paste0(y$basename, ".csv")),package = "geodata")
-        y$codes = read_csv(codesFilename)
+        y$codes = suppressWarnings(suppressMessages(read_csv(codesFilename)))
         regionFilename <- file.path("geodata",y$geoname,paste0(y$basename, "-regions.csv"))
         if(file.exists(system.file(regionFilename, package = "geodata"))){
-          r <- read_csv(system.file(regionFilename, package = "geodata"))
+          r <- suppressWarnings(suppressMessages(read_csv(system.file(regionFilename, package = "geodata"))))
           y$regions <- r
+        }
+        altnamesFilename <- file.path("geodata",y$geoname,paste0(y$basename, "-altnames.csv"))
+        if(file.exists(system.file(altnamesFilename, package = "geodata"))){
+          r <- suppressWarnings(suppressMessages(read_csv(system.file(altnamesFilename, package = "geodata"))))
+          y$altnames <- r
         }
       }
       y

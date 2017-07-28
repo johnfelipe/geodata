@@ -38,7 +38,7 @@ test_that("geodataMeta loads properly",{
 
   geodatas <- availableGeodata()
   map <- "bra_states"
-  geodataMeta(map)
+  dmap_bra <- geodataMeta(map)
   #map(geodatas, geodataMeta)
 })
 
