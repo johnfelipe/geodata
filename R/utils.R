@@ -1,3 +1,8 @@
+
+noWrnMsg <- function(x){
+  suppressWarnings(suppressMessages(x))
+}
+
 `%||%` <- function (x, y)
 {
   if (is.empty(x))

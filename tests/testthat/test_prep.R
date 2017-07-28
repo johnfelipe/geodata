@@ -40,6 +40,9 @@ test_that("geodataMeta loads properly",{
   map <- "bra_states"
   dmap_bra <- geodataMeta(map)
   #map(geodatas, geodataMeta)
+  dmap <- geodataMeta("col_municipalities")
+
+
 })
 
 
