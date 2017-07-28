@@ -26,7 +26,7 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE){
       }
       y
     })
-  }) %>% flatten()
+  }) %>% purrr::flatten()
   if(!is.null(mapName)){
     return(l[[mapName]])
   }
