@@ -56,7 +56,7 @@ geodataProjectionOptions <- function(mapName, projection, withDefaults = TRUE){
 }
 
 #' @export
-geodataCSV <- function(mapName){
+geodataCsv <- function(mapName){
   geodataMeta(mapName)$codes
 }
 
