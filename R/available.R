@@ -54,3 +54,22 @@ geodataProjectionOptions <- function(mapName, projection, withDefaults = TRUE){
   if(!withDefaults) return(names(projection))
   projection
 }
+
+#' @export
+geodataCSV <- function(mapName){
+  geodataMeta(mapName)$codes
+}
+
+#' @export
+geodataTopojsonPath <- function(mapName){
+  y <- geodataMeta(mapName, load_data = FALSE)
+  system.file(file.path("geodata",y$geoname,paste0(y$basename, ".topojson")),package = "geodata")
+}
+
+#' @export
+geodataCsvPath <- function(mapName){
+  y <- geodataMeta(mapName, load_data = FALSE)
+  system.file(file.path("geodata",y$geoname,paste0(y$basename, ".csv")),package = "geodata")
+}
+
+

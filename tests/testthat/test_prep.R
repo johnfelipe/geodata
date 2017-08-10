@@ -8,15 +8,14 @@ test_that("Resource exists",{
   dm <- geodataMeta(load_data = TRUE)
   dmWithRegions <- dm %>% keep(~!is.null(.$regions))
   dmReg <- dmWithRegions %>% map("regions")
-  dmReg <- dmWithRegions %>% map("regions")
 
   # all codes have names: id, name, lat, lon
-  expect_equal (map(dm, "codes") %>% map(names) %>% reduce(intersect),
+  expect_equal(map(dm, "codes") %>% map(names) %>% reduce(intersect),
                 c("id","name"))
                 #c("id","name","lat","lon"))
-# all regions have names: region, id
-  expect_equal (map(dmReg, names) %>% reduce(intersect),
-                c("id","name","lat","lon"))
+  # all regions have names: region, id
+  expect_equal(map(dmReg, names) %>% reduce(intersect),
+                c("region","id"))
 
   dmRegIdsNoCodes <- dmWithRegions %>% map(function(dm){
     df_regions <- dm$regions
@@ -42,6 +41,13 @@ test_that("geodataMeta loads properly",{
   #map(geodatas, geodataMeta)
   dmap <- geodataMeta("col_municipalities")
 
+  # All topojson exist
+  expect_true(
+    all(map_lgl(availableGeodata(), ~file.exists(geodataTopojsonPath(.))))
+    )
+  expect_true(
+    all(map_lgl(availableGeodata(), ~file.exists(geodataCsvPath(.))))
+  )
 
 })
 
