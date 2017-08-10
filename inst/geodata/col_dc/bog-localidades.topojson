@@ -2041,7 +2041,7 @@
     ],
     "objects":
     {
-        "public":
+        "localidades":
         {
             "type": "GeometryCollection",
             "geometries": [

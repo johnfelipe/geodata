@@ -3,6 +3,13 @@ context("Resources")
 
 test_that("Resource exists",{
 
+  # Check folder and yaml structure
+
+  folders <- list.files(system.file("geodata",package = "geodata"))
+  yamls <- list.files(system.file("meta",package = "geodata"))
+  yamls <- file_path_sans_ext(yamls)
+  expect_true(setequal(folders, yamls))
+
   # Check all regions have proper codes
 
   dm <- geodataMeta(load_data = TRUE)
