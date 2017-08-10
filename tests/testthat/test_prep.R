@@ -16,10 +16,16 @@ test_that("Resource exists",{
   dmWithRegions <- dm %>% keep(~!is.null(.$regions))
   dmReg <- dmWithRegions %>% map("regions")
 
+  # All CSVs with names c("id","name","lat","lon")
+  incompleteCSVs <- map(dm, "codes") %>%
+    map(names) %>%
+    keep(~ !all(c("id","name","lat","lon") %in% .))
+  expect_true(length(incompleteCSVs) == 0)
+
   # all codes have names: id, name, lat, lon
   expect_equal(map(dm, "codes") %>% map(names) %>% reduce(intersect),
-                c("id","name"))
-                #c("id","name","lat","lon"))
+               c("id","name","lat","lon"))
+
   # all regions have names: region, id
   expect_equal(map(dmReg, names) %>% reduce(intersect),
                 c("region","id"))
