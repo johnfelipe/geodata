@@ -6,12 +6,12 @@ col_dc_districts:
   geographyId: id
   projections:
     mercator:
-      center: [-73.5, 4.2]
+      center: [-74.1, 4.55]
       rotate: [0, 0]
-      scale: 3
+      scale: 50
       translate: [0,0]
     equirectangular:
-      center: [-73.5, 4.2]
+      center: [-74.1, 4.55]
       rotate: [0, 0]
-      scale: 3
+      scale: 50
       translate: [0,0]
