@@ -19,6 +19,13 @@ test_that("Resource exists",{
   # Check Topojsons OK
   ## Check they all have id and name props
 
+  mapName <- "latam_countries"
+  dm <- geodataMeta(load_data = TRUE)
+  topojsonPath <- file.path("geodata",dm$latam_countries$geoname,paste0(dm$latam_countries$basename,".topojson"))
+  topojson <- system.file(topojsonPath, package = "geodata")
+  tp <- topojson_read(topojson)
+  tpdata <- tp@data
+
   # Check all regions have proper codes
 
   dm <- geodataMeta(load_data = TRUE)
