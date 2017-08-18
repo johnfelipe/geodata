@@ -7404,7 +7404,8 @@
                 "id":"BJN",
                 "properties": {
                     "name": "Bajo Nuevo Bank (Petrel Is.)",
-                    "name_long": "Bajo Nuevo Bank (Petrel Islands)"
+                    "name_long": "Bajo Nuevo Bank (Petrel Islands)",
+                    "id": "BJN"
                 }
             }, {
                 "arcs": [
@@ -8036,14 +8037,8 @@
                 "id":"CHL",
                 "properties": {
                     "name": "Chile",
-                    "name_long": "Chile"
-                }
-            }, {
-                "type": null,
-                "id":"-99",
-                "properties": {
-                    "name": "Clipperton I.",
-                    "name_long": "Clipperton Island"
+                    "name_long": "Chile",
+                    "id":"CHL"
                 }
             }, {
                 "arcs": [
@@ -8162,7 +8157,8 @@
                 "id":"DMA",
                 "properties": {
                     "name": "Dominica",
-                    "name_long": "Dominica"
+                    "name_long": "Dominica",
+                    "id": "DMA"
                 }
             }, {
                 "arcs": [
@@ -8202,7 +8198,8 @@
                 "id":"ECU",
                 "properties": {
                     "name": "Ecuador",
-                    "name_long": "Ecuador"
+                    "name_long": "Ecuador",
+                    "id": "ECU"
                 }
             }, {
                 "arcs": [
@@ -8238,7 +8235,8 @@
                 "id":"ECU",
                 "properties": {
                     "name": "Galapagos Is.",
-                    "name_long": "Galapagos Islands"
+                    "name_long": "Galapagos Islands",
+                    "id": "ECU"
                 }
             }, {
                 "arcs": [
@@ -8274,7 +8272,8 @@
                 "id":"FLK",
                 "properties": {
                     "name": "Falkland Is.",
-                    "name_long": "Falkland Islands"
+                    "name_long": "Falkland Islands",
+                    "id": "FLK"
                 }
             }, {
                 "arcs": [
@@ -8412,7 +8411,8 @@
                 "id":"KNA",
                 "properties": {
                     "name": "St. Kitts and Nevis",
-                    "name_long": "Saint Kitts and Nevis"
+                    "name_long": "Saint Kitts and Nevis",
+                    "id": "KNA"
                 }
             }, {
                 "arcs": [
@@ -8641,7 +8641,8 @@
                 "id":"SER",
                 "properties": {
                     "name": "Serranilla Bank",
-                    "name_long": "Serranilla Bank"
+                    "name_long": "Serranilla Bank",
+                    "id": "SER"
                 }
             }, {
                 "arcs": [
@@ -8703,7 +8704,8 @@
                 "id":"TTO",
                 "properties": {
                     "name": "Trinidad",
-                    "name_long": "Trinidad"
+                    "name_long": "Trinidad",
+                    "id": "TTO"
                 }
             }, {
                 "arcs": [
@@ -8713,7 +8715,8 @@
                 "id":"TTO",
                 "properties": {
                     "name": "Tobago",
-                    "name_long": "Tobago"
+                    "name_long": "Tobago",
+                    "id": "TTO"
                 }
             }, {
                 "arcs": [
@@ -8829,7 +8832,8 @@
                 "id":"VIR",
                 "properties": {
                     "name": "U.S. Virgin Is.",
-                    "name_long": "United States Virgin Islands"
+                    "name_long": "United States Virgin Islands",
+                    "id": "VIR"
                 }
             }]
         }
