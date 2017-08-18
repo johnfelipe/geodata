@@ -1,5 +1,5 @@
 latam_countries:
-  label: América Latina
+  label: America Latina
   basename: latam-countries
   scope: subunits
   geographyName: name
@@ -8,16 +8,16 @@ latam_countries:
      equirectangular:
        center: [-70, -10]
        rotate: [0, 0]
-       scale: 0.2
+       scale: 0.22
        translate: [0,0]
      mercator:
        center: [-70, -16]
        rotate: [0, 0]
-       scale: 0.2
+       scale: 0.22
        translate: [0,0]
      orthographic:
        clipAngle: 90
-       scale: 0.2
+       scale: 0.22
        center: [0, 0]
        rotate: [70, 10]
        translate: [0,0]
@@ -29,4 +29,3 @@ latam_countries:
        tilt: 25
        clipAngle: 60
        precision: .1
-
