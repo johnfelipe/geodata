@@ -5,15 +5,27 @@ latam_countries:
   geographyName: name
   geographyId: id
   projections:
-    mercator:
-      name: mercator
-      center: [-73.5, 4.2]
-      rotate: [0, 0]
-      scale: 1.8
-      translate: [0,0]
-    equirectangular:
-      name: mercator
-      center: [-73.5, 4.2]
-      rotate: [0, 0]
-      scale: 1.8
-      translate: [0,0]
+     equirectangular:
+       center: [-70, -10]
+       rotate: [0, 0]
+       scale: 0.22
+       translate: [0,0]
+     mercator:
+       center: [-70, -16]
+       rotate: [0, 0]
+       scale: 0.22
+       translate: [0,0]
+     orthographic:
+       clipAngle: 90
+       scale: 0.22
+       center: [0, 0]
+       rotate: [70, 10]
+       translate: [0,0]
+     satellite:
+       scale: 4500
+       rotate: [76.00, -34.50, 32.12]
+       center: [-2, 5]
+       distance: 1.1
+       tilt: 25
+       clipAngle: 60
+       precision: .1
