@@ -1,7 +1,7 @@
 latam_countries:
   label: América Latina
   basename: latam-countries
-  scope: latam_countries
+  scope: region_wb_Latin_America_and_Caribbean_subunits
   geographyName: name
   geographyId: id
   projections:
