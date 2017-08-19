@@ -17,7 +17,6 @@ mex_states:
       translate: [0,0]
     albers:
       scale: 1.7
-      translate: [0, 0]
       rotate: [100, 0]
       center: [0, 25]
       parallels: [29.5, 45.5]
