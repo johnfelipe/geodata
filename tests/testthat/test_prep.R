@@ -11,6 +11,7 @@ test_that("Resource exists",{
   expect_true(setequal(folders, yamls))
 
   # All CSVs with names c("id","name","lat","lon")
+  dm <- geodataMeta(load_data = TRUE)
   incompleteCSVs <- map(dm, "codes") %>%
     map(names) %>%
     keep(~ !all(c("id","name","lat","lon") %in% .))
