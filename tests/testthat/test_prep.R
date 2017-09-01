@@ -10,8 +10,14 @@ test_that("Resource exists",{
   yamls <- file_path_sans_ext(yamls)
   expect_true(setequal(folders, yamls))
 
+  dm <- geodataMeta(load_data = FALSE, debug = FALSE)
+
+  # All codes csv's exists
+  missingCodes <-   map(dm,"codes") %>% keep(is.null) %>% names
+  missingCodes
+  expect_true(length(missingCodes) == 0)
+
   # All CSVs with names c("id","name","lat","lon")
-  dm <- geodataMeta(load_data = TRUE)
   incompleteCSVs <- map(dm, "codes") %>%
     map(names) %>%
     keep(~ !all(c("id","name","lat","lon") %in% .))
@@ -26,6 +32,7 @@ test_that("Resource exists",{
   topojson <- system.file(topojsonPath, package = "geodata")
   tp <- topojson_read(topojson)
   tpdata <- tp@data
+  expect_true(c("id","name") %in% names(tpdata))
 
   # Check all regions have proper codes
 

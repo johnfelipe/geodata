@@ -10,30 +10,49 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
   files <- list.files(dir,pattern = ".*.yaml",full.names = TRUE)
   l <- map(files,function(x){
     #x <- files[[1]]
-    if(debug) message(basename(x))
+    if(debug) message("\n--- ",basename(x))
     ll <- yaml.load_file(x)
     map(ll, function(y){
       #y <- ll[[1]]
       y$geoname = basename(file_path_sans_ext(x))
       if(!"basename" %in% names(y))
         stop("No basename in yaml: ", y)
-      if(load_data){
-        codesFilename <- system.file(file.path("geodata",y$geoname,paste0(y$basename, ".csv")),package = "geodata")
-        if(debug) message("-- codes: ",codesFilename)
-        y$codes = noWrnMsg(read_csv(codesFilename, col_types = cols(id = 'c', name='c')))
-        regionFilename <- file.path("geodata",y$geoname,paste0(y$basename, "-regions.csv"))
-        if(file.exists(system.file(regionFilename, package = "geodata"))){
-          if(debug) message("regions: ",regionFilename)
-          r <- noWrnMsg(read_csv(system.file(regionFilename, package = "geodata"), col_types = cols(id = 'c')))
-          y$regions <- r
-        }
-        altnamesFilename <- file.path("geodata",y$geoname,paste0(y$basename, "-altnames.csv"))
-        if(file.exists(system.file(altnamesFilename, package = "geodata"))){
-          if(debug) message("altnames: ", altnamesFilename)
-          r <- noWrnMsg(read_csv(system.file(altnamesFilename, package = "geodata"), col_types = cols(id = 'c')))
-          y$altnames <- r
+      codesFilename <- system.file(file.path("geodata",y$geoname,paste0(y$basename, ".csv")),package = "geodata")
+      if(debug) message("codes: ",codesFilename)
+      if(!file.exists(codesFilename)){
+        #stop("File ",codesFilename, " does not exist")
+        y$codes <- NULL
+      }else{
+        if(load_data){
+          y$codes <- noWrnMsg(read_csv(codesFilename, col_types = cols(id = 'c', name='c')))
+        }else{
+          y$codes <- codesFilename
         }
       }
+
+      regionFilename <- file.path("geodata",y$geoname,paste0(y$basename, "-regions.csv"))
+      if(file.exists(system.file(regionFilename, package = "geodata"))){
+        if(debug) message("regions: ",regionFilename)
+        if(load_data){
+          y$regions <- noWrnMsg(read_csv(system.file(regionFilename, package = "geodata"), col_types = cols(id = 'c')))
+        }else{
+          y$regions <- regionFilename
+        }
+      }else{
+        y$regiosn <- NULL
+      }
+      altnamesFilename <- file.path("geodata",y$geoname,paste0(y$basename, "-altnames.csv"))
+      if(file.exists(system.file(altnamesFilename, package = "geodata"))){
+        if(debug) message("altnames: ", altnamesFilename)
+        if(load_data){
+          y$altnames <- noWrnMsg(read_csv(system.file(altnamesFilename, package = "geodata"), col_types = cols(id = 'c')))
+        }else{
+          y$altnames <- altnamesFilename
+        }
+      }else{
+        y$altnames <- NULL
+      }
+
       y
     })
   }) %>% purrr::flatten()
