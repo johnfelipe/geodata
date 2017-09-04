@@ -1,0 +1,17 @@
+arg_provinces:
+  label: Argentina provinces
+  basename: arg-provinces
+  scope: arg_provinces
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-58.38, -34.60]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      center: [-58.38, -34.60]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
