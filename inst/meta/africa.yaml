@@ -1,0 +1,23 @@
+africa_countries:
+  label: Africa
+  basename: africa-countries
+  scope: continent_Africa_subunits
+  geographyName: name
+  geographyId: id
+  projections:
+     equirectangular:
+       center: [28, -26]
+       rotate: [0, 0]
+       scale: 0.22
+       translate: [0,0]
+     mercator:
+       center: [28, -26]
+       rotate: [0, 0]
+       scale: 0.22
+       translate: [0,0]
+     orthographic:
+       clipAngle: 90
+       scale: 0.22
+       center: [0, 0]
+       rotate: [70, 10]
+       translate: [0,0]
