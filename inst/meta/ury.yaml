@@ -1,0 +1,17 @@
+ury_departments:
+  label: Uruguay departamentos
+  basename: ury
+  scope: URY_adm1
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-56, -33]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      center: [-56, -33]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
