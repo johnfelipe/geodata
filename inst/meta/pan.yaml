@@ -1,0 +1,36 @@
+panama_provinces:
+  label: Panama provinces
+  basename: pan-provinces
+  scope: PAN_adm1
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-80, 9]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      center: [-80, 9]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+panama_districs:
+  label: Panama districs
+  basename: pan-districs
+  scope: PAN_adm2
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      name: mercator
+      center: [-80, 9]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      name: mercator
+      center: [-80, 9]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]

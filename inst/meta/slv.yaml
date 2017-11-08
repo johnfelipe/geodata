@@ -1,0 +1,36 @@
+salvador_departments:
+  label: El Salvador departaments
+  basename: slv-departments
+  scope: SLV_adm1
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-88.91, 13.83]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      center: [-88.91, 13.83]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+salvador_municipalities:
+  label: El Salvador municipalities
+  basename: slv-municipalities
+  scope: SLV_adm2
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      name: mercator
+      center: [-88.91, 13.83]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      name: mercator
+      center: [-88.91, 13.83]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
