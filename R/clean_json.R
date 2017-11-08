@@ -43,3 +43,19 @@
 #
 #
 #
+
+# json_file <- read_json('COL_adm2(1).json')
+#
+#
+# leng_json <- length(json_file$objects$COL_adm2$geometries)
+# for(i in 1:leng_json){
+#   json_file$objects$COL_adm2$geometries[[i]]$id <- json_file$objects$COL_adm2$geometries[[i]]$properties$ID_2
+#   json_file$objects$COL_adm2$geometries[[i]]$properties <- json_file$objects$COL_adm2$geometries[[i]]$properties[c('NAME_2', 'NAME_1')]
+#   names(json_file$objects$COL_adm2$geometries[[i]]$properties) <- c('name', 'depto')
+#   json_file
+# }
+#
+#
+# json_file <- rjson::toJSON(json_file)
+#
+# writeLines(json_file,'data/sp/col_munps.topojson')
