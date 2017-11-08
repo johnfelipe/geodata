@@ -15,3 +15,20 @@ peru_regions:
       rotate: [0, 0]
       scale: 1.8
       translate: [0,0]
+peru_departments:
+  label: Peru departaments
+  basename: per-departments
+  scope: PER_adm2
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-77.04, -12.04]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      center: [-77.04, -12.04]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]

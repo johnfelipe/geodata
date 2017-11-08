@@ -1,0 +1,36 @@
+guatemala_departments:
+  label: Guatemala departaments
+  basename: gtm-departments
+  scope: GTM_adm1
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-93.30, 18.22]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      center: [-93.30, 18.22]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+guatemala_municipalities:
+  label: Guatemala municipalities
+  basename: gtm-municipalities
+  scope: GTM_adm2
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      name: mercator
+      center: [-93.30, 18.22]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      name: mercator
+      center: [-93.30, 18.22]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
