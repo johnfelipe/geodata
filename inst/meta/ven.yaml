@@ -24,13 +24,13 @@ venezuela_districs:
   projections:
     mercator:
       name: mercator
-      center: [-66, 8]
+      center: [-66, 7.5]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 2
       translate: [0,0]
     equirectangular:
       name: mercator
-      center: [-66, 8]
+      center: [-66, 7.5]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 2
       translate: [0,0]

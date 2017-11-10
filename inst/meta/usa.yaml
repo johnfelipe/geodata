@@ -1,5 +1,5 @@
 usa_states:
-  label: US States
+  label: United states
   basename: usa-states
   scope: states
   geographyName: name
@@ -8,16 +8,29 @@ usa_states:
     mercator:
       center: [-102.5, 25]
       rotate: [0, 0]
-      scale: 1.7
+      scale: 0.8
       translate: [0,0]
     equirectangular:
       center: [-102.5, 25]
       rotate: [0, 0]
-      scale: 1.7
+      scale: 0.8
       translate: [0,0]
-    albers:
-      scale: 1.7
-      rotate: [100, 0]
-      center: [0, 25]
-      parallels: [29.5, 45.5]
+usa_counties:
+  label: Usa counties
+  basename: usa-counties
+  scope: USA_adm2
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      name: mercator
+      center: [-102.5, 25]
+      rotate: [0, 0]
+      scale: 1
+      translate: [0,0]
+    equirectangular:
+      name: mercator
+      center: [-102.5, 25]
+      rotate: [0, 0]
+      scale: 1
       translate: [0,0]
