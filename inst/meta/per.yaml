@@ -1,19 +1,19 @@
 peru_regions:
   label: Peru regions
-  basename: peru-regions
-  scope: peru_regiones
+  basename: per-regions
+  scope: PER_adm1
   geographyName: name
   geographyId: id
   projections:
     mercator:
-      center: [-77.04, -12.04]
+      center: [-77.04, -9.04]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 1.5
       translate: [0,0]
     equirectangular:
-      center: [-77.04, -12.04]
+      center: [-77.04, -9.04]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 1.5
       translate: [0,0]
 peru_departments:
   label: Peru departaments
@@ -23,12 +23,12 @@ peru_departments:
   geographyId: id
   projections:
     mercator:
-      center: [-77.04, -12.04]
+      center: [-77.04, -9.04]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 1.5
       translate: [0,0]
     equirectangular:
-      center: [-77.04, -12.04]
+      center: [-77.04, -9.04]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 1.5
       translate: [0,0]

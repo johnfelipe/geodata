@@ -6,12 +6,12 @@ usa_states:
   geographyId: id
   projections:
     mercator:
-      center: [-102.5, 25]
+      center: [-102.5, 45]
       rotate: [0, 0]
       scale: 0.8
       translate: [0,0]
     equirectangular:
-      center: [-102.5, 25]
+      center: [-102.5, 45]
       rotate: [0, 0]
       scale: 0.8
       translate: [0,0]
@@ -24,13 +24,13 @@ usa_counties:
   projections:
     mercator:
       name: mercator
-      center: [-102.5, 25]
+      center: [-102.5, 45]
       rotate: [0, 0]
-      scale: 1
+      scale: 0.7
       translate: [0,0]
     equirectangular:
       name: mercator
-      center: [-102.5, 25]
+      center: [-102.5, 45]
       rotate: [0, 0]
-      scale: 1
+      scale: 0.7
       translate: [0,0]

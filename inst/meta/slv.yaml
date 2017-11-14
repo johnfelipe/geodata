@@ -8,12 +8,12 @@ salvador_departments:
     mercator:
       center: [-88.91, 13.83]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 13
       translate: [0,0]
     equirectangular:
       center: [-88.91, 13.83]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 13
       translate: [0,0]
 salvador_municipalities:
   label: El Salvador municipalities
@@ -26,11 +26,11 @@ salvador_municipalities:
       name: mercator
       center: [-88.91, 13.83]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 13
       translate: [0,0]
     equirectangular:
       name: mercator
       center: [-88.91, 13.83]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 13
       translate: [0,0]

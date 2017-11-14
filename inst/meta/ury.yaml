@@ -8,10 +8,10 @@ ury_departments:
     mercator:
       center: [-56, -33]
       rotate: [0, 0]
-      scale: 0.5
+      scale: 4.5
       translate: [0,0]
     equirectangular:
       center: [-56, -33]
       rotate: [0, 0]
-      scale: 0.5
+      scale: 4.5
       translate: [0,0]
