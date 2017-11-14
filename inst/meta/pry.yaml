@@ -1,36 +1,36 @@
-nic_departments:
-  label: Nicaragua departaments
-  basename: nic-departments
-  scope: NIC_adm1
+pry_districs:
+  label: Paraguay districs
+  basename: pry-districs
+  scope: PRY_adm1
   geographyName: name
   geographyId: id
   projections:
     mercator:
-      center: [-85, 13]
+      center: [-57.63, -22.3]
       rotate: [0, 0]
-      scale: 5.5
+      scale: 2.5
       translate: [0,0]
     equirectangular:
-      center: [-85, 13]
+      center: [-57.63, -22.3]
       rotate: [0, 0]
-      scale: 5.5
+      scale: 2.5
       translate: [0,0]
-nic_municipalities:
-  label: Nicaragua municipalities
-  basename: nic-municipalities
-  scope: NIC_adm2
+pry_departments:
+  label: paraguay departments
+  basename: pry-departments
+  scope: PRY_adm2
   geographyName: name
   geographyId: id
   projections:
     mercator:
       name: mercator
-      center: [-85, 13]
+      center: [-57.63, -22.3]
       rotate: [0, 0]
-      scale: 5.5
+      scale: 2.5
       translate: [0,0]
     equirectangular:
       name: mercator
-      center: [-85, 13]
+      center: [-57.63, -22.3]
       rotate: [0, 0]
-      scale: 5.5
+      scale: 2.5
       translate: [0,0]

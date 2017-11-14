@@ -1,34 +1,35 @@
-per_regions:
-  label: Peru regions
-  basename: per-regions
-  scope: PER_adm1
+sur_districs:
+  label: Suriname districs
+  basename: sur-districs
+  scope: SUR_adm1
   geographyName: name
   geographyId: id
   projections:
     mercator:
-      center: [-77.04, -9.04]
+      center: [-56, 4]
       rotate: [0, 0]
-      scale: 1.5
+      scale: 3.3
       translate: [0,0]
     equirectangular:
-      center: [-77.04, -9.04]
+      center: [-56, -4]
       rotate: [0, 0]
-      scale: 1.5
+      scale: 3.3
       translate: [0,0]
-per_departments:
-  label: Peru departaments
-  basename: per-departments
-  scope: PER_adm2
+sur_located:
+  label: Suriname located
+  basename: sur-located
+  scope: SUR_adm2
   geographyName: name
   geographyId: id
   projections:
     mercator:
-      center: [-77.04, -9.04]
+      center: [-56, 4]
       rotate: [0, 0]
-      scale: 1.5
+      scale: 3.3
       translate: [0,0]
     equirectangular:
-      center: [-77.04, -9.04]
+      center: [-56, 4]
       rotate: [0, 0]
-      scale: 1.5
+      scale: 3.3
       translate: [0,0]
+
