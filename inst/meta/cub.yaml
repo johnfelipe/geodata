@@ -8,12 +8,12 @@ cub_regions:
     mercator:
       center: [-80, 21.5]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 3
       translate: [0,0]
     equirectangular:
       center: [-80, 21.5]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 3
       translate: [0,0]
 cub_municipalities:
   label: Cuba municipalities
@@ -26,11 +26,11 @@ cub_municipalities:
       name: mercator
       center: [-80, 21.5]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 3
       translate: [0,0]
     equirectangular:
       name: mercator
       center: [-80, 21.5]
       rotate: [0, 0]
-      scale: 1.8
+      scale: 3
       translate: [0,0]

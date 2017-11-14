@@ -1,36 +1,36 @@
-slv_departments:
-  label: El Salvador departaments
-  basename: slv-departments
-  scope: SLV_adm1
+guy_regions:
+  label: Guyana regions
+  basename: guy-regions
+  scope: GUY_adm1
   geographyName: name
   geographyId: id
   projections:
     mercator:
-      center: [-88.91, 13.83]
+      center: [-59, 5]
       rotate: [0, 0]
-      scale: 13
+      scale: 3.5
       translate: [0,0]
     equirectangular:
-      center: [-88.91, 13.83]
+      center: [-59, 5]
       rotate: [0, 0]
-      scale: 13
+      scale: 3.5
       translate: [0,0]
-slv_municipalities:
-  label: El Salvador municipalities
-  basename: slv-municipalities
-  scope: SLV_adm2
+guy_village:
+  label: Guyana village
+  basename: guy-village
+  scope: GUY_adm2
   geographyName: name
   geographyId: id
   projections:
     mercator:
       name: mercator
-      center: [-88.91, 13.83]
+      center: [-59, 5]
       rotate: [0, 0]
-      scale: 13
+      scale: 3.5
       translate: [0,0]
     equirectangular:
       name: mercator
-      center: [-88.91, 13.83]
+      center: [-59, 5]
       rotate: [0, 0]
-      scale: 13
+      scale: 3.5
       translate: [0,0]

@@ -1,4 +1,4 @@
-guatemala_departments:
+gtm_departments:
   label: Guatemala departaments
   basename: gtm-departments
   scope: GTM_adm1
@@ -15,7 +15,7 @@ guatemala_departments:
       rotate: [0, 0]
       scale: 5.5
       translate: [0,0]
-guatemala_municipalities:
+gtm_municipalities:
   label: Guatemala municipalities
   basename: gtm-municipalities
   scope: GTM_adm2

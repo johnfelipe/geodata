@@ -1,34 +1,34 @@
-cri_provinces:
-  label: Costa rica provinces
-  basename: cri-provinces
-  scope: CRI_adm1
+bol_provinces:
+  label: Bolivia provinces
+  basename: bol-provinces
+  scope: BOL_adm2
   geographyName: name
   geographyId: id
   projections:
     mercator:
-      center: [-84.08, 9.93]
+      center: [-65, -17]
       rotate: [0, 0]
-      scale: 6.8
+      scale: 3.2
       translate: [0,0]
     equirectangular:
-      center: [-84.08, 9.93]
+      center: [-65, -17]
       rotate: [0, 0]
-      scale: 6.8
+      scale: 3.2
       translate: [0,0]
-cri_cantons:
-  label: Costa rica cantons
-  basename: cri-cantons
-  scope: CRI_adm2
+bol_departments:
+  label: Bolivia departments
+  basename: bol-departments
+  scope: BOL_adm1
   geographyName: name
   geographyId: id
   projections:
     mercator:
-      center: [-84.08, 9.93]
+      center: [-65, -17]
       rotate: [0, 0]
-      scale: 6.8
+      scale: 3.2
       translate: [0,0]
     equirectangular:
-      center: [-84.08, 9.93]
+      center: [-65, -17]
       rotate: [0, 0]
-      scale: 6.8
+      scale: 3.2
       translate: [0,0]

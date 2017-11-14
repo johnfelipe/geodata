@@ -1,7 +1,7 @@
 bra_states:
   label: Brazil states
   basename: bra-states
-  scope: states
+  scope: BRA_adm1
   geographyName: name
   geographyId: id
   projections:
@@ -15,4 +15,20 @@ bra_states:
       rotate: [0, 0]
       scale: 1.75
       translate: [0,0]
-
+bra_municipalities:
+  label: Brazil municipalities
+  basename: bra-municipalities
+  scope: BRA_adm2
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-55, -12]
+      rotate: [0, 0]
+      scale: 0.8
+      translate: [0,0]
+    equirectangular:
+      center: [-55, -12]
+      rotate: [0, 0]
+      scale: 1.75
+      translate: [0,0]

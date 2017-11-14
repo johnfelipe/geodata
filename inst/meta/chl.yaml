@@ -1,7 +1,24 @@
 chl_provinces:
   label: Chile provinces
-  basename: chile-provinces
-  scope: chile_province
+  basename: chl-provinces
+  scope: CHL_adm2
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-70.64, -33.45]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      center: [-70.64, -33.45]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+chl_regions:
+  label: Chile regions
+  basename: chl-regions
+  scope: CHL_adm1
   geographyName: name
   geographyId: id
   projections:
