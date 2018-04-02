@@ -1,0 +1,17 @@
+tto_regions:
+  label: Trinidad and Tobago regions
+  basename: tto-regions
+  scope: TTO_adm1
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-61.311951, 10.536421]
+      rotate: [0, 0]
+      scale: 0.8
+      translate: [0,0]
+    equirectangular:
+      center: [-61.311951, 10.536421]
+      rotate: [0, 0]
+      scale: 1.75
+      translate: [0,0]
