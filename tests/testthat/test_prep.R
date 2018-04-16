@@ -17,26 +17,29 @@ test_that("Resource exists",{
   missingCodes
   expect_true(length(missingCodes) == 0)
 
+  dm <- geodataMeta(load_data = TRUE)
+
+  # Check Topojsons OK
+  ## Check they all have id and name props
+
+  mapName <- "latam_countries"
+  topojsonPath <- file.path("geodata",dm$latam_countries$geoname,paste0(dm$latam_countries$basename,".topojson"))
+  topojson <- system.file(topojsonPath, package = "geodata")
+  tp <- topojson_read(topojson)
+  tpdata <- tp@data
+  expect_true(all(c("id","name") %in% names(tpdata)))
+
+
+  dm <- geodataMeta(load_data = TRUE)
+
   # All CSVs with names c("id","name","lat","lon")
   incompleteCSVs <- map(dm, "codes") %>%
     map(names) %>%
     keep(~ !all(c("id","name","lat","lon") %in% .))
   expect_true(length(incompleteCSVs) == 0)
 
-  # Check Topojsons OK
-  ## Check they all have id and name props
-
-  mapName <- "latam_countries"
-  dm <- geodataMeta(load_data = TRUE)
-  topojsonPath <- file.path("geodata",dm$latam_countries$geoname,paste0(dm$latam_countries$basename,".topojson"))
-  topojson <- system.file(topojsonPath, package = "geodata")
-  tp <- topojson_read(topojson)
-  tpdata <- tp@data
-  expect_true(c("id","name") %in% names(tpdata))
 
   # Check all regions have proper codes
-
-  dm <- geodataMeta(load_data = TRUE)
   dmWithRegions <- dm %>% keep(~!is.null(.$regions))
   dmReg <- dmWithRegions %>% map("regions")
 
