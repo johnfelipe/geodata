@@ -63,6 +63,30 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
 }
 
 #' @export
+geodataCodes <- function(mapName = NULL, load_data = FALSE){
+  dm <- geodataMeta(mapName, load_data = load_data)
+  dm$codes
+}
+
+#' @export
+geodataAltnames <- function(mapName = NULL, load_data = FALSE){
+  dm <- geodataMeta(mapName, load_data = load_data)
+  dm$altnames
+}
+
+#' @export
+geodataPolygon <- function(mapName = NULL){
+  dm <- geodataMeta(mapName, load_data = load_data)
+  path <- file.path("geodata", dm$geoname, paste0(dm$basename,".topojson"))
+  dm$centroides <- file.path("geodata", dm$geoname, paste0(dm$basename, ".csv"))
+  tj <- topojson_read(system.file(path, package = "geodata"))
+  data_map <- ggplot2::fortify(tj) %>% mutate(.id = as.numeric(id)) %>%
+    select(-id)
+  data_info <- tj@data %>% mutate(.id = 0:(nrow(.) - 1))
+  left_join(data_map, data_info)
+}
+
+#' @export
 geodataProjections <- function(mapName){
   l <- geodataMeta(mapName)
   names(l$projections)
