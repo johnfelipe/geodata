@@ -8,11 +8,11 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
   if(!is.null(mapName)) load_data <- TRUE
   dir <- system.file("meta",package="geodata", mustWork=TRUE)
   files <- list.files(dir,pattern = ".*.yaml",full.names = TRUE)
-  l <- map(files,function(x){
+  l <- purrr::map(files,function(x){
     #x <- files[[1]]
     if(debug) message("\n--- ",basename(x))
     ll <- yaml.load_file(x)
-    map(ll, function(y){
+    purrr::map(ll, function(y){
       #y <- ll[[1]]
       y$geoname = basename(file_path_sans_ext(x))
       if(!"basename" %in% names(y))

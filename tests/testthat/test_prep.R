@@ -13,7 +13,7 @@ test_that("Resource exists",{
   dm <- geodataMeta(load_data = FALSE, debug = FALSE)
 
   # All codes csv's exists
-  missingCodes <-   map(dm,"codes") %>% keep(is.null) %>% names
+  missingCodes <-   purrr::map(dm,"codes") %>% keep(is.null) %>% names
   missingCodes
   expect_true(length(missingCodes) == 0)
 
@@ -33,31 +33,31 @@ test_that("Resource exists",{
   dm <- geodataMeta(load_data = TRUE)
 
   # All CSVs with names c("id","name","lat","lon")
-  incompleteCSVs <- map(dm, "codes") %>%
-    map(names) %>%
+  incompleteCSVs <- purrr::map(dm, "codes") %>%
+    purrr::map(names) %>%
     keep(~ !all(c("id","name","lat","lon") %in% .))
   expect_true(length(incompleteCSVs) == 0)
 
 
   # Check all regions have proper codes
   dmWithRegions <- dm %>% keep(~!is.null(.$regions))
-  dmReg <- dmWithRegions %>% map("regions")
+  dmReg <- dmWithRegions %>% purrr::map("regions")
 
 
   # all codes have names: id, name, lat, lon
-  expect_equal(map(dm, "codes") %>% map(names) %>% reduce(intersect),
+  expect_equal(purrr::map(dm, "codes") %>% purrr::map(names) %>% reduce(intersect),
                c("id","name","lat","lon"))
 
   # all regions have names: region, id
-  expect_equal(map(dmReg, names) %>% reduce(intersect),
+  expect_equal(purrr::map(dmReg, names) %>% reduce(intersect),
                 c("region","id"))
 
-  dmRegIdsNoCodes <- dmWithRegions %>% map(function(dm){
+  dmRegIdsNoCodes <- dmWithRegions %>% purrr::map(function(dm){
     df_regions <- dm$regions
     df_regions %>% filter(!id %in% dm$codes$id)
   })
 
-  whichRegionsWithWrongCode <- dmRegIdsNoCodes %>% keep(~nrow(.) != 0) %>% map(~ unique(.$region))
+  whichRegionsWithWrongCode <- dmRegIdsNoCodes %>% keep(~nrow(.) != 0) %>% purrr::map(~ unique(.$region))
   nms <- unlist(whichRegionsWithWrongCode)
   dmRegIdsNoCodes
   message("Regions with wrong code", paste(names(nms), nms))
