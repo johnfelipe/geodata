@@ -1,0 +1,17 @@
+europa_countries:
+  label: Europa
+  basename: europa-countries
+  scope: continent_Europe_subunits
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [47.5, 14.5]
+      rotate: [0, 0]
+      scale: 0.7
+      translate: [0,0]
+    equirectangular:
+      center: [47.5, 14.5]
+      rotate: [0, 0]
+      scale: 0.7
+      translate: [0,0]

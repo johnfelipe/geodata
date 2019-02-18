@@ -1,0 +1,17 @@
+asia_countries:
+  label: Asia countries
+  basename: asia-countries
+  scope: asia_countries
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-59.38, -34.60]
+      rotate: [0, 0]
+      scale: 0.8
+      translate: [0,0]
+    equirectangular:
+      center: [-59.38, -34.60]
+      rotate: [0, 0]
+      scale: 0.8
+      translate: [0,0]
