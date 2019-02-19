@@ -1,0 +1,17 @@
+south_america_countries:
+  label: South America
+  basename: south-america-countries
+  scope: continent_South_America_subunits
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-35.4583, -62.8833]
+      rotate: [0, 0]
+      scale: 0.7
+      translate: [0,0]
+    equirectangular:
+      center: [-35.4583, -62.8833]
+      rotate: [0, 0]
+      scale: 0.7
+      translate: [0,0]

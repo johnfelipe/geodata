@@ -1,0 +1,17 @@
+north_america_countries:
+  label: North America
+  basename: north-america-countries
+  scope: continent_North_America_subunits
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [20, -70]
+      rotate: [0, 0]
+      scale: 0.7
+      translate: [0,0]
+    equirectangular:
+      center: [20, -70]
+      rotate: [0, 0]
+      scale: 0.7
+      translate: [0,0]
