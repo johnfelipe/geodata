@@ -80,8 +80,8 @@ geodataPolygon <- function(mapName = NULL){
   path <- file.path("geodata", dm$geoname, paste0(dm$basename,".topojson"))
   dm$centroides <- file.path("geodata", dm$geoname, paste0(dm$basename, ".csv"))
   tj <- topojson_read(system.file(path, package = "geodata"))
-  data_map <- ggplot2::fortify(tj) %>% mutate(.id = as.numeric(id)) %>%
-    select(-id)
+  data_map <- ggplot2::fortify(tj) %>% dplyr::mutate(.id = as.numeric(id)) %>%
+    dplyr::select(-id)
   data_info <- tj@data %>% mutate(.id = 0:(nrow(.) - 1))
   left_join(data_map, data_info)
 }
