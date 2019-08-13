@@ -1,7 +1,7 @@
-africa_countries:
-  label: Africa
-  basename: africa-countries
-  scope: continent_Africa_subunits
+oceania_countries:
+  label: Oceania
+  basename: oceania_countries
+  scope: continent_Oceania_subunits
   geographyName: name
   geographyId: id
   projections:

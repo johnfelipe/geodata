@@ -63,19 +63,17 @@ Asia,BHR
 Asia,BRN
 Asia,BTN
 Asia,CHN
-Asia,-99
+Asia,RUS
 Asia,CYP
 Asia,GEO
 Asia,HKG
 Asia,IDN
 Asia,IND
-Asia,-99
 Asia,IRN
 Asia,IRQ
 Asia,ISR
 Asia,JOR
 Asia,JPN
-Asia,-99
 Asia,KAZ
 Asia,KGZ
 Asia,KHM
@@ -196,7 +194,6 @@ North America,VCT
 North America,VGB
 North America,VIR
 Oceania,ASM
-Oceania,-99
 Oceania,AUS
 Oceania,COK
 Oceania,FJI
