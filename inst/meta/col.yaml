@@ -19,6 +19,9 @@ col_municipalities:
   label: Colombia municipalities
   basename: col-adm2-municipalities
   codes: col-divipola-municipios-dane-2017-06-30.csv
+  codes_source: DANE 
+  codes_name_col: municipality
+  codes_name_col_top_adm: department
   scope: mpio
   geographyName: NOMBRE_MPI
   geographyId: id

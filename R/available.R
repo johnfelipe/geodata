@@ -9,7 +9,7 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
   dir <- system.file("meta",package="geodata", mustWork=TRUE)
   files <- list.files(dir,pattern = ".*.yaml",full.names = TRUE)
   l <- purrr::map(files,function(x){
-    #x <- files[[1]]
+    #x <- files[[11]]
     if(debug) message("\n--- ",basename(x))
     ll <- yaml.load_file(x)
     purrr::map(ll, function(y){
@@ -24,7 +24,8 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
         y$codes <- NULL
       }else{
         if(load_data){
-          y$codes <- noWrnMsg(read_csv(codesFilename, col_types = cols(id = 'c', name='c')))
+          y$codes <- noWrnMsg(readr::read_csv(codesFilename,
+                                              col_types = readr::cols(id = 'c', name='c')))
         }else{
           y$codes <- codesFilename
         }
@@ -34,7 +35,8 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
       if(file.exists(system.file(regionFilename, package = "geodata"))){
         if(debug) message("regions: ",regionFilename)
         if(load_data){
-          y$regions <- noWrnMsg(read_csv(system.file(regionFilename, package = "geodata"), col_types = cols(id = 'c')))
+          y$regions <- noWrnMsg(readr::read_csv(system.file(regionFilename, package = "geodata"),
+                                                col_types = readr::cols(id = 'c')))
         }else{
           y$regions <- regionFilename
         }
@@ -45,7 +47,8 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
       if(file.exists(system.file(altnamesFilename, package = "geodata"))){
         if(debug) message("altnames: ", altnamesFilename)
         if(load_data){
-          y$altnames <- noWrnMsg(read_csv(system.file(altnamesFilename, package = "geodata"), col_types = cols(id = 'c')))
+          y$altnames <- noWrnMsg(readr::read_csv(system.file(altnamesFilename, package = "geodata"),
+                                                 col_types = readr::cols(id = 'c')))
         }else{
           y$altnames <- altnamesFilename
         }
