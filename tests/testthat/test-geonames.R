@@ -14,7 +14,7 @@ test_that("multiplication works", {
   # geocode(d, mapName = "col_municipalities")
 
 
-  d <- data.frame(country = c("Cabo verde", "Congo (Kinshasa)", "Eswatini","Holy See"))
+  d <- data.frame(country = c("Cabo verde", "Congo (Kinshasa)","Congo (Brazzaville)", "Eswatini","Holy See"))
   geocode(d, mapName = "world_countries")
 
 })
