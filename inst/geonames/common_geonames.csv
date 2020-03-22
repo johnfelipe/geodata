@@ -4,5 +4,6 @@ depto,col_departments
 ciudad,col_municipalities
 municipio,col_municipalities
 muni,col_municipalities
-country,world
-pais,world
+country,world_countries
+pais,world_countries
+

@@ -55,7 +55,7 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
       }else{
         y$altnames <- NULL
       }
-
+      y$codes_name_col <- y$codes_name_col %||% "name"
       y
     })
   }) %>% purrr::flatten()
