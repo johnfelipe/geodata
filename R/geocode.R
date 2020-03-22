@@ -35,7 +35,7 @@ complete_geoid <- function(d, name_col, codes, codes_col, alt_names){
 }
 
 clean_string <- function(x){
-  trim_punct(remove_accents(tolower()))
+  trim_punct(remove_accents(tolower(x)))
 }
 
 
