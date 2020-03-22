@@ -4,6 +4,17 @@ noWrnMsg <- function(x){
   suppressWarnings(suppressMessages(x))
 }
 
+
+remove_accents <- function (string){
+  accents <- "àèìòùÀÈÌÒÙáéíóúýÁÉÍÓÚÝäëïöüÄËÏÖÜâêîôûÂÊÎÔÛñÑç"
+  translation <- "aeiouAEIOUaeiouyAEIOUYaeiouAEIOUaeiouAEIOUnNc"
+  chartr(accents, translation, string)
+}
+
+trim_punct <- function(x){
+  gsub("[[:punct:]]", "", x)
+}
+
 match_replace <- function (v, dic, na = NA, force = TRUE){
   matches <- dic[[2]][match(v, dic[[1]])]
   out <- matches

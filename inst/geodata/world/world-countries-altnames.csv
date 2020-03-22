@@ -193,6 +193,7 @@ CHN,People's Republic of China
 CHN,CN
 CHN,CHN
 CIV,Ivory Coast
+CIV,﻿Cote d'Ivoire
 CIV,Côte d'Ivoire
 CIV,I.C.
 CIV,Republic of Ivory Coast
@@ -205,6 +206,7 @@ CMR,Republic of Cameroon
 CMR,CM
 CMR,CMR
 COD,Democratic Republic of the Congo
+COD,﻿Congo (Kinshasa)
 COD,Dem. Rep. Congo
 COD,D.R.C.
 COD,"Congo, Dem. Rep."
@@ -212,6 +214,7 @@ COD,CD
 COD,COD
 COG,Republic of Congo
 COG,Congo
+COG,﻿Congo (Brazzaville)
 COG,Rep. Congo
 COG,"Congo, Rep."
 COG,CG
@@ -231,6 +234,7 @@ COM,Union of the Comoros
 COM,KM
 COM,COM
 CPV,Cape Verde
+CPV,﻿Cabo Verde
 CPV,C.Vd.
 CPV,Republic of Cape Verde
 CPV,CV
@@ -259,6 +263,7 @@ CYP,Republic of Cyprus
 CYP,CY
 CYP,CYP
 CZE,Czech Republic
+CZE,﻿Czechia
 CZE,Czech Rep.
 CZE,Cz. Rep.
 CZE,CZ
@@ -558,6 +563,7 @@ KNA,Federation of Saint Kitts and Nevis
 KNA,KN
 KNA,KNA
 KOR,South Korea
+KOR,"﻿Korea, South"
 KOR,Korea
 KOR,Republic of Korea
 KOR,S.K.
@@ -661,6 +667,7 @@ MDV,Mald.
 MDV,Republic of Maldives
 MDV,MV
 MDV,MDV
+MKD,North Macedonia
 MEX,Mexico
 MEX,Mex.
 MEX,United Mexican States
@@ -736,7 +743,7 @@ MYS,MYS
 NAM,Namibia
 NAM,Nam.
 NAM,Republic of Namibia
-NAM,"NA"
+NAM,NA
 NAM,NAM
 NCL,New Caledonia
 NCL,New C.
@@ -879,6 +886,7 @@ RWA,Rwa.
 RWA,Republic of Rwanda
 RWA,RW
 RWA,RWA
+RKS,Kosovo
 SAU,Saudi Arabia
 SAU,Saud.
 SAU,Kingdom of Saudi Arabia
@@ -977,6 +985,7 @@ SWE,Kingdom of Sweden
 SWE,SE
 SWE,SWE
 SWZ,Swaziland
+SWZ,﻿Eswatini
 SWZ,Swz.
 SWZ,Kingdom of Swaziland
 SWZ,SZ
@@ -1083,6 +1092,7 @@ UZB,Republic of Uzbekistan
 UZB,UZ
 UZB,UZB
 VAT,Vatican
+VAT,﻿Holy See
 VAT,Vat.
 VAT,State of the Vatican City
 VAT,Vatican (Holy Sea)

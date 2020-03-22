@@ -29,12 +29,14 @@ complete_geoid <- function(d, name_col, codes, codes_col, alt_names){
     dplyr::bind_rows(alt_names) %>%
     purrr::set_names(c("id", "..name")) %>%
     dplyr::filter(!is.na(id)) %>%
-    dplyr::mutate(..name = tolower(..name)) %>%
+    dplyr::mutate(..name = clean_string(..name)) %>%
     dplyr::select(2,1)
-  data.frame(id = match_replace(tolower(d[[name_col]]), cods), stringsAsFactors = FALSE)
+  data.frame(id = match_replace(clean_string(d[[name_col]]), cods), stringsAsFactors = FALSE)
 }
 
-
+clean_string <- function(x){
+  trim_punct(remove_accents(tolower()))
+}
 
 
 
