@@ -41,7 +41,7 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
           y$regions <- regionFilename
         }
       }else{
-        y$regiosn <- NULL
+        y$regions <- NULL
       }
       altnamesFilename <- file.path("geodata",y$geoname,paste0(y$basename, "-altnames.csv"))
       if(file.exists(system.file(altnamesFilename, package = "geodata"))){
