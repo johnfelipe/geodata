@@ -12,20 +12,68 @@ test_that("Resource exists",{
 
   dm <- geodataMeta(load_data = FALSE, debug = FALSE)
 
-  # All codes csv's exists
+  # Check yaml files
+
+  ## Define example yaml file with necessary information
+  yaml_template <- yaml.load_file(system.file(file.path("tests", "meta_test.yaml") ,package="geodata"))
+  yaml_template_attributes <- names(yaml_template$test_map_name)
+  yaml_template_projections <- names(yaml_template$test_map_name$projections)
+  yaml_template_projections_mercator <- names(yaml_template$test_map_name$projections$mercator)
+  yaml_template_projections_equirectangular <- names(yaml_template$test_map_name$projections$equirectangular)
+
+  ## Load in all yaml files
+  yaml_files <- list.files(system.file("meta",package="geodata"),pattern = ".*.yaml")
+  yaml_elements <- yaml_files %>% purrr::map(function(yaml){
+    yaml <- yaml.load_file(system.file(file.path("meta", yaml) ,package="geodata"))
+    yaml[[1]]
+  })
+
+  ## All attributes exist
+  attributes <- yaml_elements %>% purrr::map(names) %>% purrr::reduce(intersect)
+  expect_equal(attributes,
+               yaml_template_attributes)
+
+  ## All have mercator and equirectangular projections
+  projections <- yaml_elements %>% purrr::map("projections") %>% purrr::map(names) %>% purrr::reduce(intersect)
+  expect_equal(projections,
+               yaml_template_projections)
+
+  ## All mercator projections are complete
+  projections_info_mercator <- yaml_elements %>% purrr::map("projections") %>% purrr::map("mercator") %>% purrr::map(names) %>% purrr::reduce(intersect)
+  expect_equal(projections_info_mercator,
+               yaml_template_projections_mercator)
+
+  ## All equirectangular projections are complete
+  projections_info_equirectangular <- yaml_elements %>% purrr::map("projections") %>% purrr::map("mercator") %>% purrr::map(names) %>% purrr::reduce(intersect)
+  expect_equal(projections_info_equirectangular,
+               yaml_template_projections_mercator)
+
+  # Check code CSV files
+
+  ## All codes CSF files exists
   missingCodes <- purrr::map(dm,"codes") %>% purrr::keep(is.null) %>% names
   missingCodes
   expect_true(length(missingCodes) == 0)
 
+
+  # Check Topojsons
+
+  ## All topojson files exist
+  missingTopojson <- dm %>% purrr::map(function(dm){
+      topojsonPath <- file.path("geodata",dm$geoname,paste0(dm$basename,".topojson"))
+      topojsonFile <- system.file(topojsonPath, package = "geodata")
+      topojson_exists <- file.exists(topojsonFile)
+    }) %>% purrr::keep(isFALSE)
+  expect_true(length(missingTopojson) == 0)
+
   dm <- geodataMeta(load_data = TRUE)
 
-  # Check Topojsons OK
   ## Check they all have id and name props
 
   tpdata <- dm %>% purrr::map(function(dm){
     topojsonPath <- file.path("geodata",dm$geoname,paste0(dm$basename,".topojson"))
     topojson <- system.file(topojsonPath, package = "geodata")
-    tp <- topojson_read(topojson)
+    tp <- topojson_read(topojson, quiet = TRUE)
     tp_s4 <- sf::as_Spatial(tp)
     tpdata <- tp_s4@data
     tpdata
