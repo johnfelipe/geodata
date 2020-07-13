@@ -22,13 +22,16 @@ test_that("Resource exists",{
   # Check Topojsons OK
   ## Check they all have id and name props
 
-  mapName <- "latam_countries"
-  topojsonPath <- file.path("geodata",dm$latam_countries$geoname,paste0(dm$latam_countries$basename,".topojson"))
-  topojson <- system.file(topojsonPath, package = "geodata")
-  tp <- topojson_read(topojson)
-  tp_s4 <- sf::as_Spatial(tp)
-  tpdata <- tp_s4@data
-  expect_true(all(c("id","name") %in% names(tpdata)))
+  tpdata <- dm %>% purrr::map(function(dm){
+    topojsonPath <- file.path("geodata",dm$geoname,paste0(dm$basename,".topojson"))
+    topojson <- system.file(topojsonPath, package = "geodata")
+    tp <- topojson_read(topojson)
+    tp_s4 <- sf::as_Spatial(tp)
+    tpdata <- tp_s4@data
+    tpdata
+  })
+  tpdata_names <- tpdata[names(tpdata) != "col_municipalities"] %>% purrr::map(names) %>% purrr::reduce(intersect)
+  expect_equal(tpdata_names, c("id","name"))
 
 
   dm <- geodataMeta(load_data = TRUE)
