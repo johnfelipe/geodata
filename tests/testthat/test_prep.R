@@ -13,7 +13,7 @@ test_that("Resource exists",{
   dm <- geodataMeta(load_data = FALSE, debug = FALSE)
 
   # All codes csv's exists
-  missingCodes <-   purrr::map(dm,"codes") %>% keep(is.null) %>% names
+  missingCodes <- purrr::map(dm,"codes") %>% purrr::keep(is.null) %>% names
   missingCodes
   expect_true(length(missingCodes) == 0)
 
@@ -26,7 +26,8 @@ test_that("Resource exists",{
   topojsonPath <- file.path("geodata",dm$latam_countries$geoname,paste0(dm$latam_countries$basename,".topojson"))
   topojson <- system.file(topojsonPath, package = "geodata")
   tp <- topojson_read(topojson)
-  tpdata <- tp@data
+  tp_s4 <- sf::as_Spatial(tp)
+  tpdata <- tp_s4@data
   expect_true(all(c("id","name") %in% names(tpdata)))
 
 
@@ -35,29 +36,28 @@ test_that("Resource exists",{
   # All CSVs with names c("id","name","lat","lon")
   incompleteCSVs <- purrr::map(dm, "codes") %>%
     purrr::map(names) %>%
-    keep(~ !all(c("id","name","lat","lon") %in% .))
+    purrr::keep(~ !all(c("id","name","lat","lon") %in% .))
   expect_true(length(incompleteCSVs) == 0)
 
 
-  # Check all regions have proper codes
-  dmWithRegions <- dm %>% keep(~!is.null(.$regions))
-  dmReg <- dmWithRegions %>% purrr::map("regions")
-
-
-  # all codes have names: id, name, lat, lon
-  expect_equal(purrr::map(dm, "codes") %>% purrr::map(names) %>% reduce(intersect),
+  # Check all codes have names: id, name, lat, lon
+  expect_equal(purrr::map(dm, "codes") %>% purrr::map(names) %>% purrr::reduce(intersect),
                c("id","name","lat","lon"))
 
+  # Check all regions have proper codes
+  dmWithRegions <- dm %>% purrr::keep(~!is.null(.$regions))
+  dmReg <- dmWithRegions %>% purrr::map("regions")
+
   # all regions have names: region, id
-  expect_equal(purrr::map(dmReg, names) %>% reduce(intersect),
+  expect_equal(purrr::map(dmReg, names) %>% purrr::reduce(intersect),
                 c("region","id"))
 
   dmRegIdsNoCodes <- dmWithRegions %>% purrr::map(function(dm){
     df_regions <- dm$regions
-    df_regions %>% filter(!id %in% dm$codes$id)
+    df_regions %>% dplyr::filter(!id %in% dm$codes$id)
   })
 
-  whichRegionsWithWrongCode <- dmRegIdsNoCodes %>% keep(~nrow(.) != 0) %>% purrr::map(~ unique(.$region))
+  whichRegionsWithWrongCode <- dmRegIdsNoCodes %>% purrr::keep(~nrow(.) != 0) %>% purrr::map(~ unique(.$region))
   nms <- unlist(whichRegionsWithWrongCode)
   dmRegIdsNoCodes
   message("Regions with wrong code", paste(names(nms), nms))
@@ -78,10 +78,10 @@ test_that("geodataMeta loads properly",{
 
   # All topojson exist
   expect_true(
-    all(map_lgl(availableGeodata(), ~file.exists(geodataTopojsonPath(.))))
+    all(purrr::map_lgl(availableGeodata(), ~file.exists(geodataTopojsonPath(.))))
     )
   expect_true(
-    all(map_lgl(availableGeodata(), ~file.exists(geodataCsvPath(.))))
+    all(purrr::map_lgl(availableGeodata(), ~file.exists(geodataCsvPath(.))))
   )
 
 })
