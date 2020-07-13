@@ -1,18 +1,22 @@
-context("Resources")
+
+context("folders")
 
 
-test_that("Resource exists",{
-
-  # Check folder and yaml structure
+test_that("All folders and files exist",{
 
   folders <- list.files(system.file("geodata",package = "geodata"))
   yamls <- list.files(system.file("meta",package = "geodata"))
   yamls <- file_path_sans_ext(yamls)
   expect_true(setequal(folders, yamls))
 
-  dm <- geodataMeta(load_data = FALSE, debug = FALSE)
+})
 
-  # Check yaml files
+
+
+context("yaml")
+
+
+test_that("yaml files have correct structure",{
 
   ## Define example yaml file with necessary information
   yaml_template <- yaml.load_file(system.file(file.path("tests", "meta_test.yaml") ,package="geodata"))
@@ -48,28 +52,29 @@ test_that("Resource exists",{
   expect_equal(projections_info_equirectangular,
                yaml_template_projections_mercator)
 
-  # Check code CSV files
-
-  ## All codes CSF files exists
-  missingCodes <- purrr::map(dm,"codes") %>% purrr::keep(is.null) %>% names
-  missingCodes
-  expect_true(length(missingCodes) == 0)
+})
 
 
-  # Check Topojsons
+
+context("toposjon")
+
+
+test_that("good topojson",{
+  # TODO Test that topojson have scope
+
+  dm <- geodataMeta(load_data = FALSE, debug = FALSE)
 
   ## All topojson files exist
   missingTopojson <- dm %>% purrr::map(function(dm){
-      topojsonPath <- file.path("geodata",dm$geoname,paste0(dm$basename,".topojson"))
-      topojsonFile <- system.file(topojsonPath, package = "geodata")
-      topojson_exists <- file.exists(topojsonFile)
-    }) %>% purrr::keep(isFALSE)
+    topojsonPath <- file.path("geodata",dm$geoname,paste0(dm$basename,".topojson"))
+    topojsonFile <- system.file(topojsonPath, package = "geodata")
+    topojson_exists <- file.exists(topojsonFile)
+  }) %>% purrr::keep(isFALSE)
   expect_true(length(missingTopojson) == 0)
 
   dm <- geodataMeta(load_data = TRUE)
 
-  ## Check they all have id and name props
-
+  ## All have id and name props
   tpdata <- dm %>% purrr::map(function(dm){
     topojsonPath <- file.path("geodata",dm$geoname,paste0(dm$basename,".topojson"))
     topojson <- system.file(topojsonPath, package = "geodata")
@@ -80,7 +85,21 @@ test_that("Resource exists",{
   })
   tpdata_names <- tpdata[names(tpdata) != "col_municipalities"] %>% purrr::map(names) %>% purrr::reduce(intersect)
   expect_equal(tpdata_names, c("id","name"))
+})
 
+
+
+context("csv")
+
+
+test_that("csv files are complete",{
+
+  dm <- geodataMeta(load_data = FALSE, debug = FALSE)
+
+  ## All codes CSF files exists
+  missingCodes <- purrr::map(dm,"codes") %>% purrr::keep(is.null) %>% names
+  missingCodes
+  expect_true(length(missingCodes) == 0)
 
   dm <- geodataMeta(load_data = TRUE)
 
@@ -101,7 +120,7 @@ test_that("Resource exists",{
 
   # all regions have names: region, id
   expect_equal(purrr::map(dmReg, names) %>% purrr::reduce(intersect),
-                c("region","id"))
+               c("region","id"))
 
   dmRegIdsNoCodes <- dmWithRegions %>% purrr::map(function(dm){
     df_regions <- dm$regions
@@ -117,7 +136,9 @@ test_that("Resource exists",{
 })
 
 
+
 context("geodataMeta")
+
 
 test_that("geodataMeta loads properly",{
 
@@ -135,11 +156,4 @@ test_that("geodataMeta loads properly",{
     all(purrr::map_lgl(availableGeodata(), ~file.exists(geodataCsvPath(.))))
   )
 
-})
-
-
-context("Topojson")
-
-test_that("Good topojson",{
-  # Test that topojson have scope
 })
