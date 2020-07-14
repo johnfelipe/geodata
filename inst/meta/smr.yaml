@@ -1,0 +1,6 @@
+smr_division:
+  label: San Marino division
+  basename: smr-division
+  scope: SMR_adm1
+  geographyName: name
+  geographyId: id

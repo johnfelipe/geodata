@@ -1,0 +1,6 @@
+fji_division:
+  label: Fiji division
+  basename: fji-division
+  scope: FJI_adm1
+  geographyName: name
+  geographyId: id

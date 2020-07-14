@@ -1,0 +1,6 @@
+png_province:
+  label: Papua New Guinea province
+  basename: png-province
+  scope: PNG_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+dom_division:
+  label: Dominican Republic division
+  basename: dom-division
+  scope: DOM_adm1
+  geographyName: name
+  geographyId: id

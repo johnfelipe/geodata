@@ -1,0 +1,6 @@
+lby_municipalitygovernarate:
+  label: Libya municipalitygovernarate
+  basename: lby-municipalitygovernarate
+  scope: LBY_adm1
+  geographyName: name
+  geographyId: id

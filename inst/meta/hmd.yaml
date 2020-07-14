@@ -1,0 +1,6 @@
+hmd_division:
+  label: Heard Island and McDonald Islands division
+  basename: hmd-division
+  scope: HMD_adm1
+  geographyName: name
+  geographyId: id

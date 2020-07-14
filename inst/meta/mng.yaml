@@ -1,0 +1,6 @@
+mng_division:
+  label: Mongolia division
+  basename: mng-division
+  scope: MNG_adm1
+  geographyName: name
+  geographyId: id

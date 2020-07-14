@@ -1,0 +1,6 @@
+wsm_division:
+  label: Samoa division
+  basename: wsm-division
+  scope: WSM_adm1
+  geographyName: name
+  geographyId: id

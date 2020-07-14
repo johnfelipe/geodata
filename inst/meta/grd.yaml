@@ -1,0 +1,6 @@
+grd_division:
+  label: Grenada division
+  basename: grd-division
+  scope: GRD_adm1
+  geographyName: name
+  geographyId: id

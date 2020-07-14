@@ -1,0 +1,6 @@
+bdi_province:
+  label: Burundi province
+  basename: bdi-province
+  scope: BDI_adm1
+  geographyName: name
+  geographyId: id

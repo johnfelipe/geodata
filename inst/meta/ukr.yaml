@@ -1,0 +1,6 @@
+ukr_division:
+  label: Ukraine division
+  basename: ukr-division
+  scope: UKR_adm1
+  geographyName: name
+  geographyId: id

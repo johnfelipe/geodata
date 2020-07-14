@@ -1,0 +1,6 @@
+kos_district:
+  label: Kosovo district
+  basename: kos-district
+  scope: KOS_adm1
+  geographyName: name
+  geographyId: id

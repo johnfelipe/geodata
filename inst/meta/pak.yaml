@@ -1,0 +1,6 @@
+pak_division:
+  label: Pakistan division
+  basename: pak-division
+  scope: PAK_adm1
+  geographyName: name
+  geographyId: id

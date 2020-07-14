@@ -1,0 +1,6 @@
+tur_province:
+  label: Turkey province
+  basename: tur-province
+  scope: TUR_adm1
+  geographyName: name
+  geographyId: id

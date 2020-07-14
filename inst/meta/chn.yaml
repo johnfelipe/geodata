@@ -1,0 +1,6 @@
+chn_division:
+  label: China division
+  basename: chn-division
+  scope: CHN_adm1
+  geographyName: name
+  geographyId: id

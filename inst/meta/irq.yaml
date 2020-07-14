@@ -1,0 +1,6 @@
+irq_province:
+  label: Iraq province
+  basename: irq-province
+  scope: IRQ_adm1
+  geographyName: name
+  geographyId: id

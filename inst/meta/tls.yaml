@@ -1,0 +1,6 @@
+tls_districtregencies:
+  label: East Timor districtregencies
+  basename: tls-districtregencies
+  scope: TLS_adm1
+  geographyName: name
+  geographyId: id

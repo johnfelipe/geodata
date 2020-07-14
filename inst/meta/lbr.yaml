@@ -1,0 +1,6 @@
+lbr_county:
+  label: Liberia county
+  basename: lbr-county
+  scope: LBR_adm1
+  geographyName: name
+  geographyId: id

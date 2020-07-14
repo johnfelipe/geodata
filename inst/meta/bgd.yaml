@@ -1,0 +1,6 @@
+bgd_division:
+  label: Bangladesh division
+  basename: bgd-division
+  scope: BGD_adm1
+  geographyName: name
+  geographyId: id

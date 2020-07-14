@@ -1,0 +1,6 @@
+svk_region:
+  label: Slovakia region
+  basename: svk-region
+  scope: SVK_adm1
+  geographyName: name
+  geographyId: id

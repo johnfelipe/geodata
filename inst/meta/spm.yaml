@@ -1,0 +1,6 @@
+spm_commune:
+  label: Saint Pierre and Miquelon commune
+  basename: spm-commune
+  scope: SPM_adm1
+  geographyName: name
+  geographyId: id

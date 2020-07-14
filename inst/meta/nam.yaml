@@ -1,0 +1,6 @@
+nam_region:
+  label: Namibia region
+  basename: nam-region
+  scope: NAM_adm1
+  geographyName: name
+  geographyId: id

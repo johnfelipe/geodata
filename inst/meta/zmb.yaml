@@ -1,0 +1,6 @@
+zmb_province:
+  label: Zambia province
+  basename: zmb-province
+  scope: ZMB_adm1
+  geographyName: name
+  geographyId: id

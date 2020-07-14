@@ -1,0 +1,6 @@
+vct_parish:
+  label: Saint Vincent and the Grenadines parish
+  basename: vct-parish
+  scope: VCT_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+tkm_province:
+  label: Turkmenistan province
+  basename: tkm-province
+  scope: TKM_adm1
+  geographyName: name
+  geographyId: id

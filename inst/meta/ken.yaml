@@ -1,0 +1,6 @@
+ken_division:
+  label: Kenya division
+  basename: ken-division
+  scope: KEN_adm1
+  geographyName: name
+  geographyId: id

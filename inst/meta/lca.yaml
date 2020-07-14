@@ -1,0 +1,6 @@
+lca_quarter:
+  label: Saint Lucia quarter
+  basename: lca-quarter
+  scope: LCA_adm1
+  geographyName: name
+  geographyId: id

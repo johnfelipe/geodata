@@ -1,0 +1,6 @@
+cyp_district:
+  label: Cyprus district
+  basename: cyp-district
+  scope: CYP_adm1
+  geographyName: name
+  geographyId: id

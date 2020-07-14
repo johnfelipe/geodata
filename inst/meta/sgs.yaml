@@ -1,0 +1,6 @@
+sgs_division:
+  label: South Georgia and the Islands division
+  basename: sgs-division
+  scope: SGS_adm1
+  geographyName: name
+  geographyId: id

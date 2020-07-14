@@ -1,0 +1,6 @@
+rus_division:
+  label: Russia division
+  basename: rus-division
+  scope: RUS_adm1
+  geographyName: name
+  geographyId: id

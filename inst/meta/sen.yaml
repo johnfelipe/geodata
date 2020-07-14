@@ -1,0 +1,6 @@
+sen_region:
+  label: Senegal region
+  basename: sen-region
+  scope: SEN_adm1
+  geographyName: name
+  geographyId: id

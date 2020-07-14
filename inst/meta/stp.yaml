@@ -1,0 +1,6 @@
+stp_division:
+  label: Sao Tome and Principe division
+  basename: stp-division
+  scope: STP_adm1
+  geographyName: name
+  geographyId: id

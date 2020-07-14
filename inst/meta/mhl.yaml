@@ -1,0 +1,6 @@
+mhl_division:
+  label: Marshall Islands division
+  basename: mhl-division
+  scope: MHL_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+afg_province:
+  label: Afghanistan province
+  basename: afg-province
+  scope: AFG_adm1
+  geographyName: name
+  geographyId: id

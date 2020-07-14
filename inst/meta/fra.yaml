@@ -1,0 +1,6 @@
+fra_division:
+  label: France division
+  basename: fra-division
+  scope: FRA_adm1
+  geographyName: name
+  geographyId: id

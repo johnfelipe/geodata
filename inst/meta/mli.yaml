@@ -1,0 +1,6 @@
+mli_division:
+  label: Mali division
+  basename: mli-division
+  scope: MLI_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+zwe_division:
+  label: Zimbabwe division
+  basename: zwe-division
+  scope: ZWE_adm1
+  geographyName: name
+  geographyId: id

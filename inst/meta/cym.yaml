@@ -1,0 +1,6 @@
+cym_division:
+  label: Cayman Islands division
+  basename: cym-division
+  scope: CYM_adm1
+  geographyName: name
+  geographyId: id

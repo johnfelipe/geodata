@@ -1,0 +1,6 @@
+ind_division:
+  label: India division
+  basename: ind-division
+  scope: IND_adm1
+  geographyName: name
+  geographyId: id

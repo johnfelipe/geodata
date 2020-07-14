@@ -1,0 +1,6 @@
+wlf_division:
+  label: Wallis and Futuna division
+  basename: wlf-division
+  scope: WLF_adm1
+  geographyName: name
+  geographyId: id

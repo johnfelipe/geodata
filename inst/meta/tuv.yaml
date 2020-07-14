@@ -1,0 +1,6 @@
+tuv_division:
+  label: Tuvalu division
+  basename: tuv-division
+  scope: TUV_adm1
+  geographyName: name
+  geographyId: id

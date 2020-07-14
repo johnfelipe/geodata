@@ -1,0 +1,6 @@
+nfk_division:
+  label: Norfolk Island division
+  basename: nfk-division
+  scope: NFK_adm1
+  geographyName: name
+  geographyId: id

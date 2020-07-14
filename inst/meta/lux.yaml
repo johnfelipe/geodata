@@ -1,0 +1,6 @@
+lux_district:
+  label: Luxembourg district
+  basename: lux-district
+  scope: LUX_adm1
+  geographyName: name
+  geographyId: id

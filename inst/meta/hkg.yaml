@@ -1,0 +1,6 @@
+hkg_division:
+  label: Hong Kong S.A.R. division
+  basename: hkg-division
+  scope: HKG_adm1
+  geographyName: name
+  geographyId: id

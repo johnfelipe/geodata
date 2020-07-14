@@ -1,0 +1,6 @@
+flk_division:
+  label: Falkland Islands division
+  basename: flk-division
+  scope: FLK_adm1
+  geographyName: name
+  geographyId: id

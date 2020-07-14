@@ -1,0 +1,6 @@
+hun_division:
+  label: Hungary division
+  basename: hun-division
+  scope: HUN_adm1
+  geographyName: name
+  geographyId: id

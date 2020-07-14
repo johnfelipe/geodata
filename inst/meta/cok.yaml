@@ -1,0 +1,6 @@
+cok_division:
+  label: Cook Islands division
+  basename: cok-division
+  scope: COK_adm1
+  geographyName: name
+  geographyId: id

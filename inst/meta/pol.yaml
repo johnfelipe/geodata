@@ -1,0 +1,6 @@
+pol_voivodeshipprovince:
+  label: Poland voivodeshipprovince
+  basename: pol-voivodeshipprovince
+  scope: POL_adm1
+  geographyName: name
+  geographyId: id

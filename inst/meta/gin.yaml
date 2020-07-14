@@ -1,0 +1,6 @@
+gin_division:
+  label: Guinea division
+  basename: gin-division
+  scope: GIN_adm1
+  geographyName: name
+  geographyId: id

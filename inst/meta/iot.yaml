@@ -1,0 +1,6 @@
+iot_division:
+  label: British Indian Ocean Territory division
+  basename: iot-division
+  scope: IOT_adm1
+  geographyName: name
+  geographyId: id

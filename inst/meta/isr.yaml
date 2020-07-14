@@ -1,0 +1,6 @@
+isr_district:
+  label: Israel district
+  basename: isr-district
+  scope: ISR_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+deu_state:
+  label: Germany state
+  basename: deu-state
+  scope: DEU_adm1
+  geographyName: name
+  geographyId: id

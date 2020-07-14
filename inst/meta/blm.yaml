@@ -1,0 +1,6 @@
+blm_division:
+  label: Saint Barthelemy division
+  basename: blm-division
+  scope: BLM_adm1
+  geographyName: name
+  geographyId: id

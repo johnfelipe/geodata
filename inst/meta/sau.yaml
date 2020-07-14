@@ -1,0 +1,6 @@
+sau_region:
+  label: Saudi Arabia region
+  basename: sau-region
+  scope: SAU_adm1
+  geographyName: name
+  geographyId: id

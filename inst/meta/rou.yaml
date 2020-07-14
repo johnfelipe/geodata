@@ -1,0 +1,6 @@
+rou_division:
+  label: Romania division
+  basename: rou-division
+  scope: ROU_adm1
+  geographyName: name
+  geographyId: id

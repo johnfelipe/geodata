@@ -1,0 +1,6 @@
+lka_district:
+  label: Sri Lanka district
+  basename: lka-district
+  scope: LKA_adm1
+  geographyName: name
+  geographyId: id

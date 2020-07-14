@@ -1,0 +1,6 @@
+sgp_division:
+  label: Singapore division
+  basename: sgp-division
+  scope: SGP_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+brn_district:
+  label: Brunei district
+  basename: brn-district
+  scope: BRN_adm1
+  geographyName: name
+  geographyId: id

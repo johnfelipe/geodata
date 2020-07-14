@@ -1,0 +1,6 @@
+arm_division:
+  label: Armenia division
+  basename: arm-division
+  scope: ARM_adm1
+  geographyName: name
+  geographyId: id

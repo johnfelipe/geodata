@@ -1,0 +1,6 @@
+bmu_division:
+  label: Bermuda division
+  basename: bmu-division
+  scope: BMU_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+ben_department:
+  label: Benin department
+  basename: ben-department
+  scope: BEN_adm1
+  geographyName: name
+  geographyId: id

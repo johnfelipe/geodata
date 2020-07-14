@@ -1,0 +1,6 @@
+mys_division:
+  label: Malaysia division
+  basename: mys-division
+  scope: MYS_adm1
+  geographyName: name
+  geographyId: id

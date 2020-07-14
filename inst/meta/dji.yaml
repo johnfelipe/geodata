@@ -1,0 +1,6 @@
+dji_division:
+  label: Djibouti division
+  basename: dji-division
+  scope: DJI_adm1
+  geographyName: name
+  geographyId: id

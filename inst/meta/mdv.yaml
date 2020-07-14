@@ -1,0 +1,6 @@
+mdv_division:
+  label: Maldives division
+  basename: mdv-division
+  scope: MDV_adm1
+  geographyName: name
+  geographyId: id

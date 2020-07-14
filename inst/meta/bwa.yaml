@@ -1,0 +1,6 @@
+bwa_division:
+  label: Botswana division
+  basename: bwa-division
+  scope: BWA_adm1
+  geographyName: name
+  geographyId: id

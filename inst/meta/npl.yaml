@@ -1,0 +1,6 @@
+npl_division:
+  label: Nepal division
+  basename: npl-division
+  scope: NPL_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+cod_division:
+  label: Democratic Republic of the Congo division
+  basename: cod-division
+  scope: COD_adm1
+  geographyName: name
+  geographyId: id

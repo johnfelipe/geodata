@@ -1,0 +1,6 @@
+maf_division:
+  label: Saint Martin division
+  basename: maf-division
+  scope: MAF_adm1
+  geographyName: name
+  geographyId: id

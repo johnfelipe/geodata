@@ -1,0 +1,6 @@
+tun_governorate:
+  label: Tunisia governorate
+  basename: tun-governorate
+  scope: TUN_adm1
+  geographyName: name
+  geographyId: id

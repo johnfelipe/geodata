@@ -1,0 +1,6 @@
+msr_parish:
+  label: Montserrat parish
+  basename: msr-parish
+  scope: MSR_adm1
+  geographyName: name
+  geographyId: id

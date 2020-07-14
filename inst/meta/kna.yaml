@@ -1,0 +1,6 @@
+kna_parish:
+  label: Saint Kitts and Nevis parish
+  basename: kna-parish
+  scope: KNA_adm1
+  geographyName: name
+  geographyId: id

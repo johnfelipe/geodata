@@ -1,0 +1,6 @@
+prk_division:
+  label: North Korea division
+  basename: prk-division
+  scope: PRK_adm1
+  geographyName: name
+  geographyId: id

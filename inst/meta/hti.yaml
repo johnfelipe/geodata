@@ -1,0 +1,6 @@
+hti_department:
+  label: Haiti department
+  basename: hti-department
+  scope: HTI_adm1
+  geographyName: name
+  geographyId: id

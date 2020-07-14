@@ -1,0 +1,6 @@
+pri_division:
+  label: Puerto Rico division
+  basename: pri-division
+  scope: PRI_adm1
+  geographyName: name
+  geographyId: id

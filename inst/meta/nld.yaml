@@ -1,0 +1,6 @@
+nld_division:
+  label: Netherlands division
+  basename: nld-division
+  scope: NLD_adm1
+  geographyName: name
+  geographyId: id

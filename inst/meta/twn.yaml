@@ -1,0 +1,6 @@
+twn_division:
+  label: Taiwan division
+  basename: twn-division
+  scope: TWN_adm1
+  geographyName: name
+  geographyId: id

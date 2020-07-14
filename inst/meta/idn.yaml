@@ -1,0 +1,6 @@
+idn_division:
+  label: Indonesia division
+  basename: idn-division
+  scope: IDN_adm1
+  geographyName: name
+  geographyId: id

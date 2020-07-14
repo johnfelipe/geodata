@@ -1,0 +1,6 @@
+isl_division:
+  label: Iceland division
+  basename: isl-division
+  scope: ISL_adm1
+  geographyName: name
+  geographyId: id

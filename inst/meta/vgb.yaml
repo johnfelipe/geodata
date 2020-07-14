@@ -1,0 +1,6 @@
+vgb_division:
+  label: British Virgin Islands division
+  basename: vgb-division
+  scope: VGB_adm1
+  geographyName: name
+  geographyId: id

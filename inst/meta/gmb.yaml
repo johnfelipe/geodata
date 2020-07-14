@@ -1,0 +1,6 @@
+gmb_division:
+  label: Gambia division
+  basename: gmb-division
+  scope: GMB_adm1
+  geographyName: name
+  geographyId: id

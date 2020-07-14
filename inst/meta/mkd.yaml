@@ -1,0 +1,6 @@
+mkd_division:
+  label: Macedonia division
+  basename: mkd-division
+  scope: MKD_adm1
+  geographyName: name
+  geographyId: id

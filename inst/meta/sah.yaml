@@ -1,0 +1,6 @@
+sah_division:
+  label: Western Sahara division
+  basename: sah-division
+  scope: SAH_adm1
+  geographyName: name
+  geographyId: id

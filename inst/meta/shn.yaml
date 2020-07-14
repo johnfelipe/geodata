@@ -1,0 +1,6 @@
+shn_division:
+  label: Saint Helena division
+  basename: shn-division
+  scope: SHN_adm1
+  geographyName: name
+  geographyId: id

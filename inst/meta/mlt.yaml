@@ -1,0 +1,6 @@
+mlt_division:
+  label: Malta division
+  basename: mlt-division
+  scope: MLT_adm1
+  geographyName: name
+  geographyId: id

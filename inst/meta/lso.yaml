@@ -1,0 +1,6 @@
+lso_district:
+  label: Lesotho district
+  basename: lso-district
+  scope: LSO_adm1
+  geographyName: name
+  geographyId: id

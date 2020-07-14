@@ -1,0 +1,6 @@
+gum_division:
+  label: Guam division
+  basename: gum-division
+  scope: GUM_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+ncl_province:
+  label: New Caledonia province
+  basename: ncl-province
+  scope: NCL_adm1
+  geographyName: name
+  geographyId: id

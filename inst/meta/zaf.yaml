@@ -1,0 +1,6 @@
+zaf_province:
+  label: South Africa province
+  basename: zaf-province
+  scope: ZAF_adm1
+  geographyName: name
+  geographyId: id

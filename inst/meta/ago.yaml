@@ -1,0 +1,6 @@
+ago_province:
+  label: Angola province
+  basename: ago-province
+  scope: AGO_adm1
+  geographyName: name
+  geographyId: id

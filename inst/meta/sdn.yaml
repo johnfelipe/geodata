@@ -1,0 +1,6 @@
+sdn_division:
+  label: Sudan division
+  basename: sdn-division
+  scope: SDN_adm1
+  geographyName: name
+  geographyId: id

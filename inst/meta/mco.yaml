@@ -1,0 +1,6 @@
+mco_division:
+  label: Monaco division
+  basename: mco-division
+  scope: MCO_adm1
+  geographyName: name
+  geographyId: id

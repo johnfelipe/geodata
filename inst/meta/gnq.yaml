@@ -1,0 +1,6 @@
+gnq_province:
+  label: Equatorial Guinea province
+  basename: gnq-province
+  scope: GNQ_adm1
+  geographyName: name
+  geographyId: id

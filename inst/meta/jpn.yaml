@@ -1,0 +1,6 @@
+jpn_division:
+  label: Japan division
+  basename: jpn-division
+  scope: JPN_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+mdg_autonomousprovince:
+  label: Madagascar autonomousprovince
+  basename: mdg-autonomousprovince
+  scope: MDG_adm1
+  geographyName: name
+  geographyId: id

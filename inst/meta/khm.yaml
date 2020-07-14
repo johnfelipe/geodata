@@ -1,0 +1,6 @@
+khm_division:
+  label: Cambodia division
+  basename: khm-division
+  scope: KHM_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+asm_division:
+  label: American Samoa division
+  basename: asm-division
+  scope: ASM_adm1
+  geographyName: name
+  geographyId: id

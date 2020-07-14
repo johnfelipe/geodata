@@ -1,0 +1,6 @@
+mrt_division:
+  label: Mauritania division
+  basename: mrt-division
+  scope: MRT_adm1
+  geographyName: name
+  geographyId: id

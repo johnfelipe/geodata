@@ -1,0 +1,6 @@
+uga_division:
+  label: Uganda division
+  basename: uga-division
+  scope: UGA_adm1
+  geographyName: name
+  geographyId: id

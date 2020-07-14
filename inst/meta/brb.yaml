@@ -1,0 +1,6 @@
+brb_parish:
+  label: Barbados parish
+  basename: brb-parish
+  scope: BRB_adm1
+  geographyName: name
+  geographyId: id

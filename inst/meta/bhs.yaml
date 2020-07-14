@@ -1,0 +1,6 @@
+bhs_division:
+  label: The Bahamas division
+  basename: bhs-division
+  scope: BHS_adm1
+  geographyName: name
+  geographyId: id

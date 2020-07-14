@@ -1,0 +1,6 @@
+swz_district:
+  label: Swaziland district
+  basename: swz-district
+  scope: SWZ_adm1
+  geographyName: name
+  geographyId: id

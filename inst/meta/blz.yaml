@@ -1,0 +1,6 @@
+blz_district:
+  label: Belize district
+  basename: blz-district
+  scope: BLZ_adm1
+  geographyName: name
+  geographyId: id

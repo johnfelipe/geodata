@@ -1,0 +1,6 @@
+com_division:
+  label: Comoros division
+  basename: com-division
+  scope: COM_adm1
+  geographyName: name
+  geographyId: id

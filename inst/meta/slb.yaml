@@ -1,0 +1,6 @@
+slb_province:
+  label: Solomon Islands province
+  basename: slb-province
+  scope: SLB_adm1
+  geographyName: name
+  geographyId: id

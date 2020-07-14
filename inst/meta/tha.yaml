@@ -1,0 +1,6 @@
+tha_province:
+  label: Thailand province
+  basename: tha-province
+  scope: THA_adm1
+  geographyName: name
+  geographyId: id

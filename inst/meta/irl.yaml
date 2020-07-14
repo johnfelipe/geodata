@@ -1,0 +1,6 @@
+irl_division:
+  label: Ireland division
+  basename: irl-division
+  scope: IRL_adm1
+  geographyName: name
+  geographyId: id

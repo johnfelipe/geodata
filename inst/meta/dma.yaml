@@ -1,0 +1,6 @@
+dma_parish:
+  label: Dominica parish
+  basename: dma-parish
+  scope: DMA_adm1
+  geographyName: name
+  geographyId: id

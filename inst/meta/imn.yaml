@@ -1,0 +1,6 @@
+imn_division:
+  label: Isle of Man division
+  basename: imn-division
+  scope: IMN_adm1
+  geographyName: name
+  geographyId: id

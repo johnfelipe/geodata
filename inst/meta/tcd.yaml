@@ -1,0 +1,6 @@
+tcd_division:
+  label: Chad division
+  basename: tcd-division
+  scope: TCD_adm1
+  geographyName: name
+  geographyId: id

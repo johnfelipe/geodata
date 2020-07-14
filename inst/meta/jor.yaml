@@ -1,0 +1,6 @@
+jor_province:
+  label: Jordan province
+  basename: jor-province
+  scope: JOR_adm1
+  geographyName: name
+  geographyId: id

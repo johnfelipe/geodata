@@ -1,0 +1,6 @@
+syr_division:
+  label: Syria division
+  basename: syr-division
+  scope: SYR_adm1
+  geographyName: name
+  geographyId: id

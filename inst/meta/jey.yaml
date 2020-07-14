@@ -1,0 +1,6 @@
+jey_division:
+  label: Jersey division
+  basename: jey-division
+  scope: JEY_adm1
+  geographyName: name
+  geographyId: id

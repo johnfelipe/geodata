@@ -1,0 +1,6 @@
+aia_division:
+  label: Anguilla division
+  basename: aia-division
+  scope: AIA_adm1
+  geographyName: name
+  geographyId: id

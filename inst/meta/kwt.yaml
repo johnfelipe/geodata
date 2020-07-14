@@ -1,0 +1,6 @@
+kwt_province:
+  label: Kuwait province
+  basename: kwt-province
+  scope: KWT_adm1
+  geographyName: name
+  geographyId: id

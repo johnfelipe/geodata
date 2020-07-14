@@ -1,0 +1,6 @@
+hnd_department:
+  label: Honduras department
+  basename: hnd-department
+  scope: HND_adm1
+  geographyName: name
+  geographyId: id

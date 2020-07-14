@@ -1,0 +1,6 @@
+pcn_division:
+  label: Pitcairn Islands division
+  basename: pcn-division
+  scope: PCN_adm1
+  geographyName: name
+  geographyId: id

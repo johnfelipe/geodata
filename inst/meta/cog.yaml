@@ -1,0 +1,6 @@
+cog_region:
+  label: Republic of the Congo region
+  basename: cog-region
+  scope: COG_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+mmr_division:
+  label: Myanmar division
+  basename: mmr-division
+  scope: MMR_adm1
+  geographyName: name
+  geographyId: id

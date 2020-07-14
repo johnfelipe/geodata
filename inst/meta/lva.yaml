@@ -1,0 +1,6 @@
+lva_division:
+  label: Latvia division
+  basename: lva-division
+  scope: LVA_adm1
+  geographyName: name
+  geographyId: id

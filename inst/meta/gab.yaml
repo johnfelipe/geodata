@@ -1,0 +1,6 @@
+gab_province:
+  label: Gabon province
+  basename: gab-province
+  scope: GAB_adm1
+  geographyName: name
+  geographyId: id

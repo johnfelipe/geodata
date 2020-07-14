@@ -1,0 +1,6 @@
+fsm_division:
+  label: Federated States of Micronesia division
+  basename: fsm-division
+  scope: FSM_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+sxm_division:
+  label: Sint Maarten division
+  basename: sxm-division
+  scope: SXM_adm1
+  geographyName: name
+  geographyId: id

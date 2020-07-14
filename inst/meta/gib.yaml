@@ -1,0 +1,6 @@
+gib_division:
+  label: Gibraltar division
+  basename: gib-division
+  scope: GIB_adm1
+  geographyName: name
+  geographyId: id

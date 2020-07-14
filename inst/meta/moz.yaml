@@ -1,0 +1,6 @@
+moz_province:
+  label: Mozambique province
+  basename: moz-province
+  scope: MOZ_adm1
+  geographyName: name
+  geographyId: id

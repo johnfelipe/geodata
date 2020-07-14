@@ -1,0 +1,6 @@
+som_region:
+  label: Somalia region
+  basename: som-region
+  scope: SOM_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+mac_division:
+  label: Macau S.A.R division
+  basename: mac-division
+  scope: MAC_adm1
+  geographyName: name
+  geographyId: id

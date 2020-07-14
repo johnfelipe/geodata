@@ -1,0 +1,6 @@
+rwa_province:
+  label: Rwanda province
+  basename: rwa-province
+  scope: RWA_adm1
+  geographyName: name
+  geographyId: id

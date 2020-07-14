@@ -1,0 +1,6 @@
+geo_division:
+  label: Georgia division
+  basename: geo-division
+  scope: GEO_adm1
+  geographyName: name
+  geographyId: id

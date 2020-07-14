@@ -1,0 +1,6 @@
+mnp_division:
+  label: Northern Mariana Islands division
+  basename: mnp-division
+  scope: MNP_adm1
+  geographyName: name
+  geographyId: id

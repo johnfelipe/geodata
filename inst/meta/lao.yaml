@@ -1,0 +1,6 @@
+lao_division:
+  label: Laos division
+  basename: lao-division
+  scope: LAO_adm1
+  geographyName: name
+  geographyId: id

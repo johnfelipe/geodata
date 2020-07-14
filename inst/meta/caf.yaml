@@ -1,0 +1,6 @@
+caf_division:
+  label: Central African Republic division
+  basename: caf-division
+  scope: CAF_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+est_division:
+  label: Estonia division
+  basename: est-division
+  scope: EST_adm1
+  geographyName: name
+  geographyId: id

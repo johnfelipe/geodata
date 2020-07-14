@@ -1,0 +1,6 @@
+hrv_division:
+  label: Croatia division
+  basename: hrv-division
+  scope: HRV_adm1
+  geographyName: name
+  geographyId: id

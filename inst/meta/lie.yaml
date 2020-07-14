@@ -1,0 +1,6 @@
+lie_division:
+  label: Liechtenstein division
+  basename: lie-division
+  scope: LIE_adm1
+  geographyName: name
+  geographyId: id

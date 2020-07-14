@@ -1,0 +1,6 @@
+ita_province:
+  label: Italy province
+  basename: ita-province
+  scope: ITA_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+syc_division:
+  label: Seychelles division
+  basename: syc-division
+  scope: SYC_adm1
+  geographyName: name
+  geographyId: id

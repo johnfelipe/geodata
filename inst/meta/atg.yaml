@@ -1,0 +1,6 @@
+atg_division:
+  label: Antigua and Barbuda division
+  basename: atg-division
+  scope: ATG_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+mwi_district:
+  label: Malawi district
+  basename: mwi-district
+  scope: MWI_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+svn_division:
+  label: Slovenia division
+  basename: svn-division
+  scope: SVN_adm1
+  geographyName: name
+  geographyId: id

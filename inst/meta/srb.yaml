@@ -1,0 +1,6 @@
+srb_division:
+  label: Republic of Serbia division
+  basename: srb-division
+  scope: SRB_adm1
+  geographyName: name
+  geographyId: id

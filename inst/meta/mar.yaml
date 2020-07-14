@@ -1,0 +1,6 @@
+mar_region:
+  label: Morocco region
+  basename: mar-region
+  scope: MAR_adm1
+  geographyName: name
+  geographyId: id

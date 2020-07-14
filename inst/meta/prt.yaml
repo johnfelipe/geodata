@@ -1,0 +1,6 @@
+prt_division:
+  label: Portugal division
+  basename: prt-division
+  scope: PRT_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+bfa_province:
+  label: Burkina Faso province
+  basename: bfa-province
+  scope: BFA_adm1
+  geographyName: name
+  geographyId: id

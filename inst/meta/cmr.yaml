@@ -1,0 +1,6 @@
+cmr_province:
+  label: Cameroon province
+  basename: cmr-province
+  scope: CMR_adm1
+  geographyName: name
+  geographyId: id

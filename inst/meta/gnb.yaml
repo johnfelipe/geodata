@@ -1,0 +1,6 @@
+gnb_division:
+  label: Guinea Bissau division
+  basename: gnb-division
+  scope: GNB_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+and_division:
+  label: Andorra division
+  basename: and-division
+  scope: AND_adm1
+  geographyName: name
+  geographyId: id

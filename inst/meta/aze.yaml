@@ -1,0 +1,6 @@
+aze_division:
+  label: Azerbaijan division
+  basename: aze-division
+  scope: AZE_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+bgr_province:
+  label: Bulgaria province
+  basename: bgr-province
+  scope: BGR_adm1
+  geographyName: name
+  geographyId: id

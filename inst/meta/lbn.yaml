@@ -1,0 +1,6 @@
+lbn_province:
+  label: Lebanon province
+  basename: lbn-province
+  scope: LBN_adm1
+  geographyName: name
+  geographyId: id

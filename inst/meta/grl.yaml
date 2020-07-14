@@ -1,0 +1,6 @@
+grl_division:
+  label: Greenland division
+  basename: grl-division
+  scope: GRL_adm1
+  geographyName: name
+  geographyId: id

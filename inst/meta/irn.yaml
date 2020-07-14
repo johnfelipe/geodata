@@ -1,0 +1,6 @@
+irn_province:
+  label: Iran province
+  basename: irn-province
+  scope: IRN_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+phl_division:
+  label: Philippines division
+  basename: phl-division
+  scope: PHL_adm1
+  geographyName: name
+  geographyId: id

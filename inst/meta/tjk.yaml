@@ -1,0 +1,6 @@
+tjk_division:
+  label: Tajikistan division
+  basename: tjk-division
+  scope: TJK_adm1
+  geographyName: name
+  geographyId: id

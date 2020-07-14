@@ -1,0 +1,6 @@
+nru_division:
+  label: Nauru division
+  basename: nru-division
+  scope: NRU_adm1
+  geographyName: name
+  geographyId: id

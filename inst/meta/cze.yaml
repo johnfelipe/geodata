@@ -1,0 +1,6 @@
+cze_region:
+  label: Czech Republic region
+  basename: cze-region
+  scope: CZE_adm1
+  geographyName: name
+  geographyId: id

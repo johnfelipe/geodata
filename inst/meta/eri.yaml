@@ -1,0 +1,6 @@
+eri_region:
+  label: Eritrea region
+  basename: eri-region
+  scope: ERI_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+grc_division:
+  label: Greece division
+  basename: grc-division
+  scope: GRC_adm1
+  geographyName: name
+  geographyId: id

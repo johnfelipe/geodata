@@ -1,0 +1,6 @@
+mda_division:
+  label: Moldova division
+  basename: mda-division
+  scope: MDA_adm1
+  geographyName: name
+  geographyId: id

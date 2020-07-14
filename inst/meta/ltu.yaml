@@ -1,0 +1,6 @@
+ltu_county:
+  label: Lithuania county
+  basename: ltu-county
+  scope: LTU_adm1
+  geographyName: name
+  geographyId: id

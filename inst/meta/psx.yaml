@@ -1,0 +1,6 @@
+psx_division:
+  label: Gaza Strip division
+  basename: psx-division
+  scope: PSX_adm1
+  geographyName: name
+  geographyId: id

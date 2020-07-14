@@ -1,0 +1,6 @@
+nzl_division:
+  label: New Zealand division
+  basename: nzl-division
+  scope: NZL_adm1
+  geographyName: name
+  geographyId: id

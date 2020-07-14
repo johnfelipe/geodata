@@ -1,0 +1,6 @@
+ner_division:
+  label: Niger division
+  basename: ner-division
+  scope: NER_adm1
+  geographyName: name
+  geographyId: id

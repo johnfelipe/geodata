@@ -1,0 +1,6 @@
+atf_division:
+  label: French Southern and Antarctic Lands division
+  basename: atf-division
+  scope: ATF_adm1
+  geographyName: name
+  geographyId: id

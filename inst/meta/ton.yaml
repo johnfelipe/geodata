@@ -1,0 +1,6 @@
+ton_division:
+  label: Tonga division
+  basename: ton-division
+  scope: TON_adm1
+  geographyName: name
+  geographyId: id

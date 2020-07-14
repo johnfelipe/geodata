@@ -1,0 +1,6 @@
+uzb_division:
+  label: Uzbekistan division
+  basename: uzb-division
+  scope: UZB_adm1
+  geographyName: name
+  geographyId: id

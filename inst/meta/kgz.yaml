@@ -1,0 +1,6 @@
+kgz_region:
+  label: Kyrgyzstan region
+  basename: kgz-region
+  scope: KGZ_adm1
+  geographyName: name
+  geographyId: id

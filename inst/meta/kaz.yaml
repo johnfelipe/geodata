@@ -1,0 +1,6 @@
+kaz_division:
+  label: Kazakhstan division
+  basename: kaz-division
+  scope: KAZ_adm1
+  geographyName: name
+  geographyId: id

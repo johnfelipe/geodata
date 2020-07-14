@@ -1,0 +1,6 @@
+tza_region:
+  label: United Republic of Tanzania region
+  basename: tza-region
+  scope: TZA_adm1
+  geographyName: name
+  geographyId: id

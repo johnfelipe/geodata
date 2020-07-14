@@ -1,0 +1,6 @@
+egy_governorate:
+  label: Egypt governorate
+  basename: egy-governorate
+  scope: EGY_adm1
+  geographyName: name
+  geographyId: id

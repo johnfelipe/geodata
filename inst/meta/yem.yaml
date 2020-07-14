@@ -1,0 +1,6 @@
+yem_governorate:
+  label: Yemen governorate
+  basename: yem-governorate
+  scope: YEM_adm1
+  geographyName: name
+  geographyId: id

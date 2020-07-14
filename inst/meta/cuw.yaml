@@ -1,0 +1,6 @@
+cuw_division:
+  label: Curaçao division
+  basename: cuw-division
+  scope: CUW_adm1
+  geographyName: name
+  geographyId: id

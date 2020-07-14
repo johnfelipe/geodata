@@ -1,0 +1,6 @@
+aut_state:
+  label: Austria state
+  basename: aut-state
+  scope: AUT_adm1
+  geographyName: name
+  geographyId: id

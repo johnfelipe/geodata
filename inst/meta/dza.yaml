@@ -1,0 +1,6 @@
+dza_province:
+  label: Algeria province
+  basename: dza-province
+  scope: DZA_adm1
+  geographyName: name
+  geographyId: id

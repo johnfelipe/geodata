@@ -1,0 +1,6 @@
+ald_division:
+  label: Aland division
+  basename: ald-division
+  scope: ALD_adm1
+  geographyName: name
+  geographyId: id

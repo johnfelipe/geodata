@@ -1,0 +1,6 @@
+vir_division:
+  label: United States Virgin Islands division
+  basename: vir-division
+  scope: VIR_adm1
+  geographyName: name
+  geographyId: id

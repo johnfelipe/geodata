@@ -1,0 +1,6 @@
+vat_division:
+  label: Vatican division
+  basename: vat-division
+  scope: VAT_adm1
+  geographyName: name
+  geographyId: id

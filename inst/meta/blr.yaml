@@ -1,0 +1,6 @@
+blr_division:
+  label: Belarus division
+  basename: blr-division
+  scope: BLR_adm1
+  geographyName: name
+  geographyId: id

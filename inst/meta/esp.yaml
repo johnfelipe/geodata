@@ -1,0 +1,6 @@
+esp_division:
+  label: Spain division
+  basename: esp-division
+  scope: ESP_adm1
+  geographyName: name
+  geographyId: id

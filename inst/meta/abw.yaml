@@ -1,0 +1,6 @@
+abw_division:
+  label: Aruba division
+  basename: abw-division
+  scope: ABW_adm1
+  geographyName: name
+  geographyId: id

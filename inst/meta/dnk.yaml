@@ -1,0 +1,6 @@
+dnk_region:
+  label: Denmark region
+  basename: dnk-region
+  scope: DNK_adm1
+  geographyName: name
+  geographyId: id

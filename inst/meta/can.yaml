@@ -1,0 +1,6 @@
+can_division:
+  label: Canada division
+  basename: can-division
+  scope: CAN_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+pyf_division:
+  label: French Polynesia division
+  basename: pyf-division
+  scope: PYF_adm1
+  geographyName: name
+  geographyId: id

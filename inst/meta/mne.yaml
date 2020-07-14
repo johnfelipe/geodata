@@ -1,0 +1,6 @@
+mne_municipality:
+  label: Montenegro municipality
+  basename: mne-municipality
+  scope: MNE_adm1
+  geographyName: name
+  geographyId: id

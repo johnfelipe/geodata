@@ -1,0 +1,6 @@
+kor_division:
+  label: South Korea division
+  basename: kor-division
+  scope: KOR_adm1
+  geographyName: name
+  geographyId: id

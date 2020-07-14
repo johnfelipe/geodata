@@ -1,0 +1,6 @@
+vnm_division:
+  label: Vietnam division
+  basename: vnm-division
+  scope: VNM_adm1
+  geographyName: name
+  geographyId: id

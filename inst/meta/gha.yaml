@@ -1,0 +1,6 @@
+gha_region:
+  label: Ghana region
+  basename: gha-region
+  scope: GHA_adm1
+  geographyName: name
+  geographyId: id

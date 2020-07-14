@@ -1,0 +1,6 @@
+qat_municipality:
+  label: Qatar municipality
+  basename: qat-municipality
+  scope: QAT_adm1
+  geographyName: name
+  geographyId: id

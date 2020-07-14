@@ -1,0 +1,6 @@
+bel_division:
+  label: Belgium division
+  basename: bel-division
+  scope: BEL_adm1
+  geographyName: name
+  geographyId: id

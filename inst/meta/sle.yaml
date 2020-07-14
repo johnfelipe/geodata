@@ -1,0 +1,6 @@
+sle_province:
+  label: Sierra Leone province
+  basename: sle-province
+  scope: SLE_adm1
+  geographyName: name
+  geographyId: id

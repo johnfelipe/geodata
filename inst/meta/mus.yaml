@@ -1,0 +1,6 @@
+mus_division:
+  label: Mauritius division
+  basename: mus-division
+  scope: MUS_adm1
+  geographyName: name
+  geographyId: id

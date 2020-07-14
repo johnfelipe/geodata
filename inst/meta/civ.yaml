@@ -1,0 +1,6 @@
+civ_division:
+  label: Ivory Coast division
+  basename: civ-division
+  scope: CIV_adm1
+  geographyName: name
+  geographyId: id

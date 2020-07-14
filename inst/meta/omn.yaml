@@ -1,0 +1,6 @@
+omn_division:
+  label: Oman division
+  basename: omn-division
+  scope: OMN_adm1
+  geographyName: name
+  geographyId: id

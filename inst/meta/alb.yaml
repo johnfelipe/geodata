@@ -1,0 +1,6 @@
+alb_county:
+  label: Albania county
+  basename: alb-county
+  scope: ALB_adm1
+  geographyName: name
+  geographyId: id

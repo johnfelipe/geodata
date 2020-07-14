@@ -1,0 +1,6 @@
+plw_division:
+  label: Palau division
+  basename: plw-division
+  scope: PLW_adm1
+  geographyName: name
+  geographyId: id

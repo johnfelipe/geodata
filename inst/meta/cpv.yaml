@@ -1,0 +1,6 @@
+cpv_division:
+  label: Cape Verde division
+  basename: cpv-division
+  scope: CPV_adm1
+  geographyName: name
+  geographyId: id

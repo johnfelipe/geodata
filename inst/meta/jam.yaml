@@ -1,0 +1,6 @@
+jam_parish:
+  label: Jamaica parish
+  basename: jam-parish
+  scope: JAM_adm1
+  geographyName: name
+  geographyId: id

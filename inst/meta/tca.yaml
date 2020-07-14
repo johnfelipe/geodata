@@ -1,0 +1,6 @@
+tca_division:
+  label: Turks and Caicos Islands division
+  basename: tca-division
+  scope: TCA_adm1
+  geographyName: name
+  geographyId: id

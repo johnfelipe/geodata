@@ -1,0 +1,6 @@
+swe_county:
+  label: Sweden county
+  basename: swe-county
+  scope: SWE_adm1
+  geographyName: name
+  geographyId: id

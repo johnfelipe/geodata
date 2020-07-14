@@ -1,0 +1,6 @@
+bih_division:
+  label: Bosnia and Herzegovina division
+  basename: bih-division
+  scope: BIH_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+bhr_governorate:
+  label: Bahrain governorate
+  basename: bhr-governorate
+  scope: BHR_adm1
+  geographyName: name
+  geographyId: id

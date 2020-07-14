@@ -1,0 +1,6 @@
+fin_division:
+  label: Finland division
+  basename: fin-division
+  scope: FIN_adm1
+  geographyName: name
+  geographyId: id

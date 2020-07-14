@@ -1,0 +1,6 @@
+niu_division:
+  label: Niue division
+  basename: niu-division
+  scope: NIU_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+aus_division:
+  label: Australia division
+  basename: aus-division
+  scope: AUS_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+umi_division:
+  label: United States Minor Outlying Islands division
+  basename: umi-division
+  scope: UMI_adm1
+  geographyName: name
+  geographyId: id

@@ -1,0 +1,6 @@
+nor_division:
+  label: Norway division
+  basename: nor-division
+  scope: NOR_adm1
+  geographyName: name
+  geographyId: id

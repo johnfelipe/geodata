@@ -1,0 +1,6 @@
+vut_province:
+  label: Vanuatu province
+  basename: vut-province
+  scope: VUT_adm1
+  geographyName: name
+  geographyId: id

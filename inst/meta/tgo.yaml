@@ -1,0 +1,6 @@
+tgo_region:
+  label: Togo region
+  basename: tgo-region
+  scope: TGO_adm1
+  geographyName: name
+  geographyId: id
