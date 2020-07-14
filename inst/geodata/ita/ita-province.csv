@@ -1,0 +1,111 @@
+"id","name","lat","lon"
+1,"Aosta",45.7126,7.35059
+2,"province of Verbano-Cusio-Ossola",46.0739,8.34317
+3,"Province of Varese",45.7876,8.75898
+4,"Province of Como",45.9389,9.1586
+5,"Province of Sondrio",46.2035,9.81202
+6,"Trentino-South Tyrol",46.707,11.4411
+7,"Province of Imperia",44.011,7.81935
+8,"Province of Cuneo",44.4862,7.63034
+9,"Province of Turin",45.1609,7.47211
+10,"Province of Rimini",43.9996,12.5607
+11,"Pesaro and Urbino Province",43.7017,12.6409
+12,"Province of Belluno",46.3169,12.1449
+13,"Province of Udine",46.0839,13.1961
+14,"Province of Gorizia",45.8602,13.4936
+15,"Province of Trieste",45.6866,13.7799
+16,"Province of Venice",45.4591,12.1647
+17,"Province of Padua",45.361,11.8371
+18,"Province of Rovigo",45.0532,11.8695
+19,"Province of Ferrara",44.773,11.9305
+20,"Province of Ravenna",44.4235,12.0852
+21,"Province of Forlì-Cesena",44.0569,12.0795
+22,"Province of Ancona",43.5383,13.1128
+23,"Province of Macerata",43.1918,13.2195
+24,"Province of Fermo",43.1231,13.6263
+25,"Province of Ascoli Piceno",42.9054,13.5862
+26,"Province of Teramo",42.6705,13.7294
+27,"Province of Pescara",42.3126,13.8877
+28,"Province of Chieti",42.1033,14.3997
+29,"Province of Campobasso",41.6425,14.7413
+30,"Province of Foggia",41.5476,15.5111
+31,"Province of Barletta-Andria-Trani",41.1638,16.1413
+32,"Province of Bari",40.928,16.7706
+33,"Province of Brindisi",40.6195,17.711
+34,"Province of Lecce",40.167,18.2094
+35,"Province of Taranto",40.6081,17.1095
+36,"Province of Matera",40.4533,16.4876
+37,"Province of Cosenza",39.5555,16.3123
+38,"Province of Crotone",39.1644,16.9491
+39,"Province of Catanzaro",38.878,16.4736
+40,"Province of Reggio Calabria",38.2363,16.0152
+41,"Province of Vibo Valentia",38.6431,16.1928
+42,"Province of Potenza",40.3331,15.9408
+43,"Province of Salerno",40.4362,15.2189
+44,"Province of Naples",40.8773,14.4226
+45,"Province of Caserta",41.2156,14.1425
+46,"Province of Latina",41.3815,13.0878
+47,"Province of Rome",41.965,12.7308
+48,"Province of Viterbo",42.4299,11.9706
+49,"Province of Grosseto",42.8194,11.2046
+50,"Province of Livorno",43.0601,10.6186
+51,"Province of Pisa",43.5528,10.6759
+52,"Province of Lucca",43.9882,10.4525
+53,"Province of Massa and Carrara",44.2345,10.0285
+54,"Province of La Spezia",44.2108,9.69322
+55,"Liguria",44.4675,9.15064
+56,"Province of Savona",44.2864,8.28916
+57,"Province of Trapani",37.8515,12.704
+58,"Province of Messina",38.0465,14.9117
+59,"Province of Palermo",37.889,13.5583
+60,"Province of Agrigento",37.4522,13.4938
+61,"Province of Caltanissetta",37.223,14.1598
+62,"Province of Ragusa",36.9079,14.6539
+63,"Province of Syracuse",37.0869,15.0549
+64,"Province of Catania",37.5882,14.969
+65,"Province of Carbonia-Iglesias",39.2402,8.57559
+66,"Province of Sassari",40.6361,8.68451
+67,"Province of Nuoro",40.3324,9.40063
+68,"Province of Olbia-Tempio",40.9282,9.28605
+69,"Province of Oristano",40.0001,8.73034
+70,"Province of Medio Campidano",39.5132,8.73034
+71,"Province of Cagliari",39.4502,9.2574
+72,"Province of Ogliastra",39.8913,9.52093
+73,"Province of Enna",37.6598,14.4462
+74,"Benevento Province",41.2325,14.7663
+75,"Province of Asti",44.9236,8.17036
+76,"Province of Bergamo",45.8097,9.77093
+77,"Province of Brescia",45.631,10.3574
+78,"Province of Cremona",45.226,9.99563
+79,"Province of Mantua",45.1396,10.7355
+80,"Province of Milan",45.442,9.1154
+81,"Province of Lecco",45.7606,9.36921
+82,"Province of Monza and Brianza",45.6256,9.2774
+83,"Province of Lodi",45.253,9.54741
+84,"Province of Siena",43.2205,11.4207
+85,"Province of Arezzo",43.5298,11.7758
+86,"Province of Florence",43.7304,11.3233
+87,"Province of Vercelli",45.8416,8.15956
+88,"Province of Pavia",45.1396,9.2558
+89,"Province of Rieti",42.3382,12.9445
+90,"Province of Novara",45.5878,8.53757
+91,"Province of Alessandria",44.8102,8.74818
+92,"Trentino",46.0415,10.9947
+93,"Province of Vicenza",45.712,11.4753
+94,"Province of Verona",45.4528,11.0433
+95,"Province of Treviso",45.8092,12.2313
+96,"Province of Piacenza",44.8704,9.58167
+97,"Province of Parma",44.6355,10.04
+98,"Province of Reggio Emilia",44.6699,10.6186
+99,"Province of Modena",44.4311,10.8516
+100,"Province of Bologna",44.3949,11.4149
+101,"Province of Pistoia",43.9481,10.8592
+102,"Province of Terni",42.5788,12.4862
+103,"Province of Perugia",43.1011,12.4925
+104,"Province of Frosinone",41.6106,13.5575
+105,"Province of Avellino",40.9404,15.1044
+106,"Province of L'Aquila",42.0575,13.6034
+107,"Province of Pordenone",46.2122,12.6981
+108,"Province of Isernia",41.645,14.2393
+109,"Province of Biella",45.5932,8.08936
+110,"Province of Prato",43.8965,11.0826
