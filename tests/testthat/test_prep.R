@@ -70,7 +70,7 @@ test_that("good topojson",{
     topojsonFile <- system.file(topojsonPath, package = "geodata")
     topojson_exists <- file.exists(topojsonFile)
   }) %>% purrr::keep(isFALSE)
-  expect_true(length(missingTopojson) == 217)
+  expect_true(length(missingTopojson) == 0)
   # 217 are the newly added countries that so far don't have topojson-files as they need to be added manually
 
   dm <- geodataMeta(load_data = TRUE)
