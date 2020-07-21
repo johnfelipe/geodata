@@ -71,7 +71,6 @@ test_that("good topojson",{
     topojson_exists <- file.exists(topojsonFile)
   }) %>% purrr::keep(isFALSE)
   expect_true(length(missingTopojson) == 0)
-  # 217 are the newly added countries that so far don't have topojson-files as they need to be added manually
 
   dm <- geodataMeta(load_data = TRUE)
 
@@ -87,7 +86,7 @@ test_that("good topojson",{
   })
 
   tpdata_names <- tpdata[names(tpdata) != "col_municipalities"] %>% purrr::map(names) %>% purrr::reduce(intersect)
-  expect_equal(tpdata_names, c("id","name"))
+  expect_equal(tpdata_names, c("id"))
 })
 
 
