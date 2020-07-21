@@ -1,82 +1,82 @@
 "id","name","lat","lon"
-1,"Ardahan Province",41.1809,42.8342
-2,"Artvin Province",41.0175,41.8331
-3,"Şırnak Province",37.4047,42.5455
-4,"Hakkâri Province",37.6097,44.0804
-5,"Iğdır Province",39.811,44.0317
-6,"Ağrı Province",39.5925,43.3647
-7,"Van Province",38.5212,43.5684
-8,"Kırklareli Province",41.6201,27.4916
-9,"Edirne Province",40.9579,26.4697
-10,"Kars Province",40.3671,43.074
-11,"Mardin Province",37.4282,40.9525
-12,"Şanlıurfa Province",37.3189,39.0508
-13,"Kilis Province",36.8329,37.0035
-14,"Gaziantep Province",36.9988,37.2462
-15,"Hatay Province",36.4876,36.2284
-16,"Istanbul Province",41.1285,28.8463
-17,"Tekirdağ Province",41.0824,27.4547
-18,"Çanakkale Province",40.0553,26.8233
-19,"Rize Province",40.9466,40.8691
-20,"Trabzon Province",40.7988,39.8034
-21,"Giresun Province",40.5379,38.6055
-22,"Ordu Province",40.8376,37.4229
-23,"Samsun Province",41.2761,36.0198
-24,"Sinop Province",41.5894,34.8226
-25,"Kastamonu Province",41.5114,33.6356
-26,"Bartın Province",41.5857,32.4688
-27,"Zonguldak Province",41.2481,31.8206
-28,"Düzce Province",40.8631,31.3231
-29,"Sakarya Province",40.6596,30.4439
-30,"Kocaeli Province",40.9008,29.9396
-31,"Yalova Province",40.6154,29.2036
-32,"Bursa Province",40.1314,29.0593
-33,"Balıkesir Province",39.7193,27.8355
-34,"Izmir Province",38.2426,27.3977
-35,"Aydın Province",37.7292,27.9573
-36,"Muğla Province",37.0501,28.6482
-37,"Antalya Province",37.1141,30.9564
-38,"Mersin Province",36.6614,33.8268
-39,"Adana Province",37.4006,35.7555
-40,"Bolu Province",40.5854,31.6806
-41,"Ankara Province",39.829,32.578
-42,"Bilecik Province",40.0387,30.2002
-43,"Eskişehir Province",39.6297,31.0894
-44,"Çankırı Province",40.7087,33.2142
-45,"Karabük Province",41.2347,32.5067
-46,"Tokat Province",40.4442,36.5724
-47,"Sivas Province",39.429,37.2907
-48,"Çorum Province",40.6149,34.711
-49,"Amasya Province",40.6379,35.7627
-50,"Kütahya Province",39.3471,29.5498
-51,"Konya Province",38.04,32.469
-52,"Karaman Province",37.2262,33.3026
-53,"Niğde Province",37.8966,34.7093
-54,"Kayseri Province",38.7168,35.9256
-55,"Isparta Province",37.8923,30.818
-56,"Manisa Province",38.7115,28.1324
-57,"Denizli Province",37.7539,29.2821
-58,"Burdur Province",37.5001,30.1627
-59,"Aksaray Province",38.3566,33.8772
-60,"Nevşehir Province",38.7415,34.6408
-61,"Yozgat Province",39.5476,35.1328
-62,"Kırşehir Province",39.3548,34.1308
-63,"Uşak Province",38.4942,29.3636
-64,"Erzincan Province",39.6874,39.5121
-65,"Tunceli Province",39.1519,39.6357
-66,"Afyonkarahisar Province",38.6784,30.6938
-67,"Kırıkkale Province",39.9011,33.778
-68,"Kahramanmaraş Province",37.9278,37.0013
-69,"Muş Province",38.9124,41.9034
-70,"Erzurum Province",39.9678,41.403
-71,"Malatya Province",38.5144,38.1872
-72,"Elazığ Province",38.5718,39.3702
-73,"Bitlis Province",38.5155,42.3462
-74,"Bingöl Province",39.0743,40.646
-75,"Osmaniye Province",37.1737,36.3011
-76,"Adıyaman Province",37.8102,38.339
-77,"Diyarbakır Province",38.0261,40.2706
-78,"Batman Province",37.7343,41.4262
-79,"Siirt Province",37.9159,42.2212
-80,"Bayburt Province",40.2859,40.3056
-81,"Gümüşhane Province",40.2812,39.3544
+1,"Ardahan",41.1809,42.8342
+2,"Artvin",41.0175,41.8331
+3,"Sirnak",37.4047,42.5455
+4,"Hakkari",37.6097,44.0804
+5,"Igdir",39.811,44.0317
+6,"Agri",39.5925,43.3647
+7,"Van",38.5212,43.5684
+8,"Kirklareli",41.6201,27.4916
+9,"Edirne",40.9579,26.4697
+10,"Kars",40.3671,43.074
+11,"Mardin",37.4282,40.9525
+12,"Sanliurfa",37.3189,39.0508
+13,"Kilis",36.8329,37.0035
+14,"Gaziantep",36.9988,37.2462
+15,"Hatay",36.4876,36.2284
+16,"Istanbul",41.1285,28.8463
+17,"Tekirdag",41.0824,27.4547
+18,"Canakkale",40.0553,26.8233
+19,"Rize",40.9466,40.8691
+20,"Trabzon",40.7988,39.8034
+21,"Giresun",40.5379,38.6055
+22,"Ordu",40.8376,37.4229
+23,"Samsun",41.2761,36.0198
+24,"Sinop",41.5894,34.8226
+25,"Kastamonu",41.5114,33.6356
+26,"Bartin",41.5857,32.4688
+27,"Zonguldak",41.2481,31.8206
+28,"Duezce",40.8631,31.3231
+29,"Sakarya",40.6596,30.4439
+30,"Kocaeli",40.9008,29.9396
+31,"Yalova",40.6154,29.2036
+32,"Bursa",40.1314,29.0593
+33,"Balikesir",39.7193,27.8355
+34,"Izmir",38.2426,27.3977
+35,"Aydin",37.7292,27.9573
+36,"Mugla",37.0501,28.6482
+37,"Antalya",37.1141,30.9564
+38,"Icel",36.6614,33.8268
+39,"Adana",37.4006,35.7555
+40,"Bolu",40.5854,31.6806
+41,"Ankara",39.829,32.578
+42,"Bilecik",40.0387,30.2002
+43,"Eskisehir",39.6297,31.0894
+44,"Cankiri",40.7087,33.2142
+45,"Karabuek",41.2347,32.5067
+46,"Tokat",40.4442,36.5724
+47,"Sivas",39.429,37.2907
+48,"Corum",40.6149,34.711
+49,"Amasya",40.6379,35.7627
+50,"Kuetahya",39.3471,29.5498
+51,"Konya",38.04,32.469
+52,"Karaman",37.2262,33.3026
+53,"Nigde",37.8966,34.7093
+54,"Kayseri",38.7168,35.9256
+55,"Isparta",37.8923,30.818
+56,"Manisa",38.7115,28.1324
+57,"Denizli",37.7539,29.2821
+58,"Burdur",37.5001,30.1627
+59,"Aksaray",38.3566,33.8772
+60,"Nevsehir",38.7415,34.6408
+61,"Yozgat",39.5476,35.1328
+62,"Kirsehir",39.3548,34.1308
+63,"Usak",38.4942,29.3636
+64,"Erzincan",39.6874,39.5121
+65,"Tunceli",39.1519,39.6357
+66,"Afyonkarahisar",38.6784,30.6938
+67,"Kirikkale",39.9011,33.778
+68,"Kahramanmaras",37.9278,37.0013
+69,"Mus",38.9124,41.9034
+70,"Erzurum",39.9678,41.403
+71,"Malatya",38.5144,38.1872
+72,"Elazig",38.5718,39.3702
+73,"Bitlis",38.5155,42.3462
+74,"Bingoel",39.0743,40.646
+75,"Osmaniye",37.1737,36.3011
+76,"Adiyaman",37.8102,38.339
+77,"Diyarbakir",38.0261,40.2706
+78,"Batman",37.7343,41.4262
+79,"Siirt",37.9159,42.2212
+80,"Bayburt",40.2859,40.3056
+81,"Guemueshane",40.2812,39.3544

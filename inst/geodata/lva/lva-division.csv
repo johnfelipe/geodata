@@ -1,120 +1,120 @@
 "id","name","lat","lon"
-1,"Valmiera",57.8851,25.2607
-2,"Valmiera",57.9137,25.0276
-3,"Aloja Municipality",57.8074,24.8231
-4,"Valmiera",57.926,25.4406
-5,"Salacgrīva Municipality",57.746,24.41
-6,"Valmiera",57.4556,26.4999
+1,"Rujienas Novads",57.8851,25.2607
+2,"Mazsalacas Novads",57.9137,25.0276
+3,"Alojas Novads",57.8074,24.8231
+4,"Nauksenu Novads",57.926,25.4406
+5,"Salacgrivas Novads",57.746,24.41
+6,"Apes Novads",57.4556,26.4999
 7,"Valkas Rajons",57.6587,26.0635
-8,"Alūksne Municipality",57.4151,27.1693
-9,"Viļaka Municipality",57.1775,27.6287
-10,"Baltinava Municipality",56.924,27.6041
-11,"Kārsava Municipality",56.7645,27.6287
-12,"Cibla Municipality",56.6132,27.8618
-13,"Ludza Municipality",56.4059,27.796
-14,"Zilupe Municipality",56.3391,28.1072
-15,"Nereta Municipality",56.3246,25.1056
-16,"Viesīte Municipality",56.2901,25.5306
-17,"Vecumnieki Municipality",56.4823,24.6268
-18,"Saldus Municipality",56.6408,22.4024
-19,"Rucava Municipality",56.2259,21.2115
-20,"Priekule Municipality",56.4189,21.555
-21,"Vaiņode Municipality",56.432,21.8331
-22,"Auce Municipality",56.4782,22.9664
-23,"Bauska Municipality",56.4223,24.269
-24,"Tērvete Municipality",56.425,23.314
+8,"Aluksnes Rajons",57.4151,27.1693
+9,"Vilakas Novads",57.1775,27.6287
+10,"Baltinavas Novads",56.924,27.6041
+11,"Karsavas Novads",56.7645,27.6287
+12,"Ciblas Novads",56.6132,27.8618
+13,"Ludzas Rajons",56.4059,27.796
+14,"Zilupes Novads",56.3391,28.1072
+15,"Neretas Novads",56.3246,25.1056
+16,"Viesites Novads",56.2901,25.5306
+17,"Vecumnieku Novads",56.4823,24.6268
+18,"Saldus Rajons",56.6408,22.4024
+19,"Rucavas Novads",56.2259,21.2115
+20,"Priekules Novads",56.4189,21.555
+21,"Vainodes Novads",56.432,21.8331
+22,"Auces Novads",56.4782,22.9664
+23,"Bauskas Rajons",56.4223,24.269
+24,"Tervetes Novads",56.425,23.314
 25,"Jelgavas Rajons",56.4939,23.6461
-26,"Rundāle Municipality",56.4087,23.9643
-27,"Aknīste Municipality",56.1592,25.7883
-28,"Ilūkste Municipality",55.9997,26.1768
+26,"Rundales Novads",56.4087,23.9643
+27,"Aknistes Novads",56.1592,25.7883
+28,"Ilukstes Novads",55.9997,26.1768
 29,"Daugavpils",56.043,26.589
-30,"Dagda Municipality",56.1183,27.6246
-31,"Krāslava Municipality",55.9319,27.3415
-32,"Nīca Municipality",56.3535,21.0871
-33,"Liepāja",56.5616,21.0399
-34,"Grobiņa Municipality",56.4778,21.2507
-35,"Pāvilosta Municipality",56.8115,21.2474
+30,"Dagdas Novads",56.1183,27.6246
+31,"Kraslavas Rajons",55.9319,27.3415
+32,"Nicas Novads",56.3535,21.0871
+33,"Liepaja",56.5616,21.0399
+34,"Grobinas Novads",56.4778,21.2507
+35,"Pavilostas Novads",56.8115,21.2474
 36,"Ventspils Rajons",57.3367,21.8185
 37,"Ventspils",57.396,21.5869
-38,"Dundaga Municipality",57.5837,22.4057
-39,"Roja Municipality",57.4888,22.7688
-40,"Talsi Municipality",57.317,22.6192
-41,"Mērsrags Municipality",57.3317,23.0567
-42,"Engure Municipality",57.0017,23.3222
-43,"Jūrmala",56.9608,23.7352
+38,"Dundagas Novads",57.5837,22.4057
+39,"Rojas Novads",57.4888,22.7688
+40,"Talsu Rajons",57.317,22.6192
+41,"Mersraga Novads",57.3317,23.0567
+42,"Engures Novads",57.0017,23.3222
+43,"Jurmala",56.9608,23.7352
 44,"Riga",56.9878,24.1235
-45,"Carnikava Municipality",57.1203,24.2464
-46,"Saulkrasti Municipality",57.2552,24.4305
-47,"Limbaži Municipality",57.5879,24.6925
-48,"Valmiera",57.4025,26.0091
-49,"Balvi Municipality",57.0151,27.4348
-50,"Valmiera",57.6356,25.7924
-51,"Valmiera",57.5293,25.592
-52,"Valmiera",57.6809,25.3393
-53,"Valmiera",57.5415,25.2116
-54,"Rēzekne",56.3554,27.2633
-55,"Valmiera",57.108,25.7024
-56,"Valmiera",57.3411,25.641
-57,"Valmiera",57.3657,25.4447
-58,"Valmiera",57.3575,25.0767
-59,"Krimulda Municipality",57.2798,24.7863
-60,"Gulbene Municipality",57.1723,26.5803
-61,"Rugāji Municipality",56.9853,27.1093
-62,"Valmiera",57.1448,26.0091
-63,"Aglona Municipality",56.0979,27.0929
-64,"Riebiņi Municipality",56.3637,26.8189
+45,"Carnikavas Novads",57.1203,24.2464
+46,"Saulkrastu Novads",57.2552,24.4305
+47,"Limbazu Rajons",57.5879,24.6925
+48,"Smiltenes Novads",57.4025,26.0091
+49,"Balvu Rajons",57.0151,27.4348
+50,"Strencu Novads",57.6356,25.7924
+51,"Beverinas Novads",57.5293,25.592
+52,"Burtnieku Novads",57.6809,25.3393
+53,"Kocenu Novads",57.5415,25.2116
+54,"Rezeknes Rajons",56.3554,27.2633
+55,"Vecpiebalgas Novads",57.108,25.7024
+56,"Raunas Novads",57.3411,25.641
+57,"Priekulu Novads",57.3657,25.4447
+58,"Pargaujas Novads",57.3575,25.0767
+59,"Krimuldas Novads",57.2798,24.7863
+60,"Gulbenes Rajons",57.1723,26.5803
+61,"Rugaju Novads",56.9853,27.1093
+62,"Jaunpiebalgas Novads",57.1448,26.0091
+63,"Aglonas Novads",56.0979,27.0929
+64,"Riebinu Novads",56.3637,26.8189
 65,"Vilanu Novads",56.5518,26.8884
-66,"Babīte Municipality",56.8913,23.7639
-67,"Garkalne Municipality",57.0221,24.3875
-68,"Ķekava Municipality",56.8054,24.2628
-69,"Mārupe Municipality",56.8913,23.9438
-70,"Olaine Municipality",56.789,23.9561
-71,"Salaspils Municipality",56.8708,24.365
-72,"Stopiņi Municipality",56.9362,24.3323
-73,"Sēja Municipality",57.198,24.5327
-74,"Mālpils Municipality",57.0017,24.9581
-75,"Sigulda Municipality",57.0998,24.8272
-76,"Madona Municipality",56.805,26.2344
-77,"Valmiera",56.9362,26.7126
-78,"Valmiera",56.6336,26.643
-79,"Valmiera",57.0794,25.3384
-80,"Valmiera",56.8954,25.6656
-81,"Valmiera",57.0099,26.275
-82,"Ogre Municipality",56.8577,25.1269
-83,"Ropaži Municipality",56.9649,24.5818
+66,"Babites Novads",56.8913,23.7639
+67,"Garkalnes Novads",57.0221,24.3875
+68,"Kekavas Novads",56.8054,24.2628
+69,"Marupes Novads",56.8913,23.9438
+70,"Olaines Novads",56.789,23.9561
+71,"Salaspils Novads",56.8708,24.365
+72,"Stopinu Novads",56.9362,24.3323
+73,"Sejas Novads",57.198,24.5327
+74,"Malpils Novads",57.0017,24.9581
+75,"Siguldas Novads",57.0998,24.8272
+76,"Madonas Rajons",56.805,26.2344
+77,"Lubanas Novads",56.9362,26.7126
+78,"Varaklanu Novads",56.6336,26.643
+79,"Amatas Novads",57.0794,25.3384
+80,"Erglu Novads",56.8954,25.6656
+81,"Cesvaines Novads",57.0099,26.275
+82,"Ogres Rajons",56.8577,25.1269
+83,"Ropazu Novads",56.9649,24.5818
 84,"Ikskiles Novads",56.8545,24.5695
-85,"Baldone Municipality",56.7316,24.3555
-86,"Ķegums Municipality",56.6541,24.729
-87,"Iecava Municipality",56.6132,24.2055
-88,"Pļaviņas Municipality",56.6868,25.731
-89,"Koknese Municipality",56.7031,25.4447
-90,"Aizkraukle Municipality",56.6459,25.228
-91,"Skrīveri Municipality",56.6786,25.0971
-92,"Lielvārde Municipality",56.7332,24.9523
-93,"Jaunjelgava Municipality",56.5109,25.3016
-94,"Preiļi Municipality",56.2674,26.696
-95,"Līvāni Municipality",56.3841,26.324
-96,"Vārkava Municipality",56.2165,26.5122
-97,"Jēkabpils",56.3227,25.9607
-98,"Krustpils Municipality",56.5559,26.1972
-99,"Sala Municipality",56.4905,25.7187
-100,"Aizpute Municipality",56.7232,21.5943
-101,"Kuldīga Municipality",56.9626,21.9858
-102,"Alsunga Municipality",56.9915,21.5583
-103,"Skrunda Municipality",56.6446,21.9901
-104,"Kandava Municipality",56.9403,22.6964
-105,"Tukums Municipality",56.9505,23.0121
-106,"Dobele Municipality",56.6172,23.2005
-107,"Jaunpils Municipality",56.7686,22.9132
-108,"Brocēni Municipality",56.7003,22.6412
-109,"Ozolnieki Municipality",56.6377,23.9479
+85,"Baldones Novads",56.7316,24.3555
+86,"Keguma Novads",56.6541,24.729
+87,"Iecavas Novads",56.6132,24.2055
+88,"Plavinu Novads",56.6868,25.731
+89,"Kokneses Novads",56.7031,25.4447
+90,"Aizkraukles Rajons",56.6459,25.228
+91,"Skriveru Novads",56.6786,25.0971
+92,"Lielvardes Novads",56.7332,24.9523
+93,"Jaunjelgavas Novads",56.5109,25.3016
+94,"Preilu Rajons",56.2674,26.696
+95,"Livanu Novads",56.3841,26.324
+96,"Varkavas Novads",56.2165,26.5122
+97,"Jekabpils Rajons",56.3227,25.9607
+98,"Krustpils Novads",56.5559,26.1972
+99,"Salas Novads",56.4905,25.7187
+100,"Aizputes Novads",56.7232,21.5943
+101,"Kuldigas Rajons",56.9626,21.9858
+102,"Alsungas Novads",56.9915,21.5583
+103,"Skrundas Novads",56.6446,21.9901
+104,"Kandavas Novads",56.9403,22.6964
+105,"Tukuma Rajons",56.9505,23.0121
+106,"Dobeles Rajons",56.6172,23.2005
+107,"Jaunpils Novads",56.7686,22.9132
+108,"Brocenu Novads",56.7003,22.6412
+109,"Ozolnieku Novads",56.6377,23.9479
 110,"Jelgava",56.6457,23.7011
-111,"Daugavpils",55.8814,26.5517
-112,"Rēzekne",56.516,27.3335
-113,"Durbe Municipality",56.6142,21.4069
-114,"Inčukalns Municipality",57.0998,24.635
-115,"Ādaži Municipality",57.108,24.3855
-116,"Valmiera",57.5374,25.4161
-117,"Cēsis Municipality",57.2396,25.4307
-118,"Valmiera",57.1775,25.0726
-119,"Jēkabpils",56.5068,25.8619
+111,"Daugavpils municipality",55.8814,26.5517
+112,"Rezekne",56.516,27.3335
+113,"Durbes Novads",56.6142,21.4069
+114,"Incukalna Novads",57.0998,24.635
+115,"Adazu Novads",57.108,24.3855
+116,"Valmieras Rajons",57.5374,25.4161
+117,"Cesu Rajons",57.2396,25.4307
+118,"Ligatnes Novads",57.1775,25.0726
+119,"Jekabpils",56.5068,25.8619

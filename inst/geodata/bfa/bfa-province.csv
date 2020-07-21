@@ -1,46 +1,46 @@
 "id","name","lat","lon"
-1,"Tapoa Province",12.0191,1.79465
-2,"Kompienga Province",11.4519,0.898878
-3,"Léraba Province",10.5879,-5.2352
-4,"Comoé Province",10.2156,-4.41757
-5,"Poni Province",10.251,-3.34011
-6,"Noumbiel Province",10.251,-3.34011
-7,"Oudalan Province",14.5769,-0.411597
-8,"Soum Province",14.2352,-1.31801
-9,"Loroum Province",13.8724,-2.07087
-10,"Yatenga Province",13.6813,-2.32529
-11,"Sourou Province",13.2875,-2.95968
-12,"Kossi Province",12.9587,-3.88894
-13,"Banwa Province",12.1648,-4.10849
-14,"Houet Province",11.3355,-4.18998
-15,"Kénédougou Province",11.4128,-5.02728
-16,"Séno Province",13.8673,-0.07114
-17,"Yagha Province",13.3228,0.664784
-18,"Komondjari Province",12.6971,0.775979
-19,"Koulpélogo Province",11.4079,0.204257
-20,"Boulgou",11.4767,-0.43666
+1,"Province de la Tapoa",12.0191,1.79465
+2,"Province de la Kompienga",11.4519,0.898878
+3,"Province de la Leraba",10.5879,-5.2352
+4,"Province de la Comoe",10.2156,-4.41757
+5,"Province du Poni",10.251,-3.34011
+6,"unknown",10.251,-3.34011
+7,"Province de l' Oudalan",14.5769,-0.411597
+8,"Province du Soum",14.2352,-1.31801
+9,"Province du Loroum",13.8724,-2.07087
+10,"Province du Yatenga",13.6813,-2.32529
+11,"Province du Sourou",13.2875,-2.95968
+12,"Province de la Kossi",12.9587,-3.88894
+13,"Province des Banwa",12.1648,-4.10849
+14,"Province du Houet",11.3355,-4.18998
+15,"Province du Kenedougou",11.4128,-5.02728
+16,"Province du Seno",13.8673,-0.07114
+17,"Province du Yagha",13.3228,0.664784
+18,"Province de la Komandjoari",12.6971,0.775979
+19,"Province du Koulpelogo",11.4079,0.204257
+20,"Province du Boulgou",11.4767,-0.43666
 21,"Nahouri Province",11.2028,-1.16782
-22,"Sissili Province",11.1806,-2.10887
-23,"Ioba Province",11.0116,-2.96967
-24,"Balé Province",11.8279,-3.06879
-25,"Sanguié Province",12.2508,-2.57298
-26,"Tuy Province",11.3659,-3.40955
-27,"Bougouriba Province",10.8979,-3.42349
-28,"Mouhoun",12.3486,-3.38675
+22,"Province de la Sissili",11.1806,-2.10887
+23,"Province du Ioba",11.0116,-2.96967
+24,"Province des Bale",11.8279,-3.06879
+25,"Province du Sanguie",12.2508,-2.57298
+26,"Province du Tuy",11.3659,-3.40955
+27,"Province de la Bougouriba",10.8979,-3.42349
+28,"Province du Mouhoun",12.3486,-3.38675
 29,"Kouritenga Province",12.1587,-0.291527
-30,"Ganzourgou Province",12.2052,-0.768604
-31,"Zoundwéogo Province",11.5711,-0.940234
-32,"Ziro Province",11.6131,-1.83187
-33,"Boulkiemdé Province",12.3143,-2.13572
+30,"Province du Ganzourgou",12.2052,-0.768604
+31,"Zoundweogo Province",11.5711,-0.940234
+32,"Province du Ziro",11.6131,-1.83187
+33,"Province du Boulkiemde",12.3143,-2.13572
 34,"Kadiogo Province",12.3267,-1.4662
-35,"Oubritenga Province",12.6477,-1.28565
-36,"Gourma Province",12.0677,0.610382
+35,"Province d' Oubritenga",12.6477,-1.28565
+36,"Province du Gourma",12.0677,0.610382
 37,"Gnagna Province",12.9057,0.115257
-38,"Bazèga Province",11.9332,-1.46488
-39,"Kourwéogo Province",12.3933,-1.8367
-40,"Nayala Province",12.6594,-3.03318
-41,"Passoré Province",12.8734,-2.10662
-42,"Zondoma Province",13.1939,-2.38127
-43,"Namentenga Province",13.1697,-0.504021
-44,"Sanmatenga Province",13.227,-1.08045
-45,"Bam Province",13.4455,-1.57778
+38,"Bazega Province",11.9332,-1.46488
+39,"Province du Kourweogo",12.3933,-1.8367
+40,"Province du Nayala",12.6594,-3.03318
+41,"Province du Passore",12.8734,-2.10662
+42,"Province du Zondoma",13.1939,-2.38127
+43,"Province du Namentenga",13.1697,-0.504021
+44,"Province du Sanmatenga",13.227,-1.08045
+45,"Province du Bam",13.4455,-1.57778

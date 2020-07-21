@@ -1,15 +1,15 @@
 "id","name","lat","lon"
-1,"West Macedonia Region",40.3834,21.4551
-2,"Epirus Region",39.6365,20.6925
+1,"West Macedonia",40.3834,21.4551
+2,"Epirus",39.6365,20.6925
 3,"Central Macedonia",40.8836,22.8519
 4,"East Macedonia and Thrace",41.1043,25.2076
 5,"Mount Athos",40.2922,24.1925
 6,"Thessaly",39.5322,22.1914
-7,"Central Greece Region",38.6373,22.6102
-8,"Attica Region",38.0626,23.7997
-9,"Peloponnese Region",37.3319,22.3501
-10,"West Greece Region",38.0299,21.7273
+7,"Central Greece",38.6373,22.6102
+8,"Attica",38.0626,23.7997
+9,"Peloponnese",37.3319,22.3501
+10,"West Greece",38.0299,21.7273
 11,"Crete",35.1921,25.0652
 12,"South Aegean",37.0538,25.4867
-13,"North Aegean Region",39.9531,25.2262
-14,"Ionian Islands Region",38.2419,20.5554
+13,"North Aegean",39.9531,25.2262
+14,"Ionian Islands",38.2419,20.5554

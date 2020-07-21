@@ -1,64 +1,64 @@
 "id","name","lat","lon"
-1,"Kon Tum",14.7451,107.969
-2,"Đắk Nông",12.1425,107.66
-3,"Đắk Lắk",12.7691,108.133
-4,"Gia Lai",13.8493,108.156
-5,"Binh Phuoc",11.6805,106.897
-6,"Tay Ninh Province",11.4121,106.14
-7,"Long An",10.6869,106.134
-8,"Dong Thap Province",10.6644,105.586
-9,"An Giang",10.5736,105.154
-10,"Kien Giang",9.85962,105.284
-11,"Điện Biên",21.7487,103.226
-12,"Sơn La",21.3011,104.159
-13,"Thanh Hóa",20.0917,105.215
-14,"Nghệ An",19.3548,104.827
-15,"Ha Tinh",18.3563,105.799
-16,"Quảng Bình",17.4691,106.357
-17,"Quảng Trị",16.7204,106.973
-18,"Thừa Thiên-Huế",16.312,107.634
-19,"Quảng Nam",15.6535,107.955
-20,"Ha Giang",22.7655,104.965
-21,"Cao Bang",22.7595,106.047
-22,"Lao Cai",22.3559,104.096
-23,"Lai Chau",22.3502,103.255
-24,"Lạng Sơn",21.7826,106.724
-25,"Quảng Ninh",21.223,107.181
-26,"Sóc Trăng",9.5614,105.9
-27,"Tiền Giang",10.4581,106.217
-28,"Ba Ria-Vung Tau",10.3969,107.143
-29,"Ho Chi Minh City",10.409,106.926
-30,"Khanh Hoa",12.6049,109.359
-31,"Ca Mau",9.05545,105.073
-32,"Bac Lieu",9.33941,105.573
+1,"Tinh Kon Tum",14.7451,107.969
+2,"Dak Nong",12.1425,107.66
+3,"Tinh Dak Lak",12.7691,108.133
+4,"Tinh Gia Lai",13.8493,108.156
+5,"Tinh Binh Phuoc",11.6805,106.897
+6,"Tinh Tay Ninh",11.4121,106.14
+7,"Tinh Long An",10.6869,106.134
+8,"Tinh Dong Thap",10.6644,105.586
+9,"Tinh An Giang",10.5736,105.154
+10,"Tinh Kien Giang",9.85962,105.284
+11,"Huyen Dien Bien",21.7487,103.226
+12,"Tinh Son La",21.3011,104.159
+13,"Tinh Thanh Hoa",20.0917,105.215
+14,"Tinh Nghe An",19.3548,104.827
+15,"Tinh Ha Tinh",18.3563,105.799
+16,"Tinh Quang Binh",17.4691,106.357
+17,"Tinh Quang Tri",16.7204,106.973
+18,"Tinh Thua Thien-Hue",16.312,107.634
+19,"Tinh Quang Nam",15.6535,107.955
+20,"Tinh Ha Giang",22.7655,104.965
+21,"Tinh Cao Bang",22.7595,106.047
+22,"Tinh Lao Cai",22.3559,104.096
+23,"Tinh Lai Chau",22.3502,103.255
+24,"Tinh Lang Son",21.7826,106.724
+25,"Tinh Quang Ninh",21.223,107.181
+26,"Tinh Soc Trang",9.5614,105.9
+27,"Tinh Tien Giang",10.4581,106.217
+28,"Tinh Ba Ria-Vung Tau",10.3969,107.143
+29,"Thanh pho Ho Chi Minh",10.409,106.926
+30,"Tinh Khanh Hoa",12.6049,109.359
+31,"Tinh Ca Mau",9.05545,105.073
+32,"Tinh Bac Lieu",9.33941,105.573
 33,"Hau Giang",9.84353,105.663
-34,"Vĩnh Long",10.1042,105.969
-35,"Trà Vinh",9.82817,106.289
-36,"Ben Tre",10.171,106.496
+34,"Tinh Vinh Long",10.1042,105.969
+35,"Tinh Tra Vinh",9.82817,106.289
+36,"Tinh Ben Tre",10.171,106.496
 37,"Tinh Dong Nai",11.1258,107.178
-38,"Binh Thuan",11.1284,108.232
-39,"Ninh Thuận",11.6242,108.925
-40,"Phú Yên",13.1647,109.064
-41,"Binh Dinh",14.1075,108.971
-42,"Quảng Ngãi",14.9971,108.686
-43,"Da Nang",16.0912,108.102
-44,"Ninh Bình",20.2722,105.852
-45,"Nam Định",20.2343,106.254
-46,"Thái Bình",20.5303,106.371
-47,"Haiphong",20.79,106.635
-48,"Hoa Binh",20.7292,105.34
-49,"Tuyên Quang",22.131,105.229
-50,"Yên Bái",21.7484,104.512
-51,"Vĩnh Phúc",21.3455,105.549
-52,"Phú Thọ",21.3127,105.143
-53,"Hanoi",21.1306,105.872
-54,"Northeast Vietnam",22.1476,105.874
+38,"Tinh Binh Thuan",11.1284,108.232
+39,"Tinh Ninh Thuan",11.6242,108.925
+40,"Tinh Phu Yen",13.1647,109.064
+41,"Tinh Binh Dinh",14.1075,108.971
+42,"Tinh Quang Ngai",14.9971,108.686
+43,"Thanh Pho Da Nang",16.0912,108.102
+44,"Tinh Ninh Binh",20.2722,105.852
+45,"Tinh Nam Dinh",20.2343,106.254
+46,"Tinh Thai Binh",20.5303,106.371
+47,"Thanh Pho Hai Phong",20.79,106.635
+48,"Tinh Hoa Binh",20.7292,105.34
+49,"Tinh Tuyen Quang",22.131,105.229
+50,"Tinh Yen Bai",21.7484,104.512
+51,"Tinh Vinh Phuc",21.3455,105.549
+52,"Tinh Phu Tho",21.3127,105.143
+53,"Thanh Pho Ha Noi",21.1306,105.872
+54,"Tinh Bac Kan",22.1476,105.874
 55,"Tinh Hung Yen",20.8085,106.076
-56,"Bac Ninh",21.098,106.117
-57,"Bac Giang",21.3512,106.493
-58,"Thái Nguyên",21.5812,105.887
-59,"Hai Duong",20.9613,106.364
-60,"Ha Nam",20.5569,105.985
-61,"Binh Duong",11.1382,106.659
-62,"Lâm Đồng",11.5362,108
-63,"Can Tho",10.2421,105.685
+56,"Tinh Bac Ninh",21.098,106.117
+57,"Tinh Bac Giang",21.3512,106.493
+58,"Tinh Thai Nguyen",21.5812,105.887
+59,"Tinh Hai Duong",20.9613,106.364
+60,"Tinh Ha Nam",20.5569,105.985
+61,"Tinh Binh Duong",11.1382,106.659
+62,"Tinh Lam Dong",11.5362,108
+63,"Thanh Pho Can Tho",10.2421,105.685

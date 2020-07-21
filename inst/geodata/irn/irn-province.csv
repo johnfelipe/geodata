@@ -1,32 +1,32 @@
 "id","name","lat","lon"
-1,"West Azarbaijan Province",36.6666,45.6734
-2,"East Azerbaijan Province",37.8501,46.7723
-3,"Ardabil Province",38.9113,47.7241
-4,"Gilan Province",37.0503,49.5162
-5,"Kurdistan Province",35.5778,46.8636
-6,"Kermanshah Province",34.2796,46.6893
-7,"Ilam Province",33.2369,46.8116
-8,"Khuzestan Province",31.3484,48.7558
-9,"North Khorasan Province",37.5789,57.0475
-10,"Golestan Province",37.312,55.0042
-11,"Razavi Khorasan Province",35.584,58.7976
-12,"South Khorasan Province",32.4563,59.489
-13,"Sistan and Baluchestan",27.4268,61.0471
-14,"Bushehr Province",28.8273,51.4225
-15,"Hormozgan Province",27.6455,56.2505
-16,"Mazandaran Province",36.231,52.2123
-17,"Semnan Province",35.4243,54.4381
-18,"Zanjan Province",36.3989,48.2959
-19,"Qazvin Province",36.0552,49.6996
-20,"Markazi Province",34.5595,49.964
-21,"Isfahan Province",32.9837,52.4195
-22,"Chaharmahal and Bakhtiari Province",31.9975,50.5298
-23,"Kohgiluyeh and Boyer-Ahmad Province",30.6977,50.7947
-24,"Fars Province",29.4007,53.0793
-25,"Kerman Province",30.1234,56.9567
-26,"Hamadan Province",34.8342,48.5738
-27,"Lorestan Province",33.5323,48.4141
-28,"Yazd Province",32.7074,55.5242
-29,"Qom Province",34.6662,50.978
-30,"Tehran Province",35.5146,51.6548
-31,"Alborz Province",35.9651,50.7848
+1,"Ostan-e Azarbayjan-e Gharbi",36.6666,45.6734
+2,"Ostan-e Azarbayjan-e Sharqi",37.8501,46.7723
+3,"Ostan-e Ardabil",38.9113,47.7241
+4,"Ostan-e Gilan",37.0503,49.5162
+5,"Ostan-e Kordestan",35.5778,46.8636
+6,"Ostan-e Kermanshah",34.2796,46.6893
+7,"Ostan-e Ilam",33.2369,46.8116
+8,"Ostan-e Khuzestan",31.3484,48.7558
+9,"Ostan-e Khorasan-e Shomali",37.5789,57.0475
+10,"Ostan-e Golestan",37.312,55.0042
+11,"Ostan-e Khorasan-e Razavi",35.584,58.7976
+12,"Ostan-e Khorasan-e Jonubi",32.4563,59.489
+13,"Ostan-e Sistan va Baluchestan",27.4268,61.0471
+14,"Ostan-e Bushehr",28.8273,51.4225
+15,"Ostan-e Hormozgan",27.6455,56.2505
+16,"Ostan-e Mazandaran",36.231,52.2123
+17,"Ostan-e Semnan",35.4243,54.4381
+18,"Ostan-e Zanjan",36.3989,48.2959
+19,"Ostan-e Qazvin",36.0552,49.6996
+20,"Ostan-e Markazi",34.5595,49.964
+21,"Ostan-e Esfahan",32.9837,52.4195
+22,"Ostan-e Chahar Mahal va Bakhtiari",31.9975,50.5298
+23,"Ostan-e Kohgiluyeh va Bowyer Ahmad",30.6977,50.7947
+24,"Ostan-e Fars",29.4007,53.0793
+25,"Ostan-e Kerman",30.1234,56.9567
+26,"Ostan-e Hamadan",34.8342,48.5738
+27,"Ostan-e Lorestan",33.5323,48.4141
+28,"Yazd",32.7074,55.5242
+29,"Qom",34.6662,50.978
+30,"Ostan-e Tehran",35.5146,51.6548
+31,"Alborz",35.9651,50.7848

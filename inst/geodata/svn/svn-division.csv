@@ -1,194 +1,194 @@
 "id","name","lat","lon"
-1,"Lendava",46.5693,16.4217
-2,"Črenšovci Municipality",46.5592,16.2936
-3,"Ljutomer Municipality",46.5112,16.1653
-4,"Razkrižje Municipality",46.5269,16.2803
-5,"Ormož",46.4411,16.1469
-6,"Zavrč Municipality",46.3824,16.0599
-7,"Gorišnica Municipality",46.3668,16.0215
-8,"Videm Municipality",46.3704,15.8973
-9,"Podlehnik Municipality",46.3116,15.8719
-10,"Žetale Municipality",46.2837,15.8193
-11,"Rogatec Municipality",46.2383,15.7385
-12,"Rogaška Slatina",46.2433,15.6536
-13,"Bistrica ob Sotli Municipality",46.1454,15.5811
-14,"Podčetrtek Municipality",46.048,15.6501
-15,"Brežice Municipality",45.9082,15.6036
-16,"Municipality of Krško",45.9397,15.4671
-17,"Šentjernej Municipality",45.8143,15.3503
-18,"City Municipality of Novo Mesto",45.7779,15.1945
-19,"Metlika",45.6501,15.2985
-20,"Kostel Municipality",45.4814,14.8204
-21,"Loški Potok Municipality",45.6506,14.6363
-22,"Loška Dolina Municipality",45.6638,14.4776
-23,"Ilirska Bistrica Municipality",45.5678,14.2891
-24,"Črnomelj Municipality",45.5229,15.2135
-25,"Kočevje Municipality",45.6418,14.9161
-26,"Hrpelje–Kozina Municipality",45.5679,13.9929
-27,"Koper City Municipality",45.5076,13.8237
-28,"Piran",45.4801,13.6309
-29,"Moravske Toplice Municipality",46.7159,16.2705
-30,"Šalovci",46.8451,16.2448
-31,"Hodoš Municipality",46.8202,16.3126
-32,"Gornji Petrovci Municipality",46.8091,16.2128
-33,"Kuzma Municipality",46.8461,16.0916
-34,"Dobrovnik Municipality",46.6539,16.3581
-35,"Kobilje Municipality",46.6809,16.3831
-36,"Kranjska Gora Municipality",46.4482,13.8502
-37,"Bovec Municipality",46.3725,13.6184
-38,"Kobarid Municipality",46.2459,13.5507
-39,"Tolmin Municipality",46.1456,13.8136
-40,"Kanal ob Soči",46.1084,13.6455
-41,"Brda Municipality",46.0189,13.5437
-42,"Nova Gorica",45.8796,13.7337
-43,"Šempeter–Vrtojba Municipality",45.9187,13.6431
-44,"Miren–Kostanjevica Municipality",45.8477,13.6373
-45,"Komen",45.8225,13.7382
-46,"Sežana Municipality",45.7319,13.8449
-47,"Rogašovci Municipality",46.799,16.017
-48,"Cankova Municipality",46.7083,16.0462
-49,"Gornja Radgona Municipality",46.6256,15.9663
-50,"Apače Municipality",46.6914,15.8873
-51,"Šentilj Municipality",46.6904,15.713
-52,"Kungota Municipality",46.6527,15.5921
-53,"Maribor City Municipality",46.556,15.6414
-54,"Selnica ob Dravi Municipality",46.5799,15.4976
-55,"Radlje ob Dravi Municipality",46.6029,15.2526
-56,"Muta Municipality",46.6223,15.1348
-57,"Dravograd Municipality",46.5906,15.0226
-58,"Podvelka Municipality",46.6021,15.3569
-59,"Ravne na Koroškem",46.5451,14.9541
-60,"Prevalje Municipality",46.5675,14.8823
-61,"Mežica Municipality",46.5281,14.8493
-62,"Črna na Koroškem Municipality",46.4704,14.819
-63,"Tržič Municipality",46.3883,14.3377
-64,"Žirovnica Municipality",46.4111,14.1816
-65,"Jesenice Municipality",46.4477,14.0702
-66,"Solčava Municipality",46.4114,14.6582
-67,"Jezersko Municipality",46.3897,14.4871
-68,"Izola",45.5153,13.643
-69,"Pesnica Municipality",46.6254,15.7082
-70,"Duplek Municipality",46.512,15.7689
-71,"Miklavž na Dravskem Polju Municipality",46.4853,15.7138
-72,"Hoče–Slivnica Municipality",46.4943,15.6245
-73,"Lenart Municipality",46.5575,15.8548
-74,"Sveta Ana Municipality",46.6459,15.8405
-75,"Lovrenc na Pohorju Municipality",46.5291,15.3869
-76,"Ribnica na Pohorju Municipality",46.5309,15.2558
-77,"Slovenj Gradec City Municipality",46.4914,15.076
-78,"Vuzenica Municipality",46.5669,15.1575
-79,"Preddvor Municipality",46.3286,14.46
-80,"Šenčur Municipality",46.2408,14.4252
-81,"Cerklje na Gorenjskem Municipality",46.2524,14.5061
-82,"Kamnik Municipality",46.2285,14.733
-83,"Medvode Municipality",46.1236,14.3971
-84,"Kranj",46.2382,14.2919
-85,"Škofja Loka Municipality",46.1576,14.2779
-86,"Železniki Municipality",46.2279,14.1184
-87,"Bohinj Municipality",46.2961,13.9538
-88,"Naklo Municipality",46.2932,14.3004
-89,"Radovljica Municipality",46.3361,14.1929
-90,"Šoštanj Municipality",46.4223,14.9905
-91,"Ljubno Municipality",46.3721,14.8415
-92,"Luče Municipality",46.3436,14.7245
-93,"Lukovica Municipality",46.1827,14.7761
-94,"Benedikt Municipality",46.6136,15.8981
-95,"Laško Municipality",46.1404,15.248
-96,"Dobje Municipality",46.1339,15.4056
-97,"Ruše Municipality",46.5156,15.486
-98,"Vodice",46.1726,14.4982
-99,"Komenda Municipality",46.2055,14.5417
-100,"Mengeš Municipality",46.1605,14.552
-101,"Vrhnika Municipality",45.9491,14.2947
-102,"Horjul Municipality",46.0249,14.2917
-103,"Cerkvenjak Municipality",46.5598,15.9531
-104,"Trzin",46.1259,14.5552
-105,"Puconci Municipality",46.7506,16.132
-106,"Grad Municipality",46.7969,16.094
-107,"Murska Sobota City Municipality",46.6532,16.1719
-108,"Sveti Andraž v Slovenskih Goricah Municipality",46.5244,15.9658
-109,"Brezovica Municipality",45.9479,14.4279
-110,"Dobrova–Polhov Gradec Municipality",46.0716,14.3138
-111,"Gorenja Vas–Poljane Municipality",46.1241,14.1223
-112,"Logatec Municipality",45.9399,14.1998
-113,"Trnovska Vas Municipality",46.523,15.8943
-114,"Destrnik Municipality",46.4767,15.8853
-115,"Rače–Fram Municipality",46.4507,15.6401
-116,"Starše Municipality",46.4544,15.7678
-117,"Vransko",46.2348,14.9474
-118,"Velenje City Municipality",46.3749,15.1364
-119,"Polzela Municipality",46.3034,15.087
-120,"Šmartno ob Paki Municipality",46.3421,15.0326
-121,"Mozirje Municipality",46.3593,14.9377
-122,"Vitanje",46.4073,15.2954
-123,"Vojnik Municipality",46.3188,15.31
-124,"Zreče Municipality",46.3914,15.3705
-125,"Mislinja",46.4442,15.2253
-126,"Zagorje ob Savi Municipality",46.1454,14.924
-127,"Litija Municipality",46.0752,14.9182
-128,"Gornji Grad Municipality",46.2972,14.7905
-129,"Cerknica Municipality",45.7886,14.3817
-130,"Velike Lašče Municipality",45.8446,14.5889
-131,"Borovnica Municipality",45.9095,14.3756
-132,"Postojna Municipality",45.7924,14.1802
-133,"Pivka Municipality",45.6834,14.2444
-134,"Dobrna Municipality",46.3552,15.2299
-135,"City Municipality of Celje",46.2398,15.2874
-136,"Nazarje Municipality",46.2864,14.9127
-137,"Domžale Municipality",46.1493,14.6294
-138,"Ivančna Gorica Municipality",45.9017,14.8211
-139,"Ljubljana City Municipality",46.0616,14.5799
-140,"Šmartno pri Litiji",46.0231,14.8692
-141,"Ig Municipality",45.9398,14.5158
-142,"Dol pri Ljubljani Municipality",46.0996,14.6741
-143,"Prebold Municipality",46.2214,15.0943
-144,"Moravče Municipality",46.1337,14.7576
-145,"Dobrepolje Municipality",45.8342,14.7253
-146,"Radeče",46.0658,15.1559
-147,"Štore Municipality",46.1996,15.3276
-148,"Slovenske Konjice",46.3232,15.4612
-149,"Žiri Municipality",46.0459,14.1084
-150,"Oplotnica",46.381,15.456
-151,"Cerkno Municipality",46.1335,13.9799
-152,"Bled Municipality",46.3898,14.0001
-153,"Ajdovščina Municipality",45.9043,13.9294
-154,"Divača Municipality",45.6927,14.0149
-155,"Idrija Municipality",45.9922,13.9955
-156,"Vipava Municipality",45.8271,13.9723
-157,"Bloke Municipality",45.7836,14.5092
-158,"Šentjur Municipality",46.1784,15.4424
-159,"Kozje Municipality",46.0666,15.5721
-160,"Šmarje pri Jelšah Municipality",46.2188,15.5302
-161,"Sevnica Municipality",46.0132,15.2616
-162,"Mirna Peč Municipality",45.8487,15.0911
-163,"Trebnje Municipality",45.9382,15.0537
-164,"Žužemberk",45.8184,14.9443
-165,"Turnišče Municipality",46.6089,16.3308
-166,"Radenci Municipality",46.6266,16.0594
-167,"Sveti Jurij ob Ščavnici Municipality",46.5629,16.0294
-168,"Velika Polana Municipality",46.5796,16.363
-169,"Beltinci Municipality",46.6086,16.2307
-170,"Veržej Municipality",46.5804,16.1766
-171,"Odranci",46.5874,16.28
-172,"Grosuplje Municipality",45.9421,14.6714
-173,"Škofljica Municipality",45.9583,14.5747
-174,"Hrastnik Municipality",46.1289,15.1268
-175,"Žalec Municipality",46.2587,15.1651
-176,"Trbovlje Municipality",46.078,15.041
-177,"Braslovče Municipality",46.2889,15.0327
-178,"Tabor",46.2258,15.0116
+1,"Obcina Lendava",46.5693,16.4217
+2,"Obcina Crensovci",46.5592,16.2936
+3,"Obcina Ljutomer",46.5112,16.1653
+4,"Obcina Razkrizje",46.5269,16.2803
+5,"Obcina Ormoz",46.4411,16.1469
+6,"Obcina Zavrc",46.3824,16.0599
+7,"Obcina Gorisnica",46.3668,16.0215
+8,"Obcina Videm",46.3704,15.8973
+9,"Obcina Podlehnik",46.3116,15.8719
+10,"Obcina Zetale",46.2837,15.8193
+11,"Obcina Rogatec",46.2383,15.7385
+12,"Obcina Rogaska Slatina",46.2433,15.6536
+13,"Obcina Podcetrtek",46.1454,15.5811
+14,"Obcina Bistrica ob Sotli",46.048,15.6501
+15,"Obcina Brezice",45.9082,15.6036
+16,"Obcina Krsko",45.9397,15.4671
+17,"Obcina Sentjernej",45.8143,15.3503
+18,"Mestna Obcina Novo mesto",45.7779,15.1945
+19,"Obcina Metlika",45.6501,15.2985
+20,"Obcina Kostel",45.4814,14.8204
+21,"Obcina Loski Potok",45.6506,14.6363
+22,"Obcina Loska Dolina",45.6638,14.4776
+23,"Obcina Ilirska Bistrica",45.5678,14.2891
+24,"Obcina Crnomelj",45.5229,15.2135
+25,"Obcina Kocevje",45.6418,14.9161
+26,"Obcina Hrpelje-Kozina",45.5679,13.9929
+27,"Mestna Obcina Koper",45.5076,13.8237
+28,"Comune di Pirano",45.4801,13.6309
+29,"Obcina Moravske Toplice",46.7159,16.2705
+30,"Obcina Salovci",46.8451,16.2448
+31,"Obcina Hodos",46.8202,16.3126
+32,"Obcina Gornji Petrovci",46.8091,16.2128
+33,"Obcina Kuzma",46.8461,16.0916
+34,"Obcina Dobrovnik",46.6539,16.3581
+35,"Obcina Kobilje",46.6809,16.3831
+36,"Obcina Kranjska Gora",46.4482,13.8502
+37,"Obcina Bovec",46.3725,13.6184
+38,"Obcina Kobarid",46.2459,13.5507
+39,"Obcina Tolmin",46.1456,13.8136
+40,"Obcina Kanal",46.1084,13.6455
+41,"Obcina Brda",46.0189,13.5437
+42,"Mestna Obcina Nova Gorica",45.8796,13.7337
+43,"Obcina Sempeter-Vrtojba",45.9187,13.6431
+44,"Obcina Miren-Kostanjevica",45.8477,13.6373
+45,"Obcina Komen",45.8225,13.7382
+46,"Obcina Sezana",45.7319,13.8449
+47,"Obcina Rogasovci",46.799,16.017
+48,"Obcina Cankova",46.7083,16.0462
+49,"Obcina Gornja Radgona",46.6256,15.9663
+50,"Obcina Apace",46.6914,15.8873
+51,"Obcina Sentilj",46.6904,15.713
+52,"Obcina Kungota",46.6527,15.5921
+53,"Mestna Obcina Maribor",46.556,15.6414
+54,"Obcina Selnica ob Dravi",46.5799,15.4976
+55,"Obcina Radlje ob Dravi",46.6029,15.2526
+56,"Obcina Muta",46.6223,15.1348
+57,"Obcina Dravograd",46.5906,15.0226
+58,"Obcina Podvelka",46.6021,15.3569
+59,"Obcina Ravne na Koroskem",46.5451,14.9541
+60,"Obcina Prevalje",46.5675,14.8823
+61,"Obcina Mezica",46.5281,14.8493
+62,"Obcina Crna na Koroskem",46.4704,14.819
+63,"Obcina Trzic",46.3883,14.3377
+64,"Obcina Zirovnica",46.4111,14.1816
+65,"Obcina Jesenice",46.4477,14.0702
+66,"Obcina Solcava",46.4114,14.6582
+67,"Obcina Jezersko",46.3897,14.4871
+68,"Comune di Isola",45.5153,13.643
+69,"Obcina Pesnica",46.6254,15.7082
+70,"Obcina Duplek",46.512,15.7689
+71,"Obcina Miklavz na Dravskem Polju",46.4853,15.7138
+72,"Obcina Hoce-Slivnica",46.4943,15.6245
+73,"Obcina Lenart",46.5575,15.8548
+74,"Obcina Sveta Ana",46.6459,15.8405
+75,"Obcina Lovrenc na Pohorju",46.5291,15.3869
+76,"Obcina Ribnica na Pohorju",46.5309,15.2558
+77,"Mestna Obcina Slovenj Gradec",46.4914,15.076
+78,"Obcina Vuzenica",46.5669,15.1575
+79,"Obcina Preddvor",46.3286,14.46
+80,"Obcina Sencur",46.2408,14.4252
+81,"Obcina Cerklje na Gorenjskem",46.2524,14.5061
+82,"Obcina Kamnik",46.2285,14.733
+83,"Obcina Medvode",46.1236,14.3971
+84,"Mestna Obcina Kranj",46.2382,14.2919
+85,"Obcina Skofja Loka",46.1576,14.2779
+86,"Obcina Zelezniki",46.2279,14.1184
+87,"Obcina Bohinj",46.2961,13.9538
+88,"Obcina Naklo",46.2932,14.3004
+89,"Obcina Radovljica",46.3361,14.1929
+90,"Obcina Sostanj",46.4223,14.9905
+91,"Obcina Ljubno",46.3721,14.8415
+92,"Obcina Luce",46.3436,14.7245
+93,"Obcina Lukovica",46.1827,14.7761
+94,"Obcina Benedikt",46.6136,15.8981
+95,"Obcina Lasko",46.1404,15.248
+96,"Obcina Dobje",46.1339,15.4056
+97,"Obcina Ruse",46.5156,15.486
+98,"Obcina Vodice",46.1726,14.4982
+99,"Obcina Komenda",46.2055,14.5417
+100,"Obcina Menges",46.1605,14.552
+101,"Obcina Vrhnika",45.9491,14.2947
+102,"Obcina Horjul",46.0249,14.2917
+103,"Obcina Cerkvenjak",46.5598,15.9531
+104,"Obcina Trzin",46.1259,14.5552
+105,"Obcina Puconci",46.7506,16.132
+106,"Obcina Grad",46.7969,16.094
+107,"Mestna Obcina Murska Sobota",46.6532,16.1719
+108,"Obcina Sveti Andraz v Slovenskih Goricah",46.5244,15.9658
+109,"Obcina Brezovica",45.9479,14.4279
+110,"Obcina Dobrova-Polhov Gradec",46.0716,14.3138
+111,"Obcina Gorenja Vas-Poljane",46.1241,14.1223
+112,"Obcina Logatec",45.9399,14.1998
+113,"Obcina Trnovska vas",46.523,15.8943
+114,"Obcina Destrnik",46.4767,15.8853
+115,"Obcina Race-Fram",46.4507,15.6401
+116,"Obcina Starse",46.4544,15.7678
+117,"Obcina Vransko",46.2348,14.9474
+118,"Mestna Obcina Velenje",46.3749,15.1364
+119,"Obcina Polzela",46.3034,15.087
+120,"Obcina Smartno ob Paki",46.3421,15.0326
+121,"Obcina Mozirje",46.3593,14.9377
+122,"Obcina Vitanje",46.4073,15.2954
+123,"Obcina Vojnik",46.3188,15.31
+124,"Obcina Zrece",46.3914,15.3705
+125,"Obcina Mislinja",46.4442,15.2253
+126,"Obcina Zagorje ob Savi",46.1454,14.924
+127,"Obcina Litija",46.0752,14.9182
+128,"Obcina Gornji Grad",46.2972,14.7905
+129,"Obcina Cerknica",45.7886,14.3817
+130,"Obcina Velike Lasce",45.8446,14.5889
+131,"Obcina Borovnica",45.9095,14.3756
+132,"Obcina Postojna",45.7924,14.1802
+133,"Obcina Pivka",45.6834,14.2444
+134,"Obcina Dobrna",46.3552,15.2299
+135,"Mestna Obcina Celje",46.2398,15.2874
+136,"Obcina Nazarje",46.2864,14.9127
+137,"Obcina Domzale",46.1493,14.6294
+138,"Obcina Ivancna Gorica",45.9017,14.8211
+139,"Mestna Obcina Ljubljana",46.0616,14.5799
+140,"Obcina Smartno pri Litiji",46.0231,14.8692
+141,"Obcina Ig",45.9398,14.5158
+142,"Obcina Dol pri Ljubljani",46.0996,14.6741
+143,"Obcina Prebold",46.2214,15.0943
+144,"Obcina Moravce",46.1337,14.7576
+145,"Obcina Dobrepolje",45.8342,14.7253
+146,"Obcina Radece",46.0658,15.1559
+147,"Obcina Store",46.1996,15.3276
+148,"Obcina Slovenske Konjice",46.3232,15.4612
+149,"Obcina Ziri",46.0459,14.1084
+150,"Obcina Oplotnica",46.381,15.456
+151,"Obcina Cerkno",46.1335,13.9799
+152,"Obcina Bled",46.3898,14.0001
+153,"Obcina Ajdovscina",45.9043,13.9294
+154,"Obcina Divaca",45.6927,14.0149
+155,"Obcina Idrija",45.9922,13.9955
+156,"Obcina Vipava",45.8271,13.9723
+157,"Obcina Bloke",45.7836,14.5092
+158,"Obcina Sentjur",46.1784,15.4424
+159,"Obcina Kozje",46.0666,15.5721
+160,"Obcina Smarje pri Jelsah",46.2188,15.5302
+161,"Obcina Sevnica",46.0132,15.2616
+162,"Obcina Mirna Pec",45.8487,15.0911
+163,"Obcina Trebnje",45.9382,15.0537
+164,"Obcina Zuzemberk",45.8184,14.9443
+165,"Obcina Turnisce",46.6089,16.3308
+166,"Obcina Radenci",46.6266,16.0594
+167,"Obcina Sveti Jurij ob Scavnici",46.5629,16.0294
+168,"Obcina Velika Polana",46.5796,16.363
+169,"Obcina Beltinci",46.6086,16.2307
+170,"Obcina Verzej",46.5804,16.1766
+171,"Obcina Odranci",46.5874,16.28
+172,"Obcina Grosuplje",45.9421,14.6714
+173,"Obcina Skofljica",45.9583,14.5747
+174,"Obcina Hrastnik",46.1289,15.1268
+175,"Obcina Zalec",46.2587,15.1651
+176,"Obcina Trbovlje",46.078,15.041
+177,"Obcina Braslovce",46.2889,15.0327
+178,"Obcina Tabor",46.2258,15.0116
 179,"unknown",46.0073,15.5816
-180,"Hajdina Municipality",46.4161,15.8358
-181,"Ptuj",46.4273,15.8673
-182,"Majšperk Municipality",46.3148,15.7455
-183,"Slovenska Bistrica",46.4241,15.5283
-184,"Markovci Municipality",46.3928,15.9513
-185,"Kidričevo Municipality",46.3982,15.7544
-186,"Dornava Municipality",46.4406,15.9915
-187,"Križevci Municipality",46.5723,16.1282
-188,"Juršinci Municipality",46.4841,15.9822
-189,"Semič Municipality",45.6477,15.161
-190,"Dolenjske Toplice Municipality",45.7205,15.048
-191,"Sodražica Municipality",45.7548,14.6157
-192,"Ribnica Municipality",45.7413,14.7047
-193,"Škocjan Municipality",45.9221,15.3006
+180,"Obcina Hajdina",46.4161,15.8358
+181,"Mestna Obcina Ptuj",46.4273,15.8673
+182,"Obcina Majsperk",46.3148,15.7455
+183,"Obcina Slovenska Bistrica",46.4241,15.5283
+184,"Obcina Markovci",46.3928,15.9513
+185,"Obcina Kidricevo",46.3982,15.7544
+186,"Obcina Dornava",46.4406,15.9915
+187,"Obcina Krizevci",46.5723,16.1282
+188,"Obcina Jursinci",46.4841,15.9822
+189,"Obcina Semic",45.6477,15.161
+190,"Obcina Dolenjske Toplice",45.7205,15.048
+191,"Obcina Sodrazica",45.7548,14.6157
+192,"Obcina Ribnica",45.7413,14.7047
+193,"Obcina Skocjan",45.9221,15.3006

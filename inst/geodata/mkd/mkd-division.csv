@@ -1,85 +1,85 @@
 "id","name","lat","lon"
-1,"Struga Municipality",41.1813,20.602
-2,"Centar Župa Municipality",41.4644,20.5799
-3,"Debar Municipality",41.541,20.5863
-4,"Mavrovo and Rostuša Municipality",41.6315,20.6986
-5,"Gostivar Municipality",41.7855,20.8095
-6,"Vevčani Municipality",41.2362,20.5689
-7,"Ohrid Municipality",41.0273,20.8501
-8,"Debarca Municipality",41.3337,20.8594
-9,"Resen Municipality",41.027,21.0472
-10,"Novo Selo Municipality",41.4278,22.8701
-11,"Dojran Municipality",41.2492,22.6539
-12,"Valandovo Municipality",41.2911,22.5432
-13,"Strumica Municipality",41.3841,22.6211
-14,"Bogdanci Municipality",41.1772,22.5841
-15,"Gevgelija Municipality",41.243,22.3973
-16,"Kavadarci Municipality",41.3234,22.0373
-17,"Novaci Municipality",41.0253,21.6586
-18,"Prilep Municipality",41.2806,21.6444
-19,"Bitola Municipality",41.0402,21.2925
-20,"Lipkovo Municipality",42.1401,21.579
-21,"Čučer-Sandevo Municipality",42.1353,21.3885
-22,"Gjorče Petrov Municipality",42.064,21.3002
-23,"Saraj Municipality",41.975,21.2491
-24,"Jegunovce Municipality",42.0311,21.129
-25,"Tearce Municipality",42.082,21.0174
-26,"Tetovo Municipality",42.0484,20.8947
-27,"Bogovinje Municipality",41.945,20.869
-28,"Vrapčište Municipality",41.8584,20.8349
-29,"Kriva Palanka Municipality",42.2421,22.2641
-30,"Rankovce Municipality",42.1895,22.1049
-31,"Staro Nagoričane Municipality",42.2098,21.8853
-32,"Kumanovo Municipality",42.0293,21.7923
-33,"Delčevo Municipality",41.9187,22.7429
-34,"Makedonska Kamenica Municipality",42.0394,22.5221
-35,"Berovo Municipality",41.6344,22.8027
-36,"Pehčevo Municipality",41.7917,22.8833
-37,"Želino Municipality",41.9157,21.1277
-38,"Brvenica Municipality",41.8465,21.066
-39,"Makedonski Brod Municipality",41.6303,21.2133
-40,"Oslomej Municipality",41.5771,21.0347
-41,"Sopište Municipality",41.8337,21.332
-42,"Karpoš Municipality",41.9774,21.3888
-43,"Šuto Orizari Municipality",42.0341,21.4069
-44,"Butel Municipality",42.0738,21.4665
-45,"Čair Municipality",41.9946,21.4367
-46,"Centar Municipality",41.9752,21.4226
-47,"Zajas Municipality",41.6012,20.8849
-48,"Dolneni Municipality",41.4684,21.4307
-49,"Krivogaštani Municipality",41.3012,21.3682
-50,"Mogila Municipality",41.147,21.4512
-51,"Čaška Municipality",41.5807,21.5939
-52,"Rosoman Municipality",41.477,21.8972
-53,"Negotino Municipality",41.3722,22.1394
-54,"Drugovo Municipality",41.4293,20.9119
-55,"Gazi Baba Municipality",42.0259,21.5136
-56,"Kruševo Municipality",41.3734,21.2328
-57,"Demir Hisar Municipality",41.2587,21.1238
-58,"Aerodrom Municipality",41.9517,21.4932
-59,"Studeničani Municipality",41.8317,21.4592
-60,"Kisela Voda Municipality",41.9346,21.4817
-61,"Probištip Municipality",41.9372,22.174
-62,"Češinovo-Obleševo Municipality",41.8644,22.2896
-63,"Aračinovo Municipality",42.0185,21.5862
-64,"Zelenikovo Municipality",41.8091,21.5518
-65,"Kičevo Municipality",41.517,20.9511
-66,"Plasnica Municipality",41.4424,21.1173
-67,"Vraneštica Municipality",41.4746,21.015
-68,"Skopje",41.8999,21.6898
-69,"Lozovo Municipality",41.7258,21.915
-70,"Sveti Nikole Municipality",41.8778,21.9509
-71,"Gradsko Municipality",41.5864,21.9019
-72,"Kratovo Municipality",42.0592,22.138
-73,"Ilinden Municipality",41.9758,21.6093
-74,"Karbinci",41.7659,22.2847
-75,"Štip Municipality",41.6824,22.1689
-76,"Kočani Municipality",41.9798,22.3869
-77,"Zrnovci Municipality",41.8224,22.4027
-78,"Veles Municipality",41.7213,21.7157
-79,"Demir Kapija Municipality",41.3739,22.2161
-80,"Vinica Municipality",41.8652,22.5742
-81,"Bosilovo Municipality",41.4665,22.7665
-82,"Radoviš Municipality",41.6365,22.4679
-83,"Vasilevo Municipality",41.5436,22.6159
-84,"Konče Municipality",41.5123,22.384
+1,"Opstina Struga",41.1813,20.602
+2,"Opstina Centar Zupa",41.4644,20.5799
+3,"Opstina Debar",41.541,20.5863
+4,"Opstina Mavrovo i Rostusa",41.6315,20.6986
+5,"Opstina Gostivar",41.7855,20.8095
+6,"Opstina Vevcani",41.2362,20.5689
+7,"Opstina Ohrid",41.0273,20.8501
+8,"Opstina Debarca",41.3337,20.8594
+9,"Opstina Resen",41.027,21.0472
+10,"Opstina Novo Selo",41.4278,22.8701
+11,"Opstina Dojran",41.2492,22.6539
+12,"Opstina Valandovo",41.2911,22.5432
+13,"Opstina Strumica",41.3841,22.6211
+14,"Opstina Bogdanci",41.1772,22.5841
+15,"Opstina Gevgelija",41.243,22.3973
+16,"Opstina Kavadarci",41.3234,22.0373
+17,"Opstina Novaci",41.0253,21.6586
+18,"Opstina Prilep",41.2806,21.6444
+19,"Opstina Bitola",41.0402,21.2925
+20,"Opstina Lipkovo",42.1401,21.579
+21,"Opstina Cucer-Sandevo",42.1353,21.3885
+22,"Opstina Gjorce Petrov",42.064,21.3002
+23,"Opstina Saraj",41.975,21.2491
+24,"Opstina Jegunovce",42.0311,21.129
+25,"Opstina Tearce",42.082,21.0174
+26,"Opstina Tetovo",42.0484,20.8947
+27,"Opstina Bogovinje",41.945,20.869
+28,"Opstina Vrapciste",41.8584,20.8349
+29,"Opstina Kriva Palanka",42.2421,22.2641
+30,"Opstina Rankovce",42.1895,22.1049
+31,"Opstina Staro Nagoricane",42.2098,21.8853
+32,"Opstina Kumanovo",42.0293,21.7923
+33,"Opstina Delcevo",41.9187,22.7429
+34,"Opstina Makedonska Kamenica",42.0394,22.5221
+35,"Opstina Berovo",41.6344,22.8027
+36,"Opstina Pehcevo",41.7917,22.8833
+37,"Opstina Zelino",41.9157,21.1277
+38,"Opstina Brvenica",41.8465,21.066
+39,"Opstina Makedonski Brod",41.6303,21.2133
+40,"Opstina Oslomej",41.5771,21.0347
+41,"Opstina Sopiste",41.8337,21.332
+42,"Opstina Karpos",41.9774,21.3888
+43,"Opstina Suto Orizari",42.0341,21.4069
+44,"Opstina Butel",42.0738,21.4665
+45,"Opstina Cair",41.9946,21.4367
+46,"Opstina Centar",41.9752,21.4226
+47,"Opstina Zajas",41.6012,20.8849
+48,"Opstina Dolneni",41.4684,21.4307
+49,"Opstina Krivogastani",41.3012,21.3682
+50,"Opstina Mogila",41.147,21.4512
+51,"Opstina Caska",41.5807,21.5939
+52,"Opstina Rosoman",41.477,21.8972
+53,"Opstina Negotino",41.3722,22.1394
+54,"Opstina Drugovo",41.4293,20.9119
+55,"Opstina Gazi Baba",42.0259,21.5136
+56,"Opstina Krusevo",41.3734,21.2328
+57,"Opstina Demir Hisar",41.2587,21.1238
+58,"Opstina Aerodrom",41.9517,21.4932
+59,"Opstina Studenicani",41.8317,21.4592
+60,"Opstina Kisela Voda",41.9346,21.4817
+61,"Opstina Probistip",41.9372,22.174
+62,"Opstina Cesinovo",41.8644,22.2896
+63,"Opstina Aracinovo",42.0185,21.5862
+64,"Opstina Zelenikovo",41.8091,21.5518
+65,"Opstina Kicevo",41.517,20.9511
+66,"Opstina Plasnica",41.4424,21.1173
+67,"Opstina Vranestica",41.4746,21.015
+68,"Opstina Petrovec",41.8999,21.6898
+69,"Opstina Lozovo",41.7258,21.915
+70,"Opstina Sveti Nikole",41.8778,21.9509
+71,"Opstina Gradsko",41.5864,21.9019
+72,"Opstina Kratovo",42.0592,22.138
+73,"Opstina Ilinden",41.9758,21.6093
+74,"Opstina Karbinci",41.7659,22.2847
+75,"Opstina Stip",41.6824,22.1689
+76,"Opstina Kocani",41.9798,22.3869
+77,"Opstina Zrnovci",41.8224,22.4027
+78,"Opstina Veles",41.7213,21.7157
+79,"Opstina Demir Kapija",41.3739,22.2161
+80,"Opstina Vinica",41.8652,22.5742
+81,"Opstina Bosilovo",41.4665,22.7665
+82,"Opstina Radovis",41.6365,22.4679
+83,"Opstina Vasilevo",41.5436,22.6159
+84,"Opstina Konce",41.5123,22.384

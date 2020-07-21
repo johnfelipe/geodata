@@ -1,78 +1,78 @@
 "id","name","lat","lon"
-1,"Surin",14.9355,103.588
-2,"Si Sa Ket",14.8248,104.418
-3,"Ubon Ratchathani",15.0137,105.016
-4,"Sa Kaeo",13.8589,102.384
-5,"Buri Ram",14.699,102.971
-6,"Trat",12.3925,102.541
-7,"Chanthaburi",12.8117,102.139
-8,"Satun",6.85827,99.9633
-9,"Songkhla",6.81212,100.568
-10,"Yala",6.14264,101.218
-11,"Narathiwat",6.17758,101.727
-12,"Chiang Rai",19.9607,99.9059
-13,"Chiang Mai",18.8368,98.6967
-14,"Mae Hong Son",18.4043,97.8911
-15,"Tak",17.0043,98.8441
-16,"Kanchanaburi",14.3317,99.2969
-17,"Prachuap Khiri Khan",12.3053,99.7274
-18,"Phetchaburi",12.8727,99.5964
-19,"Ratchaburi",13.4964,99.6128
-20,"Chumphon",10.3809,99.0755
-21,"Ranong",9.51717,98.58
-22,"Phayao",19.1866,100.16
-23,"Nan",18.8264,100.837
-24,"Uttaradit",17.7188,100.531
-25,"Phitsanulok",16.9748,100.49
-26,"Loei",17.4099,101.517
-27,"Bueng Kan",18.1565,103.752
-28,"Nong Khai",17.7553,102.754
-29,"Nakhon Phanom",17.2227,104.628
-30,"Mukdahan",16.5636,104.531
-31,"Amnat Charoen",15.8583,104.766
-32,"Phang Nga",8.57678,98.394
-33,"Krabi",8.1333,98.984
-34,"Trang",7.56967,99.6467
-35,"Pattani",6.7391,101.381
-36,"Phatthalung",7.47276,100.062
-37,"Nakhon Si Thammarat",8.37448,99.7819
-38,"Surat Thani",9.0048,99.0107
-39,"Samut Songkhram",13.4036,99.9736
-40,"Samut Sakhon",13.5655,100.225
-41,"Bangkok",13.793,100.626
-42,"Samut Prakan",13.606,100.704
-43,"Chachoengsao",13.6342,101.419
-44,"Chon Buri",13.2988,101.278
-45,"Rayong",12.8125,101.402
-46,"Phuket",7.97108,98.3472
-47,"Khon Kaen",16.5762,102.683
-48,"Sakon Nakhon",17.3577,103.845
-49,"Suphanburi",14.4298,100.034
-50,"Sing Buri",14.9746,100.343
-51,"Chai Nat",15.1055,100.013
-52,"Ang Thong",14.6335,100.357
-53,"Saraburi",14.4914,100.909
-54,"Nakhon Ratchasima",14.8923,102.103
-55,"Nakhon Nayok",14.2249,101.21
-56,"Pathum Thani",14.034,100.625
-57,"Uthai Thani",15.27,99.5275
-58,"Kalasin",16.6224,103.679
-59,"Roi Et",15.9601,103.827
-60,"Maha Sarakham",15.9151,103.188
-61,"Nong Bua Lam Phu",17.2392,102.311
-62,"Lopburi",15.1147,100.944
-63,"Udon Thani",17.4511,102.882
-64,"Phra Nakhon Si Ayutthaya",14.402,100.522
-65,"Nonthaburi",13.8933,100.407
-66,"Nakhon Pathom",13.917,100.072
-67,"Kamphaeng Phet",16.4009,99.5098
-68,"Lampang",18.6296,99.5707
-69,"Sukhothai",17.2435,99.7009
-70,"Nakhon Sawan",15.6943,100.25
-71,"Phetchabun",16.2589,101.21
-72,"Phichit",16.2321,100.374
-73,"Chaiyaphum",16.0138,101.877
-74,"Phrae",18.0577,99.9263
-75,"Lamphun",18.1333,98.9979
-76,"Prachin Buri",14.1081,101.594
-77,"Yasothon",16.0225,104.324
+1,"Changwat Surin",14.9355,103.588
+2,"Changwat Sisaket",14.8248,104.418
+3,"Changwat Ubon Ratchathani",15.0137,105.016
+4,"Changwat Sa Kaeo",13.8589,102.384
+5,"Changwat Buriram",14.699,102.971
+6,"Changwat Trat",12.3925,102.541
+7,"Changwat Chanthaburi",12.8117,102.139
+8,"Changwat Satun",6.85827,99.9633
+9,"Changwat Songkhla",6.81212,100.568
+10,"Changwat Yala",6.14264,101.218
+11,"Changwat Narathiwat",6.17758,101.727
+12,"Changwat Chiang Rai",19.9607,99.9059
+13,"Chiang Mai Province",18.8368,98.6967
+14,"Changwat Mae Hong Son",18.4043,97.8911
+15,"Changwat Tak",17.0043,98.8441
+16,"Changwat Kanchanaburi",14.3317,99.2969
+17,"Changwat Prachuap Khiri Khan",12.3053,99.7274
+18,"Changwat Phetchaburi",12.8727,99.5964
+19,"Changwat Ratchaburi",13.4964,99.6128
+20,"Changwat Chumphon",10.3809,99.0755
+21,"Changwat Ranong",9.51717,98.58
+22,"Changwat Phayao",19.1866,100.16
+23,"Changwat Nan",18.8264,100.837
+24,"Changwat Uttaradit",17.7188,100.531
+25,"Changwat Phitsanulok",16.9748,100.49
+26,"Changwat Loei",17.4099,101.517
+27,"Changwat Bueng Kan",18.1565,103.752
+28,"Changwat Nong Khai",17.7553,102.754
+29,"Changwat Nakhon Phanom",17.2227,104.628
+30,"Changwat Mukdahan",16.5636,104.531
+31,"Changwat Amnat Charoen",15.8583,104.766
+32,"Changwat Phangnga",8.57678,98.394
+33,"Changwat Krabi",8.1333,98.984
+34,"Changwat Trang",7.56967,99.6467
+35,"Changwat Pattani",6.7391,101.381
+36,"Changwat Phatthalung",7.47276,100.062
+37,"Changwat Nakhon Si Thammarat",8.37448,99.7819
+38,"Changwat Surat Thani",9.0048,99.0107
+39,"Changwat Samut Songkhram",13.4036,99.9736
+40,"Changwat Samut Sakhon",13.5655,100.225
+41,"Krung Thep Mahanakhon",13.793,100.626
+42,"Changwat Samut Prakan",13.606,100.704
+43,"Changwat Chachoengsao",13.6342,101.419
+44,"Changwat Chon Buri",13.2988,101.278
+45,"Changwat Rayong",12.8125,101.402
+46,"Phuket Province",7.97108,98.3472
+47,"Changwat Khon Kaen",16.5762,102.683
+48,"Changwat Sakon Nakhon",17.3577,103.845
+49,"Changwat Suphan Buri",14.4298,100.034
+50,"Changwat Sing Buri",14.9746,100.343
+51,"Changwat Chai Nat",15.1055,100.013
+52,"Changwat Ang Thong",14.6335,100.357
+53,"Changwat Sara Buri",14.4914,100.909
+54,"Changwat Nakhon Ratchasima",14.8923,102.103
+55,"Changwat Nakhon Nayok",14.2249,101.21
+56,"Changwat Pathum Thani",14.034,100.625
+57,"Changwat Uthai Thani",15.27,99.5275
+58,"Changwat Kalasin",16.6224,103.679
+59,"Changwat Roi Et",15.9601,103.827
+60,"Changwat Maha Sarakham",15.9151,103.188
+61,"Changwat Nong Bua Lamphu",17.2392,102.311
+62,"Changwat Lop Buri",15.1147,100.944
+63,"Changwat Udon Thani",17.4511,102.882
+64,"Changwat Phra Nakhon Si Ayutthaya",14.402,100.522
+65,"Changwat Nonthaburi",13.8933,100.407
+66,"Changwat Nakhon Pathom",13.917,100.072
+67,"Changwat Kamphaeng Phet",16.4009,99.5098
+68,"Changwat Lampang",18.6296,99.5707
+69,"Changwat Sukhothai",17.2435,99.7009
+70,"Changwat Nakhon Sawan",15.6943,100.25
+71,"Changwat Phetchabun",16.2589,101.21
+72,"Changwat Phichit",16.2321,100.374
+73,"Changwat Chaiyaphum",16.0138,101.877
+74,"Changwat Phrae",18.0577,99.9263
+75,"Changwat Lamphun",18.1333,98.9979
+76,"Changwat Prachin Buri",14.1081,101.594
+77,"Changwat Yasothon",16.0225,104.324

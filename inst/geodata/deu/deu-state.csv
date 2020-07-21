@@ -1,17 +1,17 @@
 "id","name","lat","lon"
-1,"Saxony",51.0053,13.4596
-2,"Bavaria",49.0056,11.3966
-3,"Rhineland-Palatinate",49.8685,7.36974
+1,"Freistaat Sachsen",51.0053,13.4596
+2,"Freistaat Bayern",49.0056,11.3966
+3,"Rheinland-Pfalz",49.8685,7.36974
 4,"Saarland",49.4026,6.86625
-5,"Schleswig-Holstein",54.1315,9.84605
-6,"Lower Saxony",52.775,8.86184
-7,"North Rhine-Westphalia",51.6146,7.65708
-8,"Baden-Württemberg",48.59,9.00328
-9,"Brandenburg",52.8156,12.9206
-10,"Mecklenburg-Western Pomerania",53.7528,12.5647
+5,"Land Schleswig-Holstein",54.1315,9.84605
+6,"Land Niedersachsen",52.775,8.86184
+7,"Land Nordrhein-Westfalen",51.6146,7.65708
+8,"Baden-Wuerttemberg",48.59,9.00328
+9,"Land Brandenburg",52.8156,12.9206
+10,"Land Mecklenburg-Vorpommern",53.7528,12.5647
 11,"Bremen",53.1211,8.74299
-12,"Hamburg",53.559,10.0344
-13,"Hesse",50.6098,8.95873
-14,"Thuringia",50.9052,11.0976
-15,"Saxony-Anhalt",51.9338,11.6796
-16,"Berlin",52.5131,13.4213
+12,"Freie und Hansestadt Hamburg",53.559,10.0344
+13,"Land Hessen",50.6098,8.95873
+14,"Freistaat Thuringen",50.9052,11.0976
+15,"Land Sachsen-Anhalt",51.9338,11.6796
+16,"Land Berlin",52.5131,13.4213

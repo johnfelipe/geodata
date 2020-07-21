@@ -1,29 +1,29 @@
 "id","name","lat","lon"
-1,"Burgas Province",42.5385,27.2597
-2,"Yambol Province",42.2935,26.6096
-3,"Haskovo Province",41.8489,25.8816
-4,"Vidin Province",43.8092,22.7008
-5,"Pernik Province",42.6064,22.8519
-6,"Sofia Province",42.288,23.606
-7,"Montana Province",43.487,23.1788
-8,"Kyustendil Province",42.2381,22.9371
-9,"Blagoevgrad Province",41.743,23.5213
-10,"Silistra Province",43.9352,27.0072
-11,"Ruse Province",43.6211,25.9305
-12,"Dobrich Province",43.6874,27.9018
-13,"Vratsa Province",43.4325,23.832
-14,"Pleven Province",43.4953,24.6181
-15,"Veliko Tarnovo Province",42.8079,25.6222
-16,"Kardzhali Province",41.5377,25.5852
-17,"Smolyan Province",41.6644,24.6089
-18,"Varna Province",43.2097,27.5827
-19,"Plovdiv Province",42.3061,24.8449
-20,"Stara Zagora Province",42.4759,25.5689
-21,"Sliven Province",42.7164,26.2373
-22,"Shumen Province",43.2942,26.9857
-23,"Razgrad Province",43.6291,26.5873
-24,"Targovishte Province",43.2251,26.3637
-25,"Gabrovo Province",42.9256,25.2475
-26,"Pazardzhik Province",42.192,24.1391
-27,"Lovech Province",43.0037,24.5374
-28,"Sofia City Province",42.679,23.357
+1,"Burgas",42.5385,27.2597
+2,"Oblast Yambol",42.2935,26.6096
+3,"Oblast Khaskovo",41.8489,25.8816
+4,"Oblast Vidin",43.8092,22.7008
+5,"Pernik",42.6064,22.8519
+6,"Sofiya",42.288,23.606
+7,"Oblast Montana",43.487,23.1788
+8,"Oblast Kyustendil",42.2381,22.9371
+9,"Blagoevgrad",41.743,23.5213
+10,"Oblast Silistra",43.9352,27.0072
+11,"Oblast Ruse",43.6211,25.9305
+12,"Oblast Dobrich",43.6874,27.9018
+13,"Oblast Vratsa",43.4325,23.832
+14,"Oblast Pleven",43.4953,24.6181
+15,"Oblast Veliko Turnovo",42.8079,25.6222
+16,"Oblast Kurdzhali",41.5377,25.5852
+17,"Oblast Smolyan",41.6644,24.6089
+18,"Varna",43.2097,27.5827
+19,"Plovdiv",42.3061,24.8449
+20,"Oblast Stara Zagora",42.4759,25.5689
+21,"Oblast Sliven",42.7164,26.2373
+22,"Oblast Shumen",43.2942,26.9857
+23,"Oblast Razgrad",43.6291,26.5873
+24,"Oblast Turgovishte",43.2251,26.3637
+25,"Gabrovo",42.9256,25.2475
+26,"Pazardzhik",42.192,24.1391
+27,"Lovech",43.0037,24.5374
+28,"Sofiya-Grad",42.679,23.357

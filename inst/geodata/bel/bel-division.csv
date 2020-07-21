@@ -1,12 +1,12 @@
 "id","name","lat","lon"
-1,"West Flanders",51.0312,3.02202
-2,"Hainaut",50.521,3.88925
-3,"Namur",50.3244,4.88712
-4,"Luxembourg District",49.9637,5.50117
-5,"Liège",50.5794,5.67651
-6,"East Flanders",50.9749,3.83186
-7,"Antwerp",51.2485,4.72122
-8,"Limburg",50.9954,5.41314
-9,"Brussels-Capital Region",50.8332,4.36266
-10,"Flemish Brabant",50.8709,4.53709
-11,"Walloon Brabant",50.6416,4.55466
+1,"Provincie West-Vlaanderen",51.0312,3.02202
+2,"Province du Hainaut",50.521,3.88925
+3,"Province de Namur",50.3244,4.88712
+4,"Province du Luxembourg",49.9637,5.50117
+5,"Province de Liege",50.5794,5.67651
+6,"Provincie Oost-Vlaanderen",50.9749,3.83186
+7,"Provincie Antwerpen",51.2485,4.72122
+8,"Provincie Limburg",50.9954,5.41314
+9,"(Bruxelles-Capitale)",50.8332,4.36266
+10,"Provincie Vlaams-Brabant",50.8709,4.53709
+11,"Province du Brabant Wallon",50.6416,4.55466

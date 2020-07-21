@@ -1,22 +1,22 @@
 "id","name","lat","lon"
-1,"Norrbotten County",66.837,20.4529
-2,"Västerbotten County",64.7048,18.3726
-3,"Jämtland County",63.3306,14.4806
-4,"Dalarna County",60.814,14.4404
-5,"Värmland County",59.8068,13.0764
-6,"Västra Götaland County",58.2428,12.8371
-7,"Västernorrland County",62.9145,17.3697
-8,"Gävleborg County",61.3691,16.5023
-9,"Uppsala County",60.1522,17.7896
-10,"Stockholm County",59.3659,17.8652
-11,"Södermanland County",59.0778,16.6334
-12,"Östergötland County",58.3655,15.7022
-13,"Kalmar County",57.2764,16.0875
-14,"Blekinge County",56.2929,15.2163
-15,"Skåne County",55.9073,13.5193
-16,"Halland County",56.9745,12.8007
-17,"Gotland County",57.4733,18.4826
-18,"Västmanland County",59.7979,16.4244
-19,"Jönköping County",57.5478,14.424
-20,"Örebro County",59.3913,15.0594
-21,"Kronoberg County",56.8265,14.5773
+1,"Norrbottens Laen",66.837,20.4529
+2,"Vaesterbottens Laen",64.7048,18.3726
+3,"Jaemtlands Laen",63.3306,14.4806
+4,"Dalarnas Laen",60.814,14.4404
+5,"Vaermlands Laen",59.8068,13.0764
+6,"Vaestra Goetalands Laen",58.2428,12.8371
+7,"Vaesternorrlands Laen",62.9145,17.3697
+8,"Gaevleborgs Laen",61.3691,16.5023
+9,"Uppsala Laen",60.1522,17.7896
+10,"Stockholms Laen",59.3659,17.8652
+11,"Soedermanlands Laen",59.0778,16.6334
+12,"OEstergoetlands Laen",58.3655,15.7022
+13,"Kalmar Laen",57.2764,16.0875
+14,"Blekinge Laen",56.2929,15.2163
+15,"Skane Laen",55.9073,13.5193
+16,"Hallands Laen",56.9745,12.8007
+17,"Gotlands Laen",57.4733,18.4826
+18,"Vaestmanlands Laen",59.7979,16.4244
+19,"Joenkoepings Laen",57.5478,14.424
+20,"OErebro Laen",59.3913,15.0594
+21,"Kronobergs Laen",56.8265,14.5773

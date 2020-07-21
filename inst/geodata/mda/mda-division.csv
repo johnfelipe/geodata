@@ -1,41 +1,41 @@
 "id","name","lat","lon"
-1,"Briceni District",48.2646,26.9644
-2,"Edineț District",48.1332,27.2978
-3,"Rîșcani District",47.9614,27.5565
-4,"Glodeni District",47.7495,27.5658
-5,"Fălești District",47.57,27.7231
-6,"Ungheni District",47.2556,27.9072
-7,"Nisporeni District",47.0476,28.2369
-8,"Hîncești District",46.8298,28.416
-9,"Leova District",46.5654,28.4105
-10,"Cantemir District",46.262,28.3107
-11,"Cahul District",45.64,28.3144
-12,"Ocnița District",48.4024,27.5685
-13,"Dondușeni District",48.2339,27.7632
-14,"Soroca District",48.1034,28.2477
+1,"Raionul Briceni",48.2646,26.9644
+2,"Raionul Edinet",48.1332,27.2978
+3,"Raionul Riscani",47.9614,27.5565
+4,"Raionul Glodeni",47.7495,27.5658
+5,"Raionul Falesti",47.57,27.7231
+6,"Raionul Ungheni",47.2556,27.9072
+7,"Raionul Nisporeni",47.0476,28.2369
+8,"Raionul Hincesti",46.8298,28.416
+9,"Raionul Leova",46.5654,28.4105
+10,"Raionul Cantemir",46.262,28.3107
+11,"Raionul Cahul",45.64,28.3144
+12,"Raionul Ocnita",48.4024,27.5685
+13,"Raionul Donduseni",48.2339,27.7632
+14,"Raionul Soroca",48.1034,28.2477
 15,"unknown",48.0369,28.7044
 16,"unknown",47.7344,29.084
 17,"unknown",47.1532,29.1763
 18,"unknown",47.1194,29.4396
-19,"Bender",46.7897,29.6966
-20,"Ștefan Vodă District",46.5031,29.7739
-21,"Căușeni District",46.6185,29.3728
-22,"Cimișlia District",46.5885,28.7794
-23,"Basarabeasca District",46.3726,28.8846
-24,"Taraclia District",45.8995,28.7033
+19,"Municipiul Bender",46.7897,29.6966
+20,"Raionul Stefan Voda",46.5031,29.7739
+21,"Raionul Causeni",46.6185,29.3728
+22,"Raionul Cimislia",46.5885,28.7794
+23,"Raionul Basarabeasca",46.3726,28.8846
+24,"Raionul Taraclia",45.8995,28.7033
 25,"Unitate Teritoriala Autonoma Gagauzia",46.191,28.6386
-26,"Criuleni District",47.1782,29.0355
-27,"Strășeni District",47.1828,28.5847
-28,"Anenii Noi District",46.8817,29.1922
-29,"Orhei District",47.3961,28.8156
+26,"Raionul Criuleni",47.1782,29.0355
+27,"Raionul Straseni",47.1828,28.5847
+28,"Raionul Anenii Noi",46.8817,29.1922
+29,"Raionul Orhei",47.3961,28.8156
 30,"unknown",47.2616,29.1574
-31,"Chișinău",47.0348,28.822
-32,"Telenești District",47.566,28.4349
-33,"Șoldănești District",47.8423,28.6952
-34,"Florești District",47.8707,28.2994
-35,"Rezina District",47.6683,28.819
-36,"Ialoveni District",46.8905,28.7874
-37,"Călărași County",47.2892,28.3373
-38,"Drochia District",48.0267,27.8915
-39,"Sîngerei District",47.6929,28.1728
-40,"Bălți",47.7763,27.9516
+31,"Municipiul Chisinau",47.0348,28.822
+32,"Raionul Telenesti",47.566,28.4349
+33,"Raionul Soldanesti",47.8423,28.6952
+34,"Raionul Floresti",47.8707,28.2994
+35,"Raionul Rezina",47.6683,28.819
+36,"Raionul Ialoveni",46.8905,28.7874
+37,"Raionul Calarasi",47.2892,28.3373
+38,"Raionul Drochia",48.0267,27.8915
+39,"Raionul Singerei",47.6929,28.1728
+40,"Municipiul Balti",47.7763,27.9516

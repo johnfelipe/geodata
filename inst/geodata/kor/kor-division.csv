@@ -1,18 +1,18 @@
 "id","name","lat","lon"
-1,"Gangwon Province",37.7951,128.22
-2,"Gyeonggi Province",37.2562,127.205
-3,"South Chungcheong Province",36.4602,126.874
+1,"Gangwon-do",37.7951,128.22
+2,"Gyeonggi-do",37.2562,127.205
+3,"Chungcheongnam-do",36.4602,126.874
 4,"Incheon",37.4983,126.507
-5,"North Jeolla Province",35.679,127.081
-6,"South Jeolla Province",34.8166,126.884
-7,"South Gyeongsang Province",35.3192,128.217
+5,"Jeollabuk-do",35.679,127.081
+6,"Jeollanam-do",34.8166,126.884
+7,"Gyeongsangnam-do",35.3192,128.217
 8,"Busan",35.1928,129.082
 9,"Ulsan",35.4997,129.232
-10,"North Gyeongsang Province",36.3396,128.708
-11,"Jeju",33.3741,126.557
-12,"Seoul",37.5408,126.994
+10,"Gyeongsangbuk-do",36.3396,128.708
+11,"Jeju-teukbyeoljachido",33.3741,126.557
+12,"Seoul-teukbyeolsi",37.5408,126.994
 13,"Daejeon",36.3563,127.401
-14,"Sejong City",36.4974,127.229
-15,"North Chungcheong Province",36.7476,127.668
+14,"Sejong",36.4974,127.229
+15,"Chungcheongbuk-do",36.7476,127.668
 16,"Gwangju",35.1989,126.929
 17,"Daegu",35.9034,128.631

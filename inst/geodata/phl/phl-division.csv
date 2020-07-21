@@ -1,115 +1,115 @@
 "id","name","lat","lon"
-1,"Sulu",5.53722,120.865
-2,"Davao del Norte",7.45436,125.651
-3,"Zamboanga Sibugay",7.7136,122.926
-4,"Palawan",9.02764,117.912
-5,"Dinagat Islands",9.66326,125.959
-6,"Surigao del Sur",8.80931,126.097
-7,"Agusan del Norte",9.17346,125.56
+1,"Province of Sulu",5.53722,120.865
+2,"Province of Davao del Norte",7.45436,125.651
+3,"Province of Zamboanga Sibugay",7.7136,122.926
+4,"Province of Palawan",9.02764,117.912
+5,"Province of Surigao del Norte",9.66326,125.959
+6,"Province of Surigao del Sur",8.80931,126.097
+7,"Province of Agusan del Norte",9.17346,125.56
 8,"Butuan City",8.94346,125.542
-9,"Misamis Oriental",8.74226,124.992
+9,"Province of Misamis Oriental",8.74226,124.992
 10,"Chartered City of Cagayan de Oro",8.45874,124.693
 11,"unknown",8.26296,124.396
-12,"Lanao del Norte",8.0566,124.122
-13,"Zamboanga del Sur",7.84487,123.309
-14,"Misamis Occidental",8.33846,123.717
-15,"Zamboanga del Norte",8.02743,122.73
-16,"Zamboanga Peninsula",7.03966,122.055
-17,"Lanao del Sur",7.90221,124.335
-18,"Maguindanao",6.98075,124.437
-19,"Cotabato",7.22504,124.246
-20,"Sultan Kudarat",6.52568,124.382
-21,"Sarangani",5.95631,125.303
+12,"Province of Lanao del Norte",8.0566,124.122
+13,"Province of  Zamboanga del Sur",7.84487,123.309
+14,"Province of Misamis Occidental",8.33846,123.717
+15,"Province of Zamboanga del Norte",8.02743,122.73
+16,"Zamboanga City",7.03966,122.055
+17,"Province of Lanao del Sur",7.90221,124.335
+18,"Province of Maguindanao",6.98075,124.437
+19,"Cotabato City",7.22504,124.246
+20,"Province of Sultan Kudarat",6.52568,124.382
+21,"Province of Sarangani",5.95631,125.303
 22,"General Santos City",6.13644,125.139
-23,"Davao del Sur",6.34808,125.511
-24,"Davao Region",7.07729,125.587
-25,"Compostela Valley",7.52967,125.984
-26,"Davao Oriental",7.06305,126.286
-27,"Southern Leyte",10.0694,125.215
-28,"Leyte",10.9926,124.883
-29,"Eastern Samar",10.7291,125.755
+23,"Province of Davao del Sur",6.34808,125.511
+24,"Davao City",7.07729,125.587
+25,"Compostela",7.52967,125.984
+26,"Province of Davao Oriental",7.06305,126.286
+27,"Province of Southern Leyte",10.0694,125.215
+28,"Province of Leyte",10.9926,124.883
+29,"Province of Eastern Samar",10.7291,125.755
 30,"Biliran",11.5911,124.487
-31,"Samar",11.8292,124.999
-32,"Aurora",16.1271,121.756
-33,"Quezon",13.8708,122.037
-34,"Camarines Norte",14.1942,122.699
-35,"Camarines Sur",13.6733,123.365
-36,"Albay",13.2254,123.563
-37,"Sorsogon",12.7377,124.001
+31,"Province of Samar",11.8292,124.999
+32,"Province of Aurora",16.1271,121.756
+33,"Province of Quezon",13.8708,122.037
+34,"Province of Camarines Norte",14.1942,122.699
+35,"Province of Camarines Sur",13.6733,123.365
+36,"Province of Albay",13.2254,123.563
+37,"Province of Sorsogon",12.7377,124.001
 38,"unknown",13.9241,121.576
-39,"Batangas",13.9268,121.076
-40,"Cavite",14.2563,120.836
+39,"Province of Batangas",13.9268,121.076
+40,"Province of Cavite",14.2563,120.836
 41,"unknown",14.4591,120.995
 42,"unknown",14.49,121.016
 43,"Pasay City",14.5449,120.999
-44,"Metro Manila",14.5931,120.989
+44,"City of Manila",14.5931,120.989
 45,"unknown",14.6394,120.952
-46,"Bulacan",14.9603,121.003
-47,"Pampanga",15.0215,120.651
-48,"Bataan",14.6561,120.42
+46,"Province of Bulacan",14.9603,121.003
+47,"Province of Pampanga",15.0215,120.651
+48,"Province of Bataan",14.6561,120.42
 49,"Olongapo City",14.8618,120.282
-50,"Zambales",15.0499,120.164
-51,"Pangasinan",15.8696,120.341
+50,"Province of Zambales",15.0499,120.164
+51,"San Carlos City",15.8696,120.341
 52,"Dagupan City",16.0325,120.341
-53,"La Union",16.5569,120.436
-54,"Ilocos Sur",16.9849,120.604
-55,"Ilocos Norte",18.1995,120.71
-56,"Cagayan",17.9242,121.641
-57,"Isabela",17.0036,121.932
-58,"Tawi-Tawi",4.80751,119.835
-59,"Basilan",6.49955,122.059
-60,"Camiguin",9.17353,124.722
-61,"Siquijor",9.17807,123.597
-62,"Bohol",9.84875,124.248
-63,"Guimaras",10.5577,122.61
+53,"Province of La Union",16.5569,120.436
+54,"Province of Ilocos Sur",16.9849,120.604
+55,"Province of Ilocos Norte",18.1995,120.71
+56,"Province of Cagayan",17.9242,121.641
+57,"Province of Isabela",17.0036,121.932
+58,"Province of Tawi-Tawi",4.80751,119.835
+59,"Province of Basilan",6.49955,122.059
+60,"Province of Camiguin",9.17353,124.722
+61,"Province of Siquijor",9.17807,123.597
+62,"Province of Bohol",9.84875,124.248
+63,"Province of Guimaras",10.5577,122.61
 64,"unknown",10.6592,122.986
-65,"Negros Occidental",10.4137,122.985
-66,"Negros Oriental",9.75662,123.032
-67,"Cebu",10.3024,123.899
+65,"Province of Negros Occidental",10.4137,122.985
+66,"Province of Negros Oriental",9.75662,123.032
+67,"Cebu City",10.3024,123.899
 68,"Mandaue City",10.3358,123.933
 69,"Province of Cebu",10.269,123.695
 70,"Puerto Princesa City",9.89211,118.673
 71,"Tacloban City",11.2439,124.98
 72,"Ormoc City",11.0197,124.572
-73,"Aklan",11.5611,122.223
-74,"Antique",11.8476,121.469
+73,"Province of Aklan",11.5611,122.223
+74,"Province of Antique",11.8476,121.469
 75,"Province of Iloilo",10.9681,122.59
-76,"Iloilo",10.7447,122.541
-77,"Capiz",11.3673,122.633
-78,"Romblon",12.4045,122.555
-79,"Northern Samar",12.3786,124.812
-80,"Masbate",12.2276,123.611
-81,"Oriental Mindoro",12.8526,121.36
-82,"Occidental Mindoro",12.6588,121.085
-83,"Marinduque",13.3717,121.971
-84,"Catanduanes",13.8305,124.222
-85,"Batanes",21.1164,121.951
+76,"Iloilo City",10.7447,122.541
+77,"Province of Capiz",11.3673,122.633
+78,"Province of Romblon",12.4045,122.555
+79,"Province of Northern Samar",12.3786,124.812
+80,"Province of Masbate",12.2276,123.611
+81,"Province of Mindoro Oriental",12.8526,121.36
+82,"Province of Mindoro Oriental",12.6588,121.085
+83,"Province of Marinduque",13.3717,121.971
+84,"Province of Catanduanes",13.8305,124.222
+85,"Province of Batanes",21.1164,121.951
 86,"Lapu-Lapu City",10.2992,123.959
-87,"Agusan del Sur",8.57934,125.761
-88,"Bukidnon",7.99493,125.002
-89,"Cotabato",7.27167,124.82
-90,"South Cotabato",6.30746,124.808
+87,"Province of Agusan del Sur",8.57934,125.761
+88,"Province of Bukidnon",7.99493,125.002
+89,"Province of North Cotabato",7.27167,124.82
+90,"Province of South Cotabato",6.30746,124.808
 91,"unknown",14.4253,121.053
 92,"Caloocan City",14.6402,120.99
 93,"Caloocan City",14.6593,120.964
 94,"unknown",14.6939,120.991
 95,"Quezon City",14.6711,121.067
-96,"Nueva Ecija",15.6863,120.998
-97,"Laguna",14.146,121.307
-98,"Rizal",14.6809,121.284
+96,"Province of Nueva Ecija",15.6863,120.998
+97,"Province of Laguna",14.146,121.307
+98,"Province of Rizal",14.6809,121.284
 99,"unknown",14.518,121.062
 100,"Marikina",14.6291,121.116
 101,"Pasig",14.568,121.1
-102,"Quirino",16.2982,121.663
+102,"Province of Quirino",16.2982,121.663
 103,"unknown",16.7428,121.511
-104,"Nueva Vizcaya",16.3729,121.101
-105,"Benguet",16.545,120.689
-106,"Ifugao",16.8291,121.214
+104,"Province of Nueva Vizcaya",16.3729,121.101
+105,"Province of Benguet",16.545,120.689
+106,"Province of Ifugao",16.8291,121.214
 107,"Mountain Province",17.0908,121.172
-108,"Tarlac",15.4733,120.463
+108,"Province of Tarlac",15.4733,120.463
 109,"Apayao",18.1179,121.167
 110,"Kalinga",17.4884,121.322
-111,"Abra",17.5665,120.798
+111,"Province of Abra",17.5665,120.798
 112,"Naga City",13.6153,123.197
 113,"unknown",15.1453,120.591
 114,"Baguio City",16.4059,120.605
