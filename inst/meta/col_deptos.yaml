@@ -261,7 +261,7 @@ col_depto_caqueta:
       - 0
 col_depto_casanare:
   label: División geografica de Casanare Colombia
-  basename: col-depto-Casanare
+  basename: col-depto-casanare
   scope: departamento
   geographyName: name
   geographyId: id
