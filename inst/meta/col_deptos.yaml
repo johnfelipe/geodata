@@ -609,7 +609,7 @@ col_depto_meta:
       - 0
 col_depto_narino:
   label: División geografica de Nariño Colombia
-  basename: col-depto-nariño
+  basename: col-depto-narino
   scope: departamento
   geographyName: name
   geographyId: id
