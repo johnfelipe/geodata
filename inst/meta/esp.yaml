@@ -22,3 +22,9 @@ madrid_districts:
   scope: DISTRITOS
   geographyName: name
   geographyId: id
+madrid_barrios:
+  label: Madrid Spain barrios
+  basename: madrid-barrios
+  scope: BARRIOS
+  geographyName: name
+  geographyId: id
