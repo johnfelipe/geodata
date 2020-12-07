@@ -10,10 +10,15 @@ esp_municipalities:
   scope: ESP_adm4
   geographyName: name
   geographyId: id
-md_municipalities:
-  label: Madrid Spain Municipalities
-  basename: madrid-municipalities
+comunidad-md-municipalities:
+  label: Comunidad Madrid Spain Municipalities
+  basename: comunidad-md-municipalities
   scope: madrid_mcp
   geographyName: name
   geographyId: id
-  
+madrid_districts:
+  label: Madrid Spain districs
+  basename: madrid-districts
+  scope: DISTRITOS
+  geographyName: name
+  geographyId: id
