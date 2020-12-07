@@ -4,3 +4,16 @@ esp_division:
   scope: ESP_adm1
   geographyName: name
   geographyId: id
+esp_municipalities:
+  label: Spain Municipalities
+  basename: esp-municipalities
+  scope: ESP_adm4
+  geographyName: name
+  geographyId: id
+md_municipalities:
+  label: Madrid Spain Municipalities
+  basename: madrid-municipalities
+  scope: madrid_mcp
+  geographyName: name
+  geographyId: id
+  
