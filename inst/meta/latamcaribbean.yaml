@@ -1,0 +1,6 @@
+latamcaribbean_countries:
+  label: Latam and Caribbean countries
+  basename: latamcaribbean-countries
+  scope: Latam and Caribbean countries
+  geographyName: name
+  geographyId: id
