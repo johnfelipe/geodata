@@ -57,37 +57,11 @@ centroids_json <- function(topojsonPath, colsAdditonals) {
   data_centroide
 }
 
+# change from topojson to rds
+# map(seq_along(list.files("inst/geodata/")), function(i) {
+#   file_tj <- list.files(paste0("inst/geodata/", list.files("inst/geodata/")[i], "/"), pattern = "topojson")
+#   tj <- read_lines(paste0("inst/geodata/", list.files("inst/geodata/")[i], "/", file_tj))
+#   saveRDS(tj, paste0("inst/geodata/", list.files("inst/geodata/")[i], "/",  list.files("inst/geodata/")[i], ".rds"))
+# })
 
 
-#
-# # # Test --------------------------------------------------------------------
-# #
-# # topoData <- readLines("inst/geodata/esp/esp-municipalities.topojson") %>% paste(collapse = "\n")
-# # library(leaflet)
-# # lf <- leaflet() %>%
-# #   leaflet(options = leafletOptions(zoomControl = TRUE))
-# #
-# # lf %>%
-# #   addTopoJSON(topoData,
-# #               weight = 1,
-# #               color = '#000000',
-# #               fill = FALSE)
-#
-#
-# # shapefile ---------------------------------------------------------------
-#
-# # library(sf)
-# # s.sf <- read_sf(dsn = "world/world.shp", layer = "world")
-# #
-# # st_crs(s.sf)
-# # # shapefile  --------------------------------------------------------------
-# # s.sf.gcs <- st_transform(s.sf, "+proj=longlat +datum=WGS84")
-# # st_crs(s.sf.gcs)
-# #
-# # s.sp <- as(s.sf.gcs, "Spatial")
-# #
-# # raster::shapefile(s.sp, "world.shp")
-# # library(leaflet)
-# # leaflet(s.sf.gcs) %>%
-# #   addPolygons() %>%
-# #   addTiles()
