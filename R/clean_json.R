@@ -1,6 +1,6 @@
 
 clean_json <- function(geoName, geoId, geoProperties, newnamesProperties, jsonName, saveFile = TRUE, savePath = NULL) {
-    json_file <- jsonlite::read_json(paste0(geoName, '.json'))
+  json_file <- jsonlite::read_json(paste0(geoName, '.json'))
   leng_json <- length(json_file$objects[[geoName]][["geometries"]])
   for(i in 1:leng_json){
     json_file$objects[[geoName]][["geometries"]][[i]]$id <- json_file$objects[[geoName]][["geometries"]][[i]][["properties"]][[geoId]]
@@ -25,30 +25,20 @@ clean_json <- function(geoName, geoId, geoProperties, newnamesProperties, jsonNa
 }
 
 
-centroids_json <- function(topojsonPath, colsAdditonals = "name") {
-  tj <- rgdal::readOGR(topojsonPath)
-  nms <- as.data.frame(topojson_read(topojsonPath))
-  nms <- nms %>%
-    dplyr::select(-geometry) %>%
-    dplyr::mutate(.id = 0:(nrow(.)-1))
-
-  data_map <- ggplot2::fortify(tj) %>%
-    dplyr::mutate(.id = as.numeric(id)) %>%
-    dplyr::select(-id)
-
-
-  info_cent <- data_map %>%
-    dplyr::group_by( .id) %>%
-    dplyr::summarise(lat = median(lat), lon = median(long))
-  data_centroide <- nms %>%
-    dplyr::left_join(info_cent)
-
-  if (is.null(colsAdditonals)) {
-    data_centroide <- data_centroide[,c("id", "name", "continent",  "lat", "lon")]
+centroids_json <- function(topojsonPath, write = TRUE) {
+  tj <- read_sf(topojsonPath)
+  df <- suppressWarnings(st_centroid(tj, of_largest = TRUE))
+  df$centroids <- stringr::str_extract(string = st_as_text(df$geometry),
+                                       pattern = "(?<=\\().*(?=\\))")
+  df <- df %>%
+         unnest(centroids) %>%
+          separate(centroids, c("lon", "lat"), sep = " ") %>%
+           st_drop_geometry()
+  if (write) {
+    write_csv(df, gsub(".topojson", ".csv", topojsonPath))
   } else {
-    data_centroide <- data_centroide[,c("id",  colsAdditonals, "lat", "lon")]
+    df
   }
-  data_centroide
 }
 
 #change from topojson to rds
