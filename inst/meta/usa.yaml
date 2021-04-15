@@ -53,3 +53,22 @@ california_counties:
       rotate: [0, 0]
       scale: 0.7
       translate: [0,0]
+newyork_counties:
+  label: New York counties
+  basename: newyork-counties
+  scope: newyork_map
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      name: mercator
+      center: [-102.5, 45]
+      rotate: [0, 0]
+      scale: 0.7
+      translate: [0,0]
+    equirectangular:
+      name: mercator
+      center: [-102.5, 45]
+      rotate: [0, 0]
+      scale: 0.7
+      translate: [0,0]

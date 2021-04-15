@@ -7,7 +7,7 @@ Author: Juan Pablo Marin Diaz
 Maintainer: Juan Pablo Marin Diaz <jpmarindiaz@gmail.com>
 Description: geodata package for maps
 Depends:
-    R (>= 3.1.2),
+    R (>= 3.5.0),
     yaml,
     geojsonio,
     sf
