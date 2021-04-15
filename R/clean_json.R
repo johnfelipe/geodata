@@ -31,7 +31,7 @@ clean_json <- function(geoName, geoId, geoProperties, newnamesProperties, jsonNa
 }
 
 
-centroids_json <- function(topojsonPath, colsAdditonals) {
+centroids_json <- function(topojsonPath, colsAdditonals = "name") {
   tj <- rgdal::readOGR(topojsonPath)
   nms <- as.data.frame(topojson_read(topojsonPath))
   nms <- nms %>%
@@ -52,16 +52,18 @@ centroids_json <- function(topojsonPath, colsAdditonals) {
   if (is.null(colsAdditonals)) {
     data_centroide <- data_centroide[,c("id", "name", "continent",  "lat", "lon")]
   } else {
-    data_centroide <- data_centroide[,c("id", "name", "lat", "lon", colsAdditonals)]
+    data_centroide <- data_centroide[,c("id",  colsAdditonals, "lat", "lon")]
   }
   data_centroide
 }
 
-# change from topojson to rds
+#change from topojson to rds
 # map(seq_along(list.files("inst/geodata/")), function(i) {
 #   file_tj <- list.files(paste0("inst/geodata/", list.files("inst/geodata/")[i], "/"), pattern = "topojson")
-#   tj <- read_lines(paste0("inst/geodata/", list.files("inst/geodata/")[i], "/", file_tj))
-#   saveRDS(tj, paste0("inst/geodata/", list.files("inst/geodata/")[i], "/",  list.files("inst/geodata/")[i], ".rds"))
+#   map(file_tj, function(j) {
+#   tj <- read_lines(paste0("inst/geodata/", list.files("inst/geodata/")[i], "/", j))
+#   saveRDS(tj, paste0("inst/geodata/", list.files("inst/geodata/")[i], "/",  gsub(".topojson", "", j), ".rds"))
+#   })
 # })
 
 
