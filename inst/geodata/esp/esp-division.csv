@@ -1,53 +1,53 @@
-"id","name","lat","lon"
-1,"Ceuta",35.8803,-5.341
-2,"Melilla",35.2934,-2.94015
-3,"Provincia de Navarra",42.7493,-1.63845
-4,"Provincia de Guipuzcoa",43.1495,-2.2243
-5,"Provincia de Huesca",42.1863,-0.0128081
-6,"Provincia de Lleida",42.0143,1.11518
-7,"Provincia de Girona",42.0844,2.79123
-8,"Provincia de Ourense",42.1609,-7.59234
-9,"Provincia de Pontevedra",42.5257,-8.4998
-10,"Provincia de Zamora",41.6837,-5.84292
-11,"Provincia de Salamanca",40.8324,-5.9926
-12,"Provincia de Caceres",39.7279,-6.08204
-13,"Provincia de Badajoz",38.5731,-6.26724
-14,"Provincia de Cadiz",36.4828,-5.82488
-15,"Provincia de Huelva",37.6217,-6.90248
-16,"Provincia de Barcelona",41.6575,2.00777
-17,"Provincia de Tarragona",41.1476,0.873012
-18,"Provincia de Castello",40.222,-0.0975114
-19,"Provincia de Valencia",39.3003,-0.712245
-20,"Provincia de Alicante",38.5418,-0.533879
-21,"Murcia",37.9136,-1.45758
-22,"Provincia de Almeria",37.1563,-2.22473
-23,"Provincia de Granada",37.2665,-3.2411
-24,"Provincia de Malaga",36.838,-4.68606
-25,"Provincia de Sevilla",37.438,-5.73917
-26,"Provincia da Coruna",43.1026,-8.39736
-27,"Provincia de Lugo",42.9467,-7.44266
-28,"Province of Asturias",43.3261,-5.84196
-29,"Provincia de Cantabria",43.2182,-4.02085
-30,"Bizkaia",43.2392,-2.7953
-31,"Provincia de Santa Cruz de Tenerife",28.2566,-16.6144
-32,"Provincia de Las Palmas",27.9463,-15.6013
-33,"Illes Balears",39.6162,2.99156
-34,"Provincia de Zaragoza",41.5814,-1.0538
-35,"Provincia de La Rioja",42.3179,-2.40337
-36,"Provincia de Alava",42.8902,-2.6966
-37,"Provincia de Albacete",38.834,-1.94309
-38,"Provincia de Teruel",40.625,-0.809409
-39,"Provincia de Cuenca",39.9115,-2.15126
-40,"Province of Toledo",39.7401,-3.95134
-41,"Provincia de Leon",42.6006,-5.75872
-42,"Provincia de Soria",41.6463,-2.55925
-43,"Provincia de Burgos",42.348,-3.60703
-44,"Provincia de Avila",40.5611,-4.87934
-45,"Provincia de Palencia",42.3386,-4.59868
-46,"Provincia de Ciudad Real",38.8936,-3.74727
-47,"Province of Cordoba",37.9699,-4.74788
-48,"Provincia de Guadalajara",40.8422,-2.53087
-49,"Provincia de Jaen",37.9829,-3.43703
-50,"Provincia de Madrid",40.4593,-3.67012
-51,"Provincia de Segovia",41.2066,-4.04672
-52,"Provincia de Valladolid",41.5715,-4.83256
+id,name,lon,lat
+ESP-5815,Ceuta,-5.347418,35.89247
+ESP-5835,Melilla,-2.94444,35.29537
+ESP-5837,Provincia de Navarra,-1.642535,42.66902
+ESP-5823,Provincia de Guipuzcoa,-2.198414,43.14619
+ESP-5825,Provincia de Huesca,-0.07019139,42.19869
+ESP-5831,Provincia de Lleida,1.046562,42.03831
+ESP-5820,Provincia de Girona,2.679008,42.12326
+ESP-5838,Provincia de Ourense,-7.597931,42.19361
+ESP-5840,Provincia de Pontevedra,-8.460854,42.44051
+ESP-5852,Provincia de Zamora,-5.984927,41.72668
+ESP-5841,Provincia de Salamanca,-6.077342,40.80631
+ESP-5811,Provincia de Caceres,-6.173685,39.71071
+ESP-5807,Provincia de Badajoz,-6.15212,38.70846
+ESP-5812,Provincia de Cadiz,-5.760778,36.55289
+ESP-5824,Provincia de Huelva,-6.832476,37.58088
+ESP-5809,Provincia de Barcelona,1.984719,41.72866
+ESP-5846,Provincia de Tarragona,0.8166515,41.08835
+ESP-5814,Provincia de Castello,-0.140648,40.24101
+ESP-5849,Provincia de Valencia,-0.8011221,39.3706
+ESP-5803,Provincia de Alicante,-0.5676074,38.47822
+ESP-5836,Murcia,-1.483273,38.00402
+ESP-5804,Provincia de Almeria,-2.345482,37.19606
+ESP-5821,Provincia de Granada,-3.266071,37.31361
+ESP-5834,Provincia de Malaga,-4.730851,36.81309
+ESP-5844,Provincia de Sevilla,-5.68289,37.43625
+ESP-5827,Provincia da Coruna,-8.461607,43.12802
+ESP-5832,Provincia de Lugo,-7.446047,43.0145
+ESP-5805,Province of Asturias,-5.988629,43.2969
+ESP-5813,Provincia de Cantabria,-4.033969,43.19931
+ESP-5851,Bizkaia,-2.848116,43.24341
+ESP-5842,Provincia de Santa Cruz de Tenerife,-17.03262,28.30548
+ESP-5829,Provincia de Las Palmas,-14.54556,28.36659
+ESP-5808,Illes Balears,2.903036,39.5713
+ESP-5853,Provincia de Zaragoza,-1.064199,41.62071
+ESP-5828,Provincia de La Rioja,-2.495561,42.28048
+ESP-5801,Provincia de Alava,-2.717808,42.84445
+ESP-5802,Provincia de Albacete,-1.978991,38.82641
+ESP-5847,Provincia de Teruel,-0.8144155,40.65969
+ESP-5818,Provincia de Cuenca,-2.195666,39.89649
+ESP-5848,Province of Toledo,-4.1474,39.79328
+ESP-5830,Provincia de Leon,-5.840532,42.62203
+ESP-5845,Provincia de Soria,-2.589623,41.62062
+ESP-5810,Provincia de Burgos,-3.580411,42.375
+ESP-5806,Provincia de Avila,-4.942601,40.57102
+ESP-5839,Provincia de Palencia,-4.537328,42.36872
+ESP-5816,Provincia de Ciudad Real,-3.829785,38.92743
+ESP-5817,Province of Cordoba,-4.808879,37.99256
+ESP-5822,Provincia de Guadalajara,-2.622952,40.81424
+ESP-5826,Provincia de Jaen,-3.441525,38.01955
+ESP-5833,Provincia de Madrid,-3.717082,40.49505
+ESP-5843,Provincia de Segovia,-4.053629,41.17141
+ESP-5850,Provincia de Valladolid,-4.848193,41.63527
