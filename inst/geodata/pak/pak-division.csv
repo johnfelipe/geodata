@@ -1,9 +1,9 @@
-"id","name","lat","lon"
-1,"Sindh",26.3734,68.8685
-2,"Northern Areas",35.7864,74.9848
-3,"Azad Kashmir",33.868,73.8036
-4,"Punjab",31.3589,72.3449
-5,"Khyber Pakhtunkhwa Province",34.9407,72.6402
-6,"Federally Administered Tribal Areas",32.6148,69.8985
-7,"Balochistan",27.5194,65.5512
-8,"Islamabad Capital Territory",33.7011,73.0628
+id,name,lon,lat
+PAK-1114,Sindh,68.76807,26.02742
+PAK-1111,Northern Areas,74.88922,35.81023
+PAK-1109,Azad Kashmir,74.02419,34.12178
+PAK-1113,Punjab,72.13415,30.82197
+PAK-1123,Khyber Pakhtunkhwa Province,72.07845,34.48428
+PAK-1112,Federally Administered Tribal Areas,70.39451,33.15102
+PAK-1108,Balochistan,65.86885,28.31761
+PAK-1110,Islamabad Capital Territory,73.085,33.6596

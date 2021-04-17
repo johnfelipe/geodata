@@ -1,18 +1,18 @@
-"id","name","lat","lon"
-1,"Khoueng Phongsali",21.6153,102.245
-2,"Khoueng Oudomxai",20.161,101.548
-3,"Louangnamtha",20.9099,101.148
-4,"Khoueng Bokeo",20.3044,100.672
-5,"Xaignabouli",17.7502,101.143
-6,"Bolikhamxai",18.538,104.039
-7,"Khammouan",17.6151,105.343
-8,"Khoueng Savannakhet",16.4937,105.771
-9,"Salavan",15.7614,106.248
-10,"Viangchan",18.103,102.563
-11,"Viangchan",18.9186,102.156
-12,"Champasak",14.1093,106.003
-13,"Luang Prabang Province",20.0788,102.549
-14,"Houaphan",20.3729,104.039
-15,"Xiangkhouang",19.5113,103.46
-16,"Khoueng Xekong",15.6414,106.982
-17,"Attapu",14.7848,106.866
+id,name,lon,lat
+LAO-3291,Khoueng Phongsali,102.2198,21.65193
+LAO-3290,Khoueng Oudomxai,101.7333,20.42588
+LAO-3272,Louangnamtha,101.1393,20.8825
+LAO-3271,Khoueng Bokeo,100.6407,20.34665
+LAO-3278,Xaignabouli,101.3333,18.93044
+LAO-3292,Bolikhamxai,104.2438,18.48311
+LAO-3293,Khammouan,105.2452,17.56811
+LAO-3282,Khoueng Savannakhet,105.7074,16.55385
+LAO-3281,Salavan,106.2728,15.84464
+LAO-3283,Viangchan,102.5717,18.14663
+LAO-3284,Viangchan,102.5018,18.73036
+LAO-3280,Champasak,105.9447,14.77584
+LAO-3289,Luang Prabang Province,102.5461,20.12584
+LAO-3288,Houaphan,104.0069,20.27702
+LAO-3286,Xiangkhouang,103.5081,19.46625
+LAO-3295,Khoueng Xekong,107.028,15.57155
+LAO-3294,Attapu,106.9298,14.79883

@@ -1,12 +1,12 @@
-"id","name","lat","lon"
-1,"Maputo Province",-25.5571,32.3209
-2,"Cabo Delgado Province",-12.51,39.3146
-3,"Niassa Province",-13.4918,36.4227
-4,"Tete",-15.4259,32.7751
-5,"Manica Province",-20.811,33.4678
-6,"Gaza Province",-23.1231,32.8795
-7,"Provincia de Zambezia",-16.4213,37.1305
-8,"Cidade de Maputo",-25.949,32.5828
-9,"Inhambane Province",-21.6677,35.4619
-10,"Sofala Province",-18.7726,34.8544
-11,"Nampula",-14.9497,38.7815
+id,name,lon,lat
+MOZ-1927,Maputo Province,32.43892,-25.53934
+MOZ-1198,Cabo Delgado Province,39.36526,-12.46049
+MOZ-1199,Niassa Province,36.45631,-13.0734
+MOZ-1190,Tete,32.74159,-15.52142
+MOZ-1192,Manica Province,33.42514,-19.03871
+MOZ-1207,Gaza Province,32.79089,-23.31297
+MOZ-1906,Provincia de Zambezia,36.9799,-16.65657
+MOZ-5854,Cidade de Maputo,32.58327,-25.91895
+MOZ-1925,Inhambane Province,34.50938,-22.8098
+MOZ-1905,Sofala Province,34.67726,-19.05069
+MOZ-1200,Nampula,39.25094,-14.96144

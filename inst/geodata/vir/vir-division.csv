@@ -1,4 +1,4 @@
-"id","name","lat","lon"
-1,"Saint Croix Island",17.735,-64.7798
-2,"Saint John Island",18.3422,-64.7461
-3,"Saint Thomas Island",18.3543,-64.9263
+id,name,lon,lat
+VIR-4870,Saint Croix Island,-64.76265,17.73929
+VIR-4869,Saint John Island,-64.73522,18.34005
+VIR-4868,Saint Thomas Island,-64.934,18.34646

@@ -1,13 +1,13 @@
-"id","name","lat","lon"
-1,"Irbid",32.5559,35.8195
-2,"Muhafazat Madaba",31.5852,35.6722
-3,"Al Karak",31.1753,35.7693
-4,"Muhafazat at Tafilah",30.7879,35.6436
-5,"Muhafazat al `Aqabah",29.6276,35.3449
-6,"Muhafazat al Balqa'",31.8345,35.7216
-7,"Al Mafraq",32.2481,37.6195
-8,"Muhafazat Ma`an",30.492,36.6401
-9,"Muhafazat `Amman",31.6211,36.4418
-10,"Muhafazat az Zarqa'",31.8095,36.8284
-11,"Muhafazat `Ajlun",32.2932,35.761
-12,"Jerash",32.2186,35.856
+id,name,lon,lat
+JOR-854,Irbid,35.79097,32.51256
+JOR-858,Muhafazat Madaba,35.67546,31.57611
+JOR-859,Al Karak,35.77198,31.12811
+JOR-852,Muhafazat at Tafilah,35.62764,30.77853
+JOR-849,Muhafazat al `Aqabah,35.31984,29.79738
+JOR-857,Muhafazat al Balqa',35.6678,31.97635
+JOR-850,Al Mafraq,37.92064,32.37728
+JOR-853,Muhafazat Ma`an,36.53874,30.34257
+JOR-851,Muhafazat `Amman,36.34283,31.57826
+JOR-860,Muhafazat az Zarqa',36.84428,31.82492
+JOR-855,Muhafazat `Ajlun,35.73798,32.28704
+JOR-856,Jerash,35.8793,32.22161

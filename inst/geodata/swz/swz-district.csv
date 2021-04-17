@@ -1,5 +1,5 @@
-"id","name","lat","lon"
-1,"Lubombo District",-26.5247,31.8026
-2,"Hhohho District",-26.0265,31.322
-3,"Manzini District",-26.6342,31.2402
-4,"Shiselweni District",-27.0243,31.4265
+id,name,lon,lat
+SWZ-535,Lubombo District,31.83189,-26.54188
+SWZ-534,Hhohho District,31.3193,-26.08188
+SWZ-536,Manzini District,31.22307,-26.53813
+SWZ-537,Shiselweni District,31.41123,-27.05977

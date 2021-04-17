@@ -123,3 +123,10 @@ geodataCsvPath <- function(mapName){
 }
 
 
+#' @export
+geodataRdsPath <- function(mapName){
+  y <- geodataMeta(mapName, load_data = FALSE)
+  system.file(file.path("geodata",y$geoname,paste0(y$basename, "-centroides.rds")),package = "geodata")
+}
+
+

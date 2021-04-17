@@ -1,10 +1,10 @@
-"id","name","lat","lon"
-1,"Austurland",65.4363,-15.2246
-2,"Sudurland",64.0187,-18.5336
-3,"Sudurnes",63.9429,-22.1206
-4,"Hofudborgarsvadi",64.0828,-21.8646
-5,"Hofudborgarsvadi",64.2277,-21.536
-6,"Vesturland",64.8183,-21.357
-7,"Vestfirdir",65.7068,-22.1562
-8,"Nordurland Vestra",65.1515,-19.7011
-9,"Nordurland Eystra",65.3752,-17.1782
+id,name,lon,lat
+ISL-695,Austurland,-15.39452,64.89579
+ISL-705,Sudurland,-19.17686,64.1465
+ISL-704,Sudurnes,-22.27808,63.93566
+ISL-5131,Hofudborgarsvadi,-21.81491,64.13487
+ISL-709,Hofudborgarsvadi,-21.53658,64.22917
+ISL-710,Vesturland,-21.70341,64.84484
+ISL-690,Vestfirdir,-22.57686,65.81667
+ISL-697,Nordurland Vestra,-19.70118,65.36365
+ISL-702,Nordurland Eystra,-17.06987,65.5746

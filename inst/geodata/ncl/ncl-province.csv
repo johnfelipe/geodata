@@ -1,4 +1,4 @@
-"id","name","lat","lon"
-1,"Province Nord",-21.0082,165.058
-2,"Province Sud",-22.608,167.487
-3,"Province des iles Loyaute",-21.5326,167.976
+id,name,lon,lat
+NCL-559,Province Nord,164.9482,-20.90523
+NCL-1259,Province Sud,166.2016,-21.87566
+NCL-1258,Province des iles Loyaute,167.4375,-21.10171

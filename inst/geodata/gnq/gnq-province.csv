@@ -1,8 +1,8 @@
-"id","name","lat","lon"
-1,"Provincia de Litoral",1.30717,9.7992
-2,"Provincia de Kie-Ntem",2.04853,10.8707
-3,"Provincia de Centro Sur",1.46235,10.4494
-4,"Provincia de Wele-Nzas",1.33965,10.9267
-5,"Provincia de Annobon",-1.44699,5.62933
-6,"Provincia de Bioko Norte",3.66783,8.79508
-7,"Provincia de Bioko Sur",3.42557,8.64291
+id,name,lon,lat
+GNQ-1470,Provincia de Litoral,9.852663,1.522657
+GNQ-1469,Provincia de Kie-Ntem,10.95228,1.998883
+GNQ-1468,Provincia de Centro Sur,10.43112,1.479802
+GNQ-1471,Provincia de Wele-Nzas,11.00186,1.493221
+GNQ-1467,Provincia de Annobon,5.631352,-1.446417
+GNQ-1478,Provincia de Bioko Norte,8.806425,3.663427
+GNQ-1479,Provincia de Bioko Sur,8.645844,3.406327

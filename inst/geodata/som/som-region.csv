@@ -1,14 +1,14 @@
-"id","name","lat","lon"
-1,"Gobolka Nugaal",8.46102,48.849
-2,"Gobolka Mudug",5.51036,48.1009
-3,"Gobolka Galguduud",5.09616,46.6795
-4,"Gobolka Hiiraan",4.36813,45.4984
-5,"Gobolka Bakool",4.40611,43.835
-6,"Gobolka Gedo",3.05384,42.0524
-7,"Gobolka Bari",9.95583,50.1777
-8,"Gobolka Jubbada Hoose",0.0078977,41.8088
-9,"Gobolka Jubbada Dhexe",1.55342,42.4706
-10,"Gobolka Shabeellaha Hoose",1.63602,44.185
-11,"Gobolka Banaadir",2.12409,45.436
-12,"Gobolka Shabeellaha Dhexe",3.00561,46.0549
-13,"Gobolka Bay",2.67209,43.545
+id,name,lon,lat
+SOM-2413,Gobolka Nugaal,48.90634,8.188076
+SOM-2412,Gobolka Mudug,48.13545,6.383622
+SOM-2408,Gobolka Galguduud,46.76226,5.122288
+SOM-2409,Gobolka Hiiraan,45.47441,4.222023
+SOM-2312,Gobolka Bakool,43.94243,4.208912
+SOM-2314,Gobolka Gedo,41.96812,2.898002
+SOM-1,Gobolka Bari,50.02353,10.22451
+SOM-2645,Gobolka Jubbada Hoose,41.78448,0.0823033
+SOM-2315,Gobolka Jubbada Dhexe,42.53987,1.223286
+SOM-2316,Gobolka Shabeellaha Hoose,44.32541,1.903341
+SOM-2407,Gobolka Banaadir,45.42426,2.110263
+SOM-2410,Gobolka Shabeellaha Dhexe,46.01204,3.021316
+SOM-2313,Gobolka Bay,43.56643,2.652968

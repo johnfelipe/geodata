@@ -1,15 +1,15 @@
-"id","name","lat","lon"
-1,"Rakhine State",20.2747,93.6396
-2,"Chin State",21.9262,93.3727
-3,"Kachin State",25.7926,97.2978
-4,"Sagaing Division",23.7031,95.1821
-5,"Shan State",21.5185,98.1593
-6,"Kayah State",19.2658,97.3526
-7,"Kayin State",17.3996,97.651
-8,"Mon State",16.3045,97.8062
-9,"Tanintharyi Division",13.6116,98.7746
-10,"Ayeyarwady Division",16.7457,95.1083
-11,"Yangon Division",17.1117,96.111
-12,"Bago Division",18.518,96.1485
-13,"Magway Division",19.6473,94.8807
-14,"Mandalay Division",20.6284,96.0614
+id,name,lon,lat
+MMR-3273,Rakhine State,93.74112,19.72508
+MMR-3274,Chin State,93.50844,22.15986
+MMR-3296,Kachin State,97.33399,26.08315
+MMR-3302,Sagaing Division,95.32667,24.15189
+MMR-3277,Shan State,98.11793,21.71729
+MMR-2473,Kayah State,97.37114,19.23426
+MMR-3266,Kayin State,97.78533,17.15455
+MMR-3270,Mon State,97.5957,16.41176
+MMR-3279,Tanintharyi Division,98.75374,12.6799
+MMR-3275,Ayeyarwady Division,95.12669,16.87785
+MMR-3269,Yangon Division,96.183,16.9633
+MMR-3268,Bago Division,96.20077,18.27664
+MMR-3276,Magway Division,94.84414,20.36563
+MMR-3267,Mandalay Division,95.9958,21.20345

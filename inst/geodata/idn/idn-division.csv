@@ -1,34 +1,34 @@
-"id","name","lat","lon"
-1,"Provinsi Kalimantan Timur",1.28915,116.354
-2,"Provinsi Nusa Tenggara Timur",-8.58443,120.689
-3,"Provinsi Kalimantan Barat",-0.0636474,111.304
-4,"Provinsi Papua",-4.10825,138.689
-5,"Provinsi Jawa Timur",-7.88129,112.616
-6,"Provinsi Maluku",-8.24814,128.161
-7,"Propinsi Nusa Tenggara Barat",-8.57106,116.294
-8,"Provinsi Sulawesi Selatan",-3.7444,119.99
-9,"Provinsi Jawa Tengah",-7.2901,109.896
-10,"Provinsi Jawa Barat",-6.90763,107.638
-11,"Daerah Khusus Ibukota Jakarta",-6.22462,106.837
-12,"Provinsi Banten",-6.25794,106.167
-13,"Daerah Istimewa Yogyakarta",-7.83533,110.443
-14,"Provinsi Sulawesi Tenggara",-4.0746,122.119
-15,"Provinsi Papua Barat",-1.32525,132.825
-16,"Provinsi Sulawesi Tengah",-1.30097,120.153
-17,"Provinsi Maluku Utara",-2.28945,125.976
-18,"Provinsi Kepulauan Riau",-0.142639,104.601
-19,"Provinsi Riau",0.396892,101.745
-20,"Propinsi Gorontalo",0.760501,122.331
-21,"Provinsi Sulawesi Utara",0.853039,124.446
-22,"Provinsi Sulawesi Barat",-2.69615,119.316
-23,"Provinsi Jambi",-1.65497,102.823
-24,"Provinsi Sumatera Selatan",-3.3824,104.073
-25,"Provinsi Lampung",-4.919,105.059
-26,"Propinsi Bengkulu",-3.48606,102.368
-27,"Provinsi Sumatera Barat",-0.642611,100.611
-28,"Provinsi Sumatera Utara",2.36304,99.2161
-29,"Nanggroe Aceh Darussalam Province",4.41533,96.9956
-30,"Provinsi Kalimantan Tengah",-1.84217,113.286
-31,"Provinsi Kalimantan Selatan",-3.00713,115.451
-32,"Provinsi Bali",-8.3412,115.179
-33,"Provinsi Kepulauan Bangka Belitung",-2.95817,106.819
+id,name,lon,lat
+IDN-1185,Provinsi Kalimantan Timur,116.384,1.354063
+IDN-1235,Provinsi Nusa Tenggara Timur,122.1837,-9.254071
+IDN-1228,Provinsi Kalimantan Barat,111.1545,-0.09496056
+IDN-558,Provinsi Papua,138.6516,-4.640559
+IDN-1233,Provinsi Jawa Timur,112.7375,-7.729985
+IDN-554,Provinsi Maluku,129.7558,-4.694061
+IDN-555,Propinsi Nusa Tenggara Barat,117.5003,-8.606958
+IDN-1236,Provinsi Sulawesi Selatan,120.1778,-3.661947
+IDN-1224,Provinsi Jawa Tengah,110.2111,-7.270047
+IDN-1223,Provinsi Jawa Barat,107.6103,-6.923074
+IDN-1227,Daerah Khusus Ibukota Jakarta,106.85,-6.209204
+IDN-1226,Provinsi Banten,106.1143,-6.452773
+IDN-540,Daerah Istimewa Yogyakarta,110.4577,-7.90809
+IDN-556,Provinsi Sulawesi Tenggara,122.0777,-4.128525
+IDN-1933,Provinsi Papua Barat,132.951,-2.007698
+IDN-557,Provinsi Sulawesi Tengah,121.218,-0.9893348
+IDN-538,Provinsi Maluku Utara,127.5405,0.2204473
+IDN-1796,Provinsi Kepulauan Riau,105.5317,1.543983
+IDN-492,Provinsi Riau,101.8013,0.5079446
+IDN-1837,Propinsi Gorontalo,122.3635,0.6868566
+IDN-513,Provinsi Sulawesi Utara,124.4914,1.212071
+IDN-1237,Provinsi Sulawesi Barat,119.3443,-2.459751
+IDN-1930,Provinsi Jambi,102.7516,-1.692897
+IDN-1230,Provinsi Sumatera Selatan,104.1871,-3.230881
+IDN-1229,Provinsi Lampung,105.0304,-4.919331
+IDN-1225,Propinsi Bengkulu,102.3756,-3.574894
+IDN-539,Provinsi Sumatera Barat,100.4385,-0.828052
+IDN-381,Provinsi Sumatera Utara,99.04064,2.208463
+IDN-1136,Nanggroe Aceh Darussalam Province,96.89564,4.255209
+IDN-1931,Provinsi Kalimantan Tengah,113.4286,-1.596703
+IDN-1234,Provinsi Kalimantan Selatan,115.4312,-2.975493
+IDN-1232,Provinsi Bali,115.1411,-8.363225
+IDN-1231,Provinsi Kepulauan Bangka Belitung,106.5354,-2.433112

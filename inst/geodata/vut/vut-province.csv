@@ -1,7 +1,7 @@
-"id","name","lat","lon"
-1,"Tafea Province",-20.1892,169.818
-2,"Shefa Province",-16.7385,168.301
-3,"Malampa Province",-16.3765,167.494
-4,"Sanma Province",-15.6781,167.155
-5,"Penama Province",-15.7575,168.195
-6,"Torba Province",-14.2328,167.5
+id,name,lon,lat
+VUT-562,Tafea Province,169.2748,-19.1888
+VUT-565,Shefa Province,168.343,-17.34405
+VUT-563,Malampa Province,167.6498,-16.26357
+VUT-561,Sanma Province,166.8715,-15.25428
+VUT-564,Penama Province,168.0508,-15.48354
+VUT-560,Torba Province,167.3852,-13.89425

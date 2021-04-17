@@ -1,31 +1,31 @@
-"id","name","lat","lon"
-1,"Mbeya Region",-8.29695,33.5281
-2,"unknown",-9.39902,34.8871
-3,"Ruvuma Region",-10.7136,36.3365
-4,"Kigoma Region",-4.41836,30.4057
-5,"unknown",-6.4277,31.3404
-6,"Rukwa Region",-7.8958,31.3337
-7,"Kagera Region",-1.77904,31.2578
-8,"Mtwara Region",-10.814,39.2212
-9,"Mara Region",-1.58906,34.0227
-10,"Arusha Region",-3.02634,36.0865
-11,"Kilimanjaro Region",-4.01115,37.6511
-12,"Tanga Region",-5.18525,38.1412
-13,"Lindi Region",-9.44338,38.4234
-14,"Coast Region",-7.86726,39.7491
-15,"Dar es Salaam Region",-6.89289,39.2857
-16,"Zanzibar Central/South Region",-6.2741,39.4241
-17,"Zanzibar North Region",-5.84474,39.2294
-18,"Zanzibar Urban/West Region",-6.1537,39.2425
-19,"Pemba South Region",-5.34982,39.7495
-20,"Pemba North Region",-5.05108,39.777
-21,"Morogoro Region",-8.69673,36.922
-22,"Dodoma Region",-5.73233,35.9608
-23,"Manyara Region",-4.88783,36.4591
-24,"Singida Region",-5.59564,34.4149
-25,"Tabora Region",-6.82145,32.6595
-26,"Iringa Region",-7.83931,35.5453
-27,"Mwanza Region",-2.67284,32.6685
-28,"unknown",-2.96688,34.2172
-29,"unknown",-3.09999,31.6968
-30,"Shinyanga Region",-3.65098,33.2015
+id,name,lon,lat
+TZA-3335,Mbeya Region,33.32231,-8.263148
+TZA-5587,NA,34.73411,-9.429849
+TZA-3389,Ruvuma Region,36.25847,-10.73634
+TZA-3363,Kigoma Region,30.38965,-4.819343
+TZA-5584,NA,31.32014,-6.459856
+TZA-3336,Rukwa Region,31.37675,-7.975685
+TZA-3360,Kagera Region,31.48512,-1.688366
+TZA-3388,Mtwara Region,39.14779,-10.77709
+TZA-3394,Mara Region,34.10634,-1.69488
+TZA-3391,Arusha Region,35.93221,-3.013255
+TZA-3393,Kilimanjaro Region,37.6415,-3.765087
+TZA-3395,Tanga Region,38.27446,-5.226238
+TZA-3387,Lindi Region,38.38797,-9.464202
+TZA-3382,Coast Region,38.66992,-7.264967
+TZA-3378,Dar es Salaam Region,39.26432,-6.881526
+TZA-3337,Zanzibar Central/South Region,39.4191,-6.235874
+TZA-3383,Zanzibar North Region,39.28766,-5.917635
+TZA-3384,Zanzibar Urban/West Region,39.24313,-6.161867
+TZA-3381,Pemba South Region,39.74207,-5.317994
+TZA-3380,Pemba North Region,39.77412,-5.047078
+TZA-3379,Morogoro Region,37.00075,-7.897946
+TZA-3385,Dodoma Region,35.92314,-5.899063
+TZA-3392,Manyara Region,36.56256,-4.563163
+TZA-3390,Singida Region,34.49308,-5.749189
+TZA-3359,Tabora Region,32.82236,-5.285568
+TZA-3386,Iringa Region,35.40405,-7.785508
+TZA-3357,Mwanza Region,32.87029,-2.398258
+TZA-5585,NA,34.26763,-2.956167
+TZA-5586,NA,31.67863,-3.075519
+TZA-3358,Shinyanga Region,32.90115,-3.754962

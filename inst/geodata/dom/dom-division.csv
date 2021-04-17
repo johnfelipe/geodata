@@ -1,33 +1,33 @@
-"id","name","lat","lon"
-1,"Provincia de Monte Cristi",19.7302,-71.4527
-2,"Provincia de Dajabon",19.4319,-71.5952
-3,"Provincia de Elias Pina",19.037,-71.65
-4,"Provincia de Independencia",18.3759,-71.6057
-5,"Provincia de Pedernales",17.9396,-71.5201
-6,"Provincia de La Altagracia",18.608,-68.6413
-7,"Provincia de El Seibo",18.7649,-69.0568
-8,"Provincia de Hato Mayor",18.981,-69.403
-9,"Provincia de Samana",19.2717,-69.4756
-10,"Provincia Maria Trinidad Sanchez",19.4682,-69.9933
-11,"Provincia Espaillat",19.5998,-70.3537
-12,"Provincia de Puerto Plata",19.7427,-70.7972
-13,"Provincia de Barahona",18.1674,-71.1872
-14,"Provincia de Azua",18.5981,-70.8169
-15,"Provincia de Peravia",18.359,-70.3799
-16,"Provincia de San Cristobal",18.5126,-70.1914
-17,"Provincia de Santo Domingo",18.5664,-69.8427
-18,"Distrito Nacional",18.4746,-69.9376
-19,"Provincia de San Pedro de Macoris",18.4796,-69.3484
-20,"Provincia de La Romana",18.5221,-68.9869
-21,"Provincia de Valverde",19.5741,-71.0242
-22,"Provincia de Santiago Rodriguez",19.3626,-71.2919
-23,"Provincia de La Vega",19.0453,-70.6836
-24,"Provincia de Hermanas Mirabal",19.403,-70.352
-25,"Provincia Duarte",19.1987,-70.0202
-26,"Provincia de Santiago",19.2636,-70.8974
-27,"Provincia de Baoruco",18.5116,-71.307
-28,"Provincia de San Juan",18.8948,-71.2622
-29,"Provincia de Monsenor Nouel",18.9242,-70.4081
-30,"Provincia Sanchez Ramirez",19.0101,-70.15
-31,"Provincia de San Jose de Ocoa",18.6367,-70.525
-32,"Provincia de Monte Plata",18.8533,-69.816
+id,name,lon,lat
+DOM-1964,Provincia de Monte Cristi,-71.44393,19.72209
+DOM-1966,Provincia de Dajabon,-71.60154,19.43809
+DOM-1972,Provincia de Elias Pina,-71.59985,19.00488
+DOM-1971,Provincia de Independencia,-71.6289,18.42384
+DOM-1973,Provincia de Pedernales,-71.53272,17.96131
+DOM-1987,Provincia de La Altagracia,-68.66084,18.56719
+DOM-1986,Provincia de El Seibo,-69.05559,18.81939
+DOM-1980,Provincia de Hato Mayor,-69.38615,18.87373
+DOM-1983,Provincia de Samana,-69.49981,19.233
+DOM-1982,Provincia Maria Trinidad Sanchez,-69.98403,19.44418
+DOM-1967,Provincia Espaillat,-70.39435,19.53758
+DOM-1965,Provincia de Puerto Plata,-70.80132,19.74434
+DOM-1970,Provincia de Barahona,-71.20997,18.17083
+DOM-1974,Provincia de Azua,-70.83382,18.58042
+DOM-1977,Provincia de Peravia,-70.37274,18.33349
+DOM-1984,Provincia de San Cristobal,-70.21006,18.52148
+DOM-1394,Provincia de Santo Domingo,-69.86076,18.56532
+DOM-1985,Distrito Nacional,-69.94581,18.48287
+DOM-1396,Provincia de San Pedro de Macoris,-69.36911,18.5473
+DOM-1988,Provincia de La Romana,-68.97787,18.50926
+DOM-1392,Provincia de Valverde,-71.0346,19.58173
+DOM-1391,Provincia de Santiago Rodriguez,-71.31002,19.38308
+DOM-1975,Provincia de La Vega,-70.63163,19.05206
+DOM-1968,Provincia de Hermanas Mirabal,-70.36652,19.40897
+DOM-1979,Provincia Duarte,-70.08775,19.24344
+DOM-1390,Provincia de Santiago,-70.90287,19.32419
+DOM-1969,Provincia de Baoruco,-71.33035,18.51404
+DOM-1393,Provincia de San Juan,-71.28626,18.87967
+DOM-1976,Provincia de Monsenor Nouel,-70.41838,18.89261
+DOM-1395,Provincia Sanchez Ramirez,-70.14482,19.0176
+DOM-1978,Provincia de San Jose de Ocoa,-70.49792,18.61072
+DOM-1981,Provincia de Monte Plata,-69.80505,18.83257

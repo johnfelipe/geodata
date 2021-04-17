@@ -1,6 +1,6 @@
-fro_region:
-  label: Faroe Islands region
-  basename: fro-region
-  scope: FRO_adm1
-  geographyName: name
-  geographyId: id
+#fro_region:
+#  label: Faroe Islands region
+#  basename: fro-region
+#  scope: FRO_adm1
+#  geographyName: name
+#  geographyId: id

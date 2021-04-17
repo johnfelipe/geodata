@@ -1,119 +1,119 @@
-"id","name","lat","lon"
-1,"Province of Sulu",5.53722,120.865
-2,"Province of Davao del Norte",7.45436,125.651
-3,"Province of Zamboanga Sibugay",7.7136,122.926
-4,"Province of Palawan",9.02764,117.912
-5,"Province of Surigao del Norte",9.66326,125.959
-6,"Province of Surigao del Sur",8.80931,126.097
-7,"Province of Agusan del Norte",9.17346,125.56
-8,"Butuan City",8.94346,125.542
-9,"Province of Misamis Oriental",8.74226,124.992
-10,"Chartered City of Cagayan de Oro",8.45874,124.693
-11,"unknown",8.26296,124.396
-12,"Province of Lanao del Norte",8.0566,124.122
-13,"Province of  Zamboanga del Sur",7.84487,123.309
-14,"Province of Misamis Occidental",8.33846,123.717
-15,"Province of Zamboanga del Norte",8.02743,122.73
-16,"Zamboanga City",7.03966,122.055
-17,"Province of Lanao del Sur",7.90221,124.335
-18,"Province of Maguindanao",6.98075,124.437
-19,"Cotabato City",7.22504,124.246
-20,"Province of Sultan Kudarat",6.52568,124.382
-21,"Province of Sarangani",5.95631,125.303
-22,"General Santos City",6.13644,125.139
-23,"Province of Davao del Sur",6.34808,125.511
-24,"Davao City",7.07729,125.587
-25,"Compostela",7.52967,125.984
-26,"Province of Davao Oriental",7.06305,126.286
-27,"Province of Southern Leyte",10.0694,125.215
-28,"Province of Leyte",10.9926,124.883
-29,"Province of Eastern Samar",10.7291,125.755
-30,"Biliran",11.5911,124.487
-31,"Province of Samar",11.8292,124.999
-32,"Province of Aurora",16.1271,121.756
-33,"Province of Quezon",13.8708,122.037
-34,"Province of Camarines Norte",14.1942,122.699
-35,"Province of Camarines Sur",13.6733,123.365
-36,"Province of Albay",13.2254,123.563
-37,"Province of Sorsogon",12.7377,124.001
-38,"unknown",13.9241,121.576
-39,"Province of Batangas",13.9268,121.076
-40,"Province of Cavite",14.2563,120.836
-41,"unknown",14.4591,120.995
-42,"unknown",14.49,121.016
-43,"Pasay City",14.5449,120.999
-44,"City of Manila",14.5931,120.989
-45,"unknown",14.6394,120.952
-46,"Province of Bulacan",14.9603,121.003
-47,"Province of Pampanga",15.0215,120.651
-48,"Province of Bataan",14.6561,120.42
-49,"Olongapo City",14.8618,120.282
-50,"Province of Zambales",15.0499,120.164
-51,"San Carlos City",15.8696,120.341
-52,"Dagupan City",16.0325,120.341
-53,"Province of La Union",16.5569,120.436
-54,"Province of Ilocos Sur",16.9849,120.604
-55,"Province of Ilocos Norte",18.1995,120.71
-56,"Province of Cagayan",17.9242,121.641
-57,"Province of Isabela",17.0036,121.932
-58,"Province of Tawi-Tawi",4.80751,119.835
-59,"Province of Basilan",6.49955,122.059
-60,"Province of Camiguin",9.17353,124.722
-61,"Province of Siquijor",9.17807,123.597
-62,"Province of Bohol",9.84875,124.248
-63,"Province of Guimaras",10.5577,122.61
-64,"unknown",10.6592,122.986
-65,"Province of Negros Occidental",10.4137,122.985
-66,"Province of Negros Oriental",9.75662,123.032
-67,"Cebu City",10.3024,123.899
-68,"Mandaue City",10.3358,123.933
-69,"Province of Cebu",10.269,123.695
-70,"Puerto Princesa City",9.89211,118.673
-71,"Tacloban City",11.2439,124.98
-72,"Ormoc City",11.0197,124.572
-73,"Province of Aklan",11.5611,122.223
-74,"Province of Antique",11.8476,121.469
-75,"Province of Iloilo",10.9681,122.59
-76,"Iloilo City",10.7447,122.541
-77,"Province of Capiz",11.3673,122.633
-78,"Province of Romblon",12.4045,122.555
-79,"Province of Northern Samar",12.3786,124.812
-80,"Province of Masbate",12.2276,123.611
-81,"Province of Mindoro Oriental",12.8526,121.36
-82,"Province of Mindoro Oriental",12.6588,121.085
-83,"Province of Marinduque",13.3717,121.971
-84,"Province of Catanduanes",13.8305,124.222
-85,"Province of Batanes",21.1164,121.951
-86,"Lapu-Lapu City",10.2992,123.959
-87,"Province of Agusan del Sur",8.57934,125.761
-88,"Province of Bukidnon",7.99493,125.002
-89,"Province of North Cotabato",7.27167,124.82
-90,"Province of South Cotabato",6.30746,124.808
-91,"unknown",14.4253,121.053
-92,"Caloocan City",14.6402,120.99
-93,"Caloocan City",14.6593,120.964
-94,"unknown",14.6939,120.991
-95,"Quezon City",14.6711,121.067
-96,"Province of Nueva Ecija",15.6863,120.998
-97,"Province of Laguna",14.146,121.307
-98,"Province of Rizal",14.6809,121.284
-99,"unknown",14.518,121.062
-100,"Marikina",14.6291,121.116
-101,"Pasig",14.568,121.1
-102,"Province of Quirino",16.2982,121.663
-103,"unknown",16.7428,121.511
-104,"Province of Nueva Vizcaya",16.3729,121.101
-105,"Province of Benguet",16.545,120.689
-106,"Province of Ifugao",16.8291,121.214
-107,"Mountain Province",17.0908,121.172
-108,"Province of Tarlac",15.4733,120.463
-109,"Apayao",18.1179,121.167
-110,"Kalinga",17.4884,121.322
-111,"Province of Abra",17.5665,120.798
-112,"Naga City",13.6153,123.197
-113,"unknown",15.1453,120.591
-114,"Baguio City",16.4059,120.605
-115,"Makati City",14.5519,121.035
-116,"unknown",14.543,121.083
-117,"Mandaluyong",14.5766,121.052
-118,"San Juan",14.5975,121.044
+id,name,lon,lat
+PHL-2524,Province of Sulu,121.093,5.967339
+PHL-2591,Province of Davao del Norte,125.6385,7.587897
+PHL-2521,Province of Zamboanga Sibugay,122.7508,7.683224
+PHL-2534,Province of Palawan,118.7146,9.940562
+PHL-2593,Province of Surigao del Norte,125.7042,9.800762
+PHL-2594,Province of Surigao del Sur,126.1099,8.782893
+PHL-2587,Province of Agusan del Norte,125.5254,9.020632
+PHL-5532,Butuan City,125.5744,8.913603
+PHL-2595,Province of Misamis Oriental,124.9007,8.706994
+PHL-5531,Chartered City of Cagayan de Oro,124.6286,8.41657
+PHL-5530,NA,124.431,8.233877
+PHL-2573,Province of Lanao del Norte,123.9627,7.96499
+PHL-2522,Province of  Zamboanga del Sur,123.3245,7.878031
+PHL-2523,Province of Misamis Occidental,123.6963,8.324763
+PHL-2520,Province of Zamboanga del Norte,122.7715,8.016971
+PHL-4932,Zamboanga City,122.1364,7.148911
+PHL-2574,Province of Lanao del Sur,124.347,7.816588
+PHL-2576,Province of Maguindanao,124.3805,7.033944
+PHL-5527,Cotabato City,124.2468,7.23714
+PHL-2580,Province of Sultan Kudarat,124.489,6.551735
+PHL-2598,Province of Sarangani,125.1647,6.017934
+PHL-5529,General Santos City,125.1394,6.149019
+PHL-2596,Province of Davao del Sur,125.4199,6.39653
+PHL-5528,Davao City,125.4147,7.281265
+PHL-2592,Compostela,126.0088,7.580143
+PHL-2597,Province of Davao Oriental,126.3062,7.25731
+PHL-2585,Province of Southern Leyte,125.0582,10.30381
+PHL-2583,Province of Leyte,124.7586,10.96224
+PHL-2582,Province of Eastern Samar,125.3923,11.69915
+PHL-2581,Biliran,124.4942,11.58741
+PHL-2584,Province of Samar,124.9712,11.83341
+PHL-2549,Province of Aurora,121.6866,15.91579
+PHL-2572,Province of Quezon,121.9757,14.16295
+PHL-2537,Province of Camarines Norte,122.7276,14.14627
+PHL-2538,Province of Camarines Sur,123.2645,13.70037
+PHL-2536,Province of Albay,123.6082,13.21485
+PHL-2541,Province of Sorsogon,123.9202,12.85987
+PHL-5560,NA,121.5683,13.93497
+PHL-2564,Province of Batangas,121.0345,13.90032
+PHL-2563,Province of Cavite,120.873,14.26038
+PHL-5556,NA,120.9984,14.45256
+PHL-5555,NA,121.0207,14.48657
+PHL-5554,Pasay City,121.0097,14.53256
+PHL-5543,City of Manila,120.9901,14.59447
+PHL-5544,NA,120.9456,14.65787
+PHL-2565,Province of Bulacan,121.0511,14.96818
+PHL-2558,Province of Pampanga,120.6517,15.05863
+PHL-2555,Province of Bataan,120.4418,14.6637
+PHL-5540,Olongapo City,120.3251,14.87865
+PHL-2560,Province of Zambales,120.1326,15.31016
+PHL-2562,San Carlos City,120.318,15.9955
+PHL-5541,Dagupan City,120.337,16.03905
+PHL-2561,Province of La Union,120.4228,16.58329
+PHL-2548,Province of Ilocos Sur,120.5494,17.22957
+PHL-2547,Province of Ilocos Norte,120.727,18.20087
+PHL-2545,Province of Cagayan,121.7553,18.10058
+PHL-2550,Province of Isabela,121.9787,16.99198
+PHL-2511,Province of Tawi-Tawi,119.9591,5.120744
+PHL-2519,Province of Basilan,122.0467,6.565281
+PHL-2590,Province of Camiguin,124.7251,9.167256
+PHL-2517,Province of Siquijor,123.6071,9.185706
+PHL-2513,Province of Bohol,124.2169,9.851802
+PHL-2530,Province of Guimaras,122.6267,10.58199
+PHL-5525,NA,122.9947,10.65929
+PHL-2518,Province of Negros Occidental,122.9985,10.30784
+PHL-2516,Province of Negros Oriental,123.0484,9.618727
+PHL-5522,Cebu City,123.8867,10.34796
+PHL-5523,Mandaue City,123.946,10.35444
+PHL-2514,Province of Cebu,123.7231,10.33082
+PHL-5533,Puerto Princesa City,118.7785,9.91305
+PHL-5535,Tacloban City,124.9747,11.25304
+PHL-5534,Ormoc City,124.5784,11.06558
+PHL-2525,Province of Aklan,122.2663,11.59864
+PHL-2526,Province of Antique,122.0807,11.11656
+PHL-2529,Province of Iloilo,122.595,11.00381
+PHL-5526,Iloilo City,122.5394,10.7378
+PHL-2528,Province of Capiz,122.642,11.36515
+PHL-2535,Province of Romblon,122.2344,12.42485
+PHL-2586,Province of Northern Samar,124.8065,12.41107
+PHL-2540,Province of Masbate,123.554,12.29311
+PHL-2571,Province of Mindoro Oriental,121.255,12.97655
+PHL-2570,Province of Mindoro Oriental,120.8963,12.96449
+PHL-2569,Province of Marinduque,121.9613,13.39133
+PHL-2539,Province of Catanduanes,124.2306,13.78722
+PHL-2543,Province of Batanes,121.8906,20.56138
+PHL-5524,Lapu-Lapu City,123.9756,10.28883
+PHL-2588,Province of Agusan del Sur,125.7559,8.38547
+PHL-2589,Province of Bukidnon,125.0119,8.036361
+PHL-2579,Province of North Cotabato,124.8632,7.216901
+PHL-2599,Province of South Cotabato,124.8131,6.303121
+PHL-5557,NA,121.0792,14.41798
+PHL-5545,Caloocan City,121.041,14.71618
+PHL-5546,Caloocan City,120.9646,14.66578
+PHL-5547,NA,120.9885,14.69691
+PHL-5549,Quezon City,121.0747,14.67088
+PHL-2557,Province of Nueva Ecija,121.0235,15.61405
+PHL-2566,Province of Laguna,121.3286,14.26772
+PHL-2567,Province of Rizal,121.2737,14.6198
+PHL-5558,NA,121.0887,14.50322
+PHL-5550,Marikina,121.1214,14.63718
+PHL-5552,Pasig,121.1016,14.57274
+PHL-2554,Province of Quirino,121.5706,16.30008
+PHL-5537,NA,121.4871,16.73111
+PHL-2553,Province of Nueva Vizcaya,121.1493,16.31113
+PHL-2559,Province of Benguet,120.7076,16.53322
+PHL-2551,Province of Ifugao,121.2099,16.85341
+PHL-2552,Mountain Province,121.1321,17.09744
+PHL-2556,Province of Tarlac,120.4767,15.47545
+PHL-2546,Apayao,121.1917,18.10689
+PHL-4931,Kalinga,121.2897,17.43736
+PHL-2542,Province of Abra,120.8066,17.57912
+PHL-5536,Naga City,123.2556,13.61783
+PHL-5538,NA,120.5911,15.14531
+PHL-5539,Baguio City,120.6116,16.39594
+PHL-5553,Makati City,121.0399,14.55059
+PHL-5559,NA,121.0833,14.54244
+PHL-5542,Mandaluyong,121.0526,14.5774
+PHL-5551,San Juan,121.0481,14.59588

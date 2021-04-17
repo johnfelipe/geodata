@@ -1,18 +1,18 @@
-"id","name","lat","lon"
-1,"Central Darfur State",12.1983,23.3467
-2,"Southern Darfur State",11.3694,24.5964
-3,"Al Qadarif State",14.0283,35.0351
-4,"Blue Nile State",11.1657,34.1155
-5,"Sinnar State",13.21,34.252
-6,"Northern State",19.3151,28.8329
-7,"River Nile State",17.558,33.7623
-8,"Red Sea State",19.5289,35.8873
-9,"Northern Darfur State",16.4602,25.506
-10,"Western Darfur State",14.2109,23.0863
-11,"Kassala State",15.6265,35.5979
-12,"White Nile State",13.5951,32.3633
-13,"Southern Kordofan State",11.4504,29.83
-14,"Eastern Darfur State",11.0263,26.5295
-15,"Al Jazirah State",14.6771,33.3362
-16,"Khartoum State",15.7338,32.9823
-17,"Northern Kordofan State",14.5295,29.6122
+id,name,lon,lat
+SDN-5859,Central Darfur State,23.43261,12.35412
+SDN-5856,Southern Darfur State,24.42835,10.87426
+SDN-876,Al Qadarif State,35.15979,14.11409
+SDN-148,Blue Nile State,34.06471,11.40158
+SDN-880,Sinnar State,34.01411,13.03341
+SDN-878,Northern State,29.34718,19.59107
+SDN-877,River Nile State,33.44558,18.34029
+SDN-149,Red Sea State,35.70636,19.61664
+SDN-881,Northern Darfur State,25.70935,16.35015
+SDN-5858,Western Darfur State,23.04613,14.15566
+SDN-884,Kassala State,35.73646,15.89827
+SDN-879,White Nile State,32.28814,13.44353
+SDN-882,Southern Kordofan State,29.83388,11.07017
+SDN-5857,Eastern Darfur State,26.41791,11.03867
+SDN-875,Al Jazirah State,33.28127,14.61248
+SDN-874,Khartoum State,32.78517,15.84434
+SDN-883,Northern Kordofan State,29.38201,14.43825

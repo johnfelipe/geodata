@@ -1,23 +1,23 @@
-"id","name","lat","lon"
-1,"Boeny Region",-16.3187,46.3149
-2,"Sofia Region",-15.2909,48.4645
-3,"Diana Region",-13.5916,49.08
-4,"Sava Region",-14.3074,49.8621
-5,"Analanjirofo Region",-16.5763,49.5586
-6,"Atsinanana Region",-18.9143,48.9044
-7,"Vatovavy Fitovinany Region",-21.399,47.921
-8,"Atsimo-Atsinanana Region",-23.3142,47.3774
-9,"Anosy Region",-24.22,46.2904
-10,"Androy Region",-24.8192,45.5069
-11,"Atsimo-Andrefana Region",-23.3142,44.4011
-12,"Menabe Region",-20.3119,45.0481
-13,"Melaky Region",-17.6203,44.8928
-14,"Analamanga Region",-18.4743,47.481
-15,"Betsiboka Region",-17.232,47.1963
-16,"Bongolava Region",-18.6296,46.1092
-17,"Vakinankaratra Region",-19.7425,46.8857
-18,"Amoron'i Mania Region",-20.5449,46.7822
-19,"Alaotra Mangoro Region",-17.8014,48.3868
-20,"Ihorombe Region",-22.4083,46.2128
-21,"Haute Matsiatra Region",-21.4423,46.5733
-22,"Itasy Region",-18.9938,46.7662
+id,name,lon,lat
+MDG-5870,Boeny Region,46.21719,-16.27567
+MDG-5880,Sofia Region,48.30499,-15.32091
+MDG-5872,Diana Region,48.92698,-13.32785
+MDG-5879,Sava Region,49.82866,-14.26438
+MDG-5863,Analanjirofo Region,49.38233,-16.34554
+MDG-5868,Atsinanana Region,48.70522,-19.09578
+MDG-5882,Vatovavy Fitovinany Region,47.8732,-21.37221
+MDG-5867,Atsimo-Atsinanana Region,47.25553,-23.28517
+MDG-5865,Anosy Region,46.26012,-23.99847
+MDG-5864,Androy Region,45.4757,-24.84158
+MDG-5866,Atsimo-Andrefana Region,44.4483,-23.11317
+MDG-5878,Menabe Region,44.91401,-20.23088
+MDG-5876,Melaky Region,44.81569,-17.72628
+MDG-5862,Analamanga Region,47.44713,-18.45527
+MDG-5869,Betsiboka Region,47.03454,-17.23081
+MDG-5871,Bongolava Region,46.19328,-18.58547
+MDG-5881,Vakinankaratra Region,46.85599,-19.73729
+MDG-5861,Amoron'i Mania Region,46.71369,-20.50669
+MDG-5860,Alaotra Mangoro Region,48.34049,-17.93307
+MDG-5874,Ihorombe Region,46.13859,-22.55412
+MDG-5873,Haute Matsiatra Region,46.58757,-21.48248
+MDG-5875,Itasy Region,46.88502,-19.06343

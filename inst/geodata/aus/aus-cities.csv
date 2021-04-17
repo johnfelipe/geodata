@@ -1,0 +1,570 @@
+id,name,states,lon,lat
+,Ashmore and Cartier Islands,Ashmore and Cartier Islands,123.0796,-12.2665
+,Unincorporated Australian Capital Territory,Australian Capital Territory,149.0025,-35.48881
+,Coral Sea Islands,Coral Sea Islands Territory,152.3983,-20.40571
+,Jervis Bay,Jervis Bay Territory,150.6905,-35.15247
+AU.NS.AL,Albury,New South Wales,146.9704,-36.0266
+AU.NS.AD,Armidale Dumaresq,New South Wales,151.9576,-30.54611
+AU.NS.AS,Ashfield,New South Wales,151.1307,-33.88569
+AU.NS.AU,Auburn,New South Wales,151.0457,-33.85495
+AU.NS.BA,Ballina,New South Wales,153.4862,-28.85291
+AU.NS.BN,Balranald,New South Wales,143.6117,-33.95034
+AU.NS.BS,Bankstown,New South Wales,151.0131,-33.92343
+AU.NS.BT,Bathurst,New South Wales,149.5256,-33.43008
+AU.NS.BV,Bega Valley,New South Wales,149.7176,-36.82595
+AU.NS.BE,Bellingen,New South Wales,152.7286,-30.4038
+AU.NS.BG,Berrigan,New South Wales,145.7112,-35.7343
+AU.NS.BC,Blacktown,New South Wales,150.8643,-33.74133
+AU.NS.BD,Bland,New South Wales,146.9612,-33.89435
+AU.NS.BL,Blayney,New South Wales,149.142,-33.59434
+AU.NS.BM,Blue Mountains,New South Wales,150.4111,-33.69754
+AU.NS.BX,Bogan,New South Wales,146.8669,-31.53811
+AU.NS.BO,Bombala,New South Wales,149.0404,-36.88355
+AU.NS.BW,Boorowa,New South Wales,148.8513,-34.29365
+AU.NS.BB,Botany Bay,New South Wales,151.2016,-33.94232
+AU.NS.BQ,Bourke,New South Wales,145.3567,-29.91061
+AU.NS.BR,Brewarrina,New South Wales,146.9608,-29.79157
+AU.NS.BH,Broken Hill,New South Wales,141.4792,-31.94418
+AU.NS.BU,Burwood,New South Wales,151.1031,-33.88369
+AU.NS.BY,Byron,New South Wales,153.4825,-28.60418
+AU.NS.CE,Cabonne,New South Wales,148.7541,-33.15298
+AU.NS.CN,Camden,New South Wales,150.7239,-34.00876
+AU.SA.CA,Campbelltown,New South Wales,150.8458,-34.08339
+AU.NS.CC,Canada Bay,New South Wales,151.1148,-33.8535
+AU.NS.CA,Canterbury,New South Wales,151.0929,-33.92359
+AU.NS.CH,Carrathool,New South Wales,145.4964,-33.60903
+AU.NS.CD,Central Darling,New South Wales,143.5898,-31.8508
+AU.NS.CS,Cessnock,New South Wales,151.2248,-32.92512
+,Clarence Valley,New South Wales,152.7511,-29.68174
+AU.NS.CR,Cobar,New South Wales,145.483,-31.8681
+AU.NS.CF,Coffs Harbour,New South Wales,153.0398,-30.18905
+AU.NS.CG,Conargo,New South Wales,144.941,-35.16662
+AU.NS.CO,Coolamon,New South Wales,147.1048,-34.63253
+AU.NS.CM,Cooma-Monaro,New South Wales,149.2247,-36.06953
+AU.NS.CJ,Coonamble,New South Wales,148.2916,-30.87052
+AU.NS.CQ,Cootamundra,New South Wales,148.014,-34.58988
+AU.NS.CV,Corowa,New South Wales,146.2629,-35.82766
+AU.NS.CW,Cowra,New South Wales,148.7179,-33.79642
+AU.NS.DE,Deniliquin,New South Wales,144.9732,-35.52909
+AU.NS.DB,Dubbo,New South Wales,148.6642,-32.22521
+AU.NS.DG,Dungog,New South Wales,151.6083,-32.34948
+AU.NS.EU,Eurobodalla,New South Wales,149.947,-35.94516
+AU.NS.FA,Fairfield,New South Wales,150.8954,-33.86564
+AU.NS.FO,Forbes,New South Wales,147.8667,-33.42182
+AU.NS.GG,Gilgandra,New South Wales,148.6907,-31.61903
+,Glen Innes Severn,New South Wales,151.9031,-29.64501
+AU.NS.GC,Gloucester,New South Wales,151.7952,-31.90581
+AU.NS.GF,Gosford,New South Wales,151.2199,-33.37415
+,Goulburn Mulwaree,New South Wales,149.8135,-34.87604
+AU.NS.GL,Great Lakes,New South Wales,152.1536,-32.35602
+,Greater Hume,New South Wales,147.1718,-35.7503
+AU.NS.GT,Greater Taree,New South Wales,152.2812,-31.79207
+AU.NS.GH,Griffith,New South Wales,146.0035,-34.30041
+AU.NS.GU,Gundagai,New South Wales,148.1435,-35.01526
+AU.NS.GD,Gunnedah,New South Wales,150.1889,-31.04656
+AU.NS.GY,Guyra,New South Wales,151.7048,-30.13336
+,Gwydir,New South Wales,150.5168,-29.59329
+AU.NS.HD,Harden,New South Wales,148.4063,-34.61282
+AU.NS.HW,Hawkesbury,New South Wales,150.7732,-33.33483
+AU.NS.HY,Hay,New South Wales,144.6837,-34.31584
+AU.NS.HO,Holroyd,New South Wales,150.9575,-33.82836
+AU.NS.HR,Hornsby,New South Wales,151.0891,-33.58683
+AU.NS.HH,Hunters Hill,New South Wales,151.1451,-33.83335
+AU.NS.HV,Hurstville,New South Wales,151.0715,-33.96451
+AU.NS.IN,Inverell,New South Wales,151.0677,-29.35998
+AU.NS.JE,Jerilderie,New South Wales,145.788,-35.21886
+AU.NS.JU,Junee,New South Wales,147.6689,-34.81721
+AU.NS.KE,Kempsey,New South Wales,152.6447,-30.95155
+AU.NS.KI,Kiama,New South Wales,150.7562,-34.67891
+AU.NS.KO,Kogarah,New South Wales,151.108,-33.98057
+AU.NS.KU,Ku-ring-gai,New South Wales,151.1509,-33.73461
+AU.NS.KY,Kyogle,New South Wales,152.7756,-28.61781
+AU.NS.LA,Lachlan,New South Wales,146.9899,-32.92001
+AU.NS.LM,Lake Macquarie,New South Wales,151.5301,-33.0388
+AU.NS.LC,Lane Cove,New South Wales,151.1669,-33.81999
+AU.NS.LE,Leeton,New South Wales,146.3021,-34.53235
+AU.NS.LH,Leichhardt,New South Wales,151.1679,-33.87048
+AU.NS.LI,Lismore,New South Wales,153.2707,-28.7562
+AU.NS.LG,Lithgow,New South Wales,150.179,-33.2777
+AU.NS.LV,Liverpool,New South Wales,150.8254,-33.93596
+,Liverpool Plains,New South Wales,150.4384,-31.55062
+AU.NS.LO,Lockhart,New South Wales,146.7754,-35.33128
+AU.NS.MD,Maitland,New South Wales,151.5498,-32.71081
+AU.NS.MN,Manly,New South Wales,151.27,-33.80024
+AU.NS.MV,Marrickville,New South Wales,151.1589,-33.90788
+,Mid-Western Regional,New South Wales,149.7425,-32.59378
+AU.NS.MP,Moree Plains,New South Wales,149.6289,-29.25288
+AU.NS.MO,Mosman,New South Wales,151.2446,-33.82908
+AU.WA.MY,Murray,New South Wales,144.742,-35.73235
+AU.NS.MB,Murrumbidgee,New South Wales,145.6725,-34.68925
+AU.NS.MS,Muswellbrook,New South Wales,150.6303,-32.4399
+AU.NS.NC,Nambucca,New South Wales,152.7689,-30.68756
+AU.NS.NB,Narrabri,New South Wales,149.5649,-30.35648
+AU.NS.ND,Narrandera,New South Wales,146.5797,-34.61126
+AU.NS.NA,Narromine,New South Wales,148.0656,-32.22613
+AU.NS.NE,Newcastle,New South Wales,151.7048,-32.8759
+AU.NS.NS,North Sydney,New South Wales,151.2119,-33.83294
+AU.NS.OB,Oberon,New South Wales,149.8113,-33.88312
+AU.NS.OR,Orange,New South Wales,149.1204,-33.32466
+,Palerang,New South Wales,149.6407,-35.42322
+AU.NS.PK,Parkes,New South Wales,147.9615,-32.88093
+AU.NS.PA,Parramatta,New South Wales,151.0154,-33.80981
+AU.NS.PE,Penrith,New South Wales,150.7181,-33.76538
+AU.NS.PI,Pittwater,New South Wales,151.2793,-33.63982
+,Port Macquarie-Hastings,New South Wales,152.5312,-31.40981
+AU.NS.PS,Port Stephens,New South Wales,151.8447,-32.72179
+AU.NS.QB,Queanbeyan,New South Wales,149.222,-35.40927
+AU.NS.RA,Randwick,New South Wales,151.2402,-33.94324
+AU.NS.RV,Richmond Valley,New South Wales,153.0463,-29.05963
+AU.NS.RO,Rockdale,New South Wales,151.1399,-33.95486
+AU.NS.RD,Ryde,New South Wales,151.1106,-33.79914
+AU.NS.SH,Shellharbour,New South Wales,150.7738,-34.58275
+AU.NS.SL,Shoalhaven,New South Wales,150.3733,-35.09441
+AU.NS.SI,Singleton,New South Wales,150.9646,-32.66038
+AU.NS.SR,Snowy River,New South Wales,148.6777,-36.35579
+AU.NS.ST,Strathfield,New South Wales,151.0766,-33.88038
+AU.NS.SU,Sutherland,New South Wales,151.0515,-34.0728
+AU.NS.SY,Sydney,New South Wales,151.2027,-33.88938
+,Tamworth Regional,New South Wales,150.907,-30.8925
+AU.NS.TE,Temora,New South Wales,147.4837,-34.38794
+AU.NS.TN,Tenterfield,New South Wales,152.0864,-28.94386
+,The Hills,New South Wales,150.9643,-33.59499
+AU.NS.TU,Tumbarumba,New South Wales,148.1398,-36.02993
+AU.NS.TT,Tumut,New South Wales,148.3552,-35.44699
+AU.NS.TW,Tweed,New South Wales,153.3562,-28.36001
+,Unincorporated New South Wales,New South Wales,142.2158,-30.65443
+,Upper Hunter,New South Wales,150.7266,-31.96923
+,Upper Lachlan,New South Wales,149.4557,-34.41773
+AU.NS.UR,Uralla,New South Wales,151.3123,-30.50767
+AU.NS.UN,Urana,New South Wales,146.2773,-35.26601
+AU.NS.WW,Wagga Wagga,New South Wales,147.3665,-35.19666
+AU.NS.WK,Wakool,New South Wales,143.903,-35.08743
+AU.NS.WH,Walcha,New South Wales,151.7845,-31.16391
+AU.NS.WA,Walgett,New South Wales,148.1945,-29.81666
+AU.NS.WN,Warren,New South Wales,147.6798,-31.32564
+AU.NS.WR,Warringah,New South Wales,151.2298,-33.71015
+,Warrumbungle,New South Wales,149.4054,-31.46273
+AU.NS.WV,Waverley,New South Wales,151.2667,-33.88998
+AU.NS.WD,Weddin,New South Wales,148.012,-33.87233
+AU.VI.WE,Wellington,New South Wales,149.0124,-32.59021
+AU.NS.WE,Wentworth,New South Wales,142.2428,-33.5702
+AU.NS.WB,Willoughby,New South Wales,151.1964,-33.8011
+AU.NS.WC,Wingecarribee,New South Wales,150.3563,-34.47696
+AU.NS.WL,Wollondilly,New South Wales,150.4437,-34.10196
+AU.NS.WG,Wollongong,New South Wales,150.8371,-34.36886
+AU.NS.WO,Woollahra,New South Wales,151.2574,-33.87167
+AU.NS.WY,Wyong,New South Wales,151.3754,-33.22678
+,Yass Valley,New South Wales,148.8848,-34.95417
+AU.NS.YO,Young,New South Wales,148.2311,-34.22595
+AU.NT.AS,Alice Springs,Northern Territory,133.8548,-23.73502
+,Barkly,Northern Territory,135.0854,-19.4438
+AU.NT.BE,Belyuen,Northern Territory,130.6832,-12.53818
+,Central Desert,Northern Territory,132.4153,-21.48983
+AU.NT.CO,Coomalie,Northern Territory,131.0689,-13.03039
+AU.NT.DR,Darwin,Northern Territory,130.887,-12.39851
+,East Arnhem,Northern Territory,135.7449,-12.93349
+AU.NT.KA,Katherine,Northern Territory,132.1951,-14.69017
+AU.NT.LI,Litchfield,Northern Territory,131.1218,-12.53762
+,MacDonnell,Northern Territory,133.1616,-24.63732
+AU.NT.PA,Palmerston,Northern Territory,130.9792,-12.50252
+,Roper Gulf,Northern Territory,134.6526,-15.4356
+,Tiwi Islands,Northern Territory,130.8162,-11.56
+,Unincorporated Norther Territories,Northern Territory,131.1856,-13.11993
+,Victoria-Daly,Northern Territory,130.6088,-16.08125
+,Wagait,Northern Territory,130.7497,-12.44123
+,West Arnhem,Northern Territory,133.2587,-12.50782
+AU.QL.AU,Aurukun,Queensland,141.8279,-13.60571
+AU.QL.BA,Balonne,Queensland,148.1158,-28.31588
+AU.QL.BN,Banana,Queensland,149.9388,-24.93515
+AU.QL.BC,Barcaldine,Queensland,145.6936,-23.11541
+AU.QL.BQ,Barcoo,Queensland,142.2679,-25.13084
+,Blackall Tambo,Queensland,145.7914,-24.78943
+AU.QL.BO,Boulia,Queensland,139.2457,-22.48159
+AU.QL.BR,Brisbane,Queensland,153.0386,-27.43782
+AU.QL.BU,Bulloo,Queensland,142.5936,-28.02079
+AU.QL.BB,Bundaberg,Queensland,152.0356,-24.9679
+AU.QL.BD,Burdekin,Queensland,147.2431,-19.82361
+AU.QL.BK,Burke,Queensland,138.9484,-18.04325
+AU.QL.CS,Cairns,Queensland,145.5056,-16.60786
+AU.QL.CA,Carpentaria,Queensland,141.3645,-17.44488
+,Cassowary Coast,Queensland,145.9258,-17.9594
+AU.TS.CH,Central Highlands,Queensland,148.4159,-24.03147
+AU.QL.CT,Charters Towers,Queensland,145.7882,-20.14863
+AU.QL.CG,Cherbourg,Queensland,151.936,-26.28881
+AU.QL.CL,Cloncurry,Queensland,140.265,-20.81804
+AU.QL.CK,Cook,Queensland,143.2591,-14.23581
+AU.QL.CR,Croydon,Queensland,142.2172,-18.55435
+AU.QL.DI,Diamantina,Queensland,139.7326,-24.6309
+AU.QL.DM,Doomadgee,Queensland,138.7815,-17.59424
+AU.QL.ET,Etheridge,Queensland,143.6606,-18.50496
+AU.TS.FL,Flinders,Queensland,144.3218,-20.97412
+,Fraser Coast,Queensland,152.6768,-25.52797
+AU.QL.GL,Gladstone,Queensland,151.307,-24.17679
+AU.QL.GC,Gold Coast,Queensland,153.3183,-27.98072
+AU.QL.GO,Goondiwindi,Queensland,150.3396,-28.37356
+,Gympie,Queensland,152.4636,-26.14703
+AU.QL.HI,Hinchinbrook,Queensland,146.0471,-18.66211
+,Hope Vale,Queensland,145.1918,-15.16708
+AU.QL.IP,Ipswich,Queensland,152.6655,-27.66509
+,Isaac,Queensland,147.8916,-22.23815
+AU.QL.KW,Kowanyama,Queensland,141.8107,-15.32204
+,Lockhart River,Queensland,143.2406,-13.00531
+,Lockyer Valley,Queensland,152.2405,-27.64273
+AU.QL.LG,Logan,Queensland,153.0402,-27.76241
+AU.QL.LR,Longreach,Queensland,143.9593,-23.71806
+AU.QL.MK,Mackay,Queensland,148.8036,-21.13924
+,Mapoon,Queensland,141.9198,-12.14371
+,Maranoa,Queensland,148.2874,-26.54429
+AU.QL.MC,McKinlay,Queensland,141.587,-20.53392
+,Moreton Bay,Queensland,152.8824,-27.11829
+AU.QL.MO,Mornington,Queensland,139.4014,-16.63184
+AU.QL.MI,Mount Isa,Queensland,138.7829,-19.96784
+AU.QL.MW,Murweh,Queensland,146.4894,-26.18969
+,Napranum,Queensland,142.1137,-12.51798
+,North Burnett,Queensland,151.204,-25.35527
+,Northern Peninsula Area,Queensland,142.313,-11.00495
+,Palm Island,Queensland,146.6005,-18.73124
+AU.QL.PA,Paroo,Queensland,145.7709,-28.07304
+AU.QL.PO,Pormpuraaw,Queensland,141.8071,-14.71868
+AU.QL.QP,Quilpie,Queensland,143.8932,-26.34866
+AU.QL.RL,Redland,Queensland,153.3608,-27.56851
+AU.QL.RI,Richmond,Queensland,142.9011,-20.54064
+AU.QL.RH,Rockhampton,Queensland,150.2021,-23.02786
+,Scenic Rim,Queensland,152.7965,-28.06198
+,Somerset,Queensland,152.4252,-27.00897
+,South Burnett,Queensland,151.6469,-26.40523
+,Southern Downs,Queensland,151.8857,-28.4056
+,Sunshine Coast,Queensland,152.9113,-26.59274
+,Tablelands,Queensland,144.1958,-17.15029
+AU.QL.TW,Toowoomba,Queensland,151.5339,-27.58203
+AU.QL.TO,Torres,Queensland,142.4132,-10.73199
+,Torres Strait Island,Queensland,142.3622,-9.867878
+AU.QL.TV,Townsville,Queensland,146.7117,-19.39103
+,Weipa,Queensland,141.8789,-12.64044
+,Western Downs,Queensland,150.3473,-26.84156
+AU.QL.WH,Whitsunday,Queensland,147.7248,-20.70099
+AU.QL.WI,Winton,Queensland,142.4245,-22.53908
+AU.QL.WO,Woorabinda,Queensland,149.5252,-23.94448
+AU.QL.WW,Wujal Wujal,Queensland,145.3125,-15.97026
+AU.QL.YA,Yarrabah,Queensland,145.8972,-16.99454
+AU.SA.AD,Adelaide,South Australia,138.5989,-34.92198
+AU.SA.AH,Adelaide Hills,South Australia,138.8362,-34.89282
+AU.SA.AL,Alexandrina,South Australia,138.8784,-35.35196
+,Anangu Pitjantjatjara,South Australia,131.2053,-27.07733
+AU.SA.BA,Barossa,South Australia,139.0017,-34.62107
+AU.SA.BW,Barunga West,South Australia,137.9563,-33.79897
+AU.SA.BB,Berri and Barmera,South Australia,140.4905,-34.2603
+AU.SA.BU,Burnside,South Australia,138.6599,-34.93998
+AU.SA.CA,Campbelltown,South Australia,138.6822,-34.88373
+AU.SA.CE,Ceduna,South Australia,133.8724,-32.10211
+AU.SA.CS,Charles Sturt,South Australia,138.5236,-34.89037
+AU.SA.CG,Clare and Gilbert Valleys,South Australia,138.736,-34.00397
+AU.SA.CL,Cleve,South Australia,136.2507,-33.67059
+AU.SA.CP,Coober Pedy,South Australia,134.7524,-29.01586
+AU.SA.CC,Copper Coast,South Australia,137.729,-33.98339
+AU.SA.EL,Elliston,South Australia,135.3452,-33.56135
+AU.SA.FR,Flinders Ranges,South Australia,138.3065,-32.07138
+AU.SA.FH,Franklin Harbour,South Australia,136.9048,-33.52451
+AU.SA.GA,Gawler,South Australia,138.7299,-34.62216
+AU.SA.GO,Goyder,South Australia,139.0741,-33.64594
+AU.SA.GR,Grant,South Australia,140.7248,-37.8461
+AU.SA.HB,Holdfast Bay,South Australia,138.5213,-35.00115
+AU.SA.KI,Kangaroo Island,South Australia,137.2397,-35.82782
+,Karoonda East Murray,South Australia,140.0201,-34.9505
+AU.SA.KB,Kimba,South Australia,136.2657,-33.09299
+AU.VI.KI,Kingston,South Australia,140.0255,-36.64352
+AU.SA.LI,Light,South Australia,138.8465,-34.4111
+AU.SA.LE,Lower Eyre Peninsula,South Australia,135.5971,-34.41244
+AU.SA.LW,Loxton Waikerie,South Australia,140.3438,-34.49325
+AU.SA.ML,Mallala,South Australia,138.4547,-34.48061
+,Maralinga Tjarutja,South Australia,130.9389,-29.32888
+AU.SA.MA,Marion,South Australia,138.5397,-35.03248
+AU.SA.MM,Mid Murray,South Australia,139.4614,-34.45025
+AU.SA.MI,Mitcham,South Australia,138.6218,-35.00388
+AU.SA.MB,Mount Barker,South Australia,138.875,-35.08581
+AU.SA.MG,Mount Gambier,South Australia,140.7817,-37.82535
+AU.SA.MR,Mount Remarkable,South Australia,138.2051,-32.75828
+AU.SA.MU,Murray Bridge,South Australia,139.3018,-35.15932
+,Naracoorte and Lucindale,South Australia,140.5474,-36.97725
+AU.SA.NA,Northern Areas,South Australia,138.5114,-33.28641
+,Norwood Payneham St Peters,South Australia,138.6364,-34.90757
+AU.SA.ON,Onkaparinga,South Australia,138.5689,-35.17869
+AU.SA.OC,Orroroo/Carrieton,South Australia,138.6394,-32.52077
+AU.SA.PB,Peterborough,South Australia,139.0596,-32.86411
+AU.SA.PF,Playford,South Australia,138.6631,-34.68886
+AU.SA.PE,Port Adelaide Enfield,South Australia,138.5615,-34.84071
+AU.SA.PA,Port Augusta,South Australia,137.7507,-32.59176
+AU.SA.PL,Port Lincoln,South Australia,135.8511,-34.72922
+,Port Pirie City and Dists,South Australia,138.1059,-33.37684
+AU.SA.PR,Prospect,South Australia,138.5979,-34.884
+AU.SA.RP,Renmark Paringa,South Australia,140.814,-34.18235
+AU.SA.RO,Robe,South Australia,139.9795,-37.18769
+AU.SA.RD,Roxby Downs,South Australia,136.8811,-30.55469
+AU.SA.SA,Salisbury,South Australia,138.6121,-34.77278
+AU.SA.SM,Southern Mallee,South Australia,140.5744,-35.39392
+AU.SA.SB,Streaky Bay,South Australia,134.5661,-32.70825
+AU.SA.TA,Tatiara,South Australia,140.5844,-36.22792
+AU.SA.TT,Tea Tree Gully,South Australia,138.718,-34.80516
+,The Coorong,South Australia,139.7614,-35.71383
+AU.SA.TB,Tumby Bay,South Australia,136.0197,-34.17934
+,Unincorporated South Australia,South Australia,136.7457,-29.59555
+AU.SA.UN,Unley,South Australia,138.604,-34.9548
+AU.SA.VH,Victor Harbor,South Australia,138.5462,-35.51279
+AU.SA.WF,Wakefield,South Australia,138.3565,-33.99144
+AU.SA.WV,Walkerville,South Australia,138.6171,-34.89279
+AU.SA.WR,Wattle Range,South Australia,140.5189,-37.47041
+,West Torrens,South Australia,138.5439,-34.94141
+AU.SA.WH,Whyalla,South Australia,137.4916,-33.03967
+,Wudinna,South Australia,135.3364,-33.024
+AU.SA.YA,Yankalilla,South Australia,138.3371,-35.51859
+AU.SA.YP,Yorke Peninsula,South Australia,137.5599,-34.68371
+AU.TS.BO,Break O'Day,Tasmania,148.0498,-41.42517
+AU.TS.BR,Brighton,Tasmania,147.2609,-42.71934
+AU.TS.BU,Burnie,Tasmania,145.8062,-41.21606
+AU.TS.CC,Central Coast,Tasmania,146.04,-41.28125
+AU.TS.CH,Central Highlands,Tasmania,146.6461,-42.21235
+AU.TS.CI,Circular Head,Tasmania,145.0147,-41.07895
+AU.TS.CL,Clarence,Tasmania,147.4341,-42.83703
+AU.TS.DV,Derwent Valley,Tasmania,146.4214,-42.81297
+AU.TS.DE,Devonport,Tasmania,146.3119,-41.2087
+AU.TS.DO,Dorset,Tasmania,147.7084,-41.07191
+AU.TS.FL,Flinders,Tasmania,148.0978,-40.11937
+AU.TS.GT,George Town,Tasmania,147.026,-41.10218
+,Glamorgan/Spring Bay,Tasmania,147.9653,-42.26924
+AU.TS.GL,Glenorchy,Tasmania,147.2198,-42.83933
+AU.TS.HO,Hobart,Tasmania,147.2876,-42.89784
+AU.TS.HV,Huon Valley,Tasmania,146.5971,-43.25146
+AU.TS.KE,Kentish,Tasmania,146.1836,-41.45394
+AU.TS.KI,King Island,Tasmania,143.9855,-39.86381
+AU.TS.KB,Kingborough,Tasmania,147.2623,-43.1892
+AU.VI.LA,Latrobe,Tasmania,146.56,-41.24398
+AU.TS.LC,Launceston,Tasmania,147.3058,-41.36063
+AU.TS.??,Macquarie Island,Tasmania,158.8637,-54.62902
+AU.TS.MV,Meander Valley,Tasmania,146.4848,-41.6266
+AU.TS.NM,Northern Midlands,Tasmania,147.4602,-41.84012
+AU.TS.SO,Sorell,Tasmania,147.6961,-42.77866
+AU.TS.SM,Southern Midlands,Tasmania,147.4006,-42.43455
+AU.TS.TA,Tasman,Tasmania,147.8346,-43.05466
+,Waratah/Wynyard,Tasmania,145.4958,-41.38284
+AU.TS.WC,West Coast,Tasmania,145.6371,-42.29783
+AU.TS.WT,West Tamar,Tasmania,146.8644,-41.28164
+AU.VI.AL,Alpine,Victoria,146.9742,-36.85357
+AU.VI.AR,Ararat,Victoria,142.8432,-37.47272
+AU.VI.BA,Ballarat,Victoria,143.7815,-37.49285
+AU.VI.BY,Banyule,Victoria,145.0851,-37.73044
+AU.VI.BC,Bass Coast,Victoria,145.5578,-38.50713
+AU.VI.BB,Baw Baw,Victoria,146.1313,-37.98389
+AU.VI.BS,Bayside,Victoria,145.0182,-37.94184
+,Benalla,Victoria,146.0238,-36.587
+AU.VI.BO,Boroondara,Victoria,145.0631,-37.81929
+AU.VI.BR,Brimbank,Victoria,144.8033,-37.74755
+AU.VI.BU,Buloke,Victoria,143.0049,-35.91239
+AU.VI.CP,Campaspe,Victoria,144.7164,-36.34519
+AU.VI.CA,Cardinia,Victoria,145.5725,-38.08314
+AU.VI.CS,Casey,Victoria,145.309,-38.10435
+AU.VI.CG,Central Goldfields,Victoria,143.7138,-37.00716
+AU.VI.CO,Colac-Otway,Victoria,143.5952,-38.45196
+AU.VI.CR,Corangamite,Victoria,143.1986,-38.20433
+AU.VI.DA,Darebin,Victoria,145.0143,-37.73346
+AU.VI.EG,East Gippsland,Victoria,148.2918,-37.37802
+AU.VI.FR,Frankston,Victoria,145.1738,-38.13461
+AU.VI.GA,Gannawarra,Victoria,143.8042,-35.75158
+AU.VI.GE,Glen Eira,Victoria,145.0426,-37.90121
+AU.VI.GL,Glenelg,Victoria,141.3857,-37.8705
+AU.VI.GP,Golden Plains,Victoria,143.8425,-37.88207
+AU.VI.GB,Greater Bendigo,Victoria,144.4226,-36.73444
+AU.VI.GD,Greater Dandenong,Victoria,145.19,-38.00555
+AU.VI.GG,Greater Geelong,Victoria,144.4172,-38.06897
+AU.VI.GS,Greater Shepparton,Victoria,145.3862,-36.39699
+AU.VI.HE,Hepburn,Victoria,144.0576,-37.31694
+AU.VI.HI,Hindmarsh,Victoria,141.7526,-36.05152
+AU.VI.HB,Hobsons Bay,Victoria,144.8298,-37.85472
+AU.VI.HO,Horsham,Victoria,142.0904,-36.82577
+AU.VI.HU,Hume,Victoria,144.8245,-37.58918
+AU.VI.IN,Indigo,Victoria,146.7231,-36.22555
+AU.VI.KI,Kingston,Victoria,145.1051,-37.98858
+AU.VI.KN,Knox,Victoria,145.2587,-37.88894
+AU.VI.LA,Latrobe,Victoria,146.4382,-38.27456
+AU.VI.LO,Loddon,Victoria,143.8671,-36.36391
+AU.VI.MR,Macedon Ranges,Victoria,144.6166,-37.33567
+AU.VI.MN,Manningham,Victoria,145.1886,-37.76159
+,Mansfield,Victoria,146.2069,-37.2004
+AU.VI.MB,Maribyrnong,Victoria,144.8778,-37.79527
+AU.VI.MH,Maroondah,Victoria,145.2653,-37.80487
+AU.VI.ME,Melbourne,Victoria,144.9439,-37.8105
+AU.VI.MT,Melton,Victoria,144.626,-37.693
+AU.VI.ML,Mildura,Victoria,141.6829,-34.86921
+AU.VI.MC,Mitchell,Victoria,145.0016,-37.13755
+AU.VI.MI,Moira,Victoria,145.5504,-36.06188
+AU.VI.MS,Monash,Victoria,145.144,-37.89714
+AU.VI.MV,Moonee Valley,Victoria,144.8958,-37.7495
+AU.VI.MO,Moorabool,Victoria,144.2157,-37.63278
+AU.VI.MD,Moreland,Victoria,144.9489,-37.72992
+AU.VI.MP,Mornington Peninsula,Victoria,145.0354,-38.34169
+AU.VI.MA,Mount Alexander,Victoria,144.1929,-37.05079
+AU.VI.MY,Moyne,Victoria,142.49,-38.12246
+AU.VI.MU,Murrindindi,Victoria,145.6301,-37.31098
+AU.VI.NI,Nillumbik,Victoria,145.2368,-37.62291
+AU.VI.NG,Northern Grampians,Victoria,142.9199,-36.84453
+AU.VI.PP,Port Phillip,Victoria,144.9658,-37.85182
+AU.VI.PY,Pyrenees,Victoria,143.375,-37.31646
+AU.VI.QC,Queenscliffe,Victoria,144.6477,-38.26428
+AU.VI.SL,South Gippsland,Victoria,146.0759,-38.62139
+AU.VI.SG,Southern Grampians,Victoria,142.0332,-37.53645
+AU.VI.SN,Stonnington,Victoria,145.0337,-37.85796
+AU.VI.SB,Strathbogie,Victoria,145.4349,-36.76033
+AU.VI.SC,Surf Coast,Victoria,144.0531,-38.3123
+AU.VI.SH,Swan Hill,Victoria,143.1255,-35.12021
+AU.VI.TO,Towong,Victoria,147.5989,-36.35445
+,Unincorporated Victoria,Victoria,145.8702,-37.90101
+AU.VI.WG,Wangaratta,Victoria,146.4284,-36.58822
+AU.VI.WR,Warrnambool,Victoria,142.5118,-38.37145
+AU.VI.WE,Wellington,Victoria,146.9194,-37.89434
+AU.VI.WW,West Wimmera,Victoria,141.2794,-36.67558
+AU.VI.WH,Whitehorse,Victoria,145.1551,-37.83025
+AU.VI.WS,Whittlesea,Victoria,145.0777,-37.54721
+AU.VI.WO,Wodonga,Victoria,146.8826,-36.15056
+AU.VI.WY,Wyndham,Victoria,144.6183,-37.88665
+AU.VI.YA,Yarra,Victoria,144.9985,-37.80228
+AU.VI.YR,Yarra Ranges,Victoria,145.6969,-37.71417
+AU.VI.YB,Yarriambiack,Victoria,142.419,-35.99006
+AU.WA.AL,Albany,Western Australia,118.1833,-34.73868
+AU.WA.AR,Armadale,Western Australia,116.1369,-32.16758
+AU.WA.AS,Ashburton,Western Australia,116.7287,-22.49418
+AU.WA.AM,Augusta-Margaret River,Western Australia,115.2278,-34.03088
+AU.WA.BA,Bassendean,Western Australia,115.9452,-31.90385
+AU.WA.BW,Bayswater,Western Australia,115.9083,-31.90572
+AU.WA.BE,Belmont,Western Australia,115.9483,-31.95635
+AU.WA.BV,Beverley,Western Australia,116.7966,-32.17466
+AU.WA.BO,Boddington,Western Australia,116.4003,-32.81701
+AU.WA.BB,Boyup Brook,Western Australia,116.524,-33.89176
+AU.WA.BG,Bridgetown-Greenbushes,Western Australia,116.1912,-34.0041
+AU.WA.BK,Brookton,Western Australia,117.0031,-32.362
+AU.WA.BM,Broome,Western Australia,122.4632,-18.67869
+,Broomehill-Tambellup,Western Australia,117.6613,-34.00253
+AU.WA.BR,Bruce Rock,Western Australia,118.0286,-31.95259
+AU.WA.BU,Bunbury,Western Australia,115.6645,-33.35175
+AU.WA.BS,Busselton,Western Australia,115.3489,-33.71845
+AU.WA.CG,Cambridge,Western Australia,115.7864,-31.9363
+AU.WA.CN,Canning,Western Australia,115.9164,-32.03688
+AU.WA.CP,Capel,Western Australia,115.6357,-33.53238
+AU.WA.CM,Carnamah,Western Australia,115.5784,-29.77329
+AU.WA.CA,Carnarvon,Western Australia,114.391,-24.35033
+AU.WA.CV,Chapman Valley,Western Australia,115.0592,-28.32215
+AU.WA.CH,Chittering,Western Australia,116.0783,-31.3744
+AU.WA.CL,Claremont,Western Australia,115.78,-31.98015
+AU.WA.CK,Cockburn,Western Australia,115.793,-32.1143
+AU.WA.CE,Collie,Western Australia,116.2116,-33.28355
+AU.WA.CO,Coolgardie,Western Australia,120.9667,-31.18675
+AU.WA.CW,Coorow,Western Australia,115.7593,-30.02164
+AU.WA.CI,Corrigin,Western Australia,117.799,-32.35836
+AU.WA.CT,Cottesloe,Western Australia,115.7585,-31.994
+AU.WA.CR,Cranbrook,Western Australia,117.2857,-34.31488
+AU.WA.CB,Cuballing,Western Australia,117.1591,-32.73536
+AU.WA.CU,Cue,Western Australia,117.9386,-27.3099
+AU.WA.CD,Cunderdin,Western Australia,117.1557,-31.59958
+AU.WA.DL,Dalwallinu,Western Australia,116.9449,-30.12515
+AU.WA.DN,Dandaragan,Western Australia,115.5061,-30.53961
+AU.WA.DP,Dardanup,Western Australia,115.8519,-33.41542
+AU.WA.DE,Denmark,Western Australia,117.1188,-34.89048
+AU.WA.DW,Derby-West Kimberley,Western Australia,124.976,-17.79194
+AU.WA.DB,Donnybrook-Balingup,Western Australia,115.9735,-33.66957
+AU.WA.DO,Dowerin,Western Australia,117.1113,-31.10766
+AU.WA.DY,Dumbleyung,Western Australia,117.9644,-33.22433
+AU.WA.DU,Dundas,Western Australia,124.4131,-32.00957
+AU.WA.EF,East Fremantle,Western Australia,115.7682,-32.03794
+AU.WA.EP,East Pilbara,Western Australia,123.5947,-21.76759
+AU.WA.ES,Esperance,Western Australia,122.2583,-33.22014
+AU.WA.EX,Exmouth,Western Australia,114.167,-22.5217
+AU.WA.FR,Fremantle,Western Australia,115.7666,-32.05765
+,Geraldton-Greenough,Western Australia,114.883,-28.83418
+AU.WA.GI,Gingin,Western Australia,115.6992,-31.19157
+AU.WA.GN,Gnowangerup,Western Australia,118.2887,-34.06209
+AU.WA.GM,Goomalling,Western Australia,116.7847,-31.24284
+AU.WA.GS,Gosnells,Western Australia,115.9921,-32.06621
+AU.WA.HC,Halls Creek,Western Australia,127.617,-19.25821
+AU.WA.HA,Harvey,Western Australia,115.9125,-33.10106
+AU.WA.IR,Irwin,Western Australia,115.0917,-29.32645
+AU.WA.JE,Jerramungup,Western Australia,119.1014,-34.07041
+AU.WA.JO,Joondalup,Western Australia,115.7667,-31.78349
+AU.WA.KL,Kalamunda,Western Australia,116.1228,-32.01227
+AU.WA.KB,Kalgoorlie/Boulder,Western Australia,125.05,-30.75144
+AU.WA.KT,Katanning,Western Australia,117.6842,-33.6483
+AU.WA.KE,Kellerberrin,Western Australia,117.8145,-31.58233
+AU.WA.KN,Kent,Western Australia,118.5725,-33.55061
+AU.WA.KJ,Kojonup,Western Australia,117.0481,-33.90755
+AU.WA.KO,Kondinin,Western Australia,119.1865,-32.42772
+AU.WA.KR,Koorda,Western Australia,117.4255,-30.59049
+AU.WA.KU,Kulin,Western Australia,118.5759,-32.71747
+AU.WA.KW,Kwinana,Western Australia,115.8287,-32.22769
+AU.WA.LG,Lake Grace,Western Australia,119.2877,-33.05991
+AU.WA.LA,Laverton,Western Australia,125.4004,-27.89006
+AU.WA.LE,Leonora,Western Australia,121.1458,-28.21216
+AU.WA.MA,Mandurah,Western Australia,115.683,-32.63407
+AU.WA.MJ,Manjimup,Western Australia,116.3257,-34.5572
+AU.WA.MT,Meekatharra,Western Australia,118.8648,-25.14093
+AU.WA.MV,Melville,Western Australia,115.8294,-32.04742
+AU.WA.MZ,Menzies,Western Australia,123.984,-29.57658
+AU.WA.ME,Merredin,Western Australia,118.3593,-31.51527
+AU.WA.MI,Mingenew,Western Australia,115.4842,-29.1582
+AU.WA.MR,Moora,Western Australia,116.1854,-30.49807
+AU.WA.MO,Morawa,Western Australia,116.0172,-29.06695
+AU.WA.MP,Mosman Park,Western Australia,115.7655,-32.0148
+AU.WA.MG,Mount Magnet,Western Australia,117.976,-28.23778
+AU.WA.MM,Mount Marshall,Western Australia,117.9622,-30.18368
+AU.WA.MB,Mukinbudin,Western Australia,118.3113,-30.63048
+AU.WA.MW,Mullewa,Western Australia,115.6362,-28.50147
+AU.WA.MN,Mundaring,Western Australia,116.2516,-31.89994
+AU.WA.MU,Murchison,Western Australia,116.2992,-26.75171
+AU.WA.MY,Murray,Western Australia,115.9906,-32.62333
+AU.WA.NN,Nannup,Western Australia,115.6639,-34.12844
+AU.WA.NB,Narembeen,Western Australia,118.6541,-32.04838
+AU.WA.NT,Narrogin (Shire),Western Australia,117.263,-32.99578
+AU.WA.NT,Narrogin (Town),Western Australia,117.172,-32.93648
+AU.WA.NE,Nedlands,Western Australia,115.7899,-31.9724
+AU.WA.NG,Ngaanyatjarraku,Western Australia,126.8347,-25.08891
+AU.WA.NR,Northam,Western Australia,116.636,-31.68595
+AU.WA.NP,Northampton,Western Australia,114.6464,-27.75215
+AU.WA.NU,Nungarin,Western Australia,118.2085,-31.1496
+AU.WA.PG,Peppermint Grove,Western Australia,115.7671,-31.99933
+AU.WA.PJ,Perenjori,Western Australia,116.6114,-29.44398
+AU.WA.PE,Perth,Western Australia,115.8507,-31.95763
+AU.WA.PI,Pingelly,Western Australia,117.222,-32.51992
+AU.WA.PL,Plantagenet,Western Australia,117.562,-34.59722
+AU.WA.PO,Port Hedland,Western Australia,118.6739,-20.92874
+AU.WA.QR,Quairading,Western Australia,117.4234,-32.00482
+AU.WA.RA,Ravensthorpe,Western Australia,120.1386,-33.61653
+AU.WA.RC,Rockingham,Western Australia,115.7889,-32.34414
+AU.WA.RB,Roebourne,Western Australia,117.0362,-21.04939
+AU.WA.SA,Sandstone,Western Australia,119.1727,-28.33663
+,Scott and Seringapatam Reefs,Western Australia,121.8635,-14.00609
+AU.WA.SJ,Serpentine-Jarrahdale,Western Australia,116.0348,-32.34453
+AU.WA.SB,Shark Bay,Western Australia,114.5236,-26.53502
+AU.WA.SP,South Perth,Western Australia,115.87,-31.99786
+AU.WA.ST,Stirling,Western Australia,115.8196,-31.88569
+AU.WA.SU,Subiaco,Western Australia,115.8187,-31.95766
+AU.WA.SW,Swan,Western Australia,116.0674,-31.74142
+AU.WA.TM,Tammin,Western Australia,117.495,-31.60668
+AU.WA.TS,Three Springs,Western Australia,115.5772,-29.52548
+AU.WA.TO,Toodyay,Western Australia,116.3807,-31.47109
+AU.WA.TR,Trayning,Western Australia,117.8068,-31.14402
+AU.WA.UG,Upper Gascoyne,Western Australia,116.3567,-24.72579
+AU.WA.VK,Victoria Park,Western Australia,115.9015,-31.97972
+AU.WA.VP,Victoria Plains,Western Australia,116.3196,-31.01434
+AU.WA.VI,Vincent,Western Australia,115.8525,-31.93129
+AU.WA.WG,Wagin,Western Australia,117.3699,-33.27667
+AU.WA.WD,Wandering,Western Australia,116.582,-32.54741
+AU.WA.WR,Wanneroo,Western Australia,115.7633,-31.61228
+AU.WA.WO,Waroona,Western Australia,115.9202,-32.85792
+AU.WA.WA,West Arthur,Western Australia,116.7395,-33.45715
+AU.WA.WT,Westonia,Western Australia,118.6569,-30.96826
+AU.WA.WC,Wickepin,Western Australia,117.6717,-32.80677
+AU.WA.WS,Williams,Western Australia,116.7281,-33.07141
+AU.WA.WL,Wiluna,Western Australia,122.2451,-25.31205
+AU.WA.WB,Wongan-Ballidu,Western Australia,116.8426,-30.71713
+AU.WA.WN,Woodanilling,Western Australia,117.3381,-33.53361
+AU.WA.WY,Wyalkatchem,Western Australia,117.4353,-31.18669
+AU.WA.WE,Wyndham-East Kimberley,Western Australia,127.0518,-15.55921
+AU.WA.YA,Yalgoo,Western Australia,117.0502,-28.56526
+AU.WA.YI,Yilgarn,Western Australia,119.3418,-30.95865
+AU.WA.YO,York,Western Australia,116.7354,-31.92638

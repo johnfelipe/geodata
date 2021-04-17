@@ -1,41 +1,41 @@
-"id","name","lat","lon"
-1,"Raionul Briceni",48.2646,26.9644
-2,"Raionul Edinet",48.1332,27.2978
-3,"Raionul Riscani",47.9614,27.5565
-4,"Raionul Glodeni",47.7495,27.5658
-5,"Raionul Falesti",47.57,27.7231
-6,"Raionul Ungheni",47.2556,27.9072
-7,"Raionul Nisporeni",47.0476,28.2369
-8,"Raionul Hincesti",46.8298,28.416
-9,"Raionul Leova",46.5654,28.4105
-10,"Raionul Cantemir",46.262,28.3107
-11,"Raionul Cahul",45.64,28.3144
-12,"Raionul Ocnita",48.4024,27.5685
-13,"Raionul Donduseni",48.2339,27.7632
-14,"Raionul Soroca",48.1034,28.2477
-15,"unknown",48.0369,28.7044
-16,"unknown",47.7344,29.084
-17,"unknown",47.1532,29.1763
-18,"unknown",47.1194,29.4396
-19,"Municipiul Bender",46.7897,29.6966
-20,"Raionul Stefan Voda",46.5031,29.7739
-21,"Raionul Causeni",46.6185,29.3728
-22,"Raionul Cimislia",46.5885,28.7794
-23,"Raionul Basarabeasca",46.3726,28.8846
-24,"Raionul Taraclia",45.8995,28.7033
-25,"Unitate Teritoriala Autonoma Gagauzia",46.191,28.6386
-26,"Raionul Criuleni",47.1782,29.0355
-27,"Raionul Straseni",47.1828,28.5847
-28,"Raionul Anenii Noi",46.8817,29.1922
-29,"Raionul Orhei",47.3961,28.8156
-30,"unknown",47.2616,29.1574
-31,"Municipiul Chisinau",47.0348,28.822
-32,"Raionul Telenesti",47.566,28.4349
-33,"Raionul Soldanesti",47.8423,28.6952
-34,"Raionul Floresti",47.8707,28.2994
-35,"Raionul Rezina",47.6683,28.819
-36,"Raionul Ialoveni",46.8905,28.7874
-37,"Raionul Calarasi",47.2892,28.3373
-38,"Raionul Drochia",48.0267,27.8915
-39,"Raionul Singerei",47.6929,28.1728
-40,"Municipiul Balti",47.7763,27.9516
+id,name,lon,lat
+MDA-1613,Raionul Briceni,27.01035,48.28171
+MDA-1615,Raionul Edinet,27.30419,48.12076
+MDA-1617,Raionul Riscani,27.53869,47.91628
+MDA-1621,Raionul Glodeni,27.52686,47.73819
+MDA-1620,Raionul Falesti,27.74665,47.56748
+MDA-1623,Raionul Ungheni,27.91547,47.30212
+MDA-1642,Raionul Nisporeni,28.1971,47.0728
+MDA-1639,Raionul Hincesti,28.40942,46.82728
+MDA-1641,Raionul Leova,28.41314,46.55268
+MDA-1631,Raionul Cantemir,28.31861,46.24578
+MDA-1624,Raionul Cahul,28.2796,45.82212
+MDA-1616,Raionul Ocnita,27.52913,48.37099
+MDA-1614,Raionul Donduseni,27.74587,48.23182
+MDA-1653,Raionul Soroca,28.22563,48.12134
+MDA-1652,NA,28.66758,48.00873
+MDA-1645,NA,29.0886,47.74829
+MDA-1628,NA,29.19074,47.30093
+MDA-1637,NA,29.44514,47.13275
+MDA-1650,Municipiul Bender,29.72062,46.76822
+MDA-1651,Raionul Stefan Voda,29.72001,46.5079
+MDA-1649,Raionul Causeni,29.28707,46.65134
+MDA-1633,Raionul Cimislia,28.82897,46.62423
+MDA-1630,Raionul Basarabeasca,28.88642,46.38175
+MDA-1625,Raionul Taraclia,28.64706,45.94775
+MDA-1626,Unitate Teritoriala Autonoma Gagauzia,28.60778,46.09895
+MDA-1634,Raionul Criuleni,29.02037,47.14819
+MDA-1647,Raionul Straseni,28.59099,47.16509
+MDA-1629,Raionul Anenii Noi,29.22352,46.92473
+MDA-1643,Raionul Orhei,28.81668,47.41621
+MDA-1638,NA,29.16045,47.26438
+MDA-1627,Municipiul Chisinau,28.83767,47.03934
+MDA-1648,Raionul Telenesti,28.45133,47.55349
+MDA-1646,Raionul Soldanesti,28.69184,47.83917
+MDA-1635,Raionul Floresti,28.31567,47.87094
+MDA-1644,Raionul Rezina,28.84599,47.68781
+MDA-1640,Raionul Ialoveni,28.79911,46.91426
+MDA-1632,Raionul Calarasi,28.32776,47.30186
+MDA-1619,Raionul Drochia,27.90957,48.02777
+MDA-1622,Raionul Singerei,28.14502,47.66233
+MDA-1618,Municipiul Balti,27.95957,47.76414

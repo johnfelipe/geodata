@@ -1,7 +1,7 @@
-"id","name","lat","lon"
-1,"Southern District",30.935,34.8419
-2,"Northern District",32.8235,35.4202
-3,"Haifa District",32.5523,34.9727
-4,"Central District",31.9068,34.8491
-5,"Jerusalem District",31.7397,35.0176
-6,"Tel Aviv District",32.0966,34.8091
+id,name,lon,lat
+ISR-3053,Southern District,34.85149,30.83807
+ISR-3056,Northern District,35.46964,32.8654
+ISR-3054,Haifa District,35.01542,32.62391
+ISR-3055,Central District,34.87502,32.05926
+ISR-3058,Jerusalem District,35.00332,31.74403
+ISR-3057,Tel Aviv District,34.81011,32.08367

@@ -1,6 +1,12 @@
-aus_division:
-  label: Australia division
-  basename: aus-division
+aus_states:
+  label: Australia states
+  basename: aus-states
+  scope: gadm36_AUS_1
+  geographyName: name
+  geographyId: id
+aus_cities:
+  label: Australia cities
+  basename: aus-cities
   scope: AUS_adm1
   geographyName: name
   geographyId: id

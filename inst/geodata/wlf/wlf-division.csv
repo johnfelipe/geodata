@@ -1,4 +1,4 @@
-"id","name","lat","lon"
-1,"Circonscription de Sigave",-14.2659,-178.161
-2,"Circonscription d'Alo",-14.3029,-178.094
-3,"Circonscription d'Uvea",-13.2768,-176.169
+id,name,lon,lat
+WLF-4995,Circonscription de Sigave,-178.1552,-14.27042
+WLF-4997,Circonscription d'Alo,-178.0641,-14.32595
+WLF-4996,Circonscription d'Uvea,-176.1619,-13.28186

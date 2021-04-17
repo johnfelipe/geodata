@@ -1,4 +1,4 @@
-"id","name","lat","lon"
-1,"Parish of Saint Peter",16.7762,-62.2017
-2,"Parish of Saint Anthony",16.7048,-62.1886
-3,"Parish of Saint Georges",16.7442,-62.1671
+id,name,lon,lat
+MSR-5089,Parish of Saint Peter,-62.19725,16.77774
+MSR-5087,Parish of Saint Anthony,-62.18807,16.70932
+MSR-5088,Parish of Saint Georges,-62.16719,16.74555

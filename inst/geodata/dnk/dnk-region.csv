@@ -1,6 +1,6 @@
-"id","name","lat","lon"
-1,"Region Syddanmark",55.349,9.1292
-2,"Region Midtjylland",56.2367,9.26862
-3,"Region Nordjylland",56.8261,9.73299
-4,"Region Sjaelland",55.4417,11.7483
-5,"Region Hovedstaden",55.8486,12.3198
+id,name,lon,lat
+DNK-3417,Region Syddanmark,9.444071,55.35465
+DNK-3416,Region Midtjylland,9.394437,56.24772
+DNK-3418,Region Nordjylland,9.679245,57.05246
+DNK-3420,Region Sjaelland,11.71043,55.2883
+DNK-3419,Region Hovedstaden,12.90226,55.69075

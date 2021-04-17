@@ -1,15 +1,15 @@
-"id","name","lat","lon"
-1,"Fergana",39.9347,71.7275
-2,"Toshkent Viloyati",41.247,69.9511
-3,"Namangan Province",40.8746,71.2964
-4,"Andijan",40.4491,72.3651
-5,"Sirdaryo Viloyati",39.9519,68.8037
-6,"Jizzakh Province",40.3905,67.6556
-7,"Samarqand Viloyati",39.9926,66.3126
-8,"Qashqadaryo Province",38.7774,66.0231
-9,"Surxondaryo Viloyati",37.9835,67.4269
-10,"Karakalpakstan",43.8529,59.2233
-11,"Navoiy Province",42.1726,64.2722
-12,"Xorazm Viloyati",41.2489,61.2481
-13,"Bukhara Province",39.946,63.7729
-14,"Toshkent Shahri",41.323,69.2464
+id,name,lon,lat
+UZB-364,Fergana,71.27916,40.43704
+UZB-372,Toshkent Viloyati,69.79011,41.25122
+UZB-365,Namangan Province,71.25178,41.04936
+UZB-363,Andijan,72.32037,40.75345
+UZB-371,Sirdaryo Viloyati,68.6621,40.43299
+UZB-370,Jizzakh Province,67.64148,40.37412
+UZB-358,Samarqand Viloyati,66.39891,39.83572
+UZB-361,Qashqadaryo Province,66.09499,38.84226
+UZB-362,Surxondaryo Viloyati,67.45851,38.02059
+UZB-356,Karakalpakstan,58.81839,43.42143
+UZB-357,Navoiy Province,64.35957,41.97565
+UZB-355,Xorazm Viloyati,61.0238,41.34417
+UZB-354,Bukhara Province,63.71941,40.17822
+UZB-4828,Toshkent Shahri,69.24916,41.31781

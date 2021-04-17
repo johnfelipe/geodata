@@ -1,17 +1,17 @@
-"id","name","lat","lon"
-1,"Guelmim-Es Smara",28.1581,-10.0502
-2,"Laayoune-Boujdour-Sakia El Hamra",25.9492,-13.278
-3,"Oued ed Dahab-Lagouira",23.0116,-14.9815
-4,"Region de Tanger-Tetouan",35.2884,-5.35664
-5,"Oriental Region",33.6161,-2.5158
-6,"Region de Meknes-Tafilalet",31.7916,-4.78602
-7,"Region de Souss-Massa-Draa",30.6732,-7.71517
-8,"Taza-Al Hoceima-Taounate",34.5526,-4.21989
-9,"Gharb-Chrarda-Beni Hssen",34.5356,-5.9502
-10,"Region de Rabat-Sale-Zemmour-Zaer",33.6986,-6.42079
-11,"Chaouia-Ouardigha",33.0977,-7.0775
-12,"Region du Grand Casablanca",33.545,-7.55595
-13,"Doukkala-Abda",32.4059,-8.7136
-14,"Marrakech-Tensift-Al Haouz",31.3472,-8.43749
-15,"Region de Fes-Boulemane",33.2343,-4.17332
-16,"Tadla-Azilal",32.1648,-6.36087
+id,name,lon,lat
+MAR-3457,Guelmim-Es Smara,-9.767558,28.2401
+MAR-3456,Laayoune-Boujdour-Sakia El Hamra,-13.27393,25.99634
+MAR-3469,Oued ed Dahab-Lagouira,-15.13495,22.95013
+MAR-1445,Region de Tanger-Tetouan,-5.431261,35.24503
+MAR-1454,Oriental Region,-2.562333,33.44011
+MAR-1452,Region de Meknes-Tafilalet,-4.802984,32.07998
+MAR-1455,Region de Souss-Massa-Draa,-7.35101,30.49456
+MAR-1447,Taza-Al Hoceima-Taounate,-4.10563,34.42275
+MAR-1448,Gharb-Chrarda-Beni Hssen,-5.953438,34.51374
+MAR-1451,Region de Rabat-Sale-Zemmour-Zaer,-6.367628,33.72604
+MAR-1449,Chaouia-Ouardigha,-7.18714,33.03953
+MAR-1450,Region du Grand Casablanca,-7.57062,33.53931
+MAR-1457,Doukkala-Abda,-8.644709,32.518
+MAR-1456,Marrakech-Tensift-Al Haouz,-8.371462,31.6286
+MAR-1446,Region de Fes-Boulemane,-4.188537,33.44368
+MAR-1453,Tadla-Azilal,-6.439742,32.1428

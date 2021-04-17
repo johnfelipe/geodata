@@ -1,32 +1,32 @@
-"id","name","lat","lon"
-1,"Ostan-e Azarbayjan-e Gharbi",36.6666,45.6734
-2,"Ostan-e Azarbayjan-e Sharqi",37.8501,46.7723
-3,"Ostan-e Ardabil",38.9113,47.7241
-4,"Ostan-e Gilan",37.0503,49.5162
-5,"Ostan-e Kordestan",35.5778,46.8636
-6,"Ostan-e Kermanshah",34.2796,46.6893
-7,"Ostan-e Ilam",33.2369,46.8116
-8,"Ostan-e Khuzestan",31.3484,48.7558
-9,"Ostan-e Khorasan-e Shomali",37.5789,57.0475
-10,"Ostan-e Golestan",37.312,55.0042
-11,"Ostan-e Khorasan-e Razavi",35.584,58.7976
-12,"Ostan-e Khorasan-e Jonubi",32.4563,59.489
-13,"Ostan-e Sistan va Baluchestan",27.4268,61.0471
-14,"Ostan-e Bushehr",28.8273,51.4225
-15,"Ostan-e Hormozgan",27.6455,56.2505
-16,"Ostan-e Mazandaran",36.231,52.2123
-17,"Ostan-e Semnan",35.4243,54.4381
-18,"Ostan-e Zanjan",36.3989,48.2959
-19,"Ostan-e Qazvin",36.0552,49.6996
-20,"Ostan-e Markazi",34.5595,49.964
-21,"Ostan-e Esfahan",32.9837,52.4195
-22,"Ostan-e Chahar Mahal va Bakhtiari",31.9975,50.5298
-23,"Ostan-e Kohgiluyeh va Bowyer Ahmad",30.6977,50.7947
-24,"Ostan-e Fars",29.4007,53.0793
-25,"Ostan-e Kerman",30.1234,56.9567
-26,"Ostan-e Hamadan",34.8342,48.5738
-27,"Ostan-e Lorestan",33.5323,48.4141
-28,"Yazd",32.7074,55.5242
-29,"Qom",34.6662,50.978
-30,"Ostan-e Tehran",35.5146,51.6548
-31,"Alborz",35.9651,50.7848
+id,name,lon,lat
+IRN-3237,Ostan-e Azarbayjan-e Gharbi,45.25731,37.72669
+IRN-3238,Ostan-e Azarbayjan-e Sharqi,46.56545,37.92146
+IRN-3230,Ostan-e Ardabil,47.92085,38.52078
+IRN-3240,Ostan-e Gilan,49.45933,37.27946
+IRN-3241,Ostan-e Kordestan,46.95552,35.71832
+IRN-3239,Ostan-e Kermanshah,46.60867,34.45446
+IRN-3221,Ostan-e Ilam,46.83307,33.17551
+IRN-3219,Ostan-e Khuzestan,48.95955,31.49592
+IRN-3246,Ostan-e Khorasan-e Shomali,57.03192,37.40434
+IRN-3213,Ostan-e Golestan,55.05757,37.29567
+IRN-3245,Ostan-e Khorasan-e Razavi,58.87128,35.48689
+IRN-3244,Ostan-e Khorasan-e Jonubi,59.60567,32.35707
+IRN-3247,Ostan-e Sistan va Baluchestan,60.67089,27.80478
+IRN-3210,Ostan-e Bushehr,51.38027,28.84973
+IRN-3228,Ostan-e Hormozgan,56.22406,27.11006
+IRN-3214,Ostan-e Mazandaran,52.36261,36.38024
+IRN-3215,Ostan-e Semnan,54.65586,35.47173
+IRN-3234,Ostan-e Zanjan,48.35938,36.52413
+IRN-3235,Ostan-e Qazvin,49.72563,36.09275
+IRN-3231,Ostan-e Markazi,49.93084,34.56783
+IRN-3211,Ostan-e Esfahan,52.46442,33.18154
+IRN-3218,Ostan-e Chahar Mahal va Bakhtiari,50.64897,31.94555
+IRN-3209,Ostan-e Kohgiluyeh va Bowyer Ahmad,50.73426,30.81447
+IRN-3212,Ostan-e Fars,53.18609,29.29638
+IRN-3248,Ostan-e Kerman,57.27765,29.57533
+IRN-3233,Ostan-e Hamadan,48.55126,34.8696
+IRN-3220,Ostan-e Lorestan,48.40621,33.48427
+IRN-3217,Yazd,55.60317,32.56589
+IRN-3232,Qom,50.98381,34.69715
+IRN-3216,Ostan-e Tehran,51.8315,35.56812
+IRN-5490,Alborz,50.77787,35.97213

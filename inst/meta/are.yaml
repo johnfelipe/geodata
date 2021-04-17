@@ -1,6 +1,6 @@
 are_emirate:
   label: United Arab Emirates emirate
   basename: are-emirate
-  scope: ARE_adm1
+  scope: gadm36_ARE_1
   geographyName: name
   geographyId: id

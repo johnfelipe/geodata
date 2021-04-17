@@ -1,24 +1,24 @@
-"id","name","lat","lon"
-1,"Gouvernorat de Tataouine",32.154,9.88514
-2,"Gouvernorat de Medenine",33.4403,10.6522
-3,"Gouvernorat de Jendouba",36.6155,8.62064
-4,"Gouvernorat de Kebili",33.3621,8.84791
-5,"Gouvernorat de Tozeur",33.9476,8.07434
-6,"Gouvernorat de Gafsa",34.4233,8.79521
-7,"Gouvernorat de Kasserine",35.2529,8.78774
-8,"Gouvernorat de Kef",36.0965,8.69565
-9,"Gouvernorat de Gabes",33.7571,9.85987
-10,"Gouvernorat de Sfax",34.6495,11.0329
-11,"Gouvernorat de Mahdia",35.3594,10.6621
-12,"Gouvernorat de Monastir",35.6225,10.7538
-13,"Gouvernorat de Sousse",35.9323,10.4255
-14,"Gouvernorat de Nabeul",36.6794,10.7319
-15,"Gouvernorat de Ben Arous",36.6125,10.1941
-16,"Gouvernorat de Tunis",36.7791,10.1724
-17,"Gouvernorat de la Manouba",36.7903,9.94514
-18,"Gouvernorat de Bizerte",37.1109,9.67332
-19,"Gouvernorat de Beja",36.5828,9.37605
-20,"Gouvernorat de Siliana",35.5597,9.33745
-21,"Gouvernorat de Sidi Bou Zid",34.9757,9.43328
-22,"Gouvernorat de Kairouan",35.6154,9.78892
-23,"Gouvernorat de Zaghouan",36.3427,9.96916
+id,name,lon,lat
+TUN-98,Gouvernorat de Tataouine,9.942967,31.99954
+TUN-96,Gouvernorat de Medenine,10.86202,33.19176
+TUN-106,Gouvernorat de Jendouba,8.685206,36.64033
+TUN-97,Gouvernorat de Kebili,8.87933,33.2907
+TUN-101,Gouvernorat de Tozeur,7.96153,33.94526
+TUN-112,Gouvernorat de Gafsa,8.759374,34.40756
+TUN-110,Gouvernorat de Kasserine,8.74119,35.22392
+TUN-109,Gouvernorat de Kef,8.663369,36.03417
+TUN-111,Gouvernorat de Gabes,9.796603,33.78435
+TUN-114,Gouvernorat de Sfax,10.37182,34.7655
+TUN-116,Gouvernorat de Mahdia,10.64083,35.32394
+TUN-117,Gouvernorat de Monastir,10.76567,35.60529
+TUN-119,Gouvernorat de Sousse,10.40969,35.87145
+TUN-107,Gouvernorat de Nabeul,10.71407,36.69157
+TUN-104,Gouvernorat de Ben Arous,10.22833,36.62301
+TUN-108,Gouvernorat de Tunis,10.15571,36.77864
+TUN-102,Gouvernorat de la Manouba,9.946508,36.84513
+TUN-105,Gouvernorat de Bizerte,9.605217,37.08037
+TUN-103,Gouvernorat de Beja,9.314552,36.68315
+TUN-115,Gouvernorat de Siliana,9.32948,36.0509
+TUN-113,Gouvernorat de Sidi Bou Zid,9.531916,34.85903
+TUN-118,Gouvernorat de Kairouan,9.863194,35.60655
+TUN-120,Gouvernorat de Zaghouan,9.995924,36.31654

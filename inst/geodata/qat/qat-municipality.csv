@@ -1,8 +1,8 @@
-"id","name","lat","lon"
-1,"Baladiyat ar Rayyan",25.1648,51.1605
-2,"Baladiyat al Wakrah",24.9661,51.4743
-3,"Baladiyat ad Dawhah",25.2686,51.5282
-4,"Baladiyat az Za`ayin",25.4579,51.4671
-5,"Baladiyat al Khawr wa adh Dhakhirah",25.7512,51.4212
-6,"Baladiyat ash Shamal",26.0095,51.1832
-7,"Baladiyat Umm Salal",25.4594,51.3552
+id,name,lon,lat
+QAT-1100,Baladiyat ar Rayyan,51.06947,25.18883
+QAT-1101,Baladiyat al Wakrah,51.4078,24.91512
+QAT-1099,Baladiyat ad Dawhah,51.51445,25.27807
+QAT-5487,Baladiyat az Za`ayin,51.45608,25.50685
+QAT-1105,Baladiyat al Khawr wa adh Dhakhirah,51.33813,25.7712
+QAT-1106,Baladiyat ash Shamal,51.19727,25.97756
+QAT-1107,Baladiyat Umm Salal,51.35301,25.46344

@@ -1,19 +1,19 @@
-"id","name","lat","lon"
-1,"North",22.5063,114.148
-2,"Islands District",22.2597,113.954
-3,"Southern",22.2402,114.204
-4,"Central and Western District",22.2741,114.144
-5,"Wan Chai",22.2699,114.178
-6,"Eastern",22.2706,114.213
-7,"Tsuen Wan District",22.3869,114.12
-8,"Tai Po District",22.4447,114.154
-9,"Sha Tin",22.3807,114.2
-10,"Sai Kung District",22.3463,114.249
-11,"Kwon Tong",22.3159,114.225
-12,"Kowloon City",22.3268,114.19
-13,"Yau Tsim Mong",22.3128,114.169
-14,"Sham Shui Po",22.3331,114.164
-15,"Kwai Tsing",22.351,114.14
-16,"Tuen Mun",22.3846,113.991
-17,"Yuen Long District",22.4415,114.058
-18,"Wong Tai Sin",22.3432,114.215
+id,name,lon,lat
+HKG-5168,North,114.184,22.51472
+HKG-5170,Islands District,113.9513,22.2508
+HKG-5156,Southern,114.1988,22.23816
+HKG-5153,Central and Western District,114.143,22.27392
+HKG-5154,Wan Chai,114.1773,22.26854
+HKG-5155,Eastern,114.215,22.27095
+HKG-5165,Tsuen Wan District,114.0937,22.37603
+HKG-5169,Tai Po District,114.2465,22.45089
+HKG-5163,Sha Tin,114.2027,22.38623
+HKG-5162,Sai Kung District,114.3082,22.36417
+HKG-5161,Kwon Tong,114.2261,22.3137
+HKG-5158,Kowloon City,114.1894,22.3221
+HKG-5157,Yau Tsim Mong,114.1703,22.30837
+HKG-5159,Sham Shui Po,114.163,22.33296
+HKG-5164,Kwai Tsing,114.1379,22.35302
+HKG-5166,Tuen Mun,113.9691,22.39034
+HKG-5167,Yuen Long District,114.0493,22.44587
+HKG-5160,Wong Tai Sin,114.2103,22.34298

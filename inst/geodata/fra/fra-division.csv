@@ -1,102 +1,102 @@
-"id","name","lat","lon"
-1,"Guyane",3.85831,-53.1324
-2,"Departement du Nord",50.403,3.22709
-3,"Departement des Ardennes",49.5403,4.62417
-4,"Departement de l'Aisne",49.5667,3.51554
-5,"Departement de la Meuse",48.9505,5.50884
-6,"Departement de Meurthe-et-Moselle",48.7055,6.27603
-7,"Departement de la Moselle",49.0845,6.51862
-8,"Departement des Alpes-Maritimes",43.8699,7.18651
-9,"Departement des Alpes-de-Haute-Provence",44.0454,6.24822
-10,"Departement des Hautes-Alpes",44.6732,6.37648
-11,"Departement de la Savoie",45.4832,6.47098
-12,"Departement de la Haute-Savoie",46.0502,6.51823
-13,"Departement des Pyrenees-Atlantiques",43.259,-0.74999
-14,"Departement de la Haute-Garonne",43.5457,1.41673
-15,"Departement des Hautes-Pyrenees",43.0599,0.13923
-16,"Departement de l'Ariege",42.9046,1.53654
-17,"Departement des Pyrenees-Orientales",42.5738,2.54908
-18,"Departement du Bas-Rhin",48.6179,7.56628
-19,"Departement du Haut-Rhin",47.886,7.25359
-20,"Territoire de Belfort",47.6568,6.93675
-21,"Departement du Doubs",47.1584,6.31895
-22,"Departement de l'Ain",46.084,5.37744
-23,"Departement du Jura",46.732,5.72845
-24,"Departement du Var",43.4095,6.27103
-25,"Departement des Bouches-du-Rhone",43.5324,5.40444
-26,"Departement du Gard",43.9914,4.18939
-27,"Departement de l'Herault",43.5524,3.27316
-28,"Departement de l'Aude",43.1004,2.48157
-29,"Departement des Landes",43.9644,-0.792307
-30,"Departement de la Gironde",44.7339,-0.515546
-31,"Departement de la Charente-Maritime",45.8441,-0.714301
-32,"Departement de la Vendee",46.6893,-1.31827
-33,"Departement de la Loire-Atlantique",47.3637,-1.6025
-34,"Departement du Morbihan",47.8699,-2.89359
-35,"Departement du Finistere",48.3309,-3.92644
-36,"Departement des Cotes-d'Armor",48.4383,-2.93239
-37,"Departement d'Ille-et-Vilaine",48.1428,-1.65623
-38,"Departement de la Manche",49.1637,-1.34727
-39,"Departement du Calvados",49.0601,-0.288724
-40,"Departement de l'Eure",49.0414,0.92951
-41,"Departement de la Seine-Maritime",49.5936,1.1513
-42,"Departement de la Somme",49.8757,2.36029
-43,"Departement du Pas-de-Calais",50.4661,2.3614
-44,"Martinique",14.7245,-61.064
-45,"Guadeloupe",16.1881,-61.6822
-46,"Reunion",-21.1155,55.5405
-47,"unknown",-12.7767,45.2769
-48,"Departement de la Haute-Corse",42.3996,9.2309
-49,"Departement de la Corse-du-Sud",41.8449,9.02252
-50,"Departement du Gers",43.6809,0.537496
-51,"Departement de la Haute-Vienne",45.8465,1.21857
-52,"Departement de la Correze",45.355,1.90105
-53,"Departement du Tarn-et-Garonne",44.0657,1.23277
-54,"Departement du Tarn",43.8024,2.13731
-55,"Departement de l'Isere",45.2478,5.4175
-56,"Departement de la Drome",44.7407,5.13443
-57,"Departement de l'Aveyron",44.2884,2.66383
-58,"Departement du Lot",44.6327,1.61079
-59,"Departement d'Indre-et-Loire",47.2903,0.713649
-60,"Departement de l'Indre",46.8003,1.61636
-61,"Departement du Loir-et-Cher",47.5484,1.59234
-62,"Departement de la Creuse",46.0705,2.04281
-63,"Departement de la Mayenne",48.1562,-0.635312
-64,"Departement de la Sarthe",47.9682,0.170679
-65,"Departement du Vaucluse",43.9981,5.21543
-66,"Departement de la Haute-Marne",48.1552,5.24076
-67,"Departement de la Marne",49.022,4.26395
-68,"Departement de la Dordogne",45.1592,0.780505
-69,"Departement du Rhone",45.841,4.64841
-70,"Departement des Vosges",48.2445,6.67053
-71,"Departement de l'Ardeche",44.8014,4.4999
-72,"Departement de la Loire",45.706,4.16239
-73,"Departement du Puy-de-Dome",45.8135,3.26844
-74,"Departement de l'Allier",46.408,3.18698
-75,"Departement du Loiret",47.9007,2.19238
-76,"Departement de Maine-et-Loire",47.3771,-0.527847
-77,"Departement de l'Aube",48.3125,4.16252
-78,"Paris",48.8594,2.34347
-79,"Departement des Hauts-de-Seine",48.8557,2.19706
-80,"Departement de Seine-Saint-Denis",48.9289,2.51916
-81,"Departement du Val-d'Oise",49.0754,2.23366
-82,"Departement des Yvelines",48.8191,1.90058
-83,"Departement de la Charente",45.6998,0.154828
-84,"Departement du Cher",47.1356,2.51907
-85,"Departement d'Eure-et-Loir",48.3564,1.36704
-86,"Departement de la Haute-Loire",45.1254,3.72362
-87,"Departement du Cantal",45.1592,2.74821
-88,"Departement du Lot-et-Garonne",44.3829,0.449742
-89,"Departement de la Lozere",44.4909,3.54811
-90,"Departement de la Nievre",47.1505,3.56837
-91,"Departement de la Cote-d'Or",47.4003,4.76991
-92,"Departement de l'Oise",49.3967,2.64323
-93,"Departement de l'Orne",48.6533,0.0632139
-94,"Departement de la Haute-Saone",47.6973,6.16722
-95,"Departement de Saone-et-Loire",46.6789,4.5138
-96,"Departement des Deux-Sevres",46.5681,-0.300826
-97,"Departement de la Vienne",46.5338,0.412746
-98,"Departement de l'Yonne",47.7715,3.64262
-99,"Departement de l'Essonne",48.5629,2.29588
-100,"Departement de Seine-et-Marne",48.5515,2.84201
-101,"Departement du Val-de-Marne",48.7752,2.5155
+id,name,lon,lat
+FRA-2000,Guyane,-53.24455,3.922522
+FRA-5330,Departement du Nord,3.205834,50.44517
+FRA-5268,Departement des Ardennes,4.640267,49.61196
+FRA-5263,Departement de l'Aisne,3.560817,49.55681
+FRA-5326,Departement de la Meuse,5.382799,48.98764
+FRA-5325,Departement de Meurthe-et-Moselle,6.160041,48.78551
+FRA-5328,Departement de la Moselle,6.664453,49.02567
+FRA-5266,Departement des Alpes-Maritimes,7.108938,43.93671
+FRA-5265,Departement des Alpes-de-Haute-Provence,6.24026,44.10373
+FRA-5304,Departement des Hautes-Alpes,6.263599,44.66169
+FRA-5341,Departement de la Savoie,6.42878,45.47918
+FRA-5302,Departement de la Haute-Savoie,6.421374,46.0517
+FRA-5336,Departement des Pyrenees-Atlantiques,-0.769438,43.25208
+FRA-5298,Departement de la Haute-Garonne,1.177472,43.35798
+FRA-5305,Departement des Hautes-Pyrenees,0.164094,43.0487
+FRA-5269,Departement de l'Ariege,1.498632,42.91473
+FRA-5337,Departement des Pyrenees-Orientales,2.524155,42.59554
+FRA-5273,Departement du Bas-Rhin,7.553024,48.66656
+FRA-5296,Departement du Haut-Rhin,7.280802,47.85744
+FRA-5348,Territoire de Belfort,6.933786,47.63313
+FRA-5287,Departement du Doubs,6.356566,47.16664
+FRA-5262,Departement de l'Ain,5.351092,46.10287
+FRA-5312,Departement du Jura,5.698327,46.72794
+FRA-5351,Departement du Var,6.245405,43.44184
+FRA-5274,Departement des Bouches-du-Rhone,5.090142,43.54941
+FRA-5293,Departement du Gard,4.183692,43.99407
+FRA-5307,Departement de l'Herault,3.372356,43.58074
+FRA-5271,Departement de l'Aude,2.415718,43.10094
+FRA-5313,Departement des Landes,-0.7810557,43.96589
+FRA-5295,Departement de la Gironde,-0.5753757,44.82582
+FRA-5278,Departement de la Charente-Maritime,-0.6734182,45.78393
+FRA-5353,Departement de la Vendee,-1.29224,46.67885
+FRA-5316,Departement de la Loire-Atlantique,-1.676259,47.363
+FRA-5327,Departement du Morbihan,-2.806602,47.85175
+FRA-5292,Departement du Finistere,-4.057888,48.26923
+FRA-5283,Departement des Cotes-d'Armor,-2.855368,48.44431
+FRA-5308,Departement d'Ille-et-Vilaine,-1.639947,48.15278
+FRA-5322,Departement de la Manche,-1.328802,49.08086
+FRA-5275,Departement du Calvados,-0.3647716,49.10141
+FRA-5290,Departement de l'Eure,0.9887315,49.11169
+FRA-5343,Departement de la Seine-Maritime,1.022898,49.65598
+FRA-5345,Departement de la Somme,2.269154,49.95694
+FRA-5334,Departement du Pas-de-Calais,2.282858,50.49469
+FRA-1442,Martinique,-61.01762,14.65641
+FRA-4603,Guadeloupe,-61.52959,16.20831
+FRA-4601,Reunion,55.54168,-21.11947
+FRA-4602,NA,45.14218,-12.81741
+FRA-5297,Departement de la Haute-Corse,9.203523,42.39712
+FRA-5281,Departement de la Corse-du-Sud,8.985434,41.86869
+FRA-5294,Departement du Gers,0.4594208,43.69125
+FRA-5303,Departement de la Haute-Vienne,1.228754,45.89746
+FRA-5280,Departement de la Correze,1.874451,45.35783
+FRA-5347,Departement du Tarn-et-Garonne,1.280137,44.08598
+FRA-5346,Departement du Tarn,2.165416,43.78492
+FRA-5311,Departement de l'Isere,5.577285,45.26594
+FRA-5288,Departement de la Drome,5.173952,44.68362
+FRA-5272,Departement de l'Aveyron,2.674356,44.28181
+FRA-5318,Departement du Lot,1.603714,44.62222
+FRA-5310,Departement d'Indre-et-Loire,0.6942014,47.25721
+FRA-5309,Departement de l'Indre,1.576436,46.77912
+FRA-5314,Departement du Loir-et-Cher,1.43395,47.61569
+FRA-5284,Departement de la Creuse,2.016318,46.08808
+FRA-5324,Departement de la Mayenne,-0.660791,48.14656
+FRA-5340,Departement de la Sarthe,0.225758,47.99177
+FRA-5352,Departement du Vaucluse,5.180043,44.01147
+FRA-5300,Departement de la Haute-Marne,5.229476,48.10957
+FRA-5323,Departement de la Marne,4.238158,48.94855
+FRA-5286,Departement de la Dordogne,0.7472229,45.10612
+FRA-5338,Departement du Rhone,4.642398,45.86785
+FRA-5355,Departement des Vosges,6.395284,48.19688
+FRA-5267,Departement de l'Ardeche,4.429792,44.75564
+FRA-5315,Departement de la Loire,4.159562,45.72959
+FRA-5335,Departement du Puy-de-Dome,3.135051,45.72444
+FRA-5264,Departement de l'Allier,3.183177,46.39118
+FRA-5317,Departement du Loiret,2.337899,47.91094
+FRA-5321,Departement de Maine-et-Loire,-0.5633174,47.39226
+FRA-5270,Departement de l'Aube,4.158331,48.3031
+FRA-5333,Paris,2.347057,48.8573
+FRA-5306,Departement des Hauts-de-Seine,2.243587,48.84588
+FRA-5344,Departement de Seine-Saint-Denis,2.475135,48.91883
+FRA-5349,Departement du Val-d'Oise,2.125221,49.07725
+FRA-5357,Departement des Yvelines,1.826298,48.80928
+FRA-5277,Departement de la Charente,0.1962683,45.71646
+FRA-5279,Departement du Cher,2.494353,47.06423
+FRA-5291,Departement d'Eure-et-Loir,1.368323,48.38394
+FRA-5299,Departement de la Haute-Loire,3.80382,45.12726
+FRA-5276,Departement du Cantal,2.668347,45.05282
+FRA-5319,Departement du Lot-et-Garonne,0.4620294,44.36694
+FRA-5320,Departement de la Lozere,3.497439,44.51594
+FRA-5329,Departement de la Nievre,3.505128,47.11495
+FRA-5282,Departement de la Cote-d'Or,4.777687,47.42289
+FRA-5331,Departement de l'Oise,2.418769,49.41214
+FRA-5332,Departement de l'Orne,0.1264903,48.62018
+FRA-5301,Departement de la Haute-Saone,6.095126,47.64132
+FRA-5339,Departement de Saone-et-Loire,4.544618,46.64472
+FRA-5285,Departement des Deux-Sevres,-0.3221495,46.55811
+FRA-5354,Departement de la Vienne,0.4590356,46.56424
+FRA-5356,Departement de l'Yonne,3.554738,47.84121
+FRA-5289,Departement de l'Essonne,2.238119,48.52316
+FRA-5342,Departement de Seine-et-Marne,2.926853,48.62523
+FRA-5350,Departement du Val-de-Marne,2.470807,48.77497

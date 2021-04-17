@@ -1,194 +1,194 @@
-"id","name","lat","lon"
-1,"Obcina Lendava",46.5693,16.4217
-2,"Obcina Crensovci",46.5592,16.2936
-3,"Obcina Ljutomer",46.5112,16.1653
-4,"Obcina Razkrizje",46.5269,16.2803
-5,"Obcina Ormoz",46.4411,16.1469
-6,"Obcina Zavrc",46.3824,16.0599
-7,"Obcina Gorisnica",46.3668,16.0215
-8,"Obcina Videm",46.3704,15.8973
-9,"Obcina Podlehnik",46.3116,15.8719
-10,"Obcina Zetale",46.2837,15.8193
-11,"Obcina Rogatec",46.2383,15.7385
-12,"Obcina Rogaska Slatina",46.2433,15.6536
-13,"Obcina Podcetrtek",46.1454,15.5811
-14,"Obcina Bistrica ob Sotli",46.048,15.6501
-15,"Obcina Brezice",45.9082,15.6036
-16,"Obcina Krsko",45.9397,15.4671
-17,"Obcina Sentjernej",45.8143,15.3503
-18,"Mestna Obcina Novo mesto",45.7779,15.1945
-19,"Obcina Metlika",45.6501,15.2985
-20,"Obcina Kostel",45.4814,14.8204
-21,"Obcina Loski Potok",45.6506,14.6363
-22,"Obcina Loska Dolina",45.6638,14.4776
-23,"Obcina Ilirska Bistrica",45.5678,14.2891
-24,"Obcina Crnomelj",45.5229,15.2135
-25,"Obcina Kocevje",45.6418,14.9161
-26,"Obcina Hrpelje-Kozina",45.5679,13.9929
-27,"Mestna Obcina Koper",45.5076,13.8237
-28,"Comune di Pirano",45.4801,13.6309
-29,"Obcina Moravske Toplice",46.7159,16.2705
-30,"Obcina Salovci",46.8451,16.2448
-31,"Obcina Hodos",46.8202,16.3126
-32,"Obcina Gornji Petrovci",46.8091,16.2128
-33,"Obcina Kuzma",46.8461,16.0916
-34,"Obcina Dobrovnik",46.6539,16.3581
-35,"Obcina Kobilje",46.6809,16.3831
-36,"Obcina Kranjska Gora",46.4482,13.8502
-37,"Obcina Bovec",46.3725,13.6184
-38,"Obcina Kobarid",46.2459,13.5507
-39,"Obcina Tolmin",46.1456,13.8136
-40,"Obcina Kanal",46.1084,13.6455
-41,"Obcina Brda",46.0189,13.5437
-42,"Mestna Obcina Nova Gorica",45.8796,13.7337
-43,"Obcina Sempeter-Vrtojba",45.9187,13.6431
-44,"Obcina Miren-Kostanjevica",45.8477,13.6373
-45,"Obcina Komen",45.8225,13.7382
-46,"Obcina Sezana",45.7319,13.8449
-47,"Obcina Rogasovci",46.799,16.017
-48,"Obcina Cankova",46.7083,16.0462
-49,"Obcina Gornja Radgona",46.6256,15.9663
-50,"Obcina Apace",46.6914,15.8873
-51,"Obcina Sentilj",46.6904,15.713
-52,"Obcina Kungota",46.6527,15.5921
-53,"Mestna Obcina Maribor",46.556,15.6414
-54,"Obcina Selnica ob Dravi",46.5799,15.4976
-55,"Obcina Radlje ob Dravi",46.6029,15.2526
-56,"Obcina Muta",46.6223,15.1348
-57,"Obcina Dravograd",46.5906,15.0226
-58,"Obcina Podvelka",46.6021,15.3569
-59,"Obcina Ravne na Koroskem",46.5451,14.9541
-60,"Obcina Prevalje",46.5675,14.8823
-61,"Obcina Mezica",46.5281,14.8493
-62,"Obcina Crna na Koroskem",46.4704,14.819
-63,"Obcina Trzic",46.3883,14.3377
-64,"Obcina Zirovnica",46.4111,14.1816
-65,"Obcina Jesenice",46.4477,14.0702
-66,"Obcina Solcava",46.4114,14.6582
-67,"Obcina Jezersko",46.3897,14.4871
-68,"Comune di Isola",45.5153,13.643
-69,"Obcina Pesnica",46.6254,15.7082
-70,"Obcina Duplek",46.512,15.7689
-71,"Obcina Miklavz na Dravskem Polju",46.4853,15.7138
-72,"Obcina Hoce-Slivnica",46.4943,15.6245
-73,"Obcina Lenart",46.5575,15.8548
-74,"Obcina Sveta Ana",46.6459,15.8405
-75,"Obcina Lovrenc na Pohorju",46.5291,15.3869
-76,"Obcina Ribnica na Pohorju",46.5309,15.2558
-77,"Mestna Obcina Slovenj Gradec",46.4914,15.076
-78,"Obcina Vuzenica",46.5669,15.1575
-79,"Obcina Preddvor",46.3286,14.46
-80,"Obcina Sencur",46.2408,14.4252
-81,"Obcina Cerklje na Gorenjskem",46.2524,14.5061
-82,"Obcina Kamnik",46.2285,14.733
-83,"Obcina Medvode",46.1236,14.3971
-84,"Mestna Obcina Kranj",46.2382,14.2919
-85,"Obcina Skofja Loka",46.1576,14.2779
-86,"Obcina Zelezniki",46.2279,14.1184
-87,"Obcina Bohinj",46.2961,13.9538
-88,"Obcina Naklo",46.2932,14.3004
-89,"Obcina Radovljica",46.3361,14.1929
-90,"Obcina Sostanj",46.4223,14.9905
-91,"Obcina Ljubno",46.3721,14.8415
-92,"Obcina Luce",46.3436,14.7245
-93,"Obcina Lukovica",46.1827,14.7761
-94,"Obcina Benedikt",46.6136,15.8981
-95,"Obcina Lasko",46.1404,15.248
-96,"Obcina Dobje",46.1339,15.4056
-97,"Obcina Ruse",46.5156,15.486
-98,"Obcina Vodice",46.1726,14.4982
-99,"Obcina Komenda",46.2055,14.5417
-100,"Obcina Menges",46.1605,14.552
-101,"Obcina Vrhnika",45.9491,14.2947
-102,"Obcina Horjul",46.0249,14.2917
-103,"Obcina Cerkvenjak",46.5598,15.9531
-104,"Obcina Trzin",46.1259,14.5552
-105,"Obcina Puconci",46.7506,16.132
-106,"Obcina Grad",46.7969,16.094
-107,"Mestna Obcina Murska Sobota",46.6532,16.1719
-108,"Obcina Sveti Andraz v Slovenskih Goricah",46.5244,15.9658
-109,"Obcina Brezovica",45.9479,14.4279
-110,"Obcina Dobrova-Polhov Gradec",46.0716,14.3138
-111,"Obcina Gorenja Vas-Poljane",46.1241,14.1223
-112,"Obcina Logatec",45.9399,14.1998
-113,"Obcina Trnovska vas",46.523,15.8943
-114,"Obcina Destrnik",46.4767,15.8853
-115,"Obcina Race-Fram",46.4507,15.6401
-116,"Obcina Starse",46.4544,15.7678
-117,"Obcina Vransko",46.2348,14.9474
-118,"Mestna Obcina Velenje",46.3749,15.1364
-119,"Obcina Polzela",46.3034,15.087
-120,"Obcina Smartno ob Paki",46.3421,15.0326
-121,"Obcina Mozirje",46.3593,14.9377
-122,"Obcina Vitanje",46.4073,15.2954
-123,"Obcina Vojnik",46.3188,15.31
-124,"Obcina Zrece",46.3914,15.3705
-125,"Obcina Mislinja",46.4442,15.2253
-126,"Obcina Zagorje ob Savi",46.1454,14.924
-127,"Obcina Litija",46.0752,14.9182
-128,"Obcina Gornji Grad",46.2972,14.7905
-129,"Obcina Cerknica",45.7886,14.3817
-130,"Obcina Velike Lasce",45.8446,14.5889
-131,"Obcina Borovnica",45.9095,14.3756
-132,"Obcina Postojna",45.7924,14.1802
-133,"Obcina Pivka",45.6834,14.2444
-134,"Obcina Dobrna",46.3552,15.2299
-135,"Mestna Obcina Celje",46.2398,15.2874
-136,"Obcina Nazarje",46.2864,14.9127
-137,"Obcina Domzale",46.1493,14.6294
-138,"Obcina Ivancna Gorica",45.9017,14.8211
-139,"Mestna Obcina Ljubljana",46.0616,14.5799
-140,"Obcina Smartno pri Litiji",46.0231,14.8692
-141,"Obcina Ig",45.9398,14.5158
-142,"Obcina Dol pri Ljubljani",46.0996,14.6741
-143,"Obcina Prebold",46.2214,15.0943
-144,"Obcina Moravce",46.1337,14.7576
-145,"Obcina Dobrepolje",45.8342,14.7253
-146,"Obcina Radece",46.0658,15.1559
-147,"Obcina Store",46.1996,15.3276
-148,"Obcina Slovenske Konjice",46.3232,15.4612
-149,"Obcina Ziri",46.0459,14.1084
-150,"Obcina Oplotnica",46.381,15.456
-151,"Obcina Cerkno",46.1335,13.9799
-152,"Obcina Bled",46.3898,14.0001
-153,"Obcina Ajdovscina",45.9043,13.9294
-154,"Obcina Divaca",45.6927,14.0149
-155,"Obcina Idrija",45.9922,13.9955
-156,"Obcina Vipava",45.8271,13.9723
-157,"Obcina Bloke",45.7836,14.5092
-158,"Obcina Sentjur",46.1784,15.4424
-159,"Obcina Kozje",46.0666,15.5721
-160,"Obcina Smarje pri Jelsah",46.2188,15.5302
-161,"Obcina Sevnica",46.0132,15.2616
-162,"Obcina Mirna Pec",45.8487,15.0911
-163,"Obcina Trebnje",45.9382,15.0537
-164,"Obcina Zuzemberk",45.8184,14.9443
-165,"Obcina Turnisce",46.6089,16.3308
-166,"Obcina Radenci",46.6266,16.0594
-167,"Obcina Sveti Jurij ob Scavnici",46.5629,16.0294
-168,"Obcina Velika Polana",46.5796,16.363
-169,"Obcina Beltinci",46.6086,16.2307
-170,"Obcina Verzej",46.5804,16.1766
-171,"Obcina Odranci",46.5874,16.28
-172,"Obcina Grosuplje",45.9421,14.6714
-173,"Obcina Skofljica",45.9583,14.5747
-174,"Obcina Hrastnik",46.1289,15.1268
-175,"Obcina Zalec",46.2587,15.1651
-176,"Obcina Trbovlje",46.078,15.041
-177,"Obcina Braslovce",46.2889,15.0327
-178,"Obcina Tabor",46.2258,15.0116
-179,"unknown",46.0073,15.5816
-180,"Obcina Hajdina",46.4161,15.8358
-181,"Mestna Obcina Ptuj",46.4273,15.8673
-182,"Obcina Majsperk",46.3148,15.7455
-183,"Obcina Slovenska Bistrica",46.4241,15.5283
-184,"Obcina Markovci",46.3928,15.9513
-185,"Obcina Kidricevo",46.3982,15.7544
-186,"Obcina Dornava",46.4406,15.9915
-187,"Obcina Krizevci",46.5723,16.1282
-188,"Obcina Jursinci",46.4841,15.9822
-189,"Obcina Semic",45.6477,15.161
-190,"Obcina Dolenjske Toplice",45.7205,15.048
-191,"Obcina Sodrazica",45.7548,14.6157
-192,"Obcina Ribnica",45.7413,14.7047
-193,"Obcina Skocjan",45.9221,15.3006
+id,name,lon,lat
+SVN-264,Obcina Lendava,16.42338,46.56345
+SVN-263,Obcina Crensovci,16.30044,46.56015
+SVN-265,Obcina Ljutomer,16.16699,46.52241
+SVN-269,Obcina Razkrizje,16.27825,46.52476
+SVN-1047,Obcina Ormoz,16.14432,46.43625
+SVN-1050,Obcina Zavrc,16.05182,46.35939
+SVN-1041,Obcina Gorisnica,16.01553,46.36576
+SVN-222,Obcina Videm,15.90657,46.34216
+SVN-232,Obcina Podlehnik,15.87602,46.31026
+SVN-231,Obcina Zetale,15.81197,46.28001
+SVN-983,Obcina Rogatec,15.73698,46.23607
+SVN-982,Obcina Rogaska Slatina,15.6378,46.24763
+SVN-213,Obcina Podcetrtek,15.58267,46.14356
+SVN-255,Obcina Bistrica ob Sotli,15.64629,46.04996
+SVN-938,Obcina Brezice,15.61124,45.90984
+SVN-958,Obcina Krsko,15.46862,45.93549
+SVN-987,Obcina Sentjernej,15.34918,45.8191
+SVN-212,Mestna Obcina Novo mesto,15.19792,45.78887
+SVN-969,Obcina Metlika,15.29388,45.6473
+SVN-245,Obcina Kostel,14.7938,45.51771
+SVN-965,Obcina Loski Potok,14.64017,45.65474
+SVN-209,Obcina Loska Dolina,14.48069,45.66717
+SVN-954,Obcina Ilirska Bistrica,14.28166,45.56442
+SVN-945,Obcina Crnomelj,15.19508,45.51609
+SVN-207,Obcina Kocevje,14.90979,45.61419
+SVN-1026,Obcina Hrpelje-Kozina,14.00082,45.56631
+SVN-1031,Mestna Obcina Koper,13.82508,45.50892
+SVN-1033,Comune di Pirano,13.62805,45.49448
+SVN-1044,Obcina Moravske Toplice,16.26535,46.70836
+SVN-196,Obcina Salovci,16.2637,46.82864
+SVN-201,Obcina Hodos,16.3123,46.82187
+SVN-928,Obcina Gornji Petrovci,16.2033,46.81016
+SVN-197,Obcina Kuzma,16.08822,46.84169
+SVN-271,Obcina Dobrovnik,16.34904,46.65447
+SVN-1043,Obcina Kobilje,16.38459,46.68019
+SVN-1014,Obcina Kranjska Gora,13.84079,46.46059
+SVN-1023,Obcina Bovec,13.62481,46.36147
+SVN-1029,Obcina Kobarid,13.54702,46.25225
+SVN-1018,Obcina Tolmin,13.80682,46.17194
+SVN-1028,Obcina Kanal,13.64901,46.08901
+SVN-1024,Obcina Brda,13.53714,46.01491
+SVN-260,Mestna Obcina Nova Gorica,13.72774,45.97468
+SVN-261,Obcina Sempeter-Vrtojba,13.63958,45.92016
+SVN-1032,Obcina Miren-Kostanjevica,13.62689,45.85499
+SVN-1030,Obcina Komen,13.74184,45.81542
+SVN-1034,Obcina Sezana,13.86809,45.73497
+SVN-931,Obcina Rogasovci,16.01916,46.79985
+SVN-926,Obcina Cankova,16.04226,46.70357
+SVN-927,Obcina Gornja Radgona,15.96661,46.63915
+SVN-5884,Obcina Apace,15.87821,46.69441
+SVN-986,Obcina Sentilj,15.71356,46.68043
+SVN-959,Obcina Kungota,15.59644,46.64348
+SVN-256,Mestna Obcina Maribor,15.62887,46.56504
+SVN-234,Obcina Selnica ob Dravi,15.49417,46.58141
+SVN-981,Obcina Radlje ob Dravi,15.2425,46.60063
+SVN-974,Obcina Muta,15.13476,46.62549
+SVN-947,Obcina Dravograd,15.03992,46.59712
+SVN-214,Obcina Podvelka,15.35622,46.59479
+SVN-217,Obcina Ravne na Koroskem,14.96305,46.54994
+SVN-233,Obcina Prevalje,14.89141,46.55887
+SVN-970,Obcina Mezica,14.85195,46.52556
+SVN-944,Obcina Crna na Koroskem,14.82893,46.4664
+SVN-1019,Obcina Trzic,14.32935,46.38774
+SVN-259,Obcina Zirovnica,14.1715,46.41233
+SVN-258,Obcina Jesenice,14.07005,46.44521
+SVN-251,Obcina Solcava,14.6559,46.4071
+SVN-237,Obcina Jezersko,14.47768,46.38417
+SVN-1027,Comune di Isola,13.64547,45.52051
+SVN-976,Obcina Pesnica,15.71244,46.6223
+SVN-948,Obcina Duplek,15.77126,46.51111
+SVN-228,Obcina Miklavz na Dravskem Polju,15.71343,46.48779
+SVN-229,Obcina Hoce-Slivnica,15.63201,46.49105
+SVN-208,Obcina Lenart,15.83318,46.57432
+SVN-200,Obcina Sveta Ana,15.84012,46.65311
+SVN-235,Obcina Lovrenc na Pohorju,15.38853,46.52913
+SVN-257,Obcina Ribnica na Pohorju,15.26118,46.5266
+SVN-991,Mestna Obcina Slovenj Gradec,15.07829,46.49146
+SVN-1005,Obcina Vuzenica,15.15768,46.57318
+SVN-215,Obcina Preddvor,14.46563,46.326
+SVN-985,Obcina Sencur,14.42409,46.23664
+SVN-942,Obcina Cerklje na Gorenjskem,14.50058,46.255
+SVN-206,Obcina Kamnik,14.67859,46.26001
+SVN-967,Obcina Medvode,14.40084,46.13323
+SVN-1013,Mestna Obcina Kranj,14.33321,46.25829
+SVN-1017,Obcina Skofja Loka,14.27664,46.16038
+SVN-1020,Obcina Zelezniki,14.11363,46.22079
+SVN-1009,Obcina Bohinj,13.91903,46.29726
+SVN-1015,Obcina Naklo,14.29817,46.29295
+SVN-1016,Obcina Radovljica,14.20629,46.34008
+SVN-995,Obcina Sostanj,15.00463,46.40897
+SVN-963,Obcina Ljubno,14.84679,46.37547
+SVN-210,Obcina Luce,14.73042,46.35725
+SVN-966,Obcina Lukovica,14.76798,46.18137
+SVN-199,Obcina Benedikt,15.89791,46.61541
+SVN-960,Obcina Lasko,15.26473,46.13143
+SVN-252,Obcina Dobje,15.40286,46.13008
+SVN-219,Obcina Ruse,15.49176,46.517
+SVN-1003,Obcina Vodice,14.49365,46.17163
+SVN-225,Obcina Komenda,14.54247,46.20528
+SVN-968,Obcina Menges,14.55756,46.16111
+SVN-1004,Obcina Vrhnika,14.29995,45.963
+SVN-250,Obcina Horjul,14.28903,46.02279
+SVN-198,Obcina Cerkvenjak,15.952,46.55973
+SVN-236,Obcina Trzin,14.5552,46.12802
+SVN-929,Obcina Puconci,16.13451,46.74691
+SVN-202,Obcina Grad,16.09305,46.79761
+SVN-1045,Mestna Obcina Murska Sobota,16.16042,46.65273
+SVN-268,Obcina Sveti Andraz v Slovenskih Goricah,15.96014,46.52255
+SVN-940,Obcina Brezovica,14.42381,45.94859
+SVN-204,Obcina Dobrova-Polhov Gradec,14.31076,46.06228
+SVN-1011,Obcina Gorenja Vas-Poljane,14.13497,46.1177
+SVN-964,Obcina Logatec,14.19031,45.92796
+SVN-230,Obcina Trnovska vas,15.89482,46.52007
+SVN-203,Obcina Destrnik,15.88944,46.48276
+SVN-979,Obcina Race-Fram,15.65361,46.4488
+SVN-996,Obcina Starse,15.76075,46.45731
+SVN-241,Obcina Vransko,14.94857,46.24026
+SVN-1001,Mestna Obcina Velenje,15.13476,46.37217
+SVN-244,Obcina Polzela,15.08868,46.30518
+SVN-994,Obcina Smartno ob Paki,15.03257,46.34266
+SVN-973,Obcina Mozirje,14.9392,46.35188
+SVN-1002,Obcina Vitanje,15.29787,46.4033
+SVN-223,Obcina Vojnik,15.31569,46.31732
+SVN-1007,Obcina Zrece,15.37126,46.40181
+SVN-971,Obcina Mislinja,15.22219,46.44995
+SVN-1006,Obcina Zagorje ob Savi,14.9336,46.14973
+SVN-961,Obcina Litija,14.93396,46.05586
+SVN-949,Obcina Gornji Grad,14.79184,46.29125
+SVN-943,Obcina Cerknica,14.37737,45.80281
+SVN-1000,Obcina Velike Lasce,14.58558,45.84139
+SVN-937,Obcina Borovnica,14.3756,45.91289
+SVN-978,Obcina Postojna,14.16621,45.78838
+SVN-977,Obcina Pivka,14.23284,45.68103
+SVN-239,Obcina Dobrna,15.22871,46.35627
+SVN-941,Mestna Obcina Celje,15.27229,46.24833
+SVN-975,Obcina Nazarje,14.91271,46.28499
+SVN-205,Obcina Domzale,14.62653,46.14785
+SVN-955,Obcina Ivancna Gorica,14.81349,45.91736
+SVN-962,Mestna Obcina Ljubljana,14.56362,46.05476
+SVN-5885,Obcina Smartno pri Litiji,14.84579,46.0257
+SVN-953,Obcina Ig,14.51528,45.93294
+SVN-946,Obcina Dol pri Ljubljani,14.6726,46.09506
+SVN-243,Obcina Prebold,15.09465,46.21619
+SVN-972,Obcina Moravce,14.75934,46.13555
+SVN-253,Obcina Dobrepolje,14.72914,45.82785
+SVN-980,Obcina Radece,15.14817,46.0598
+SVN-997,Obcina Store,15.33212,46.19749
+SVN-992,Obcina Slovenske Konjice,15.46745,46.32244
+SVN-1021,Obcina Ziri,14.11381,46.04803
+SVN-226,Obcina Oplotnica,15.45235,46.38617
+SVN-1010,Obcina Cerkno,13.97284,46.12694
+SVN-1008,Obcina Bled,14.02263,46.37609
+SVN-1022,Obcina Ajdovscina,13.90005,45.90074
+SVN-1025,Obcina Divaca,14.0179,45.68465
+SVN-1012,Obcina Idrija,14.00194,45.98952
+SVN-1035,Obcina Vipava,13.97927,45.82138
+SVN-254,Obcina Bloke,14.51005,45.78158
+SVN-220,Obcina Sentjur,15.43322,46.18521
+SVN-957,Obcina Kozje,15.56375,46.06634
+SVN-993,Obcina Smarje pri Jelsah,15.52984,46.21348
+SVN-988,Obcina Sevnica,15.27734,46.00909
+SVN-242,Obcina Mirna Pec,15.08813,45.85132
+SVN-999,Obcina Trebnje,15.04885,45.92172
+SVN-238,Obcina Zuzemberk,14.93296,45.80752
+SVN-1049,Obcina Turnisce,16.32052,46.61609
+SVN-930,Obcina Radenci,16.05262,46.622
+SVN-1048,Obcina Sveti Jurij ob Scavnici,16.0303,46.56487
+SVN-270,Obcina Velika Polana,16.35957,46.58018
+SVN-1039,Obcina Beltinci,16.24228,46.61182
+SVN-267,Obcina Verzej,16.1757,46.58394
+SVN-1046,Obcina Odranci,16.27859,46.58637
+SVN-950,Obcina Grosuplje,14.67039,45.93983
+SVN-990,Obcina Skofljica,14.5734,45.96682
+SVN-951,Obcina Hrastnik,15.12337,46.1312
+SVN-224,Obcina Zalec,15.17062,46.25989
+SVN-952,Obcina Trbovlje,15.04664,46.12208
+SVN-247,Obcina Braslovce,15.03027,46.28288
+SVN-240,Obcina Tabor,15.01537,46.22076
+SVN-939,NA,15.58056,46.0097
+SVN-227,Obcina Hajdina,15.83408,46.41756
+SVN-216,Mestna Obcina Ptuj,15.88062,46.4412
+SVN-211,Obcina Majsperk,15.74609,46.3208
+SVN-221,Obcina Slovenska Bistrica,15.56262,46.39122
+SVN-272,Obcina Markovci,15.96019,46.3909
+SVN-956,Obcina Kidricevo,15.75828,46.39414
+SVN-1040,Obcina Dornava,15.99717,46.44658
+SVN-266,Obcina Krizevci,16.12587,46.5679
+SVN-1042,Obcina Jursinci,15.98081,46.48545
+SVN-984,Obcina Semic,15.15686,45.64607
+SVN-249,Obcina Dolenjske Toplice,15.03839,45.72007
+SVN-248,Obcina Sodrazica,14.61902,45.75439
+SVN-218,Obcina Ribnica,14.72269,45.73056
+SVN-989,Obcina Skocjan,15.31109,45.91631

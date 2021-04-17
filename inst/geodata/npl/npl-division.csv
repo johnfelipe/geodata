@@ -1,15 +1,15 @@
-"id","name","lat","lon"
-1,"Karnali Zone",29.474,82.4637
-2,"Mahakali Zone",29.5205,80.5573
-3,"Seti Zone",29.312,81.163
-4,"Dhawalagiri Zone",28.4801,83.5602
-5,"Gandaki Zone",28.3293,84.3034
-6,"Bagmati Zone",27.8491,85.3494
-7,"Janakpur Zone",27.179,85.9718
-8,"Sagarmatha Zone",27.2719,86.6607
-9,"Kosi Zone",27.0937,87.3229
-10,"Mechi Zone",27.1587,87.8075
-11,"Bheri Zone",28.4501,81.7802
-12,"Rapti Zone",28.3268,82.5518
-13,"Lumbini Zone",27.695,83.55
-14,"Narayani Zone",27.3731,84.7202
+id,name,lon,lat
+NPL-1126,Karnali Zone,82.41323,29.47988
+NPL-1128,Mahakali Zone,80.54816,29.41285
+NPL-1129,Seti Zone,81.12509,29.26213
+NPL-1125,Dhawalagiri Zone,83.58136,28.65309
+NPL-1095,Gandaki Zone,84.32271,28.31391
+NPL-1130,Bagmati Zone,85.40722,27.87229
+NPL-1131,Janakpur Zone,85.99603,27.27136
+NPL-1133,Sagarmatha Zone,86.65259,27.17131
+NPL-1134,Kosi Zone,87.287,27.12186
+NPL-1135,Mechi Zone,87.83461,27.1567
+NPL-1124,Bheri Zone,81.73676,28.54892
+NPL-373,Rapti Zone,82.54229,28.30593
+NPL-1127,Lumbini Zone,83.43309,27.74454
+NPL-1132,Narayani Zone,84.88764,27.34193

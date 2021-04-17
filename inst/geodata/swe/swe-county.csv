@@ -1,22 +1,22 @@
-"id","name","lat","lon"
-1,"Norrbottens Laen",66.837,20.4529
-2,"Vaesterbottens Laen",64.7048,18.3726
-3,"Jaemtlands Laen",63.3306,14.4806
-4,"Dalarnas Laen",60.814,14.4404
-5,"Vaermlands Laen",59.8068,13.0764
-6,"Vaestra Goetalands Laen",58.2428,12.8371
-7,"Vaesternorrlands Laen",62.9145,17.3697
-8,"Gaevleborgs Laen",61.3691,16.5023
-9,"Uppsala Laen",60.1522,17.7896
-10,"Stockholms Laen",59.3659,17.8652
-11,"Soedermanlands Laen",59.0778,16.6334
-12,"OEstergoetlands Laen",58.3655,15.7022
-13,"Kalmar Laen",57.2764,16.0875
-14,"Blekinge Laen",56.2929,15.2163
-15,"Skane Laen",55.9073,13.5193
-16,"Hallands Laen",56.9745,12.8007
-17,"Gotlands Laen",57.4733,18.4826
-18,"Vaestmanlands Laen",59.7979,16.4244
-19,"Joenkoepings Laen",57.5478,14.424
-20,"OErebro Laen",59.3913,15.0594
-21,"Kronobergs Laen",56.8265,14.5773
+id,name,lon,lat
+SWE-190,Norrbottens Laen,20.10691,66.94891
+SWE-192,Vaesterbottens Laen,17.8354,64.86943
+SWE-189,Jaemtlands Laen,14.33103,63.26431
+SWE-181,Dalarnas Laen,14.36912,60.96905
+SWE-188,Vaermlands Laen,13.15393,59.78432
+SWE-3428,Vaestra Goetalands Laen,12.88248,58.31521
+SWE-191,Vaesternorrlands Laen,17.27806,63.11162
+SWE-178,Gaevleborgs Laen,16.30319,61.46397
+SWE-195,Uppsala Laen,17.69336,60.04616
+SWE-194,Stockholms Laen,18.13849,59.48213
+SWE-185,Soedermanlands Laen,16.70039,59.09409
+SWE-184,OEstergoetlands Laen,15.67168,58.36882
+SWE-180,Kalmar Laen,16.12323,57.19466
+SWE-262,Blekinge Laen,15.2064,56.2927
+SWE-3429,Skane Laen,13.60655,55.96284
+SWE-187,Hallands Laen,12.82634,56.9753
+SWE-193,Gotlands Laen,18.53821,57.50939
+SWE-186,Vaestmanlands Laen,16.34402,59.81808
+SWE-179,Joenkoepings Laen,14.44538,57.51384
+SWE-183,OErebro Laen,14.99396,59.37185
+SWE-182,Kronobergs Laen,14.58979,56.80528

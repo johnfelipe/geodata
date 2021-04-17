@@ -1,5 +1,5 @@
-"id","name","lat","lon"
-1,"Rota Municipality",14.1465,145.205
-2,"Tinian Municipality",14.9995,145.622
-3,"Saipan Municipality",15.1921,145.744
-4,"Northern Islands Municipality",16.3573,145.674
+id,name,lon,lat
+MNP-4937,Rota Municipality,145.2115,14.15598
+MNP-4938,Tinian Municipality,145.6241,14.99808
+MNP-4939,Saipan Municipality,145.7414,15.18367
+MNP-4940,Northern Islands Municipality,145.6661,18.22561

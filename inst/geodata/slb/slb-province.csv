@@ -1,11 +1,11 @@
-"id","name","lat","lon"
-1,"Rennell and Bellona",-11.6204,160.273
-2,"Makira-Ulawa Province",-10.2782,161.744
-3,"Temotu Province",-12.277,168.812
-4,"Malaita Province",-9.75831,161.956
-5,"unknown",-9.44658,160.019
-6,"Guadalcanal Province",-9.61695,160.209
-7,"Central Province",-9.14003,159.825
-8,"Western Province",-8.72999,157.551
-9,"Isabel Province",-8.44695,159.619
-10,"Choiseul",-7.40991,157.547
+id,name,lon,lat
+SLB-1261,Rennell and Bellona,160.2501,-11.64007
+SLB-3509,Makira-Ulawa Province,161.841,-10.54827
+SLB-1934,Temotu Province,166.2715,-11.01036
+SLB-1260,Malaita Province,161.0287,-9.004257
+SLB-5130,NA,159.9993,-9.445021
+SLB-1263,Guadalcanal Province,160.1713,-9.623621
+SLB-1262,Central Province,159.8829,-9.078829
+SLB-3507,Western Province,157.2564,-8.15028
+SLB-1264,Isabel Province,159.1592,-8.017429
+SLB-3508,Choiseul,156.9749,-7.039321

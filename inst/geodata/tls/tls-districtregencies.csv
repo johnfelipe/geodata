@@ -1,14 +1,14 @@
-"id","name","lat","lon"
-1,"Distrito Oecussi-Ambeno",-9.32323,124.241
-2,"Distrito Bobonaro",-8.98073,125.219
-3,"Distrito Cova Lima",-9.30758,125.233
-4,"Distrito Ainaro",-9.03099,125.551
-5,"Distrito Manufahi",-9.00434,125.813
-6,"Distrito Manatuto",-8.737,125.968
-7,"Distrito Viqueque",-8.8247,126.386
-8,"Distrito Lautem",-8.50164,127.001
-9,"Distrito Bacau",-8.53729,126.476
-10,"Distrito Dili",-8.55429,125.668
-11,"Distrito Liquica",-8.65272,125.308
-12,"Distrito Ermera",-8.84722,125.344
-13,"Distrito Aileu",-8.69661,125.619
+id,name,lon,lat
+TLS-543,Distrito Oecussi-Ambeno,124.2667,-9.327375
+TLS-547,Distrito Bobonaro,125.1696,-8.978766
+TLS-548,Distrito Cova Lima,125.2202,-9.262396
+TLS-545,Distrito Ainaro,125.5548,-9.008528
+TLS-551,Distrito Manufahi,125.7867,-8.995656
+TLS-550,Distrito Manatuto,125.9669,-8.718756
+TLS-552,Distrito Viqueque,126.3474,-8.807177
+TLS-553,Distrito Lautem,126.9694,-8.512613
+TLS-546,Distrito Bacau,126.4649,-8.570039
+TLS-541,Distrito Dili,125.6282,-8.438551
+TLS-542,Distrito Liquica,125.2923,-8.658082
+TLS-549,Distrito Ermera,125.3716,-8.820357
+TLS-544,Distrito Aileu,125.6222,-8.708227

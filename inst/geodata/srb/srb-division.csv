@@ -1,26 +1,26 @@
-"id","name","lat","lon"
-1,"Severno Backi Okrug",45.9326,19.5801
-2,"Zapadno Backi Okrug",45.7092,19.2283
-3,"Severno Banatski Okrug",45.9589,20.2047
-4,"Pcinjski Okrug",42.5543,22.0252
-5,"Borski Okrug",44.3824,22.2686
-6,"Zajecarski Okrug",43.6834,22.1524
-7,"Pirotski Okrug",43.1029,22.5488
-8,"Jablanicki Okrug",42.964,21.9611
-9,"Raski Okrug",43.3811,20.5783
-10,"Rasinski Okrug",43.5211,21.1638
-11,"Toplicki Okrug",43.1198,21.3637
-12,"Zlatiborski Okrug",43.6263,19.7284
-13,"Sremski Okrug",45.0381,19.6739
-14,"Macvanski Okrug",44.5988,19.4948
-15,"Juzhno Backi Okrug",45.3888,19.647
-16,"Srednje Banatski Okrug",45.4421,20.5398
-17,"Juzhno Banatski Okrug",45.0065,20.9652
-18,"Branicevski Okrug",44.4632,21.5363
-19,"Belgrade",44.6408,20.4001
-20,"Podunavski Okrug",44.4765,20.9527
-21,"Nisavski Okrug",43.3388,21.9087
-22,"Pomoravski Okrug",43.9757,21.3631
-23,"Sumadijski Okrug",44.0985,20.8116
-24,"Moravicki Okrug",43.7127,20.2653
-25,"Kolubarski Okrug",44.3209,19.9249
+id,name,lon,lat
+SRB-274,Severno Backi Okrug,19.6114,45.92673
+SRB-273,Zapadno Backi Okrug,19.20322,45.72023
+SRB-275,Severno Banatski Okrug,20.17968,45.90288
+SRB-841,Pcinjski Okrug,22.05683,42.52639
+SRB-125,Borski Okrug,22.24834,44.31459
+SRB-844,Zajecarski Okrug,22.13797,43.72881
+SRB-121,Pirotski Okrug,22.55345,43.14169
+SRB-843,Jablanicki Okrug,21.89332,42.9086
+SRB-834,Raski Okrug,20.5417,43.36447
+SRB-833,Rasinski Okrug,21.15546,43.49813
+SRB-835,Toplicki Okrug,21.3687,43.14547
+SRB-1505,Zlatiborski Okrug,19.75449,43.59803
+SRB-281,Sremski Okrug,19.74704,44.98907
+SRB-838,Macvanski Okrug,19.51467,44.56449
+SRB-1059,Juzhno Backi Okrug,19.74198,45.40574
+SRB-1061,Srednje Banatski Okrug,20.49789,45.45569
+SRB-1060,Juzhno Banatski Okrug,20.9616,45.00184
+SRB-279,Branicevski Okrug,21.53347,44.46151
+SRB-836,Belgrade,20.40732,44.62762
+SRB-831,Podunavski Okrug,20.96231,44.45219
+SRB-830,Nisavski Okrug,21.86372,43.40071
+SRB-832,Pomoravski Okrug,21.3526,43.96451
+SRB-839,Sumadijski Okrug,20.76598,44.09232
+SRB-829,Moravicki Okrug,20.28453,43.75507
+SRB-837,Kolubarski Okrug,19.91928,44.29116

@@ -1,12 +1,12 @@
-"id","name","lat","lon"
-1,"Quarter of Gros-Islet",14.0664,-60.9446
-2,"Quarter of Castries",14.0004,-60.9749
-3,"Quarter of Anse-la-Raye",13.935,-61.0189
-4,"Quarter of Soufriere",13.8545,-61.0447
-5,"Quarter of Choiseul",13.7912,-61.0296
-6,"Quarter of Laborie",13.7676,-60.9867
-7,"Quarter of Vieux-Fort",13.7762,-60.9438
-8,"Quarter of Micoud",13.8159,-60.918
-9,"Quarter of Praslin",13.8674,-60.918
-10,"Quarter of Dennery",13.9425,-60.9052
-11,"Quarter of Dauphin",14.0176,-60.9062
+id,name,lon,lat
+LCA-5081,Quarter of Gros-Islet,-60.94338,14.06527
+LCA-5077,Quarter of Castries,-60.97283,13.97642
+LCA-5076,Quarter of Anse-la-Raye,-61.01399,13.92799
+LCA-5085,Quarter of Soufriere,-61.03045,13.85483
+LCA-5078,Quarter of Choiseul,-61.02529,13.79402
+LCA-5082,Quarter of Laborie,-60.98574,13.77464
+LCA-5086,Quarter of Vieux-Fort,-60.95223,13.77511
+LCA-5083,Quarter of Micoud,-60.92777,13.81489
+LCA-5084,Quarter of Praslin,-60.92579,13.86958
+LCA-5080,Quarter of Dennery,-60.91893,13.94079
+LCA-5079,Quarter of Dauphin,-60.91082,14.02026

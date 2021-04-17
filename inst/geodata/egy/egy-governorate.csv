@@ -1,28 +1,28 @@
-"id","name","lat","lon"
-1,"Muhafazat Shamal Sina'",30.5071,33.6723
-2,"Muhafazat Aswan",22.6543,32.2794
-3,"Muhafazat al Wadi al Jadid",24.8314,28.9556
-4,"Muhafazat al Bahr al Ahmar",25.2164,33.7267
-5,"Muhafazat Matruh",29.6121,27.5083
-6,"Muhafazat as Suways",29.6098,32.1523
-7,"Muhafazat Janub Sina'",28.925,33.7687
-8,"Muhafazat Bur Sa`id",31.1245,32.4293
-9,"Muhafazat ad Daqahliyah",31.0304,31.4929
-10,"Muhafazat ash Sharqiyah",30.8161,31.8817
-11,"Ismailia Governorate",30.6765,32.2811
-12,"Muhafazat Dumyat",31.4067,31.7285
-13,"Muhafazat Kafr ash Shaykh",31.2075,30.853
-14,"Beheira Governorate",30.5945,30.2522
-15,"Muhafazat al Iskandariyah",30.8251,29.754
-16,"Muhafazat al Qahirah",29.9801,31.5788
-17,"Muhafazat al Jizah",29.3499,29.7204
-18,"Muhafazat al Minya",28.2141,30.1604
-19,"Muhafazat al Fayyum",29.2965,30.4584
-20,"Muhafazat Bani Suwayf",28.8948,30.5041
-21,"Muhafazat al Minufiyah",30.5076,31.0029
-22,"Muhafazat al Qalyubiyah",30.2725,31.325
-23,"Muhafazat al Gharbiyah",30.8504,31.0287
-24,"Muhafazat Suhaj",26.5104,31.8037
-25,"Muhafazat Qina",26.1216,32.4417
-26,"Muhafazat Asyut",27.2223,31.1431
-27,"Muhafazat al Uqsur",25.705,32.6501
+id,name,lon,lat
+EGY-1558,Muhafazat Shamal Sina',33.72343,30.42134
+EGY-1548,Muhafazat Aswan,32.55156,23.23607
+EGY-1550,Muhafazat al Wadi al Jadid,28.58158,24.7713
+EGY-1556,Muhafazat al Bahr al Ahmar,33.49538,25.16914
+EGY-1540,Muhafazat Matruh,26.9608,29.70299
+EGY-1536,Muhafazat as Suways,32.26773,29.65857
+EGY-1557,Muhafazat Janub Sina',33.80452,29.01104
+EGY-1538,Muhafazat Bur Sa`id,32.42096,31.12802
+EGY-1537,Muhafazat ad Daqahliyah,31.51114,31.09513
+EGY-1535,Muhafazat ash Sharqiyah,31.7324,30.66617
+EGY-1531,Ismailia Governorate,32.31329,30.58335
+EGY-1539,Muhafazat Dumyat,31.72123,31.37335
+EGY-1547,Muhafazat Kafr ash Shaykh,30.91293,31.29027
+EGY-1541,Beheira Governorate,30.29892,30.624
+EGY-1543,Muhafazat al Iskandariyah,29.79207,30.83744
+EGY-1533,Muhafazat al Qahirah,31.60736,29.99801
+EGY-1544,Muhafazat al Jizah,29.50115,28.84793
+EGY-1545,Muhafazat al Minya,30.05618,28.13968
+EGY-1542,Muhafazat al Fayyum,30.55698,29.33133
+EGY-1546,Muhafazat Bani Suwayf,30.56387,28.97181
+EGY-1532,Muhafazat al Minufiyah,31.00161,30.49047
+EGY-1534,Muhafazat al Qalyubiyah,31.26099,30.30742
+EGY-1530,Muhafazat al Gharbiyah,31.04647,30.86213
+EGY-1552,Muhafazat Suhaj,31.77382,26.52524
+EGY-1551,Muhafazat Qina,32.55911,25.86719
+EGY-1549,Muhafazat Asyut,31.1165,27.23224
+EGY-5494,Muhafazat al Uqsur,32.6486,25.70488

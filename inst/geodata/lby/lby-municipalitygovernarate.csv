@@ -1,23 +1,23 @@
-"id","name","lat","lon"
-1,"Sha`biyat Nalut",30.3343,10.6245
-2,"Sha`biyat an Nuqat al Khams",32.6661,12.0109
-3,"Al Kufrah",23.7231,22.0744
-4,"Murzuq",24.9977,15.2592
-5,"Sha`biyat al Butnan",30.069,24.0559
-6,"Sha`biyat al Wahat",29.0419,21.74
-7,"Sha`biyat Wadi ash Shati'",27.8732,12.8352
-8,"Sha`biyat Ghat",25.9201,10.4298
-9,"Surt",30.2021,17.4523
-10,"Sha`biyat Misratah",32.2151,15.0186
-11,"Al Marqab",32.5351,14.1357
-12,"Sha`biyat Tarabulus",32.6867,13.5154
-13,"Sha`biyat az Zawiyah",32.4551,12.4868
-14,"Darnah",31.8165,22.5845
-15,"Sha`biyat al Jabal al Akhdar",32.0068,21.7222
-16,"Al Marj",32.1682,21.0132
-17,"Sha`biyat Banghazi",31.2887,20.6182
-18,"Sha`biyat al Jafarah",32.4889,13.0352
-19,"Sha`biyat al Jabal al Gharbi",30.6105,13.2861
-20,"Al Jufrah",27.9396,17.299
-21,"Sha`biyat Sabha",27.2371,15.1065
-22,"Sha`biyat Wadi al Hayat",26.3564,12.679
+id,name,lon,lat
+LBY-2882,Sha`biyat Nalut,10.85839,30.29673
+LBY-2974,Sha`biyat an Nuqat al Khams,11.90195,32.70533
+LBY-2965,Al Kufrah,22.24591,23.75787
+LBY-2969,Murzuq,15.69121,24.61381
+LBY-2987,Sha`biyat al Butnan,23.98301,30.10367
+LBY-2983,Sha`biyat al Wahat,21.35144,28.82154
+LBY-2967,Sha`biyat Wadi ash Shati',12.72739,27.95911
+LBY-2968,Sha`biyat Ghat,10.54777,26.07364
+LBY-2985,Surt,17.50999,30.07843
+LBY-2970,Sha`biyat Misratah,15.13503,30.93312
+LBY-2966,Al Marqab,14.05464,32.33012
+LBY-2978,Sha`biyat Tarabulus,13.41855,32.67232
+LBY-2975,Sha`biyat az Zawiyah,12.62237,32.52533
+LBY-2986,Darnah,22.54247,31.90343
+LBY-2982,Sha`biyat al Jabal al Akhdar,21.74852,32.13673
+LBY-2981,Al Marj,21.06734,31.97676
+LBY-2984,Sha`biyat Banghazi,20.53032,31.5437
+LBY-2973,Sha`biyat al Jafarah,13.02357,32.46029
+LBY-2976,Sha`biyat al Jabal al Gharbi,12.98353,30.38883
+LBY-2964,Al Jufrah,17.10376,27.9157
+LBY-2971,Sha`biyat Sabha,15.01819,27.0826
+LBY-5488,Sha`biyat Wadi al Hayat,12.75379,26.39475

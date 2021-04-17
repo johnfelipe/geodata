@@ -1,4 +1,4 @@
-"id","name","lat","lon"
-1,"Tristan da Cunha",-37.1226,-12.2667
-2,"Saint Helena",-15.9317,-5.70643
-3,"Ascension",-7.91916,-14.3701
+id,name,lon,lat
+SHN-4865,Tristan da Cunha,-11.13769,-38.69269
+SHN-4864,Saint Helena,-5.717358,-15.95909
+SHN-4863,Ascension,-14.36394,-7.935448

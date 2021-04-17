@@ -1,19 +1,19 @@
-"id","name","lat","lon"
-1,"Departamento de Ocotepeque",14.5248,-89.0399
-2,"Departamento de Lempira",14.4408,-88.6478
-3,"Departamento de Intibuca",14.3981,-88.1754
-4,"Departamento de La Paz",14.138,-87.9144
-5,"Departamento de Valle",13.5753,-87.5992
-6,"Departamento de Olancho",14.8052,-85.9937
-7,"Departamento de Gracias a Dios",15.1219,-84.3701
-8,"Departamento de El Paraiso",14.037,-86.5592
-9,"Departamento de Choluteca",13.2587,-87.1074
-10,"Departamento de Cortes",15.5336,-88.0359
-11,"Departamento de Santa Barbara",15.0527,-88.33
-12,"Departamento de Copan",14.8909,-88.9362
-13,"Departamento de Colon",15.7786,-85.7236
-14,"Departamento de Atlantida",15.6343,-87.0783
-15,"Departamento de Islas de la Bahia",16.1048,-86.9319
-16,"Departamento de Comayagua",14.6577,-87.678
-17,"Departamento de Yoro",15.233,-87.206
-18,"Departamento de Francisco Morazan",14.3474,-87.1815
+id,name,lon,lat
+HND-653,Departamento de Ocotepeque,-89.04768,14.49111
+HND-652,Departamento de Lempira,-88.59514,14.40842
+HND-648,Departamento de Intibuca,-88.21039,14.33265
+HND-649,Departamento de La Paz,-87.88319,14.10344
+HND-645,Departamento de Valle,-87.59373,13.54658
+HND-642,Departamento de Olancho,-85.92855,14.83628
+HND-640,Departamento de Gracias a Dios,-84.35974,15.23121
+HND-662,Departamento de El Paraiso,-86.46878,14.01918
+HND-661,Departamento de Choluteca,-87.11418,13.35199
+HND-647,Departamento de Cortes,-87.99177,15.40609
+HND-650,Departamento de Santa Barbara,-88.34977,15.09927
+HND-651,Departamento de Copan,-88.90043,14.90512
+HND-638,Departamento de Colon,-85.60488,15.64607
+HND-637,Departamento de Atlantida,-87.14971,15.66869
+HND-641,Departamento de Islas de la Bahia,-86.37614,16.35244
+HND-646,Departamento de Comayagua,-87.6317,14.62619
+HND-643,Departamento de Yoro,-87.19323,15.30747
+HND-639,Departamento de Francisco Morazan,-87.1786,14.29291

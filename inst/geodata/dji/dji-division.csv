@@ -1,7 +1,7 @@
-"id","name","lat","lon"
-1,"Ali Sabieh Region",11.2107,42.8985
-2,"Arta Region",11.4461,42.8032
-3,"Dikhil",11.3884,42.2277
-4,"Tadjourah",11.7972,42.5043
-5,"Obock",12.2842,43.0464
-6,"Djibouti Region",11.5524,43.037
+id,name,lon,lat
+DJI-1566,Ali Sabieh Region,42.89397,11.22874
+DJI-1568,Arta Region,42.72459,11.44526
+DJI-1569,Dikhil,42.1206,11.36593
+DJI-1571,Tadjourah,42.52292,11.99927
+DJI-1570,Obock,43.07535,12.28786
+DJI-1567,Djibouti Region,43.04574,11.55772

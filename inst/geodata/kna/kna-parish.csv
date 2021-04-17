@@ -1,15 +1,15 @@
-"id","name","lat","lon"
-1,"Saint Paul Charlestown",17.135,-62.6162
-2,"Saint John Figtree",17.1162,-62.5949
-3,"Saint George Gingerland",17.1301,-62.5571
-4,"Saint James Windward",17.1782,-62.5718
-5,"Saint Thomas Lowland",17.1597,-62.6064
-6,"Saint Paul Capesterre",17.3911,-62.8337
-7,"Saint Anne Sandy Point",17.3574,-62.8369
-8,"Saint Thomas Middle Island",17.3279,-62.7943
-9,"Trinity Palmetto Point",17.3074,-62.7483
-10,"Saint George Basseterre",17.2836,-62.6868
-11,"Saint Peter Basseterre",17.3221,-62.7065
-12,"Saint Mary Cayon",17.3459,-62.7286
-13,"Christ Church Nichola Town",17.364,-62.7582
-14,"Saint John Capesterre",17.382,-62.7967
+id,name,lon,lat
+KNA-5108,Saint Paul Charlestown,-62.60654,17.13544
+KNA-5105,Saint John Figtree,-62.59168,17.11835
+KNA-5102,Saint George Gingerland,-62.5569,17.12696
+KNA-5103,Saint James Windward,-62.57042,17.17434
+KNA-5110,Saint Thomas Lowland,-62.60516,17.15925
+KNA-5107,Saint Paul Capesterre,-62.83238,17.3877
+KNA-5100,Saint Anne Sandy Point,-62.83658,17.35921
+KNA-5111,Saint Thomas Middle Island,-62.79375,17.33026
+KNA-5112,Trinity Palmetto Point,-62.74756,17.30821
+KNA-5101,Saint George Basseterre,-62.67125,17.26607
+KNA-5109,Saint Peter Basseterre,-62.70924,17.32218
+KNA-5106,Saint Mary Cayon,-62.72843,17.34695
+KNA-5099,Christ Church Nichola Town,-62.76106,17.35641
+KNA-5104,Saint John Capesterre,-62.79711,17.38293

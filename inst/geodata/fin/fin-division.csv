@@ -1,19 +1,19 @@
-"id","name","lat","lon"
-1,"Lappland",67.5811,26.5614
-2,"Norra OEsterbotten",65.1599,26.2356
-3,"Kainuu",64.5496,28.441
-4,"Pohjois-Karjala",62.7879,29.9637
-5,"Etela-Karjala",61.2148,28.5567
-6,"Kymenlaakso",60.4164,26.5799
-7,"Uusimaa",60.4179,24.8475
-8,"Varsinais-Suomi",60.6134,22.7128
-9,"Satakunta",61.4773,22.1012
-10,"Osterbotten",63.0354,22.1482
-11,"Mellersta Osterbotten",63.6751,24.0097
-12,"Savo",63.1933,27.5702
-13,"Etela-Savo",61.8152,27.9693
-14,"Mellersta Finland",62.5246,25.3934
-15,"Sodra Osterbotten",62.7521,23.1486
-16,"Pirkanmaa",61.6936,23.7573
-17,"Haeme",60.9239,24.4224
-18,"Paijat-Hame",61.2034,25.6876
+id,name,lon,lat
+FIN-3176,Lappland,26.33898,67.71951
+FIN-3180,Norra OEsterbotten,26.62579,64.96693
+FIN-3179,Kainuu,28.59274,64.5181
+FIN-3190,Pohjois-Karjala,29.93131,62.91626
+FIN-3188,Etela-Karjala,28.33566,61.21027
+FIN-3187,Kymenlaakso,26.8896,60.82787
+FIN-3193,Uusimaa,24.79623,60.37854
+FIN-3191,Varsinais-Suomi,22.60193,60.57628
+FIN-3192,Satakunta,22.15474,61.52966
+FIN-3182,Osterbotten,22.14974,63.04598
+FIN-3181,Mellersta Osterbotten,24.07613,63.62238
+FIN-3178,Savo,27.46703,63.17272
+FIN-3189,Etela-Savo,27.86994,61.90509
+FIN-3177,Mellersta Finland,25.44304,62.53803
+FIN-3183,Sodra Osterbotten,23.05679,62.73654
+FIN-3186,Pirkanmaa,23.72893,61.7021
+FIN-3185,Haeme,24.35464,60.92135
+FIN-3184,Paijat-Hame,25.72146,61.21748

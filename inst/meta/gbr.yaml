@@ -1,6 +1,12 @@
-gbr_division:
-  label: United Kingdom division
-  basename: gbr-division
-  scope: GBR_adm1
+gbr_countries:
+  label: United Kingdom countries
+  basename: gbr-countries
+  scope: gadm36_GBR_1
+  geographyName: name
+  geographyId: id
+gbr_cities:
+  label: United Kingdom cities
+  basename: gbr-cities
+  scope: gadm36_GBR_2
   geographyName: name
   geographyId: id

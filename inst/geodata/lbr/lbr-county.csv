@@ -1,16 +1,16 @@
-"id","name","lat","lon"
-1,"Grand Cape Mount County",7.09577,-10.9953
-2,"Gbarpolu County",7.51706,-10.1841
-3,"Lofa County",8.12994,-9.87553
-4,"Nimba County",6.8643,-8.73626
-5,"Grand Gedeh County",5.87286,-8.16416
-6,"River Gee County",5.29303,-7.91438
-7,"Maryland County",4.64403,-7.69738
-8,"Bong County",6.99958,-9.80604
-9,"Bomi County",6.75329,-10.7753
-10,"Montserrado County",6.43188,-10.5806
-11,"Margibi County",6.62708,-10.1783
-12,"Grand Bassa County",6.11786,-9.72887
-13,"River Cess County",5.82919,-9.39724
-14,"Sinoe County",5.39111,-8.86819
-15,"Grand Kru County",4.87073,-8.25622
+id,name,lon,lat
+LBR-786,Grand Cape Mount County,-11.02617,7.10795
+LBR-1459,Gbarpolu County,-10.29587,7.444558
+LBR-787,Lofa County,-9.851101,7.985787
+LBR-791,Nimba County,-8.765872,6.833108
+LBR-793,Grand Gedeh County,-8.191929,5.907513
+LBR-1458,River Gee County,-7.856235,5.257151
+LBR-781,Maryland County,-7.790346,4.727075
+LBR-784,Bong County,-9.667117,6.936951
+LBR-783,Bomi County,-10.80489,6.718137
+LBR-788,Montserrado County,-10.57304,6.514325
+LBR-789,Margibi County,-10.21609,6.5101
+LBR-785,Grand Bassa County,-9.802489,6.226625
+LBR-792,River Cess County,-9.384584,5.876002
+LBR-782,Sinoe County,-8.847382,5.374918
+LBR-780,Grand Kru County,-8.232603,4.824832

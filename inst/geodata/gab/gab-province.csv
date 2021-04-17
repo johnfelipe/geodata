@@ -1,10 +1,10 @@
-"id","name","lat","lon"
-1,"Province du Woleu-Ntem",1.43947,11.8313
-2,"Province de l' Ogooue-Ivindo",0.72338,12.8739
-3,"Province du Haut-Ogooue",-1.13187,13.6198
-4,"Province de l' Ogooue-Lolo",-0.972672,12.5284
-5,"Province de la Ngounie",-1.48647,11.1859
-6,"Province de la Nyanga",-2.97713,10.9768
-7,"Estuaire",0.32201,10.1365
-8,"Province de l' Ogooue-Maritime",-0.682548,8.99566
-9,"Province du Moyen-Ogooue",-0.374156,10.5724
+id,name,lon,lat
+GAB-2187,Province du Woleu-Ntem,11.95354,1.409499
+GAB-2186,Province de l' Ogooue-Ivindo,12.8366,0.4699886
+GAB-2627,Province du Haut-Ogooue,13.71508,-1.343085
+GAB-2628,Province de l' Ogooue-Lolo,12.6156,-0.8497491
+GAB-2622,Province de la Ngounie,11.17608,-1.63415
+GAB-2623,Province de la Nyanga,11.02458,-3.021924
+GAB-2168,Estuaire,10.04079,0.3050078
+GAB-2624,Province de l' Ogooue-Maritime,9.666263,-1.565941
+GAB-2621,Province du Moyen-Ogooue,10.57268,-0.4434955

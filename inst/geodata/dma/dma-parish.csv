@@ -1,11 +1,11 @@
-"id","name","lat","lon"
-1,"Saint Patrick",15.2768,-61.3052
-2,"Saint David",15.3956,-61.2919
-3,"Saint Andrew",15.5378,-61.3589
-4,"Saint John",15.5767,-61.4483
-5,"Saint Peter",15.4986,-61.4448
-6,"Saint Joseph",15.4355,-61.3863
-7,"Saint Paul",15.3529,-61.3717
-8,"Saint George",15.3,-61.3489
-9,"Saint Luke",15.2483,-61.3644
-10,"Saint Mark",15.2217,-61.3612
+id,name,lon,lat
+DMA-1439,Saint Patrick,-61.30153,15.27693
+DMA-1433,Saint David,-61.28867,15.3996
+DMA-1432,Saint Andrew,-61.35469,15.5358
+DMA-1435,Saint John,-61.44969,15.56639
+DMA-1441,Saint Peter,-61.45015,15.50194
+DMA-1436,Saint Joseph,-61.38579,15.44145
+DMA-1440,Saint Paul,-61.36818,15.36201
+DMA-1434,Saint George,-61.34759,15.30305
+DMA-1437,Saint Luke,-61.36574,15.24832
+DMA-1438,Saint Mark,-61.362,15.22061

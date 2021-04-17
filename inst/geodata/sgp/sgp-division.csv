@@ -1,6 +1,6 @@
-"id","name","lat","lon"
-1,"South West Community Development Council",1.33718,103.705
-2,"Central Singapore Community Development Council",1.31704,103.846
-3,"South East Community Development Council",1.33524,103.932
-4,"North East Community Development Region",1.38379,103.925
-5,"North West Community Development Council",1.41809,103.808
+id,name,lon,lat
+SGP-4872,South West Community Development Council,103.7316,1.3471
+SGP-4871,Central Singapore Community Development Council,103.8545,1.346661
+SGP-4875,South East Community Development Council,103.9331,1.348134
+SGP-4874,North East Community Development Region,103.927,1.383234
+SGP-4873,North West Community Development Council,103.8074,1.399487

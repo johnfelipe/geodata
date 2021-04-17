@@ -1,6 +1,6 @@
-kir_division:
-  label: Kiribati division
-  basename: kir-division
-  scope: KIR_adm1
-  geographyName: name
-  geographyId: id
+#kir_division:
+#  label: Kiribati division
+#  basename: kir-division
+#  scope: KIR_adm1
+#  geographyName: name
+#  geographyId: id

@@ -1,35 +1,35 @@
-"id","name","lat","lon"
-1,"Faranah Prefecture",9.98517,-10.881
-2,"Prefecture de Kindia",10.0552,-12.7298
-3,"Mamou Prefecture",10.3442,-11.8934
-4,"Prefecture de Dabola",10.7774,-11.2004
-5,"Prefecture de Forecariah",9.38543,-13.0624
-6,"Prefecture de Guekedou",8.70329,-10.2232
-7,"Kankan Prefecture",10.1319,-9.12624
-8,"Mandiana Prefecture",10.7221,-8.66537
-9,"Beyla Prefecture",8.81391,-8.40726
-10,"Prefecture de Lola",7.85522,-8.33352
-11,"Koundara Prefecture",12.3537,-13.1823
-12,"Mali Prefecture",12.0218,-12.1222
-13,"Prefecture de Macenta",8.54658,-9.31986
-14,"Prefecture de Yomou",7.61555,-9.08019
-15,"Nzerekore Prefecture",8.05075,-8.73838
-16,"Gaoual Prefecture",11.7453,-13.3943
-17,"Boke Prefecture",11.1674,-14.3088
-18,"Siguiri Prefecture",11.5701,-9.3936
-19,"Prefecture de Koubia",11.6162,-11.7074
-20,"Tougue Prefecture",11.4503,-11.4677
-21,"Dinguiraye Prefecture",11.5609,-10.6749
-22,"Prefecture de Boffa",10.3994,-14.0764
-23,"Prefecture de Dubreka",10.1137,-13.468
-24,"Conakry Region",9.5392,-13.6847
-25,"Prefecture de Coyah",9.79103,-13.3482
-26,"Prefecture de Kissidougou",9.25638,-9.89138
-27,"Kerouane Prefecture",9.33012,-8.90504
-28,"Telimele Prefecture",10.9156,-13.3113
-29,"Lelouma Prefecture",11.4687,-12.6338
-30,"Prefecture de Dalaba",10.8327,-12.2144
-31,"Labe Prefecture",11.515,-12.3404
-32,"Prefecture de Pita",10.9341,-12.62
-33,"Prefecture de Kouroussa",10.7221,-10.0204
-34,"Prefecture de Fria",10.4732,-13.4957
+id,name,lon,lat
+GIN-5636,Faranah Prefecture,-10.74627,10.0176
+GIN-5643,Prefecture de Kindia,-12.73322,10.08363
+GIN-5653,Mamou Prefecture,-11.86317,10.48114
+GIN-5632,Prefecture de Dabola,-11.23834,10.67375
+GIN-5637,Prefecture de Forecariah,-13.06904,9.416285
+GIN-5640,Prefecture de Guekedou,-10.2827,8.710929
+GIN-5641,Kankan Prefecture,-9.049303,9.997102
+GIN-5654,Mandiana Prefecture,-8.627586,10.73201
+GIN-5627,Beyla Prefecture,-8.344465,8.79701
+GIN-5650,Prefecture de Lola,-8.328072,7.873136
+GIN-5646,Koundara Prefecture,-13.2096,12.3689
+GIN-5652,Mali Prefecture,-12.1335,12.04959
+GIN-5651,Prefecture de Macenta,-9.326342,8.489759
+GIN-5659,Prefecture de Yomou,-9.087373,7.583443
+GIN-5655,Nzerekore Prefecture,-8.739437,8.015681
+GIN-5639,Gaoual Prefecture,-13.35972,11.72122
+GIN-5629,Boke Prefecture,-14.36423,11.10442
+GIN-5657,Siguiri Prefecture,-9.405552,11.63024
+GIN-5645,Prefecture de Koubia,-11.76561,11.653
+GIN-5658,Tougue Prefecture,-11.517,11.44093
+GIN-5634,Dinguiraye Prefecture,-10.68353,11.61781
+GIN-5628,Prefecture de Boffa,-14.05959,10.37393
+GIN-5635,Prefecture de Dubreka,-13.51759,10.05896
+GIN-5630,Conakry Region,-13.68226,9.53809
+GIN-5631,Prefecture de Coyah,-13.32951,9.760573
+GIN-5644,Prefecture de Kissidougou,-9.882047,9.254309
+GIN-5642,Kerouane Prefecture,-8.923873,9.343519
+GIN-5660,Telimele Prefecture,-13.39859,10.91821
+GIN-5649,Lelouma Prefecture,-12.72242,11.40021
+GIN-5633,Prefecture de Dalaba,-12.19332,10.8609
+GIN-5648,Labe Prefecture,-12.33561,11.42551
+GIN-5656,Prefecture de Pita,-12.62344,10.9281
+GIN-5647,Prefecture de Kouroussa,-10.1006,10.59874
+GIN-5638,Prefecture de Fria,-13.49368,10.46774

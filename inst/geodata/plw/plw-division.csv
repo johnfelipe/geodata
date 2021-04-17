@@ -1,17 +1,17 @@
-"id","name","lat","lon"
-1,"State of Peleliu",7.02649,134.259
-2,"State of Koror",7.26579,134.446
-3,"State of Ngeremlengui",7.53794,134.575
-4,"State of Ngatpang",7.47929,134.552
-5,"State of Aimeliik",7.43236,134.533
-6,"State of Airai",7.39952,134.571
-7,"State of Ngchesar",7.46286,134.597
-8,"State of Melekeok",7.51682,134.613
-9,"State of Ngiwal",7.57313,134.636
-10,"State of Ngaraard",7.65055,134.65
-11,"State of Ngarchelong",7.70686,134.641
-12,"State of Ngardmau",7.60128,134.597
-13,"State of Hatohobei",2.96318,131.794
-14,"State of Sonsorol",5.28876,132.204
-15,"State of Angaur",6.91388,134.158
-16,"State of Kayangel",8.0705,134.711
+id,name,lon,lat
+PLW-5258,State of Peleliu,134.2602,7.031375
+PLW-5249,State of Koror,134.4381,7.288789
+PLW-5256,State of Ngeremlengui,134.5711,7.539724
+PLW-5254,State of Ngatpang,134.5456,7.477134
+PLW-5244,State of Aimeliik,134.5233,7.437431
+PLW-5245,State of Airai,134.5601,7.391881
+PLW-5255,State of Ngchesar,134.5952,7.464325
+PLW-5250,State of Melekeok,134.6153,7.512823
+PLW-5257,State of Ngiwal,134.632,7.567442
+PLW-5251,State of Ngaraard,134.6466,7.635629
+PLW-5252,State of Ngarchelong,134.6399,7.707935
+PLW-5253,State of Ngardmau,134.5908,7.598451
+PLW-5247,State of Hatohobei,131.3622,3.015822
+PLW-5259,State of Sonsorol,132.2203,5.302696
+PLW-5246,State of Angaur,134.1575,6.912471
+PLW-5248,State of Kayangel,134.7095,8.074288

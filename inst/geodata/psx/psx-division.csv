@@ -1,3 +1,3 @@
-"id","name","lat","lon"
-1,"Gaza Strip",31.4263,34.3654
-2,"West Bank",32.003,35.2918
+id,name,lon,lat
+GAZ+00?,Gaza Strip,34.35192,31.39031
+WEB+00?,West Bank,35.24495,31.94539

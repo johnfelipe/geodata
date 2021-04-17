@@ -1,9 +1,9 @@
-"id","name","lat","lon"
-1,"Rift Valley Province",1.15655,36.0169
-2,"Eastern Province",2.60695,37.7915
-3,"North Eastern Province",1.01482,40.2748
-4,"Coast Province",-2.51514,39.5816
-5,"Nyanza Province",-0.511452,34.4239
-6,"Western Province",0.537049,34.5306
-7,"Nairobi Province",-1.29384,36.9039
-8,"Central Province",-0.709986,36.8463
+id,name,lon,lat
+KEN-890,Rift Valley Province,35.92663,1.087705
+KEN-889,Eastern Province,37.90537,1.126443
+KEN-893,North Eastern Province,40.21696,1.319585
+KEN-1193,Coast Province,39.31332,-2.500357
+KEN-1197,Nyanza Province,34.46353,-0.4986204
+KEN-891,Western Province,34.56715,0.4987137
+KEN-1196,Nairobi Province,36.88403,-1.274851
+KEN-1195,Central Province,36.86164,-0.5810473

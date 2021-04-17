@@ -1,14 +1,14 @@
-"id","name","lat","lon"
-1,"Tiris Zemmour",24.3349,-8.99419
-2,"Dakhlet Nouadhibou",20.8429,-16.1354
-3,"Adrar",20.7634,-10.3339
-4,"Brakna",17.0824,-13.6298
-5,"Wilaya du Trarza",17.9339,-14.6057
-6,"Gorgol",16.0296,-12.8565
-7,"Guidimaka",15.3352,-12.1235
-8,"Hodh ech Chargui",18.0225,-7.19158
-9,"Hodh el Gharbi",16.4832,-9.69143
-10,"Assaba",16.5835,-11.7106
-11,"Inchiri",20.0734,-15.345
-12,"District de Nouakchott",18.139,-15.92
-13,"Tagant",18.6165,-10.3284
+id,name,lon,lat
+MRT-2783,Tiris Zemmour,-9.681951,24.19157
+MRT-2785,Dakhlet Nouadhibou,-15.98882,20.83103
+MRT-2795,Adrar,-10.21822,21.01316
+MRT-2784,Brakna,-13.40168,17.24955
+MRT-2788,Wilaya du Trarza,-14.8513,17.91969
+MRT-2791,Gorgol,-12.83345,16.0107
+MRT-2790,Guidimaka,-12.12866,15.38455
+MRT-2796,Hodh ech Chargui,-7.099889,18.18167
+MRT-2797,Hodh el Gharbi,-9.832085,16.56788
+MRT-2789,Assaba,-11.53675,16.58091
+MRT-2786,Inchiri,-15.1119,19.99276
+MRT-2787,District de Nouakchott,-15.90961,18.14494
+MRT-2798,Tagant,-10.39301,18.57347

@@ -1,11 +1,11 @@
-"id","name","lat","lon"
-1,"Utenos Apskritis",55.5267,25.622
-2,"Vilniaus Apskritis",54.7338,25.1588
-3,"Alytaus Apskritis",54.2544,24.167
-4,"Panevezio Apskritis",56.0725,24.9143
-5,"Telsiu Apskritis",56.0398,22.1086
-6,"Klaipedos Apskritis",55.6254,21.3879
-7,"Siauliu Apskritis",55.9585,23.2677
-8,"Marijampoles Apskritis",54.6829,23.1751
-9,"Taurages Apskritis",55.2657,22.6458
-10,"Kauno Apskritis",55.0673,23.9879
+id,name,lon,lat
+LTU-1074,Utenos Apskritis,25.66449,55.48572
+LTU-1075,Vilniaus Apskritis,25.24411,54.82578
+LTU-1067,Alytaus Apskritis,24.12614,54.21646
+LTU-1071,Panevezio Apskritis,24.77772,55.92141
+LTU-936,Telsiu Apskritis,22.13074,55.98858
+LTU-935,Klaipedos Apskritis,21.54376,55.68363
+LTU-1072,Siauliu Apskritis,23.26551,55.95044
+LTU-1070,Marijampoles Apskritis,23.16322,54.70091
+LTU-1073,Taurages Apskritis,22.5177,55.32718
+LTU-1069,Kauno Apskritis,23.88232,55.08355
