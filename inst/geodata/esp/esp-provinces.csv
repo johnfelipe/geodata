@@ -1,0 +1,53 @@
+id,name,communities,lon,lat
+ES.AN.AM,Almería,Andalucía,-2.344777,37.19599
+ES.AN.CD,Cádiz,Andalucía,-5.759945,36.55419
+ES.AN.CO,Córdoba,Andalucía,-4.809142,37.99269
+ES.AN.GD,Granada,Andalucía,-3.267768,37.31251
+ES.AN.HL,Huelva,Andalucía,-6.828427,37.57883
+ES.AN.JA,Jaén,Andalucía,-3.441539,38.01655
+ES.AN.MG,Málaga,Andalucía,-4.72577,36.81398
+ES.AN.SV,Sevilla,Andalucía,-5.682605,37.43571
+ES.AR.HS,Huesca,Aragón,-0.07302874,42.20285
+ES.AR.TE,Teruel,Aragón,-0.8154636,40.6613
+ES.AR.ZG,Zaragoza,Aragón,-1.064677,41.62174
+ES.CB.CN,Cantabria,Cantabria,-4.031487,43.19697
+ES.CM.AB,Albacete,Castilla-La Mancha,-1.980332,38.82552
+ES.CM.CR,Ciudad Real,Castilla-La Mancha,-3.827966,38.92566
+ES.CM.CU,Cuenca,Castilla-La Mancha,-2.195506,39.8961
+ES.CM.GJ,Guadalajara,Castilla-La Mancha,-2.623721,40.81349
+ES.CM.TD,Toledo,Castilla-La Mancha,-4.147936,39.79377
+ES.CL.AV,Ávila,Castilla y León,-4.945357,40.57104
+ES.CL.BU,Burgos,Castilla y León,-3.585726,42.36871
+ES.CL.LN,León,Castilla y León,-5.839721,42.61992
+ES.CL.PL,Palencia,Castilla y León,-4.535664,42.37175
+ES.CL.SL,Salamanca,Castilla y León,-6.065299,40.80494
+ES.CL.SG,Segovia,Castilla y León,-4.054291,41.17107
+ES.CL.SR,Soria,Castilla y León,-2.588667,41.62076
+ES.CL.VD,Valladolid,Castilla y León,-4.84708,41.63414
+ES.CL.ZM,Zamora,Castilla y León,-5.980454,41.72715
+ES.CT.BR,Barcelona,Cataluña,1.983586,41.7311
+ES.CT.GN,Girona,Cataluña,2.673845,42.12763
+ES.CT.LD,Lleida,Cataluña,1.04765,42.04371
+ES.CT.TG,Tarragona,Cataluña,0.817982,41.0876
+ES.CE.CE,Ceuta,Ceuta y Melilla,-5.341601,35.8933
+ES.ML.ME,Melilla,Ceuta y Melilla,-2.913175,35.28857
+ES.MD.MD,Madrid,Comunidad de Madrid,-3.717006,40.4952
+ES.NA.NV,Navarra,Comunidad Foral de Navarra,-1.647659,42.66755
+ES.VC.AN,Alicante,Comunidad Valenciana,-0.5682523,38.47879
+ES.VC.CS,Castellón,Comunidad Valenciana,-0.1466398,40.2414
+ES.VC.VN,Valencia,Comunidad Valenciana,-0.8009094,39.37033
+ES.EX.BD,Badajoz,Extremadura,-6.141636,38.70973
+ES.EX.CC,Cáceres,Extremadura,-6.160477,39.71189
+ES.GA.AC,A Coruña,Galicia,-8.464641,43.12569
+ES.GA.LG,Lugo,Galicia,-7.445991,43.01172
+ES.GA.OR,Ourense,Galicia,-7.592306,42.19637
+ES.GA.PV,Pontevedra,Galicia,-8.461421,42.43526
+ES.PM.BL,Baleares,Islas Baleares,2.910202,39.57271
+ES.CN.LP,Las Palmas,Islas Canarias,-14.54493,28.36776
+ES.CN.LP,Santa Cruz de Tenerife,Islas Canarias,-17.02124,28.31284
+ES.LO.LR,La Rioja,La Rioja,-2.517177,42.27508
+ES.PV.AA,Álava,País Vasco,-2.723837,42.83697
+ES.PV.GP,Guipúzcoa,País Vasco,-2.194577,43.14358
+ES.PV.VZ,Vizcaya,País Vasco,-2.849765,43.24146
+ES.AS.AS,Asturias,Principado de Asturias,-5.992997,43.29232
+ES.MU.MR,Murcia,Región de Murcia,-1.485119,38.00202

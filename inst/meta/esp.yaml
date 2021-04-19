@@ -1,7 +1,7 @@
-esp_division:
-  label: Spain division
-  basename: esp-division
-  scope: ESP_adm1
+esp_provinces:
+  label: Spain provinces
+  basename: esp-provinces
+  scope: gadm36_ESP_2
   geographyName: name
   geographyId: id
 esp_municipalities:
