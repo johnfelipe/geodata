@@ -1,6 +1,6 @@
-"id","name","lat","lon"
-1,"Eastern Province",-1.69059,30.4223
-2,"Southern Province",-2.38388,29.6424
-3,"Western Province",-2.13156,29.2644
-4,"Northern Province",-1.61148,29.8587
-5,"Kigali Province",-1.92643,30.1253
+id,name,lon,lat
+RWA-3493,Eastern Province,30.45956,-1.836953
+RWA-3491,Southern Province,29.67753,-2.361976
+RWA-3492,Western Province,29.30299,-2.094159
+RWA-3494,Northern Province,29.88146,-1.607775
+RWA-3495,Kigali Province,30.12112,-1.934084

@@ -1,7 +1,7 @@
-"id","name","lat","lon"
-1,"Grenadines",13.0161,-61.229
-2,"Parish of Saint Andrew",13.1977,-61.2287
-3,"Parish of Saint George",13.1695,-61.1899
-4,"Parish of Charlotte",13.2825,-61.1475
-5,"Parish of Saint David",13.3142,-61.204
-6,"Parish of Saint Patrick",13.2313,-61.2534
+id,name,lon,lat
+VCT-5064,Grenadines,-61.28432,12.86845
+VCT-5065,Parish of Saint Andrew,-61.22879,13.2009
+VCT-5067,Parish of Saint George,-61.18509,13.1741
+VCT-5063,Parish of Charlotte,-61.15452,13.27804
+VCT-5066,Parish of Saint David,-61.20663,13.31195
+VCT-5068,Parish of Saint Patrick,-61.24272,13.23724

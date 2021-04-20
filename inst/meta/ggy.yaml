@@ -1,6 +1,6 @@
-ggy_division:
-  label: Guernsey division
-  basename: ggy-division
-  scope: GGY_adm1
-  geographyName: name
-  geographyId: id
+#ggy_division:
+#  label: Guernsey division
+#  basename: ggy-division
+#  scope: GGY_adm1
+#  geographyName: name
+#  geographyId: id

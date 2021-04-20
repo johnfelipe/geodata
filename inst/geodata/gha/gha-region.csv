@@ -1,11 +1,11 @@
-"id","name","lat","lon"
-1,"Upper East Region",10.8183,-0.779779
-2,"Northern Region",9.27258,-1.11905
-3,"Volta Region",7.33855,0.396325
-4,"Brong-Ahafo Region",8.16555,-1.42805
-5,"Western Region",5.70024,-2.34206
-6,"Upper West Region",10.404,-2.14449
-7,"Central Region",5.49477,-1.26555
-8,"Greater Accra Region",5.83921,0.105309
-9,"Ashanti Region",6.75219,-1.3296
-10,"Eastern Region",6.42584,-0.460431
+id,name,lon,lat
+GHA-2156,Upper East Region,-0.8110984,10.77767
+GHA-2155,Northern Region,-0.9773628,9.350879
+GHA-2173,Volta Region,0.4002664,7.235249
+GHA-2159,Brong-Ahafo Region,-1.659962,7.709743
+GHA-2162,Western Region,-2.424707,5.750169
+GHA-2157,Upper West Region,-2.202789,10.42244
+GHA-2160,Central Region,-1.193972,5.560057
+GHA-2172,Greater Accra Region,0.0638625,5.776602
+GHA-2158,Ashanti Region,-1.446171,6.808086
+GHA-2161,Eastern Region,-0.4255752,6.402721

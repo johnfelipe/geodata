@@ -1,11 +1,11 @@
-"id","name","lat","lon"
-1,"Eastern Equatoria",4.79636,33.5351
-2,"Western Bahr el Ghazal State",7.31134,26.3804
-3,"Western Equatoria",5.41296,28.6169
-4,"Central Equatoria State",4.68142,31.2854
-5,"Upper Nile",10.3577,32.5251
-6,"Jonglei",7.2461,32.5795
-7,"Unity",8.99929,29.8883
-8,"Northern Bahr el Ghazal",8.90381,27.535
-9,"Lakes",6.88023,30.1369
-10,"Warrap State",7.85589,28.6994
+id,name,lon,lat
+SDS-892,Eastern Equatoria,33.54762,4.915495
+SDS-873,Western Bahr el Ghazal State,26.21605,8.17441
+SDS-864,Western Equatoria,28.66737,5.577227
+SDS-865,Central Equatoria State,31.23321,4.781197
+SDS-869,Upper Nile,32.77597,9.908163
+SDS-870,Jonglei,32.29465,7.413491
+SDS-871,Unity,29.92396,8.889463
+SDS-147,Northern Bahr el Ghazal,27.0836,8.88515
+SDS-863,Lakes,29.95263,6.608178
+SDS-872,Warrap State,28.76245,8.080848

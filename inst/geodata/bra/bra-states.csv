@@ -1,28 +1,28 @@
-"id","name","lat","lon"
-"BR.RS","Rio Grande do Sul",-29.7277,-53.656
-"BR.RR","Roraima",1.93803,-61.3325
-"BR.PA","Par·",-4.44313,-52.6491
-"BR.AC","Acre",-8.9285,-70.2976
-"BR.AP","Amap·",1.41157,-51.6842
-"BR.MS","Mato Grosso do Sul",-20.6756,-54.5502
-"BR.PR","Paran·",-24.6618,-51.3228
-"BR.SC","Santa Catarina",-27.0392,-51.1586
-"BR.AM","Amazonas",-4.21774,-63.7853
-"BR.RO","RondÙnia",-10.9712,-63.1439
-"BR.MT","Mato Grosso",-13.3926,-55.9235
-"BR.MA","Maranh„o",-5.01897,-45.389
-"BR.PI","PiauÌ",-8.08698,-43.1974
-"BR.CE","Cear·",-5.37602,-39.3429
-"BR.RN","Rio Grande do Norte",-5.66157,-36.5472
-"BR.PB","ParaÌba",-7.34234,-36.2726
-"BR.PE","Pernambuco",-8.47283,-37.2958
-"BR.AL","Alagoas",-9.77391,-36.6917
-"BR.SE","Sergipe",-10.5918,-37.3836
-"BR.BA","Bahia",-12.3651,-41.8027
-"BR.ES","EspÌrito Santo",-19.6916,-40.5436
-"BR.RJ","Rio de Janeiro",-22.4049,-43.1152
-"BR.SP","S„o Paulo",-22.2267,-48.5206
-"BR.GO","Goi·s",-15.863,-49.5786
-"BR.DF","Distrito Federal",-15.7665,-47.7902
-"BR.MG","Minas Gerais",-18.5895,-44.4808
-"BR.TO","Tocantins",-10.223,-48.2502
+id,name,lon,lat
+BR.AC,Acre,-70.44667,-9.309917
+BR.AL,Alagoas,-36.6232,-9.515553
+BR.AP,Amap√°,-51.96103,1.440043
+BR.AM,Amazonas,-64.71488,-4.186777
+BR.BA,Bahia,-41.73008,-12.47331
+BR.CE,Cear√°,-39.6179,-5.091464
+BR.DF,Distrito Federal,-47.79723,-15.78112
+BR.ES,Esp√≠rito Santo,-40.66115,-19.64267
+BR.GO,Goi√°s,-49.62332,-16.04443
+BR.MA,Maranh√£o,-45.28741,-5.068699
+BR.MT,Mato Grosso,-55.9192,-12.9496
+BR.MS,Mato Grosso do Sul,-54.84547,-20.3259
+BR.MG,Minas Gerais,-44.6577,-18.45799
+BR.PA,Par√°,-53.06252,-3.97338
+BR.PB,Para√≠ba,-36.87255,-7.142569
+BR.PR,Paran√°,-51.62375,-24.63683
+BR.PE,Pernambuco,-37.99888,-8.326044
+BR.PI,Piau√≠,-42.96913,-7.384485
+BR.RJ,Rio de Janeiro,-42.66135,-22.19492
+BR.RN,Rio Grande do Norte,-36.68217,-5.846985
+BR.RS,Rio Grande do Sul,-53.31684,-29.73784
+BR.RO,Rond√¥nia,-62.85655,-10.89857
+BR.RR,Roraima,-61.39802,2.084692
+BR.SC,Santa Catarina,-50.80062,-26.29854
+BR.SP,S√£o Paulo,-48.73276,-22.26541
+BR.SE,Sergipe,-37.44607,-10.59089
+BR.TO,Tocantins,-48.33,-10.15018

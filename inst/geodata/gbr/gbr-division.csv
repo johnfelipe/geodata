@@ -1,233 +1,233 @@
-"id","name","lat","lon"
-1,"City of Derry",54.9694,-7.21329
-2,"Strabane District",54.8064,-7.41337
-3,"Fermanagh District",54.3798,-7.66047
-4,"Dungannon District",54.4791,-6.94613
-5,"Armagh District",54.3304,-6.62144
-6,"Newry and Mourne District",54.1804,-6.26952
-7,"County of Flintshire",53.1815,-3.14709
-8,"Cheshire West and Chester",53.1671,-2.76774
-9,"Wrexham",53.017,-3.0538
-10,"Shropshire",52.6167,-2.72133
-11,"Sir Powys",52.338,-3.4415
-12,"Herefordshire",52.0807,-2.73691
-13,"Monmouthshire",51.7744,-2.90226
-14,"Gloucestershire",51.8153,-2.14862
-15,"The Scottish Borders",55.4929,-2.77899
-16,"Northumberland",55.3152,-2.07057
-17,"Cumbria",54.6368,-2.89222
-18,"Dumfries and Galloway",55.0998,-4.01555
-19,"Limavady District",54.9923,-6.9714
-20,"Coleraine District",55.0562,-6.68879
-21,"Moyle District",55.1639,-6.26357
-22,"Larne District",54.861,-5.89587
-23,"Carrickfergus District",54.7431,-5.79899
-24,"Newtownabbey District",54.7173,-5.98106
-25,"City of Belfast",54.6113,-5.93684
-26,"North Down District",54.6476,-5.71772
-27,"Ards District",54.5164,-5.62705
-28,"Down District",54.3616,-5.80955
-29,"Clackmannanshire",56.1431,-3.70779
-30,"Stirling",56.2213,-4.28804
-31,"Falkirk",55.9811,-3.75831
-32,"West Lothian",55.8947,-3.60556
-33,"City of Edinburgh",55.9132,-3.26452
-34,"Midlothian",55.8241,-3.06592
-35,"East Lothian",55.9477,-2.7108
-36,"Borough of North Tyneside",55.0184,-1.48264
-37,"Borough of South Tyneside",54.9526,-1.44209
-38,"City and Borough of Sunderland",54.8617,-1.46175
-39,"County Durham",54.6955,-1.79965
-40,"Borough of Hartlepool",54.6625,-1.27662
-41,"Borough of Redcar and Cleveland",54.5485,-0.999287
-42,"North Yorkshire",54.2158,-1.37567
-43,"East Riding of Yorkshire",53.9047,-0.480224
-44,"City of Kingston upon Hull",53.7577,-0.372646
-45,"North Lincolnshire",53.5741,-0.570942
-46,"North East Lincolnshire",53.5168,-0.130193
-47,"Lincolnshire",53.1152,-0.222474
-48,"Norfolk",52.6602,0.953164
-49,"Suffolk",52.159,1.06039
-50,"Essex",51.7709,0.495656
-51,"Borough of Southend-on-Sea",51.5498,0.73146
-52,"Borough of Thurrock",51.503,0.381907
-53,"Kent",51.1979,0.718915
-54,"Borough of Medway",51.3541,0.584221
-55,"East Sussex",50.9537,0.372063
-56,"Borough of Brighton and Hove",50.8421,-0.1065
-57,"West Sussex",50.9489,-0.457938
-58,"Hampshire",51.1286,-1.23817
-59,"City of Portsmouth",50.8032,-0.979793
-60,"City of Southampton",50.9158,-1.3776
-61,"Dorset",50.8569,-2.31103
-62,"Borough of Bournemouth",50.7378,-1.86297
-63,"Borough of Poole",50.7427,-1.96155
-64,"Devon",50.8008,-3.85842
-65,"Borough of Torbay",50.4496,-3.56802
-66,"City of Plymouth",50.3951,-4.11254
-67,"Isles of Scilly",50.4407,-4.75267
-68,"Somerset",51.0339,-3.03172
-69,"North Somerset",51.4109,-2.79158
-70,"City of Bristol",51.4624,-2.60107
-71,"South Gloucestershire",51.5239,-2.462
-72,"City of Newport",51.5866,-2.94989
-73,"City and County of Cardiff",51.5049,-3.1785
-74,"Vale of Glamorgan",51.4474,-3.36772
-75,"Bridgend county borough",51.5414,-3.60687
-76,"Neath Port Talbot",51.6459,-3.73935
-77,"City and County of Swansea",51.6203,-4.06364
-78,"Carmarthenshire",51.8622,-4.20485
-79,"Pembrokeshire",51.6602,-4.90281
-80,"County of Ceredigion",52.1793,-4.17527
-81,"Gwynedd",52.8484,-3.92029
-82,"Conwy",53.1274,-3.7349
-83,"Denbighshire",53.0665,-3.34024
-84,"Metropolitan Borough of Wirral",53.3686,-3.05638
-85,"Borough of Halton",53.331,-2.68727
-86,"Borough of Knowsley",53.4145,-2.83419
-87,"City and Borough of Liverpool",53.4312,-2.9327
-88,"Borough of Sefton",53.5647,-3.05568
-89,"Lancashire",53.8599,-2.54458
-90,"Borough of Blackpool",53.8406,-3.00469
-91,"South Ayrshire",55.2304,-4.73841
-92,"North Ayrshire",55.7113,-4.7108
-93,"Inverclyde",55.8983,-4.73843
-94,"Renfrewshire",55.8437,-4.55373
-95,"West Dunbartonshire",55.9884,-4.47635
-96,"Argyll and Bute",56.2296,-5.14339
-97,"Highland",57.4123,-4.81247
-98,"Moray",57.4636,-3.23013
-99,"Aberdeenshire",57.236,-2.77785
-100,"Aberdeen City",57.1676,-2.19814
-101,"Angus",56.7458,-2.9155
-102,"Dundee City",56.4868,-2.94934
-103,"Perth and Kinross",56.571,-3.88225
-104,"Fife",56.2201,-3.16166
-105,"Isle of Wight",50.6808,-1.31588
-106,"Anglesey",53.2996,-4.3787
-107,"Eilean Siar",58.1103,-6.74587
-108,"Orkney Islands",58.9715,-3.15683
-109,"Shetland Islands",60.3097,-1.23858
-110,"Isles of Scilly",50.4407,-4.75267
-111,"County Borough of Caerphilly",51.6407,-3.18286
-112,"Rhondda Cynon Taff",51.617,-3.40988
-113,"Blaenau Gwent",51.7719,-3.1998
-114,"County Borough of Torfaen",51.6945,-3.0449
-115,"County Borough of Merthyr Tydfil",51.7461,-3.35678
-116,"North Lanarkshire",55.8694,-3.9392
-117,"East Dunbartonshire",55.9544,-4.20219
-118,"Glasgow City",55.8371,-4.21337
-119,"East Renfrewshire",55.7656,-4.36844
-120,"East Ayrshire",55.501,-4.29329
-121,"South Lanarkshire",55.5981,-3.82617
-122,"Magherafelt District",54.8166,-6.71991
-123,"Omagh District",54.5823,-7.31156
-124,"Cookstown District",54.6262,-6.70918
-125,"Craigavon District",54.4884,-6.39706
-126,"Banbridge District",54.3466,-6.17154
-127,"Antrim Borough",54.6926,-6.26057
-128,"Lisburn District",54.5189,-6.08226
-129,"Ballymoney District",55.0525,-6.4032
-130,"Ballymena District",54.9003,-6.22753
-131,"Castlereagh District",54.536,-5.85407
-132,"Greater London",51.4523,-0.184208
-133,"Greater London",51.4087,-0.181508
-134,"Greater London",51.5115,-0.161651
-135,"Greater London",51.4919,-0.179557
-136,"Greater London",51.473,-0.339069
-137,"Greater London",51.5198,-0.321254
-138,"Greater London",51.4894,-0.20785
-139,"Borough of Stockton-on-Tees",54.5378,-1.32309
-140,"Borough of Darlington",54.5202,-1.53938
-141,"Borough of Middlesbrough",54.5364,-1.23971
-142,"Greater London",51.4072,-0.298542
-143,"Greater London",51.5169,-0.0868102
-144,"Greater London",51.5162,-0.0262978
-145,"Gateshead",54.9391,-1.66816
-146,"City and Borough of Newcastle upon Tyne",54.9931,-1.5994
-147,"City of York",53.9488,-1.07785
-148,"Borough of St. Helens",53.4417,-2.73472
-149,"Greater London",51.644,-0.0911453
-150,"Hertfordshire",51.8113,-0.26543
-151,"Greater London",51.6115,-0.204805
-152,"Greater London",51.5949,-0.0125518
-153,"Greater London",51.5732,0.0852329
-154,"Greater London",51.5634,0.24211
-155,"Cambridgeshire",52.3476,0.0158056
-156,"Greater London",51.4546,0.152477
-157,"Greater London",51.3606,-0.176573
-158,"Borough of Milton Keynes",52.0571,-0.72601
-159,"Buckinghamshire",51.7717,-0.806599
-160,"Greater London",51.5338,-0.4325
-161,"Greater London",51.5578,-0.252266
-162,"Borough of Luton",51.8763,-0.406249
-163,"Greater London",51.5894,-0.333295
-164,"Central Bedfordshire",52.0236,-0.376341
-165,"Bedford",52.1788,-0.470004
-166,"District of Rutland",52.657,-0.610216
-167,"Nottinghamshire",53.1186,-0.983216
-168,"Northamptonshire",52.3083,-0.882413
-169,"Greater London",51.5491,-0.150541
-170,"Greater London",51.5396,-0.0980376
-171,"City of Peterborough",52.5833,-0.270107
-172,"Greater London",51.4604,-0.10867
-173,"Greater London",51.466,-0.0655202
-174,"Borough of Doncaster",53.5227,-1.08493
-175,"Greater London",51.3625,-0.0752612
-176,"Greater London",51.4418,-0.0112858
-177,"Greater London",51.5834,-0.0963323
-178,"Greater London",51.3925,-0.2699
-179,"Greater London",51.5273,0.0442535
-180,"Greater London",51.4634,0.0473282
-181,"Greater London",51.5523,-0.0523427
-182,"Greater London",51.5379,0.133951
-183,"Leicestershire",52.491,-1.11707
-184,"Cheshire East",53.2396,-2.21364
-185,"Derbyshire",52.9938,-1.58946
-186,"Borough of Rotherham",53.3854,-1.29072
-187,"City and Borough of Sheffield",53.4087,-1.57387
-188,"City of Stoke-on-Trent",53.0034,-2.16701
-189,"District of Telford and Wrekin",52.7152,-2.49356
-190,"Staffordshire",52.9024,-2.01517
-191,"Greater London",51.3652,0.0463722
-192,"Worcestershire",52.21,-2.2004
-193,"Warwickshire",52.168,-1.55487
-194,"Oxfordshire",51.7912,-1.29123
-195,"Borough of Wigan",53.5317,-2.60574
-196,"Borough of Stockport",53.3787,-2.1408
-197,"Borough of Warrington",53.3766,-2.55468
-198,"West Berkshire",51.4529,-1.2949
-199,"District of Wokingham",51.4019,-0.90795
-200,"Borough of Bracknell Forest",51.3929,-0.763967
-201,"Royal Borough of Windsor and Maidenhead",51.4769,-0.700975
-202,"Slough",51.4769,-0.547994
-203,"Borough of Reading",51.4497,-1.03367
-204,"Surrey",51.2608,-0.388084
-205,"Borough of Blackburn with Darwen",53.705,-2.44291
-206,"Borough of Swindon",51.567,-1.71017
-207,"Bath and North East Somerset",51.3476,-2.49591
-208,"Wiltshire",51.3289,-1.91891
-209,"Borough of Calderdale",53.7446,-1.95182
-210,"Borough of Kirklees",53.6218,-1.73944
-211,"City of Nottingham",52.9352,-1.16592
-212,"City of Leicester",52.6114,-1.1183
-213,"City of Derby",52.8904,-1.47157
-214,"City and Borough of Leeds",53.8106,-1.47788
-215,"City and Borough of Bradford",53.8466,-1.78384
-216,"City and Borough of Wakefield",53.6457,-1.39089
-217,"Borough of Barnsley",53.5347,-1.45688
-218,"City and Borough of Salford",53.5006,-2.40861
-219,"Borough of Bolton",53.5887,-2.42876
-220,"Borough of Trafford",53.4147,-2.37777
-221,"City and Borough of Manchester",53.4597,-2.26678
-222,"Borough of Oldham",53.5527,-2.03581
-223,"Borough of Rochdale",53.6277,-2.1438
-224,"Borough of Tameside",53.4567,-2.0958
-225,"Borough of Bury",53.5827,-2.30878
-226,"Borough of Solihull",52.4038,-1.71185
-227,"City and Borough of Coventry",52.4068,-1.53187
-228,"City and Borough of Birmingham",52.4782,-1.81614
-229,"Borough of Sandwell",52.5118,-2.00281
-230,"Borough of Dudley",52.4728,-2.1138
-231,"Borough of Walsall",52.6018,-1.95182
-232,"Borough of Wolverhampton",52.5958,-2.1108
+id,name,lon,lat
+GBR-2083,City of Derry,-7.214701,54.94566
+GBR-2135,Strabane District,-7.43098,54.75913
+GBR-2136,Fermanagh District,-7.645651,54.34871
+GBR-2089,Dungannon District,-6.930954,54.45666
+GBR-2085,Armagh District,-6.629614,54.32026
+GBR-2086,Newry and Mourne District,-6.290159,54.15276
+GBR-2126,County of Flintshire,-3.162554,53.21071
+GBR-5707,Cheshire West and Chester,-2.728863,53.17574
+GBR-2127,Wrexham,-3.056684,52.96184
+GBR-2779,Shropshire,-2.724454,52.62895
+GBR-2111,Sir Powys,-3.404155,52.30751
+GBR-2775,Herefordshire,-2.740155,52.09797
+GBR-2132,Monmouthshire,-2.866867,51.76649
+GBR-2039,Gloucestershire,-2.113901,51.82346
+GBR-2026,The Scottish Borders,-2.785797,55.57343
+GBR-2034,Northumberland,-2.061705,55.23869
+GBR-2139,Cumbria,-2.893812,54.59189
+GBR-2138,Dumfries and Galloway,-3.952434,55.0771
+GBR-2102,Limavady District,-6.938968,54.98876
+GBR-2100,Coleraine District,-6.684721,55.0675
+GBR-2773,Moyle District,-6.241169,55.14449
+GBR-2095,Larne District,-5.910497,54.87504
+GBR-2096,Carrickfergus District,-5.815777,54.7398
+GBR-2097,Newtownabbey District,-5.975303,54.7202
+GBR-2082,City of Belfast,-5.957405,54.6089
+GBR-2098,North Down District,-5.715905,54.64644
+GBR-2137,Ards District,-5.608691,54.51878
+GBR-2099,Down District,-5.798625,54.32926
+GBR-2017,Clackmannanshire,-3.730047,56.14845
+GBR-2016,Stirling,-4.325761,56.24156
+GBR-2015,Falkirk,-3.782723,55.98511
+GBR-2025,West Lothian,-3.570238,55.88123
+GBR-2023,City of Edinburgh,-3.285341,55.91831
+GBR-2024,Midlothian,-3.091013,55.82704
+GBR-2022,East Lothian,-2.701704,55.93772
+GBR-5662,Borough of North Tyneside,-1.512125,55.02782
+GBR-5663,Borough of South Tyneside,-1.441719,54.95175
+GBR-5664,City and Borough of Sunderland,-1.461562,54.86623
+GBR-2029,County Durham,-1.827987,54.68943
+GBR-2030,Borough of Hartlepool,-1.262518,54.65829
+GBR-2032,Borough of Redcar and Cleveland,-1.029698,54.55312
+GBR-2140,North Yorkshire,-1.412477,54.19078
+GBR-2124,East Riding of Yorkshire,-0.4883225,53.86821
+GBR-2055,City of Kingston upon Hull,-0.3782765,53.75287
+GBR-2057,North Lincolnshire,-0.5825127,53.58873
+GBR-2056,North East Lincolnshire,-0.1309911,53.53601
+GBR-2081,Lincolnshire,-0.2438465,53.10692
+GBR-2319,Norfolk,0.9629332,52.66415
+GBR-2318,Suffolk,1.06582,52.21377
+GBR-2317,Essex,0.5610821,51.80698
+GBR-2679,Borough of Southend-on-Sea,0.7207626,51.55021
+GBR-2676,Borough of Thurrock,0.3680858,51.50444
+GBR-3409,Kent,0.7344631,51.22062
+GBR-2678,Borough of Medway,0.5745913,51.40947
+GBR-2677,East Sussex,0.280448,50.94231
+GBR-2674,Borough of Brighton and Hove,-0.1143056,50.84003
+GBR-2748,West Sussex,-0.4844633,50.95589
+GBR-2035,Hampshire,-1.286018,51.07134
+GBR-2759,City of Portsmouth,-1.030334,50.81519
+GBR-2036,City of Southampton,-1.369031,50.91108
+GBR-2051,Dorset,-2.31426,50.80966
+GBR-2050,Borough of Bournemouth,-1.877615,50.73574
+GBR-2052,Borough of Poole,-1.964613,50.73671
+GBR-2048,Devon,-3.811425,50.76776
+GBR-2142,Borough of Torbay,-3.568427,50.44953
+GBR-2141,City of Plymouth,-4.116626,50.398
+GBR-2110,Isles of Scilly,-4.827433,50.40445
+GBR-2047,Somerset,-2.931788,51.0996
+GBR-2045,North Somerset,-2.799245,51.38553
+GBR-2044,City of Bristol,-2.603496,51.45222
+GBR-2046,South Gloucestershire,-2.447657,51.53228
+GBR-2133,City of Newport,-2.949715,51.58296
+GBR-2116,City and County of Cardiff,-3.182788,51.50745
+GBR-2117,Vale of Glamorgan,-3.368388,51.44353
+GBR-2112,Bridgend county borough,-3.587184,51.53996
+GBR-2118,Neath Port Talbot,-3.730785,51.67782
+GBR-2119,City and County of Swansea,-4.045844,51.64058
+GBR-2104,Carmarthenshire,-4.154844,51.90028
+GBR-2106,Pembrokeshire,-4.884327,51.85701
+GBR-2105,County of Ceredigion,-4.07259,52.24901
+GBR-2130,Gwynedd,-4.014144,52.89117
+GBR-2129,Conwy,-3.731856,53.13219
+GBR-2125,Denbighshire,-3.350083,53.08559
+GBR-2108,Metropolitan Borough of Wirral,-3.060972,53.35776
+GBR-5708,Borough of Halton,-2.692332,53.33297
+GBR-5666,Borough of Knowsley,-2.843533,53.42053
+GBR-5668,City and Borough of Liverpool,-2.945743,53.42383
+GBR-5667,Borough of Sefton,-3.009893,53.57186
+GBR-2123,Lancashire,-2.600438,53.84854
+GBR-5670,Borough of Blackpool,-3.007176,53.84157
+GBR-2009,South Ayrshire,-4.696994,55.25647
+GBR-2006,North Ayrshire,-4.721366,55.71792
+GBR-2005,Inverclyde,-4.739385,55.89795
+GBR-2008,Renfrewshire,-4.530829,55.83926
+GBR-2011,West Dunbartonshire,-4.488459,55.97988
+GBR-2746,Argyll and Bute,-5.452328,56.10925
+GBR-2745,Highland,-4.74699,57.59022
+GBR-2014,Moray,-3.26983,57.46997
+GBR-2013,Aberdeenshire,-2.625817,57.24568
+GBR-2012,Aberdeen City,-2.191367,57.16326
+GBR-2019,Angus,-2.916827,56.72997
+GBR-2020,Dundee City,-2.949847,56.48613
+GBR-2018,Perth and Kinross,-3.813728,56.5658
+GBR-2021,Fife,-3.111743,56.22905
+GBR-2758,Isle of Wight,-1.291355,50.68014
+GBR-2128,Anglesey,-4.373082,53.28607
+GBR-2772,Eilean Siar,-6.834964,57.94457
+GBR-2744,Orkney Islands,-3.044999,59.02754
+GBR-2747,Shetland Islands,-1.240441,60.37747
+GBR-5988,Isles of Scilly,-6.314365,49.93501
+GBR-2113,County Borough of Caerphilly,-3.193561,51.65333
+GBR-2115,Rhondda Cynon Taff,-3.417468,51.64018
+GBR-2131,Blaenau Gwent,-3.186238,51.76714
+GBR-2134,County Borough of Torfaen,-3.04469,51.69821
+GBR-2114,County Borough of Merthyr Tydfil,-3.357683,51.7393
+GBR-2007,North Lanarkshire,-3.937963,55.87002
+GBR-2002,East Dunbartonshire,-4.208232,55.95052
+GBR-2004,Glasgow City,-4.241376,55.84871
+GBR-2003,East Renfrewshire,-4.344667,55.75197
+GBR-2001,East Ayrshire,-4.308018,55.48377
+GBR-2010,South Lanarkshire,-3.803397,55.61045
+GBR-2093,Magherafelt District,-6.674779,54.81164
+GBR-2084,Omagh District,-7.273177,54.58873
+GBR-2091,Cookstown District,-6.709613,54.64136
+GBR-2088,Craigavon District,-6.387413,54.48279
+GBR-2087,Banbridge District,-6.168387,54.33273
+GBR-2092,Antrim Borough,-6.260159,54.69722
+GBR-2090,Lisburn District,-6.080795,54.50406
+GBR-2101,Ballymoney District,-6.42515,55.04587
+GBR-2094,Ballymena District,-6.244881,54.8875
+GBR-2103,Castlereagh District,-5.84829,54.55186
+GBR-2079,Greater London,-0.1782104,51.45102
+GBR-2073,Greater London,-0.187574,51.40726
+GBR-2080,Greater London,-0.1559016,51.51052
+GBR-2072,Greater London,-0.1820269,51.49549
+GBR-2070,Greater London,-0.3585131,51.46411
+GBR-2066,Greater London,-0.320836,51.51698
+GBR-2069,Greater London,-0.2139722,51.49395
+GBR-2033,Borough of Stockton-on-Tees,-1.338454,54.54835
+GBR-2028,Borough of Darlington,-1.536322,54.53515
+GBR-2031,Borough of Middlesbrough,-1.248723,54.53164
+GBR-2075,Greater London,-0.3025081,51.43999
+GBR-4809,Greater London,-0.08545963,51.51749
+GBR-2077,Greater London,-0.02532069,51.51165
+GBR-5665,Gateshead,-1.687057,54.93825
+GBR-5661,City and Borough of Newcastle upon Tyne,-1.625662,55.00636
+GBR-2120,City of York,-1.075876,53.94119
+GBR-5669,Borough of St. Helens,-2.719222,53.44613
+GBR-2067,Greater London,-0.08222401,51.64741
+GBR-2042,Hertfordshire,-0.2066163,51.82639
+GBR-5705,Greater London,-0.2043076,51.61413
+GBR-2078,Greater London,-0.006134891,51.59287
+GBR-2074,Greater London,0.08203458,51.58406
+GBR-2675,Greater London,0.2276865,51.55969
+GBR-2053,Cambridgeshire,0.03990709,52.33363
+GBR-2061,Greater London,0.146755,51.45609
+GBR-2076,Greater London,-0.1706349,51.35841
+GBR-2038,Borough of Milton Keynes,-0.7242522,52.06956
+GBR-2040,Buckinghamshire,-0.8032665,51.77683
+GBR-2753,Greater London,-0.4353934,51.53767
+GBR-2062,Greater London,-0.2580204,51.5537
+GBR-2752,Borough of Luton,-0.4080654,51.87441
+GBR-2767,Greater London,-0.334998,51.59418
+GBR-5697,Central Bedfordshire,-0.4259193,52.01029
+GBR-5698,Bedford,-0.4731426,52.18261
+GBR-2762,District of Rutland,-0.6520575,52.64442
+GBR-2764,Nottinghamshire,-0.9944942,53.12052
+GBR-2749,Northamptonshire,-0.8528495,52.30026
+GBR-2064,Greater London,-0.1453522,51.53999
+GBR-2071,Greater London,-0.1019693,51.54789
+GBR-2760,City of Peterborough,-0.2733696,52.59628
+GBR-2768,Greater London,-0.1100655,51.45165
+GBR-2771,Greater London,-0.06763562,51.47152
+GBR-5689,Borough of Doncaster,-1.093038,53.53395
+GBR-2065,Greater London,-0.08099156,51.3511
+GBR-2769,Greater London,-0.01380669,51.44345
+GBR-2766,Greater London,-0.09984306,51.58641
+GBR-2754,Greater London,-0.2747447,51.38565
+GBR-2770,Greater London,0.04445713,51.52545
+GBR-2068,Greater London,0.05423073,51.46922
+GBR-2765,Greater London,-0.05557023,51.54933
+GBR-2060,Greater London,0.137093,51.53777
+GBR-2054,Leicestershire,-1.104,52.65606
+GBR-5706,Cheshire East,-2.319992,53.18359
+GBR-2059,Derbyshire,-1.604602,53.12825
+GBR-5686,Borough of Rotherham,-1.278686,53.37718
+GBR-5687,City and Borough of Sheffield,-1.577753,53.40819
+GBR-2778,City of Stoke-on-Trent,-2.168883,53.01134
+GBR-2121,District of Telford and Wrekin,-2.473175,52.72222
+GBR-2777,Staffordshire,-2.022543,52.84447
+GBR-2063,Greater London,0.05857838,51.36803
+GBR-2776,Worcestershire,-2.164021,52.21754
+GBR-2750,Warwickshire,-1.548533,52.29332
+GBR-2751,Oxfordshire,-1.312528,51.76063
+GBR-5677,Borough of Wigan,-2.607156,53.52629
+GBR-5683,Borough of Stockport,-2.138334,53.38347
+GBR-2774,Borough of Warrington,-2.551438,53.38795
+GBR-5700,West Berkshire,-1.324521,51.44877
+GBR-5701,District of Wokingham,-0.9075981,51.42391
+GBR-5702,Borough of Bracknell Forest,-0.7644638,51.4017
+GBR-5703,Royal Borough of Windsor and Maidenhead,-0.7048217,51.47676
+GBR-5704,Slough,-0.5707989,51.48758
+GBR-5699,Borough of Reading,-1.035733,51.44673
+GBR-2755,Surrey,-0.4141102,51.24405
+GBR-2122,Borough of Blackburn with Darwen,-2.452206,53.69487
+GBR-2756,Borough of Swindon,-1.723921,51.54962
+GBR-2043,Bath and North East Somerset,-2.475819,51.34609
+GBR-2757,Wiltshire,-1.94298,51.29716
+GBR-5672,Borough of Calderdale,-1.958342,53.74313
+GBR-5671,Borough of Kirklees,-1.766456,53.63001
+GBR-2763,City of Nottingham,-1.169622,52.93533
+GBR-2761,City of Leicester,-1.122037,52.61444
+GBR-2058,City of Derby,-1.468076,52.88896
+GBR-5674,City and Borough of Leeds,-1.47948,53.81873
+GBR-5673,City and Borough of Bradford,-1.811824,53.8557
+GBR-5675,City and Borough of Wakefield,-1.410098,53.65157
+GBR-5688,Borough of Barnsley,-1.500341,53.52634
+GBR-5676,City and Borough of Salford,-2.409559,53.4949
+GBR-5678,Borough of Bolton,-2.442036,53.58669
+GBR-5685,Borough of Trafford,-2.37541,53.41093
+GBR-5684,City and Borough of Manchester,-2.262635,53.45297
+GBR-5681,Borough of Oldham,-2.043012,53.53847
+GBR-5680,Borough of Rochdale,-2.151457,53.62001
+GBR-5682,Borough of Tameside,-2.096519,53.45435
+GBR-5679,Borough of Bury,-2.310488,53.59381
+GBR-5695,Borough of Solihull,-1.724853,52.40593
+GBR-5696,City and Borough of Coventry,-1.5364,52.40225
+GBR-5690,City and Borough of Birmingham,-1.869939,52.4745
+GBR-5691,Borough of Sandwell,-2.002899,52.51779
+GBR-5692,Borough of Dudley,-2.103713,52.48148
+GBR-5694,Borough of Walsall,-1.952669,52.59753
+GBR-5693,Borough of Wolverhampton,-2.114707,52.58873

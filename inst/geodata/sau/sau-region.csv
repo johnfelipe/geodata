@@ -1,14 +1,14 @@
-"id","name","lat","lon"
-1,"Al Mintaqah ash Sharqiyah",22.9875,50.1714
-2,"Mintaqat al Hudud ash Shamaliyah",29.227,43.3124
-3,"Mintaqat al Jawf",29.5589,38.3651
-4,"Mintaqat Najran",18.2931,45.6917
-5,"Mintaqat `Asir",19.3484,42.9503
-6,"Mintaqat Jizan",17.3028,42.726
-7,"Mintaqat Tabuk",27.9146,36.8014
-8,"Mintaqat al Madinah",24.9279,39.4378
-9,"Mintaqat Makkah",21.4348,40.2542
-10,"Mintaqat ar Riyad",23.3432,45.1404
-11,"Mintaqat al Qasim",25.9478,43.2716
-12,"Mintaqat Ha'il",27.2652,41.7076
-13,"Mintaqat al Bahah",20.1605,41.4165
+id,name,lon,lat
+SAU-1098,Al Mintaqah ash Sharqiyah,50.14508,22.92234
+SAU-861,Mintaqat al Hudud ash Shamaliyah,42.07417,29.93796
+SAU-862,Mintaqat al Jawf,38.74103,29.6784
+SAU-1096,Mintaqat Najran,45.83143,18.28765
+SAU-886,Mintaqat `Asir,42.99549,19.26939
+SAU-887,Mintaqat Jizan,42.59687,17.38204
+SAU-848,Mintaqat Tabuk,37.29398,27.38328
+SAU-845,Mintaqat al Madinah,39.51645,24.88944
+SAU-888,Mintaqat Makkah,41.20373,21.62632
+SAU-1097,Mintaqat ar Riyad,45.54928,23.07426
+SAU-846,Mintaqat al Qasim,43.22028,25.94588
+SAU-847,Mintaqat Ha'il,41.60827,27.34763
+SAU-885,Mintaqat al Bahah,41.41554,20.10593

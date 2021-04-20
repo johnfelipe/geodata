@@ -1,7 +1,7 @@
-"id","name","lat","lon"
-1,"Mohafazat Nabatiye",33.3303,35.5666
-2,"Mohafazat Liban-Sud",33.2661,35.2966
-3,"Mohafazat Beqaa",34.0494,36.1086
-4,"Mohafazat Liban-Nord",34.3933,36.0424
-5,"Mohafazat Mont-Liban",33.9291,35.6942
-6,"Beyrouth",33.8849,35.5093
+id,name,lon,lat
+LBN-3059,Mohafazat Nabatiye,35.51144,33.3003
+LBN-3060,Mohafazat Liban-Sud,35.36799,33.35962
+LBN-3022,Mohafazat Beqaa,36.13038,33.9913
+LBN-3023,Mohafazat Liban-Nord,36.01953,34.40389
+LBN-3025,Mohafazat Mont-Liban,35.69464,33.89536
+LBN-3024,Beyrouth,35.50768,33.88827

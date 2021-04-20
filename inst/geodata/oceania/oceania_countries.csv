@@ -1,7 +1,7 @@
-id,name,lat,lon
-AUS,Australia,-25.2743988,133.7751312
-NCL,New Caledonia-20.9043045,,165.618042
-NZL,New Zealand,-40.9005585,174.8859711
-PNG,Papua New Guinea,-6.0000000,147.0000000
-SLB,Solomon Islands,-8,159
-VUT,Vanuatu,-16,167
+id,name,lon,lat
+AUS,Australia,134.503,-25.73135
+NCL,New Caledonia,165.5302,-21.26028
+NZL,New Zealand,172.7017,-41.66322
+PNG,Papua New Guinea,145.3171,-6.448575
+SLB,Solomon Islands,159.9673,-8.855566
+VUT,Vanuatu,167.0728,-15.53645

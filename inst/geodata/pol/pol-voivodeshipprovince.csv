@@ -1,17 +1,17 @@
-"id","name","lat","lon"
-1,"Wojewodztwo Slaskie",50.1978,18.9924
-2,"Wojewodztwo Malopolskie",49.8761,20.3133
-3,"Wojewodztwo Podkarpackie",49.8555,22.4341
-4,"Wojewodztwo Dolnoslaskie",51.0127,16.4623
-5,"Wojewodztwo Opolskie",50.5498,17.7998
-6,"Wojewodztwo Podlaskie",53.3396,22.7225
-7,"Wojewodztwo Warminsko-Mazurskie",53.8526,20.9711
-8,"Wojewodztwo Lubuskie",52.2372,15.4552
-9,"Wojewodztwo Zachodniopomorskie",53.5878,15.5906
-10,"Wojewodztwo Lubelskie",51.2088,22.8943
-11,"Wojewodztwo Pomorskie",54.26,18.272
-12,"Wojewodztwo Mazowieckie",52.2269,21.1915
-13,"Wojewodztwo Lodzkie",51.6355,19.3642
-14,"Wojewodztwo Kujawsko-Pomorskie",53.0334,18.5227
-15,"Wojewodztwo Wielkopolskie",52.1454,17.4521
-16,"Wojewodztwo Swietokrzyskie",50.701,20.7951
+id,name,lon,lat
+POL-3146,Wojewodztwo Slaskie,18.9958,50.30965
+POL-3170,Wojewodztwo Malopolskie,20.30799,49.83973
+POL-3152,Wojewodztwo Podkarpackie,22.20831,49.96965
+POL-3141,Wojewodztwo Dolnoslaskie,16.37315,51.075
+POL-3167,Wojewodztwo Opolskie,17.87482,50.61687
+POL-3150,Wojewodztwo Podlaskie,22.88349,53.27941
+POL-3139,Wojewodztwo Warminsko-Mazurskie,20.76949,53.84969
+POL-3143,Wojewodztwo Lubuskie,15.34177,52.20203
+POL-3142,Wojewodztwo Zachodniopomorskie,15.61478,53.58734
+POL-3151,Wojewodztwo Lubelskie,22.89976,51.2432
+POL-3140,Wojewodztwo Pomorskie,18.03667,54.13572
+POL-3148,Wojewodztwo Mazowieckie,21.08061,52.31178
+POL-3147,Wojewodztwo Lodzkie,19.40903,51.55941
+POL-3145,Wojewodztwo Kujawsko-Pomorskie,18.50108,53.02231
+POL-3144,Wojewodztwo Wielkopolskie,17.24775,52.28334
+POL-3149,Wojewodztwo Swietokrzyskie,20.76849,50.74192

@@ -1,22 +1,22 @@
-"id","name","lat","lon"
-1,"Seenu Atholhu",-0.624137,73.1092
-2,"Gnaviyani Atholhu",-0.28897,73.4348
-3,"Gaafu Dhaalu Atholhu",0.22176,73.106
-4,"Gaafu Alifu Atholhu",0.764412,73.3741
-5,"unknown",3.77293,72.9528
-6,"Kaafu Atoll",4.35708,73.6135
-7,"Alifu Atholhu",4.26451,72.9528
-8,"Baa Atholhu",4.88218,72.9751
-9,"Lhaviyani Atholhu",5.2748,73.5816
-10,"Raa Atholhu",5.80628,72.9751
-11,"Shaviyani Atholhu",6.28509,73.2145
-12,"Laamu Atholhu",1.83216,73.5114
-13,"Thaa Atholhu",2.19286,73.1252
-14,"Dhaalu Atholhu",2.67806,72.9017
-15,"Meemu Atholhu",2.94938,73.5688
-16,"Faafu Atholhu",3.30689,72.8315
-17,"Vaavu Atholhu",3.49522,73.5082
-18,"Maale",4.17219,73.5188
-19,"Noonu Atoll",5.78713,73.3837
-20,"Haa Dhaalu Atholhu",6.62205,73.0473
-21,"Haa Alifu Atholhu",7.02774,72.9797
+id,name,lon,lat
+MDV-5243,Seenu Atholhu,73.15949,-0.6180537
+MDV-5242,Gnaviyani Atholhu,73.43971,-0.2943361
+MDV-5241,Gaafu Dhaalu Atholhu,73.11424,0.2865003
+MDV-5240,Gaafu Alifu Atholhu,73.43496,0.5923356
+MDV-5232,NA,72.86685,3.646964
+MDV-5230,Kaafu Atoll,73.51884,4.457733
+MDV-5231,Alifu Atholhu,72.92259,4.350032
+MDV-5228,Baa Atholhu,73.00628,5.003498
+MDV-5229,Lhaviyani Atholhu,73.55635,5.361014
+MDV-5226,Raa Atholhu,72.96557,5.716443
+MDV-5225,Shaviyani Atholhu,73.12203,6.304491
+MDV-5239,Laamu Atholhu,73.48468,1.942163
+MDV-5238,Thaa Atholhu,73.29235,2.384469
+MDV-5237,Dhaalu Atholhu,72.93916,2.776034
+MDV-5236,Meemu Atholhu,73.45443,2.876394
+MDV-5233,Faafu Atholhu,72.95938,3.188184
+MDV-5235,Vaavu Atholhu,73.61983,3.445511
+MDV-5234,Maale,73.50753,4.190778
+MDV-5227,Noonu Atoll,73.40419,5.854421
+MDV-5224,Haa Dhaalu Atholhu,73.10783,6.724061
+MDV-5223,Haa Alifu Atholhu,73.13852,6.909927

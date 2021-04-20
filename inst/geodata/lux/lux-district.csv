@@ -1,4 +1,4 @@
-"id","name","lat","lon"
-1,"District de Diekirch",49.9763,6.00481
-2,"District de Grevenmacher",49.6474,6.33835
-3,"District de Luxembourg",49.6376,6.05114
+id,name,lon,lat
+LUX-906,District de Diekirch,5.969416,49.92133
+LUX-907,District de Grevenmacher,6.342667,49.68408
+LUX-908,District de Luxembourg,6.064333,49.62671

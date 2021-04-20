@@ -1,17 +1,17 @@
-"id","name","lat","lon"
-1,"Shyghys Qazaqstan Oblysy",48.3405,81.9768
-2,"Almaty Oblysy",45.0707,78.2246
-3,"Zhambyl Oblysy",44.3152,72.4888
-4,"Yuzhno-Kazakhstanskaya Oblast'",42.7187,68.7533
-5,"Mangistauskaya Oblast'",44.0351,53.8538
-6,"Qyzylorda Oblysy",44.6012,63.6151
-7,"Aktyubinskaya Oblast'",48.0288,58.9373
-8,"Severo-Kazakhstanskaya Oblast'",54.4528,69.0682
-9,"Qostanay Oblysy",51.2854,64.1291
-10,"Pavlodar Oblysy",52.2076,76.3751
-11,"Batys Qazaqstan Oblysy",49.8909,50.5145
-12,"Atyrau Oblysy",47.7744,51.7585
-13,"Aqmola Oblysy",51.928,69.8519
-14,"Qaraghandy Oblysy",48.0823,70.1925
-15,"Almaty Qalasy",43.2709,76.9424
-16,"Astana Qalasy",51.1503,71.4538
+id,name,lon,lat
+KAZ-3206,Shyghys Qazaqstan Oblysy,81.52201,48.78195
+KAZ-3207,Almaty Oblysy,77.96747,44.9641
+KAZ-3252,Zhambyl Oblysy,72.19861,44.29336
+KAZ-3251,Yuzhno-Kazakhstanskaya Oblast',68.5057,43.20776
+KAZ-3236,Mangistauskaya Oblast',53.94338,44.10204
+KAZ-3197,Qyzylorda Oblysy,63.6792,45.13742
+KAZ-3195,Aktyubinskaya Oblast',58.56757,48.58932
+KAZ-3204,Severo-Kazakhstanskaya Oblast',69.26671,53.8346
+KAZ-3196,Qostanay Oblysy,64.05571,51.57417
+KAZ-3205,Pavlodar Oblysy,76.24629,52.05414
+KAZ-3201,Batys Qazaqstan Oblysy,50.67864,49.78195
+KAZ-3198,Atyrau Oblysy,52.1369,47.52553
+KAZ-3202,Aqmola Oblysy,69.97979,51.75908
+KAZ-3203,Qaraghandy Oblysy,71.02007,48.17474
+KAZ-4829,Almaty Qalasy,76.93307,43.2892
+KAZ-4830,Astana Qalasy,71.43207,51.15038

@@ -1,87 +1,87 @@
-"id","name","lat","lon"
-1,"Respublika Altay",50.9782,86.937
-2,"Pskovskaya Oblast'",57.2449,29.1229
-3,"Krasnodarskiy Kray",45.8397,39.4688
-4,"Karachayevo-Cherkesskaya Respublika",43.7073,41.6866
-5,"Kabardino-Balkarskaya Respublika",43.3757,43.3982
-6,"North Ossetia",42.9969,44.1653
-7,"Respublika Ingushetiya",43.3661,44.8468
-8,"Chechenskaya Respublika",43.2153,45.757
-9,"Respublika Dagestan",42.36,47.1424
-10,"Murmanskaya Oblast'",67.9609,34.3212
-11,"Respublika Kareliya",63.5295,33.1446
-12,"Leningradskaya Oblast'",59.9905,32.7736
-13,"Kaliningradskaya Oblast'",54.6636,21.2287
-14,"Smolenskaya Oblast'",54.6726,33.0803
-15,"Bryanskaya Oblast'",53.0868,33.2803
-16,"Kurskaya Oblast'",51.7358,36.2921
-17,"Belgorodskaya Oblast'",50.8757,37.277
-18,"Voronezhskaya Oblast'",50.7774,40.5223
-19,"Rostovskaya Oblast'",47.9913,41.2613
-20,"Respublika Buryatiya",52.9061,109.341
-21,"Respublika Tyva",51.6051,93.9927
-22,"Zabaykal'skiy Kray",52.159,116.559
-23,"Amurskaya Oblast'",52.9236,128.354
-24,"Yevreyskaya Avtonomnaya Oblast'",48.64,132.758
-25,"Khabarovskiy Kray",57.0232,135.443
-26,"Primorskiy Kray",44.8622,134.594
-27,"Tyumenskaya Oblast'",57.2639,68.5186
-28,"Kurganskaya Oblast'",55.4316,65.3505
-29,"Omskaya Oblast'",56.0471,73.3995
-30,"Novosibirskaya Oblast'",55.3139,80.0832
-31,"Chelyabinskaya Oblast'",54.1131,60.2383
-32,"Altayskiy Kray",52.4268,82.8667
-33,"Orenburgskaya Oblast'",51.5157,56.2149
-34,"Saratovskaya Oblast'",51.6742,46.6368
-35,"Astrakhanskaya Oblast'",47.0334,47.7227
-36,"Volgogradskaya Oblast'",49.5014,44.4488
-37,"Avtonomna Respublika Krym",45.3115,34.2784
-38,"Magadanskaya Oblast'",62.6257,153.797
-39,"Sakhalinskaya Oblast'",47.3479,152.467
-40,"Misto Sevastopol'",44.5182,33.6396
-41,"Chukotskiy Avtonomnyy Okrug",66.7517,170.516
-42,"Yamalo-Nenetskiy Avtonomnyy Okrug",65.4117,75.1874
-43,"Nenetskiy Avtonomnyy Okrug",67.8271,56.2877
-44,"Respublika Sakha (Yakutiya)",65.5964,130.989
-45,"Sankt-Peterburg",59.8064,30.2901
-46,"Arkhangel'skaya Oblast'",63.3132,41.9939
-47,"Krasnoyarskiy Kray",65.5602,95.2029
-48,"Respublika Kalmykiya",46.5191,45.4681
-49,"Kamtchatski Kray",56.5325,160.187
-50,"unknown",68.7999,67.2613
-51,"Respublika Bashkortostan",54.2086,56.5575
-52,"Sverdlovskaya Oblast'",58.8952,61.7078
-53,"Khanty-Mansiyskiy Avtonomnyy Okrug",61.4315,71.3806
-54,"Lipetskaya Oblast'",52.7462,39.2073
-55,"Tambovskaya Oblast'",52.7808,41.5945
-56,"Tomskaya Oblast'",58.4467,82.2299
-57,"Respublika Tatarstan",55.374,50.7364
-58,"Ul'yanovskaya Oblast'",53.9248,47.3773
-59,"Penzenskaya Oblast'",53.0562,44.8159
-60,"Kemerovskaya Oblast'",54.6462,87.1676
-61,"Orlovskaya Oblast'",52.8778,36.4166
-62,"Irkutskaya Oblast'",56.8255,105.966
-63,"Respublika Khakasiya",53.3643,89.8405
-64,"Respublika Mordoviya",54.1154,44.4631
-65,"Kaluzhskaya Oblast'",54.2421,35.3416
-66,"Kostromskaya Oblast'",58.3882,43.4689
-67,"Yaroslavskaya Oblast'",57.7329,39.2547
-68,"Vladimirskaya Oblast'",55.8966,40.6207
-69,"Ryazanskaya Oblast'",54.3363,40.6258
-70,"Ivanovskaya Oblast'",57.1213,41.6244
-71,"Nizhegorodskaya Oblast'",56.1384,44.7751
-72,"Tul'skaya Oblast'",54.0668,37.4161
-73,"Chuvashskaya Respublika",55.4883,47.1662
-74,"Vologodskaya Oblast'",59.6397,40.9333
-75,"Novgorodskaya Oblast'",58.4228,32.9454
-76,"Tverskaya Oblast'",57.0297,34.5445
-77,"Moskovskaya Oblast'",55.1508,38.671
-78,"Moskva",55.7177,37.6188
-79,"Respublika Mariy-El",56.5407,47.9131
-80,"Kirovskaya Oblast'",58.1926,50.1112
-81,"Udmurtskaya Respublika",57.3433,52.7957
-82,"Respublika Komi",64.1194,55.8183
-83,"Perm Krai",58.8735,56.5878
-84,"Samarskaya Oblast'",53.1783,50.4377
-85,"Stavropol'skiy Kray",44.981,43.2791
-86,"Respublika Adygeya",44.4658,40.1293
+id,name,lon,lat
+RUS-2400,Respublika Altay,87.02502,50.72528
+RUS-2335,Pskovskaya Oblast',29.23654,57.22486
+RUS-2371,Krasnodarskiy Kray,39.46544,45.26049
+RUS-2280,Karachayevo-Cherkesskaya Respublika,41.73901,43.75896
+RUS-2304,Kabardino-Balkarskaya Respublika,43.39721,43.48568
+RUS-2305,North Ossetia,44.26293,43.09646
+RUS-2303,Respublika Ingushetiya,44.87326,43.17592
+RUS-2416,Chechenskaya Respublika,45.74235,43.30233
+RUS-2417,Respublika Dagestan,46.87104,43.0164
+RUS-2333,Murmanskaya Oblast',34.60032,67.81454
+RUS-2353,Respublika Kareliya,33.12443,63.54993
+RUS-2336,Leningradskaya Oblast',31.70885,60.00728
+RUS-2324,Kaliningradskaya Oblast',21.38629,54.71925
+RUS-2343,Smolenskaya Oblast',32.99321,54.95086
+RUS-2342,Bryanskaya Oblast',33.40487,52.90693
+RUS-2362,Kurskaya Oblast',36.07562,51.67548
+RUS-2370,Belgorodskaya Oblast',37.47276,50.66419
+RUS-2377,Voronezhskaya Oblast',40.21789,50.97055
+RUS-2367,Rostovskaya Oblast',41.30889,47.74613
+RUS-2606,Respublika Buryatiya,109.4781,53.54643
+RUS-2605,Respublika Tyva,94.78718,51.57744
+RUS-2610,Zabaykal'skiy Kray,116.1972,52.83833
+RUS-2609,Amurskaya Oblast',127.7299,53.40035
+RUS-2613,Yevreyskaya Avtonomnaya Oblast',132.2628,48.5195
+RUS-2614,Khabarovskiy Kray,137.3215,54.82425
+RUS-2611,Primorskiy Kray,134.7054,45.16605
+RUS-2398,Tyumenskaya Oblast',69.13338,57.68228
+RUS-2380,Kurganskaya Oblast',64.804,55.44656
+RUS-2397,Omskaya Oblast',73.34167,56.10771
+RUS-2403,Novosibirskaya Oblast',79.75834,55.28065
+RUS-2379,Chelyabinskaya Oblast',60.39013,54.45041
+RUS-2399,Altayskiy Kray,82.60805,52.60675
+RUS-2391,Orenburgskaya Oblast',55.62383,51.99155
+RUS-2393,Saratovskaya Oblast',46.79351,51.58344
+RUS-2388,Astrakhanskaya Oblast',47.27355,47.15946
+RUS-2369,Volgogradskaya Oblast',44.15021,49.61658
+RUS-283,Avtonomna Respublika Krym,34.36592,45.3254
+RUS-2615,Magadanskaya Oblast',153.9837,62.70679
+RUS-2616,Sakhalinskaya Oblast',143.6395,49.94272
+RUS-5482,Misto Sevastopol',33.62585,44.58583
+RUS-2321,Chukotskiy Avtonomnyy Okrug,114.1753,66.51999
+RUS-2382,Yamalo-Nenetskiy Avtonomnyy Okrug,74.51125,67.14632
+RUS-2381,Nenetskiy Avtonomnyy Okrug,54.93114,67.88474
+RUS-2612,Respublika Sakha (Yakutiya),130.1098,66.18219
+RUS-2337,Sankt-Peterburg,30.1854,59.89905
+RUS-2354,Arkhangel'skaya Oblast',48.38577,67.84701
+RUS-2603,Krasnoyarskiy Kray,95.99879,67.47137
+RUS-2390,Respublika Kalmykiya,45.31774,46.44435
+RUS-3468,Kamtchatski Kray,163.0045,58.93014
+RUS+99?,NA,67.28402,68.79228
+RUS-2378,Respublika Bashkortostan,56.51359,54.27342
+RUS-2386,Sverdlovskaya Oblast',61.53036,58.59433
+RUS-2396,Khanty-Mansiyskiy Avtonomnyy Okrug,70.29225,61.86711
+RUS-2363,Lipetskaya Oblast',39.13548,52.64586
+RUS-2375,Tambovskaya Oblast',41.5821,52.68581
+RUS-2167,Tomskaya Oblast',82.138,58.49743
+RUS-2394,Respublika Tatarstan,50.91162,55.3594
+RUS-2395,Ul'yanovskaya Oblast',47.9537,53.8941
+RUS-2373,Penzenskaya Oblast',44.63804,53.19294
+RUS-2401,Kemerovskaya Oblast',87.21539,54.79492
+RUS-2366,Orlovskaya Oblast',36.46749,52.77991
+RUS-2602,Irkutskaya Oblast',106.3603,57.09386
+RUS-2402,Respublika Khakasiya,89.85478,53.36584
+RUS-2372,Respublika Mordoviya,44.44558,54.36955
+RUS-2361,Kaluzhskaya Oblast',35.43783,54.36753
+RUS-2356,Kostromskaya Oblast',43.78994,58.46004
+RUS-2360,Yaroslavskaya Oblast',39.13495,57.86924
+RUS-2376,Vladimirskaya Oblast',40.6604,56.01165
+RUS-2374,Ryazanskaya Oblast',40.62108,54.32799
+RUS-2355,Ivanovskaya Oblast',41.70951,57.01616
+RUS-2357,Nizhegorodskaya Oblast',44.63927,56.29191
+RUS-2368,Tul'skaya Oblast',37.55799,53.89333
+RUS-2389,Chuvashskaya Respublika,47.08805,55.49558
+RUS-2359,Vologodskaya Oblast',40.49966,59.96776
+RUS-2334,Novgorodskaya Oblast',32.4828,58.30571
+RUS-2358,Tverskaya Oblast',34.71426,57.0912
+RUS-2364,Moskovskaya Oblast',37.66641,55.66721
+RUS-2365,Moskva,37.3626,55.49924
+RUS-2385,Respublika Mariy-El,47.93949,56.58141
+RUS-2384,Kirovskaya Oblast',49.83031,58.68579
+RUS-2387,Udmurtskaya Respublika,52.7872,57.17526
+RUS-2383,Respublika Komi,54.78342,64.12826
+RUS-3200,Perm Krai,56.22545,59.11638
+RUS-2392,Samarskaya Oblast',50.4686,53.2801
+RUS-2306,Stavropol'skiy Kray,43.35186,44.95252
+RUS-2279,Respublika Adygeya,39.97376,44.56755

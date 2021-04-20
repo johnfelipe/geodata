@@ -1,10 +1,10 @@
-"id","name","lat","lon"
-1,"Kayes Region",13.7959,-10.1984
-2,"Tombouctou Region",19.9073,-3.295
-3,"Gao Region",16.4482,1.2641
-4,"Mopti Region",14.7873,-3.21795
-5,"Segou Region",13.5852,-5.51952
-6,"Sikasso Region",11.155,-6.54441
-7,"Koulikoro Region",13.7514,-7.54325
-8,"Kidal Region",19.4258,1.09427
-9,"Bamako Region",12.643,-8.01917
+id,name,lon,lat
+MLI-2793,Kayes Region,-10.24345,13.87417
+MLI-2688,Tombouctou Region,-3.580085,20.04456
+MLI-2690,Gao Region,1.361806,16.76738
+MLI-2809,Mopti Region,-3.525882,14.70344
+MLI-2810,Segou Region,-5.700301,13.801
+MLI-2794,Sikasso Region,-6.576543,11.40698
+MLI-4860,Koulikoro Region,-7.640598,13.6103
+MLI-2689,Kidal Region,1.149686,19.43791
+MLI-2792,Bamako Region,-7.998257,12.62469

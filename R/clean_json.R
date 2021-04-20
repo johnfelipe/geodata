@@ -2,6 +2,7 @@
 clean_json <- function(geoName, geoId, geoProperties, newnamesProperties, jsonName, saveFile = TRUE, savePath = NULL) {
   json_file <- jsonlite::read_json(paste0(geoName, '.json'))
   leng_json <- length(json_file$objects[[geoName]][["geometries"]])
+  print(json_file$objects[[geoName]][["geometries"]][[1]][["properties"]])
   for(i in 1:leng_json){
     json_file$objects[[geoName]][["geometries"]][[i]]$id <- json_file$objects[[geoName]][["geometries"]][[i]][["properties"]][[geoId]]
     json_file$objects[[geoName]][["geometries"]][[i]][["properties"]] <- json_file$objects[[geoName]][["geometries"]][[i]][["properties"]][geoProperties]
@@ -25,7 +26,9 @@ clean_json <- function(geoName, geoId, geoProperties, newnamesProperties, jsonNa
 }
 
 
-centroids_json <- function(topojsonPath, write = TRUE) {
+centroids_json <- function(map_name, write = TRUE, ext = "csv") {
+
+  topojsonPath <- geodataTopojsonPath(mapName = map_name)
   tj <- read_sf(topojsonPath)
   df <- suppressWarnings(st_centroid(tj, of_largest = TRUE))
   df$centroids <- stringr::str_extract(string = st_as_text(df$geometry),
@@ -34,8 +37,19 @@ centroids_json <- function(topojsonPath, write = TRUE) {
          unnest(centroids) %>%
           separate(centroids, c("lon", "lat"), sep = " ") %>%
            st_drop_geometry()
+
+  if (!("name" %in% names(df))) message("geo information without name")
+  if (!("name" %in% names(df))) return()
+  if (length(unique(df$name)) != nrow(df)) warning("there are repeated geo names")
+
   if (write) {
+    if (ext == "csv") {
     write_csv(df, gsub(".topojson", ".csv", topojsonPath))
+    } else if (ext == "rds") {
+      saveRDS(df, gsub(".topojson", "-centroides.rds", topojsonPath))
+    } else {
+      stop("format must be csv or rds")
+    }
   } else {
     df
   }

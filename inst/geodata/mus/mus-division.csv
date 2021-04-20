@@ -1,17 +1,17 @@
-"id","name","lat","lon"
-1,"Riviere du Rempart District",-20.0651,57.6557
-2,"Pamplemousses District",-20.0899,57.573
-3,"unknown",-20.1496,57.5038
-4,"Black River District",-20.3424,57.4149
-5,"Savanne District",-20.464,57.5211
-6,"Grand Port District",-20.392,57.6498
-7,"Flacq District",-20.2173,57.7206
-8,"Agalega Islands",-10.3512,56.5372
-9,"Rodrigues",-19.697,63.4542
-10,"Moka District",-20.2492,57.5955
-11,"Plaines Wilhems District",-20.3599,57.5197
-12,"unknown",-20.2387,57.4713
-13,"Port Louis District",-20.1667,57.5296
-14,"unknown",-20.2688,57.4801
-15,"Plaines Wilhems District",-20.3024,57.4908
-16,"Plaines Wilhems District",-20.3183,57.5168
+id,name,lon,lat
+MUS-5192,Riviere du Rempart District,57.65087,-20.06059
+MUS-5187,Pamplemousses District,57.5698,-20.09911
+MUS-5190,NA,57.49704,-20.15157
+MUS-5193,Black River District,57.40709,-20.33935
+MUS-5195,Savanne District,57.51721,-20.4618
+MUS-5185,Grand Port District,57.66603,-20.39076
+MUS-5184,Flacq District,57.71075,-20.21845
+MUS-5180,Agalega Islands,56.54554,-10.36217
+MUS-5194,Rodrigues,63.41048,-19.71254
+MUS-5186,Moka District,57.59135,-20.25901
+MUS-5188,Plaines Wilhems District,57.51809,-20.33716
+MUS-5181,NA,57.47288,-20.23723
+MUS-5189,Port Louis District,57.51934,-20.16473
+MUS-5191,NA,57.48045,-20.26899
+MUS-5196,Plaines Wilhems District,57.48924,-20.30039
+MUS-5183,Plaines Wilhems District,57.51952,-20.32216

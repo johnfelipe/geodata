@@ -1,22 +1,22 @@
-"id","name","lat","lon"
-1,"Muhafazat Hadramawt",16.3779,48.9133
-2,"Muhafazat al Mahrah",16.8785,51.6413
-3,"Muhafazat Sa`dah",16.9876,44.0404
-4,"Muhafazat Hajjah",16.1813,43.1804
-5,"Muhafazat al Jawf",16.5629,45.6137
-6,"Muhafazat al Hudaydah",14.928,43.2214
-7,"Muhafazat Ta`izz",13.4282,43.7305
-8,"Muhafazat Lahij",13.1832,44.6561
-9,"Muhafazat `Adan",12.8087,44.7544
-10,"Muhafazat Abyan",13.8269,46.2119
-11,"Muhafazat Shabwah",14.8965,47.0989
-12,"Muhafazat Ma'rib",15.5368,45.7376
-13,"Sanaa",15.2262,44.368
-14,"Muhafazat Raymah",14.6655,43.758
-15,"Muhafazat al Bayda'",14.2903,45.3371
-16,"Muhafazat `Amran",16.0938,44.0107
-17,"Muhafazat ad Dali`",13.8965,44.7937
-18,"Muhafazat Ibb",14.0543,44.2012
-19,"Muhafazat al Mahwit",15.38,43.649
-20,"Muhafazat Dhamar",14.6805,44.2001
-21,"Amanat Al Asimah",15.3494,44.2115
+id,name,lon,lat
+YEM-3497,Muhafazat Hadramawt,49.29256,16.61214
+YEM-332,Muhafazat al Mahrah,51.59861,16.69605
+YEM-150,Muhafazat Sa`dah,43.92321,17.07067
+YEM-154,Muhafazat Hajjah,43.31168,16.11232
+YEM-335,Muhafazat al Jawf,45.64849,16.60504
+YEM-151,Muhafazat al Hudaydah,43.20398,14.84071
+YEM-158,Muhafazat Ta`izz,43.78677,13.40888
+YEM-157,Muhafazat Lahij,44.57221,13.17038
+YEM-3510,Muhafazat `Adan,44.85749,12.82606
+YEM-3511,Muhafazat Abyan,46.22969,13.71928
+YEM-336,Muhafazat Shabwah,46.94683,14.75627
+YEM-337,Muhafazat Ma'rib,45.57056,15.47615
+YEM-3496,Sanaa,44.40532,15.32985
+YEM-3499,Muhafazat Raymah,43.72463,14.65707
+YEM-333,Muhafazat al Bayda',45.36853,14.30125
+YEM-155,Muhafazat `Amran,43.98298,16.15472
+YEM-334,Muhafazat ad Dali`,44.78874,13.8796
+YEM-156,Muhafazat Ibb,44.20991,14.06941
+YEM-152,Muhafazat al Mahwit,43.61055,15.37262
+YEM-153,Muhafazat Dhamar,44.26133,14.60026
+YEM-3498,Amanat Al Asimah,44.2382,15.46291

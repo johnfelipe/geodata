@@ -1,15 +1,15 @@
-"id","name","lat","lon"
-1,"Region de Kedougou",12.842,-12.1903
-2,"Tambacounda",13.9278,-13.2878
-3,"Kolda",12.9574,-14.422
-4,"Region de Sedhiou",12.8803,-15.6151
-5,"Ziguinchor",12.4818,-16.3435
-6,"Saint-Louis",16.3051,-14.9945
-7,"Matam",15.4647,-13.5063
-8,"Region de Kaffrine",14.2364,-15.2014
-9,"Kaolack",13.8846,-15.9845
-10,"Fatick",13.8699,-16.4165
-11,"Louga",15.4183,-15.5162
-12,"Region de Thies",14.6931,-16.8671
-13,"Dakar",14.7835,-17.3327
-14,"Diourbel",14.7509,-16.1895
+id,name,lon,lat
+SEN-5515,Region de Kedougou,-12.35586,12.84903
+SEN-779,Tambacounda,-13.22591,13.93076
+SEN-774,Kolda,-14.42391,13.02939
+SEN-5514,Region de Sedhiou,-15.59101,12.90552
+SEN-775,Ziguinchor,-16.37537,12.78446
+SEN-5517,Saint-Louis,-15.07555,16.22104
+SEN-767,Matam,-13.74274,15.15347
+SEN-5516,Region de Kaffrine,-15.19869,14.2001
+SEN-765,Kaolack,-15.94905,13.94104
+SEN-764,Fatick,-16.31264,14.18227
+SEN-766,Louga,-15.53189,15.41516
+SEN-768,Region de Thies,-16.76325,14.83631
+SEN-759,Dakar,-17.2819,14.76489
+SEN-763,Diourbel,-16.09798,14.77691

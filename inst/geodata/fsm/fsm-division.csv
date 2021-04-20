@@ -1,5 +1,5 @@
-"id","name","lat","lon"
-1,"State of Kosrae",5.35641,162.927
-2,"State of Pohnpei",6.86579,158.163
-3,"State of Chuuk",7.44003,151.839
-4,"State of Yap",9.58101,138.114
+id,name,lon,lat
+FSM-4944,State of Kosrae,162.9845,5.318876
+FSM-4941,State of Pohnpei,157.6891,6.896639
+FSM-4942,State of Chuuk,151.6342,7.310591
+FSM-4943,State of Yap,138.1828,9.520102

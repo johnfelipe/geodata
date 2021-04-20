@@ -1,6 +1,6 @@
 ata_division:
   label: Antarctica division
   basename: ata-division
-  scope: ATA_adm1
+  scope: gadm36_ATA_0
   geographyName: name
   geographyId: id

@@ -1,36 +1,36 @@
-"id","name","lat","lon"
-1,"State of Gujarat",22.7501,71.3013
-2,"State of Jammu and Kashmir",33.9658,76.6395
-3,"State of Arunachal Pradesh",28.4056,94.4673
-4,"State of Assam",26.3302,92.9929
-5,"State of Sikkim",27.5709,88.4482
-6,"State of West Bengal",23.0523,87.7289
-7,"State of Uttarakhand",30.0576,79.2841
-8,"State of Uttar Pradesh",26.7201,80.9966
-9,"State of Bihar",25.6853,85.8134
-10,"State of Nagaland",26.1094,94.5664
-11,"State of Manipur",24.7442,93.8457
-12,"State of Mizoram",23.2037,92.8409
-13,"State of Tripura",23.8519,91.7031
-14,"State of Meghalaya",25.4804,91.3031
-15,"State of Punjab",31.0245,75.3762
-16,"State of Rajasthan",26.7468,73.8556
-17,"State of Himachal Pradesh",31.6755,77.2875
-18,"State of Andhra Pradesh",16.4854,79.208
-19,"State of Odisha",20.625,84.4341
-20,"Union Territory of Daman and Diu",20.4226,72.8511
-21,"State of Maharashtra",19.4723,75.4647
-22,"State of Goa",15.3133,73.9951
-23,"State of Karnataka",14.3681,75.667
-24,"State of Kerala",10.3666,76.5237
-25,"Union Territory of Puducherry",10.9224,79.7758
-26,"State of Tamil Nadu",11.0159,78.2704
-27,"Union Territory of Lakshadweep",11.2249,72.7811
-28,"Union Territory of Andaman and Nicobar Islands",6.83654,93.7895
-29,"State of Jharkhand",23.5221,85.0584
-30,"National Capital Territory of Delhi",28.69,77.0856
-31,"Union Territory of Dadra and Nagar Haveli",20.1841,73.029
-32,"Union Territory of Chandigarh",30.7452,76.7605
-33,"State of Madhya Pradesh",22.9404,78.4214
-34,"State of Chhattisgarh",21.8044,82.3069
-35,"State of Haryana",29.1003,76.271
+id,name,lon,lat
+IND-3264,State of Gujarat,71.55816,22.71282
+IND-2431,State of Jammu and Kashmir,76.59884,33.76086
+IND-3299,State of Arunachal Pradesh,94.67878,28.04811
+IND-2477,State of Assam,92.83129,26.35694
+IND-3259,State of Sikkim,88.44818,27.57202
+IND-3257,State of West Bengal,87.97257,23.80526
+IND-3254,State of Uttarakhand,79.19581,30.1612
+IND-3253,State of Uttar Pradesh,80.54192,26.93474
+IND-3258,State of Bihar,85.60423,25.6621
+IND-2479,State of Nagaland,94.4484,26.05981
+IND-2478,State of Manipur,93.86159,24.73038
+IND-3300,State of Mizoram,92.81914,23.29203
+IND-3301,State of Tripura,91.72854,23.75475
+IND-2489,State of Meghalaya,91.28704,25.53612
+IND-3249,State of Punjab,75.40436,30.84829
+IND-3250,State of Rajasthan,73.83426,26.59271
+IND-2429,State of Himachal Pradesh,77.22091,31.93629
+IND-2441,State of Andhra Pradesh,79.55737,16.59544
+IND-2444,State of Odisha,84.41454,20.51711
+IND-3504,Union Territory of Daman and Diu,72.59252,20.46012
+IND-2447,State of Maharashtra,76.10826,19.46035
+IND-3265,State of Goa,74.04583,15.35219
+IND-2446,State of Karnataka,76.15517,14.71983
+IND-2442,State of Kerala,76.42488,10.42382
+IND-3262,Union Territory of Puducherry,78.88564,11.96036
+IND-3263,State of Tamil Nadu,78.40231,11.01471
+IND-2443,Union Territory of Lakshadweep,72.82721,10.12129
+IND-2474,Union Territory of Andaman and Nicobar Islands,92.97554,11.13378
+IND-3256,State of Jharkhand,85.53339,23.64201
+IND-2428,National Capital Territory of Delhi,77.10794,28.66087
+IND-2445,Union Territory of Dadra and Nagar Haveli,73.03802,20.16973
+IND-2427,Union Territory of Chandigarh,76.76839,30.74353
+IND-3261,State of Madhya Pradesh,78.29278,23.53909
+IND-3260,State of Chhattisgarh,82.03337,21.25591
+IND-2430,State of Haryana,76.33647,29.20837

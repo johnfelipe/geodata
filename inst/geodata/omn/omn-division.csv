@@ -1,12 +1,12 @@
-"id","name","lat","lon"
-1,"Musandam",25.9744,56.2943
-2,"Muhafazat Shamal al Batinah",23.9794,56.8199
-3,"Muhafazat al Buraymi",24.3888,55.9933
-4,"Az Zahirah",22.9127,55.9327
-5,"Muhafazat Zufar",18.4966,54.2927
-6,"Muhafazat al Wusta",20.4263,56.8705
-7,"Muhafazat Janub ash Sharqiyah",21.5958,58.9632
-8,"Muhafazat Shamal ash Sharqiyah",22.2943,58.565
-9,"Muhafazat Masqat",23.2505,58.6759
-10,"Muhafazat Janub al Batinah",23.4299,57.6472
-11,"Muhafazat ad Dakhiliyah",22.474,57.3411
+id,name,lon,lat
+OMN-2425,Musandam,56.27846,25.95477
+OMN-2424,Muhafazat Shamal al Batinah,56.74227,24.12479
+OMN-4836,Muhafazat al Buraymi,55.90332,24.2223
+OMN-2414,Az Zahirah,56.05387,22.98954
+OMN-2411,Muhafazat Zufar,54.48901,18.57459
+OMN-2405,Muhafazat al Wusta,56.83041,20.58474
+OMN-2406,Muhafazat Janub ash Sharqiyah,58.87839,21.50503
+OMN-5496,Muhafazat Shamal ash Sharqiyah,58.60245,22.40162
+OMN-2426,Muhafazat Masqat,58.7096,23.23631
+OMN-5497,Muhafazat Janub al Batinah,57.68514,23.5019
+OMN-2404,Muhafazat ad Dakhiliyah,57.44246,22.44971

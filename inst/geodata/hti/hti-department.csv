@@ -1,11 +1,11 @@
-"id","name","lat","lon"
-1,"Departement du Nord-Est",19.4929,-71.9088
-2,"Centre",19.029,-72.0025
-3,"Departement de l'Ouest",18.5501,-72.2399
-4,"Sud-Est",18.2947,-72.3683
-5,"Sud",18.2929,-73.7855
-6,"Departement de la Grand'Anse",18.5137,-74.1273
-7,"Nord-Ouest",19.8257,-73.0166
-8,"Nord",19.6412,-72.3274
-9,"Departement de l'Artibonite",19.3089,-72.5089
-10,"Departement de Nippes",18.4297,-73.3909
+id,name,lon,lat
+HTI-1386,Departement du Nord-Est,-71.89382,19.51335
+HTI-1385,Centre,-71.98184,19.01011
+HTI-1388,Departement de l'Ouest,-72.43869,18.58068
+HTI-1389,Sud-Est,-72.36947,18.2545
+HTI-1362,Sud,-73.7228,18.28083
+HTI-1359,Departement de la Grand'Anse,-74.13725,18.5055
+HTI-1361,Nord-Ouest,-73.03957,19.81742
+HTI-1387,Nord,-72.295,19.59858
+HTI-1384,Departement de l'Artibonite,-72.56825,19.33297
+HTI-1360,Departement de Nippes,-73.39372,18.43205

@@ -1,21 +1,21 @@
-"id","name","lat","lon"
-1,"Sandaun Province",-3.45778,141.741
-2,"Western Province",-7.48919,142.01
-3,"East Sepik Province",-4.25081,143.391
-4,"Madang Province",-5.08973,145.086
-5,"Morobe Province",-6.3992,146.83
-6,"Northern Province",-9.11432,148.227
-7,"Milne Bay Province",-11.581,153.487
-8,"Central Province",-9.84123,148.034
-9,"National Capital District",-9.4476,147.174
-10,"Gulf Province",-7.21915,144.812
-11,"Bougainville",-5.23625,154.632
-12,"West New Britain Province",-5.91003,149.813
-13,"East New Britain Province",-5.65441,151.507
-14,"New Ireland Province",-2.51821,150.25
-15,"Manus Province",-2.30166,147.806
-16,"Chimbu Province",-6.27374,144.894
-17,"Enga Province",-5.48883,143.505
-18,"Western Highlands Province",-5.77031,144.404
-19,"Southern Highlands Province",-6.38625,143.446
-20,"Eastern Highlands Province",-6.4841,145.557
+id,name,lon,lat
+PNG-1241,Sandaun Province,141.7034,-3.912585
+PNG-1248,Western Province,142.0445,-7.422063
+PNG-1239,East Sepik Province,143.165,-4.295728
+PNG-1240,Madang Province,145.2819,-5.154519
+PNG-1253,Morobe Province,146.8425,-6.837393
+PNG-1256,Northern Province,148.2581,-8.979442
+PNG-1252,Milne Bay Province,150.6417,-10.04728
+PNG-1249,Central Province,147.6116,-9.192937
+PNG-1254,National Capital District,147.1936,-9.456738
+PNG-1244,Gulf Province,144.7968,-7.379844
+PNG-1245,Bougainville,155.2623,-6.141155
+PNG-1257,West New Britain Province,149.8828,-5.754776
+PNG-1250,East New Britain Province,151.6712,-5.092138
+PNG-1255,New Ireland Province,151.9497,-3.486766
+PNG-1251,Manus Province,146.9829,-2.086746
+PNG-1242,Chimbu Province,144.9233,-6.344459
+PNG-1238,Enga Province,143.4946,-5.418388
+PNG-1247,Western Highlands Province,144.4191,-5.793494
+PNG-1246,Southern Highlands Province,143.2883,-6.170132
+PNG-1243,Eastern Highlands Province,145.6163,-6.478405

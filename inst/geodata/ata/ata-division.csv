@@ -1,3 +1,2 @@
-"id","name","lat","lon"
-1,"Antarctica (general)",-81.6905,0.238256
-2,"unknown",-83.0384,-170.343
+id,name,lon,lat
+ATA,Antarctica,19.87253,-80.50696

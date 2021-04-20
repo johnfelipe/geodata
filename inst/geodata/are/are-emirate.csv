@@ -1,10 +1,8 @@
-"id","name","lat","lon"
-1,"Al Fujayrah",25.4752,56.2221
-2,"Ash Shariqah",25.172,55.7788
-3,"Ra's al Khaymah",25.6964,55.9791
-4,"Dubayy",24.9508,55.3436
-5,"unknown",24.925,56.2932
-6,"unknown",24.8164,56.0315
-7,"Abu Zaby",23.5238,54.0817
-8,"Umm al Qaywayn",25.5218,55.7217
-9,"`Ajman",25.3971,55.5411
+id,name,lon,lat
+AE.AZ,Abu Dhabi,54.04467,23.66198
+AE.AJ,Ajman,55.73224,25.22621
+AE.DU,Dubai,55.39722,24.94265
+AE.FU,Fujairah,56.20353,25.35415
+AE.RK,Ras Al-Khaimah,56.0436,25.46293
+AE.SH,Sharjah,55.81499,25.17046
+AE.UQ,Umm al-Qaywayn,55.74216,25.487

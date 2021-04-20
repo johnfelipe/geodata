@@ -1,19 +1,19 @@
-"id","name","lat","lon"
-1,"Dihok",37.0875,43.2281
-2,"Muhafazat Arbil",36.2371,44.1806
-3,"Muhafazat al Basrah",30.6802,47.5605
-4,"Muhafazat al Muthanna",30.4381,45.2843
-5,"Muhafazat as Sulaymaniyah",35.332,45.4331
-6,"Muhafazat Diyala",33.9882,45.1046
-7,"Muhafazat Wasit",32.6139,45.5635
-8,"Muhafazat Maysan",31.8089,47.0739
-9,"Muhafazat al Anbar",33.2317,41.5307
-10,"An Najaf",30.9322,43.7551
-11,"Muhafazat Ninawa",35.9228,42.7469
-12,"Muhafazat Salah ad Din",34.3421,43.7294
-13,"Muhafazat Kirkuk",35.3281,44.0354
-14,"Muhafazat Baghdad",33.306,44.3827
-15,"Muhafazat Babil",32.6833,44.5099
-16,"Muhafazat al Qadisiyah",31.6081,45.1075
-17,"Muhafazat Dhi Qar",31.191,46.4203
-18,"Muhafazat Karbala'",32.502,43.7651
+id,name,lon,lat
+IRQ-3046,Dihok,43.13931,37.06302
+IRQ-3050,Muhafazat Arbil,44.20129,36.33806
+IRQ-3222,Muhafazat al Basrah,47.39794,30.39668
+IRQ-3223,Muhafazat al Muthanna,45.37324,30.1835
+IRQ-3242,Muhafazat as Sulaymaniyah,45.30353,35.53745
+IRQ-3243,Muhafazat Diyala,45.05802,33.90267
+IRQ-3227,Muhafazat Wasit,45.71886,32.66398
+IRQ-3226,Muhafazat Maysan,47.04512,31.88758
+IRQ-3471,Muhafazat al Anbar,41.62197,32.96804
+IRQ-3061,An Najaf,43.80369,31.10712
+IRQ-3051,Muhafazat Ninawa,42.47444,36.02295
+IRQ-3052,Muhafazat Salah ad Din,43.64173,34.52381
+IRQ-3049,Muhafazat Kirkuk,44.13757,35.35453
+IRQ-3063,Muhafazat Baghdad,44.39113,33.29756
+IRQ-3472,Muhafazat Babil,44.53751,32.63947
+IRQ-3224,Muhafazat al Qadisiyah,45.06397,31.87163
+IRQ-3225,Muhafazat Dhi Qar,46.34114,31.20943
+IRQ-3062,Muhafazat Karbala',43.82345,32.506

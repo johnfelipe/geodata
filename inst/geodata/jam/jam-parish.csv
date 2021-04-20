@@ -1,15 +1,15 @@
-"id","name","lat","lon"
-1,"Parish of Saint Ann",18.3194,-77.2438
-2,"Parish of Trelawny",18.36,-77.6163
-3,"Parish of Saint James",18.3637,-77.8715
-4,"Parish of Hanover",18.3953,-78.1337
-5,"Parish of Westmoreland",18.2678,-78.1303
-6,"Parish of Saint Elizabeth",18.0537,-77.7646
-7,"Parish of Manchester",18.0219,-77.4996
-8,"Parish of Clarendon",17.9947,-77.3109
-9,"Parish of Saint Catherine",17.8518,-77.0292
-10,"Parish of Saint Andrew",18.0229,-76.7685
-11,"Parish of Kingston",17.9799,-76.7653
-12,"Parish of Saint Thomas",17.951,-76.4226
-13,"Parish of Portland",18.1179,-76.5041
-14,"Parish of Saint Mary",18.2655,-76.8859
+id,name,lon,lat
+JAM-1379,Parish of Saint Ann,-77.26594,18.31582
+JAM-1375,Parish of Trelawny,-77.61366,18.35582
+JAM-1374,Parish of Saint James,-77.85681,18.38422
+JAM-1371,Parish of Hanover,-78.14008,18.37308
+JAM-1376,Parish of Westmoreland,-78.09914,18.23922
+JAM-1373,Parish of Saint Elizabeth,-77.75068,18.05094
+JAM-1372,Parish of Manchester,-77.5133,18.02801
+JAM-1370,Parish of Clarendon,-77.28334,17.98539
+JAM-1380,Parish of Saint Catherine,-77.02133,18.04696
+JAM-1382,Parish of Saint Andrew,-76.7609,18.04672
+JAM-1377,Parish of Kingston,-76.7648,17.97759
+JAM-1383,Parish of Saint Thomas,-76.45179,17.94755
+JAM-1378,Parish of Portland,-76.51947,18.11769
+JAM-1381,Parish of Saint Mary,-76.89172,18.28082

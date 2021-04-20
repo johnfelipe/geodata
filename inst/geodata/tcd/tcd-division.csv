@@ -1,23 +1,23 @@
-"id","name","lat","lon"
-1,"Lac Region",13.431,14.6744
-2,"Sila",12.2336,21.1347
-3,"Salamat Region",10.5811,20.6054
-4,"Moyen-Chari Region",9.0852,18.4827
-5,"Mandoul",8.67832,17.5493
-6,"Logone Oriental Region",8.12559,16.23
-7,"Hadjer-Lamis",12.7695,15.8235
-8,"Chari-Baguirmi Region",11.468,16.2095
-9,"Ville de N'Djamena",12.1413,15.0579
-10,"Mayo-Kebbi East Region",9.71626,15.4373
-11,"Mayo-Kebbi West Region",9.26179,14.7357
-12,"Ennedi Region",18.1286,22.1045
-13,"Borkou Region",18.8249,19.4819
-14,"Tibesti Region",21.4716,16.6178
-15,"Kanem Region",15.2641,15.8001
-16,"Ouaddai Region",13.4714,21.1068
-17,"Wadi Fira Region",15.0457,21.5596
-18,"Barh el Gazel",14.5304,16.9496
-19,"Tandjile Region",9.67051,16.4994
-20,"Logone Occidental Region",8.77035,15.9306
-21,"Guera Region",11.3122,18.0946
-22,"Batha Region",14.0823,18.6222
+id,name,lon,lat
+TCD-1466,Lac Region,14.35543,13.67274
+TCD-5582,Sila,21.41118,12.13912
+TCD-1489,Salamat Region,20.54175,10.79941
+TCD-5583,Moyen-Chari Region,18.61274,9.418339
+TCD-1488,Mandoul,17.5732,8.690333
+TCD-1485,Logone Oriental Region,16.37776,8.194564
+TCD-1464,Hadjer-Lamis,16.17092,12.56726
+TCD-5580,Chari-Baguirmi Region,16.2881,11.25442
+TCD-4857,Ville de N'Djamena,15.06921,12.1194
+TCD-1486,Mayo-Kebbi East Region,15.53889,10.18291
+TCD-4858,Mayo-Kebbi West Region,14.74494,9.310773
+TCD-5579,Ennedi Region,22.07226,18.12442
+TCD-5577,Borkou Region,18.47429,18.38408
+TCD-5578,Tibesti Region,16.61417,21.20478
+TCD-1465,Kanem Region,15.24788,15.17242
+TCD-1475,Ouaddai Region,21.11869,13.57216
+TCD-1473,Wadi Fira Region,21.47336,15.06195
+TCD-5581,Barh el Gazel,16.84091,14.60458
+TCD-1487,Tandjile Region,16.46526,9.533461
+TCD-1484,Logone Occidental Region,15.8874,8.753943
+TCD-1474,Guera Region,18.57694,11.51233
+TCD-1472,Batha Region,18.74915,14.03799

@@ -1,16 +1,16 @@
-"id","name","lat","lon"
-1,"Provincie Groningen",53.279,6.73067
-2,"Provincie Drenthe",52.9046,6.60064
-3,"Provincie Overijssel",52.4311,6.41649
-4,"Provincie Gelderland",52.0635,5.96001
-5,"Provincie Limburg",51.2248,5.93161
-6,"Provincie Zeeland",51.2837,3.78515
-7,"Provincie Noord-Brabant",51.6008,5.16122
-8,"Provincie Zuid-Holland",52.0075,4.52252
-9,"Provincie Noord-Holland",52.5748,4.89736
-10,"Provincie Friesland",53.0792,5.77345
-11,"Bonaire",12.2314,-68.3029
-12,"Sint Eustatius",17.4852,-62.9719
-13,"Saba",17.6325,-63.2371
-14,"Provincie Flevoland",52.5508,5.55746
-15,"Provincie Utrecht",52.0749,5.1938
+id,name,lon,lat
+NLD-897,Provincie Groningen,6.732405,53.21914
+NLD-894,Provincie Drenthe,6.617805,52.86147
+NLD-899,Provincie Overijssel,6.433256,52.44655
+NLD-896,Provincie Gelderland,5.937352,52.06354
+NLD-898,Provincie Limburg,5.920043,51.19668
+NLD-903,Provincie Zeeland,3.820055,51.44811
+NLD-3483,Provincie Noord-Brabant,5.189478,51.55942
+NLD-3485,Provincie Zuid-Holland,4.504826,51.93931
+NLD-3486,Provincie Noord-Holland,4.925212,52.6022
+NLD-895,Provincie Friesland,5.797273,53.0886
+NLD-5149,Bonaire,-68.28759,12.18647
+NLD-5148,Sint Eustatius,-62.97412,17.48918
+NLD-5147,Saba,-63.238,17.6305
+NLD-902,Provincie Flevoland,5.523738,52.55666
+NLD-3484,Provincie Utrecht,5.171024,52.10295

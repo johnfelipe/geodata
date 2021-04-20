@@ -1,25 +1,25 @@
-"id","name","lat","lon"
-1,"Khett Rotanokiri",13.2418,107.082
-2,"Khett Mondol Kiri",12.6284,106.961
-3,"Khett Kracheh",12.66,106.184
-4,"Khett Kampong Cham",12.1206,105.629
-5,"Khett Svay Rieng",11.0416,105.888
-6,"Khett Prey Veng",11.3561,105.473
-7,"Khett Kandal",11.5453,104.973
-8,"Khett Takev",10.9346,104.751
-9,"Khett Kampot",10.8503,104.328
-10,"Otar Meanchey",14.1712,103.55
-11,"Khett Preah Vihear",13.728,105.125
-12,"Khett Siem Reab",13.5711,104.043
-13,"Khett Banteay Mean Choay",13.7359,102.873
-14,"Khett Kaoh Kong",11.5609,103.466
-15,"Khett Pouthisat",12.3391,103.549
-16,"Khett Batdambang",12.9675,103.068
-17,"Pailin",12.8901,102.611
-18,"Khett Stoeng Treng",13.6662,106.095
-19,"Khett Preah Seihanu",10.4854,103.775
-20,"Keb",10.5308,104.346
-21,"Khett Kampong Chhnang",12.1624,104.548
-22,"Khett Kampong Thum",12.6883,104.972
-23,"Khett Kampong Spoe",11.5221,104.282
-24,"Phnum Penh",11.5733,104.874
+id,name,lon,lat
+KHM-1795,Khett Rotanokiri,107.0516,13.82242
+KHM-1794,Khett Mondol Kiri,106.9799,12.76669
+KHM-1793,Khett Kracheh,106.1677,12.63345
+KHM-1784,Khett Kampong Cham,105.5899,12.03434
+KHM-1801,Khett Svay Rieng,105.8549,11.13948
+KHM-1790,Khett Prey Veng,105.4328,11.40251
+KHM-1786,Khett Kandal,105.0069,11.43397
+KHM-1802,Khett Takev,104.817,10.94993
+KHM-1797,Khett Kampot,104.3132,10.80145
+KHM-1782,Otar Meanchey,103.5378,14.1964
+KHM-1791,Khett Preah Vihear,105.0058,13.81676
+KHM-1781,Khett Siem Reab,104.0483,13.60855
+KHM-1777,Khett Banteay Mean Choay,103.0064,13.73739
+KHM-1779,Khett Kaoh Kong,103.4761,11.48877
+KHM-1780,Khett Pouthisat,103.6308,12.40507
+KHM-1778,Khett Batdambang,103.0755,13.01229
+KHM-1783,Pailin,102.6205,12.87659
+KHM-1792,Khett Stoeng Treng,106.145,13.78498
+KHM-1800,Khett Preah Seihanu,103.7673,10.69745
+KHM-1798,Keb,104.3465,10.52197
+KHM-1785,Khett Kampong Chhnang,104.5672,12.16522
+KHM-1788,Khett Kampong Thum,105.0424,12.83924
+KHM-1787,Khett Kampong Spoe,104.2932,11.56217
+KHM-1789,Phnum Penh,104.8702,11.55093

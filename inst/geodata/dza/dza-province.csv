@@ -1,49 +1,49 @@
-"id","name","lat","lon"
-1,"Adrar",25.7004,-0.93557
-2,"Wilaya de Tamanghasset",23.0089,6.39695
-3,"Wilaya de Tindouf",27.4985,-5.8285
-4,"Wilaya de Bechar",30.1882,-2.81838
-5,"El Tarf",36.7012,8.14597
-6,"El Oued",33.1137,7.03557
-7,"Wilaya de Tebessa",34.9437,7.78338
-8,"Wilaya de Souk Ahras",36.1547,7.84211
-9,"Wilaya de Ouargla",31.0014,6.2527
-10,"Illizi",26.8506,8.7628
-11,"Wilaya de Naama",33.1649,-0.830564
-12,"Wilaya de Tlemcen",34.7431,-1.49045
-13,"Annaba",36.823,7.53073
-14,"Wilaya de Skikda",36.7555,6.81608
-15,"Wilaya de Jijel",36.7106,5.95292
-16,"Wilaya de Bejaia",36.6189,4.91591
-17,"Wilaya de Tizi Ouzou",36.6814,4.19086
-18,"Wilaya de Boumerdes",36.7503,3.60632
-19,"Wilaya d' Alger",36.7024,3.09806
-20,"Wilaya de Tipaza",36.527,2.34141
-21,"Wilaya de Chlef",36.2337,1.21078
-22,"Wilaya de Mostaganem",35.9631,0.313449
-23,"Oran",35.5208,-0.610009
-24,"Wilaya de Ain Temouchent",35.2708,-0.995722
-25,"Wilaya de Setif",36.0513,5.38428
-26,"Wilaya de Bordj Bou Arreridj",36.0966,4.66926
-27,"Wilaya de Bouira",36.1884,3.84375
-28,"Wilaya de Blida",36.503,2.99331
-29,"Wilaya de Tissemsilt",35.7302,1.77868
-30,"Wilaya de Ain Defla",36.1735,2.10714
-31,"Wilaya de Relizane",35.8174,0.820498
-32,"El Bayadh",32.7753,0.971858
-33,"Wilaya de Saida",34.5917,0.178599
-34,"Wilaya de Sidi Bel Abbes",34.8335,-0.586496
-35,"Wilaya de Mascara",35.3625,0.167566
-36,"Wilaya de Ghardaia",31.1547,3.11396
-37,"Wilaya de Laghouat",33.4521,2.75622
-38,"Wilaya de Medea",35.8958,2.76411
-39,"Wilaya de Tiaret",34.9048,1.55627
-40,"Wilaya de M'Sila",35.3592,4.37961
-41,"Wilaya de Batna",35.5923,5.78213
-42,"Wilaya de Khenchela",34.8896,7.02787
-43,"Wilaya de Guelma",36.4381,7.46291
-44,"Wilaya de Constantine",36.3731,6.68301
-45,"Wilaya de Mila",36.2449,6.1311
-46,"Oum el Bouaghi",35.891,7.00715
-47,"Wilaya de Biskra",34.7569,5.46698
-48,"Wilaya de Djelfa",34.1508,3.70376
+id,name,lon,lat
+DZA-2143,Adrar,-0.4431291,25.70358
+DZA-2189,Wilaya de Tamanghasset,5.116538,23.97283
+DZA-2150,Wilaya de Tindouf,-6.095677,27.6225
+DZA-2148,Wilaya de Bechar,-2.559681,30.14604
+DZA-2164,El Tarf,8.117466,36.72226
+DZA-2191,El Oued,6.957214,33.22246
+DZA-2223,Wilaya de Tebessa,7.810235,35.00576
+DZA-2222,Wilaya de Souk Ahras,7.886958,36.15578
+DZA-2194,Wilaya de Ouargla,6.209055,30.65815
+DZA-2188,Illizi,8.35342,26.79567
+DZA-2149,Wilaya de Naama,-0.7823816,33.27445
+DZA-2147,Wilaya de Tlemcen,-1.422379,34.73367
+DZA-2163,Annaba,7.530109,36.85892
+DZA-2166,Wilaya de Skikda,6.812253,36.78157
+DZA-2165,Wilaya de Jijel,5.961299,36.70149
+DZA-2208,Wilaya de Bejaia,4.846775,36.57038
+DZA-2197,Wilaya de Tizi Ouzou,4.223301,36.67993
+DZA-2196,Wilaya de Boumerdes,3.683181,36.76547
+DZA-2195,Wilaya d' Alger,3.090417,36.72437
+DZA-2198,Wilaya de Tipaza,2.312143,36.54314
+DZA-2200,Wilaya de Chlef,1.260463,36.23251
+DZA-2202,Wilaya de Mostaganem,0.3318108,35.99257
+DZA-2145,Oran,-0.6320727,35.62965
+DZA-2144,Wilaya de Ain Temouchent,-1.030822,35.33511
+DZA-2215,Wilaya de Setif,5.465662,36.13425
+DZA-2207,Wilaya de Bordj Bou Arreridj,4.730867,36.08527
+DZA-2210,Wilaya de Bouira,3.848988,36.27713
+DZA-2209,Wilaya de Blida,2.999739,36.52675
+DZA-2206,Wilaya de Tissemsilt,1.800495,35.74581
+DZA-2199,Wilaya de Ain Defla,2.080167,36.17607
+DZA-2203,Wilaya de Relizane,0.8007877,35.79364
+DZA-2190,El Bayadh,0.9414058,32.57044
+DZA-2204,Wilaya de Saida,0.171263,34.59339
+DZA-2146,Wilaya de Sidi Bel Abbes,-0.5659242,34.78948
+DZA-2201,Wilaya de Mascara,0.1430219,35.3896
+DZA-2192,Wilaya de Ghardaia,3.117161,31.16228
+DZA-2193,Wilaya de Laghouat,2.69917,33.55992
+DZA-2213,Wilaya de Medea,2.93701,35.97355
+DZA-2205,Wilaya de Tiaret,1.515626,34.95786
+DZA-2214,Wilaya de M'Sila,4.276394,35.30069
+DZA-2216,Wilaya de Batna,5.883072,35.42785
+DZA-2219,Wilaya de Khenchela,6.999356,34.97437
+DZA-2218,Wilaya de Guelma,7.39913,36.4022
+DZA-2217,Wilaya de Constantine,6.709238,36.34729
+DZA-2220,Wilaya de Mila,6.158338,36.2944
+DZA-2221,Oum el Bouaghi,7.081934,35.84747
+DZA-2211,Wilaya de Biskra,5.344488,34.5022
+DZA-2212,Wilaya de Djelfa,3.550837,34.33257

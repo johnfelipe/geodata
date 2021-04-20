@@ -1,11 +1,11 @@
-"id","name","lat","lon"
-1,"Matabeleland North Province",-18.7582,27.2215
-2,"Matabeleland South Province",-20.8913,28.8871
-3,"Masvingo Province",-20.7844,31.0875
-4,"Mashonaland West Province",-17.0176,29.5025
-5,"Mashonaland Central Province",-16.8822,31.3922
-6,"Mashonaland East Province",-18.2141,31.666
-7,"Manicaland Province",-18.9399,32.1206
-8,"Midlands Province",-19.0828,29.4323
-9,"Harare Province",-17.8928,31.0506
-10,"Bulawayo Province",-20.1393,28.5463
+id,name,lon,lat
+ZWE-526,Matabeleland North Province,27.39492,-18.82036
+ZWE-530,Matabeleland South Province,28.97658,-21.00601
+ZWE-532,Masvingo Province,31.23131,-20.78608
+ZWE-533,Mashonaland West Province,29.70827,-17.18284
+ZWE-524,Mashonaland Central Province,31.18888,-16.71121
+ZWE-528,Mashonaland East Province,31.67866,-18.00439
+ZWE-529,Manicaland Province,32.38594,-19.07132
+ZWE-527,Midlands Province,29.46069,-18.98143
+ZWE-525,Harare Province,31.0617,-17.8635
+ZWE-531,Bulawayo Province,28.5486,-20.14025

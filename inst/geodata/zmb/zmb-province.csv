@@ -1,11 +1,11 @@
-"id","name","lat","lon"
-1,"unknown",-11.3701,32.0234
-2,"Eastern Province",-13.7617,31.8341
-3,"Northern Province",-9.79906,30.7539
-4,"Lusaka Province",-15.4426,29.0846
-5,"Southern Province",-16.6906,26.9583
-6,"Western Province",-15.7815,23.7642
-7,"North-Western Province",-12.7303,24.7847
-8,"Luapula Province",-11.6471,29.4045
-9,"Copperbelt Province",-13.1044,27.9272
-10,"Central Province",-14.5199,28.3755
+id,name,lon,lat
+ZMB-5511,NA,31.94225,-11.20116
+ZMB-518,Eastern Province,31.88819,-13.58796
+ZMB-515,Northern Province,30.49315,-9.684059
+ZMB-520,Lusaka Province,29.21721,-15.37007
+ZMB-522,Southern Province,26.66511,-16.58646
+ZMB-523,Western Province,23.66345,-15.64816
+ZMB-521,North-Western Province,25.04991,-13.0314
+ZMB-514,Luapula Province,29.20621,-10.68925
+ZMB-517,Copperbelt Province,27.84623,-13.12364
+ZMB-516,Central Province,28.60494,-14.18533

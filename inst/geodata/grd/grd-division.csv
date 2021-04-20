@@ -1,8 +1,8 @@
-"id","name","lat","lon"
-1,"Saint George",12.0681,-61.7226
-2,"Saint David",12.055,-61.6617
-3,"Saint Andrew",12.1224,-61.6329
-4,"Saint Patrick",12.2147,-61.6342
-5,"Saint Mark",12.189,-61.6749
-6,"Saint John",12.1446,-61.7094
-7,"Carriacou and Petite Martinique",12.4733,-61.4461
+id,name,lon,lat
+GRD-5072,Saint George,-61.72421,12.05688
+GRD-5071,Saint David,-61.6632,12.0575
+GRD-5070,Saint Andrew,-61.64236,12.1286
+GRD-5075,Saint Patrick,-61.63803,12.20897
+GRD-5074,Saint Mark,-61.67983,12.1913
+GRD-5073,Saint John,-61.70618,12.14357
+GRD-5069,Carriacou and Petite Martinique,-61.45181,12.48003

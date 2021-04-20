@@ -1,6 +1,6 @@
-"id","name","lat","lon"
-1,"Iles Tuamotu-Gambier",-16.7377,-143.144
-2,"Iles du Vent",-17.7462,-149.519
-3,"Iles du Vent",-16.6692,-151.495
-4,"Iles Australes",-22.5218,-151.324
-5,"Iles Marquises",-9.75565,-139.037
+id,name,lon,lat
+PYF-4965,Iles Tuamotu-Gambier,-142.3163,-17.517
+PYF-4963,Iles du Vent,-149.4681,-17.64752
+PYF-4964,Iles du Vent,-151.4685,-16.74235
+PYF-4966,Iles Australes,-147.7154,-24.84883
+PYF-4967,Iles Marquises,-139.5733,-9.377764

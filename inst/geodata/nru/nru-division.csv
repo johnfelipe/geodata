@@ -1,15 +1,15 @@
-"id","name","lat","lon"
-1,"Anetan District",-0.494702,166.936
-2,"Ewa District",-0.502076,166.934
-3,"Baiti District",-0.500672,166.925
-4,"Uaboe District",-0.506992,166.924
-5,"Uaboe District",-0.512961,166.921
-6,"Denigomodu District",-0.520335,166.914
-7,"Aiwo District",-0.529816,166.913
-8,"Boe District",-0.538594,166.916
-9,"Yaren",-0.543159,166.925
-10,"Anibare District",-0.539648,166.939
-11,"Anibare District",-0.519984,166.947
-12,"Ijuw District",-0.504534,166.951
-13,"Anabar District",-0.497511,166.944
-14,"Buada District",-0.527877,166.925
+id,name,lon,lat
+NRU-4978,Anetan District,166.9363,-0.4959667
+NRU-4977,Ewa District,166.933,-0.5007717
+NRU-4976,Baiti District,166.929,-0.504884
+NRU-4975,Uaboe District,166.9257,-0.5082445
+NRU-4974,Uaboe District,166.9223,-0.5141467
+NRU-4973,Denigomodu District,166.9129,-0.5198939
+NRU-4972,Aiwo District,166.913,-0.5298912
+NRU-4971,Boe District,166.9161,-0.5398308
+NRU-4983,Yaren,166.9241,-0.5437203
+NRU-4982,Anibare District,166.9386,-0.5396495
+NRU-4981,Anibare District,166.9465,-0.5199938
+NRU-4980,Ijuw District,166.9503,-0.5048858
+NRU-4979,Anabar District,166.9445,-0.4975333
+NRU-4970,Buada District,166.9247,-0.5285538

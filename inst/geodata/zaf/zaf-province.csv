@@ -1,10 +1,10 @@
-"id","name","lat","lon"
-1,"Province of Northern Cape",-29.7437,20.9961
-2,"Province of KwaZulu-Natal",-28.7468,30.8231
-3,"Free State",-28.5815,26.4914
-4,"Province of Eastern Cape",-32.0622,26.6417
-5,"Limpopo",-23.5859,29.1301
-6,"Province of North-West",-26.3999,25.7403
-7,"Mpumalanga",-25.9893,30.1421
-8,"Province of the Western Cape",-33.5035,20.9745
-9,"Gauteng",-26.1682,28.2074
+id,name,lon,lat
+ZAF-1188,Province of Northern Cape,21.34589,-29.5216
+ZAF-1216,Province of KwaZulu-Natal,30.71872,-28.7103
+ZAF-1206,Free State,26.86653,-28.60572
+ZAF-1926,Province of Eastern Cape,26.46174,-32.14043
+ZAF-1210,Limpopo,29.30526,-23.7384
+ZAF-1201,Province of North-West,25.33642,-26.31764
+ZAF-1209,Mpumalanga,30.23213,-25.86475
+ZAF-1189,Province of the Western Cape,20.66224,-33.05125
+ZAF-1208,Gauteng,28.21281,-26.0431

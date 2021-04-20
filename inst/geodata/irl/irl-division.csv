@@ -1,35 +1,35 @@
-"id","name","lat","lon"
-1,"County Donegal",54.8924,-8.02986
-2,"County Leitrim",54.0513,-7.99465
-3,"An Cabhan",53.9623,-7.27176
-4,"County Monaghan",54.2106,-6.94174
-5,"Lu",53.9259,-6.48625
-6,"Dublin City",53.3683,-6.26188
-7,"Dun Laoghaire-Rathdown",53.26,-6.18788
-8,"Wicklow",52.9947,-6.38849
-9,"Loch Garman",52.4423,-6.58517
-10,"Kilkenny",52.5758,-7.2941
-11,"Waterford",52.199,-7.59292
-12,"County Cork",51.9396,-8.83835
-13,"Cork City",51.8868,-8.47351
-14,"Ciarrai",52.1195,-9.5547
-15,"County Limerick",52.5242,-8.75892
-16,"An Clar",52.8909,-9.10704
-17,"County Galway",53.4045,-8.61598
-18,"Galway City",53.302,-9.03273
-19,"Maigh Eo",53.895,-9.23048
-20,"Sligo",54.1277,-8.489
-21,"An Mhi",53.6324,-6.71387
-22,"Fingal County",53.4927,-6.2769
-23,"Kildare",53.1364,-6.79999
-24,"County Carlow",52.715,-6.79431
-25,"Laois",53.0116,-7.32962
-26,"South Dublin",53.2831,-6.40147
-27,"Uibh Fhaili",53.2565,-7.53214
-28,"An Iarmhi",53.5252,-7.4553
-29,"An Longfort",53.7166,-7.70239
-30,"Roscommon",53.7738,-8.21208
-31,"Tipperary North Riding",52.7597,-7.97632
-32,"Tipperary South Riding",52.4462,-7.83145
-33,"Waterford City",52.2284,-7.07931
-34,"Limerick City",52.6485,-8.60278
+id,name,lon,lat
+IRL-729,County Donegal,-7.906472,54.92118
+IRL-730,County Leitrim,-8.016342,54.1358
+IRL-79,An Cabhan,-7.335525,53.99216
+IRL-3412,County Monaghan,-6.923998,54.1559
+IRL-712,Lu,-6.407593,53.91192
+IRL-5575,Dublin City,-6.257446,53.36716
+IRL-5576,Dun Laoghaire-Rathdown,-6.19113,53.25441
+IRL-719,Wicklow,-6.369125,52.97701
+IRL-718,Loch Garman,-6.57262,52.45932
+IRL-722,Kilkenny,-7.22851,52.57164
+IRL-1444,Waterford,-7.610357,52.17171
+IRL-78,County Cork,-8.835508,51.91925
+IRL-5569,Cork City,-8.470393,51.88474
+IRL-725,Ciarrai,-9.717997,52.11125
+IRL-726,County Limerick,-8.740214,52.4868
+IRL-76,An Clar,-9.027561,52.84925
+IRL-713,County Galway,-8.928996,53.3622
+IRL-5568,Galway City,-9.018323,53.29194
+IRL-714,Maigh Eo,-9.381033,53.92257
+IRL-728,Sligo,-8.619733,54.15733
+IRL-715,An Mhi,-6.72228,53.63339
+IRL-5574,Fingal County,-6.249953,53.49793
+IRL-721,Kildare,-6.811321,53.19056
+IRL-77,County Carlow,-6.81707,52.72895
+IRL-723,Laois,-7.352494,52.98151
+IRL-5573,South Dublin,-6.394184,53.28077
+IRL-716,Uibh Fhaili,-7.593741,53.20842
+IRL-717,An Iarmhi,-7.436556,53.52806
+IRL-731,An Longfort,-7.719479,53.71485
+IRL-727,Roscommon,-8.248193,53.72349
+IRL-724,Tipperary North Riding,-8.034727,52.82599
+IRL-5572,Tipperary South Riding,-7.864452,52.45343
+IRL-5571,Waterford City,-7.079545,52.23399
+IRL-5570,Limerick City,-8.608405,52.65039

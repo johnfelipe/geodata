@@ -1,9 +1,9 @@
-"id","name","lat","lon"
-1,"Issyk-Kul'skaya Oblast'",42.0387,77.9472
-2,"Naryn Oblasty",41.3438,75.9766
-3,"Osh Oblasty",40.1122,73.177
-4,"Chuy Oblasty",42.6512,75.1456
-5,"Talas Oblasty",42.4795,72.2727
-6,"Jalal-Abad Oblasty",41.5886,72.4506
-7,"Batken Oblasty",39.7902,70.8882
-8,"Gorod Bishkek",42.8424,74.5877
+id,name,lon,lat
+KGZ-1117,Issyk-Kul'skaya Oblast',77.93137,42.16314
+KGZ-1118,Naryn Oblasty,75.64291,41.3644
+KGZ-1122,Osh Oblasty,73.23101,40.13723
+KGZ-1116,Chuy Oblasty,74.61833,42.6177
+KGZ-1121,Talas Oblasty,72.12951,42.43374
+KGZ-1120,Jalal-Abad Oblasty,72.46542,41.5713
+KGZ-1119,Batken Oblasty,70.85177,39.86261
+KGZ-1115,Gorod Bishkek,74.59435,42.85937

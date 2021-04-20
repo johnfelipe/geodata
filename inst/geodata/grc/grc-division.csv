@@ -1,15 +1,15 @@
-"id","name","lat","lon"
-1,"West Macedonia",40.3834,21.4551
-2,"Epirus",39.6365,20.6925
-3,"Central Macedonia",40.8836,22.8519
-4,"East Macedonia and Thrace",41.1043,25.2076
-5,"Mount Athos",40.2922,24.1925
-6,"Thessaly",39.5322,22.1914
-7,"Central Greece",38.6373,22.6102
-8,"Attica",38.0626,23.7997
-9,"Peloponnese",37.3319,22.3501
-10,"West Greece",38.0299,21.7273
-11,"Crete",35.1921,25.0652
-12,"South Aegean",37.0538,25.4867
-13,"North Aegean",39.9531,25.2262
-14,"Ionian Islands",38.2419,20.5554
+id,name,lon,lat
+GRC-2892,West Macedonia,21.4518,40.33957
+GRC-2949,Epirus,20.76417,39.59118
+GRC-2991,Central Macedonia,22.93419,40.73282
+GRC-3001,East Macedonia and Thrace,25.14188,41.16522
+GRC-2992,Mount Athos,24.19113,40.27461
+GRC-2900,Thessaly,22.20213,39.51465
+GRC-2989,Central Greece,22.82501,38.65293
+GRC-2884,Attica,23.60181,37.8403
+GRC-2885,Peloponnese,22.45433,37.34958
+GRC-2886,West Greece,21.57249,38.2733
+GRC-2990,Crete,24.84655,35.23125
+GRC-3013,South Aegean,26.3353,36.732
+GRC-2988,North Aegean,26.1052,38.80681
+GRC-2883,Ionian Islands,20.43009,38.61937

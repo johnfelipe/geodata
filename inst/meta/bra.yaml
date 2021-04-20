@@ -1,7 +1,7 @@
 bra_states:
   label: Brazil states
   basename: bra-states
-  scope: BRA_adm1
+  scope: gadm36_BRA_1
   geographyName: name
   geographyId: id
   projections:

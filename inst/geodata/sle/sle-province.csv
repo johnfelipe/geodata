@@ -1,5 +1,5 @@
-"id","name","lat","lon"
-1,"Northern Province",9.14067,-11.9468
-2,"Eastern Province",8.27415,-10.9314
-3,"Southern Province",7.85416,-12.0512
-4,"Western Area",8.31041,-13.0935
+id,name,lon,lat
+SLE-762,Northern Province,-11.98901,9.137229
+SLE-790,Eastern Province,-10.98334,8.239438
+SLE-760,Southern Province,-12.02528,7.785116
+SLE-761,Western Area,-13.108,8.338036

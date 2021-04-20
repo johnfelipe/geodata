@@ -1,21 +1,21 @@
-"id","name","lat","lon"
-1,"Distrito de Viana do Castelo",41.9099,-8.4986
-2,"Distrito de Braga",41.5663,-8.31863
-3,"Distrito de Braganca",41.5188,-6.81935
-4,"Distrito de Vila Real",41.5279,-7.64533
-5,"Distrito da Guarda",40.2918,-7.31624
-6,"Distrito de Castelo Branco",39.9984,-7.58224
-7,"Distrito de Portalegre",39.2822,-7.65389
-8,"Distrito de Evora",38.6036,-7.88463
-9,"Distrito de Beja",37.8511,-7.88716
-10,"Distrito de Faro",37.1704,-7.93895
-11,"Distrito de Setubal",38.2071,-8.57318
-12,"Distrito de Lisboa",38.9835,-9.13397
-13,"Distrito de Santarem",39.291,-8.40378
-14,"Distrito de Leiria",39.7583,-8.75857
-15,"Distrito de Coimbra",40.1645,-8.32193
-16,"Distrito de Aveiro",40.6738,-8.4394
-17,"Distrito do Porto",41.2118,-8.33114
-18,"Regiao Autonoma da Madeira",32.7427,-16.9465
-19,"Regiao Autonoma dos Acores",38.6351,-28.0394
-20,"Distrito de Viseu",40.8417,-7.82745
+id,name,lon,lat
+PRT-741,Distrito de Viana do Castelo,-8.511373,41.88099
+PRT-749,Distrito de Braga,-8.310519,41.55527
+PRT-750,Distrito de Braganca,-6.865684,41.51734
+PRT-756,Distrito de Vila Real,-7.629013,41.55847
+PRT-753,Distrito da Guarda,-7.233319,40.64855
+PRT-751,Distrito de Castelo Branco,-7.509109,39.95502
+PRT-747,Distrito de Portalegre,-7.630704,39.19354
+PRT-744,Distrito de Evora,-7.853025,38.60738
+PRT-743,Distrito de Beja,-7.948614,37.83059
+PRT-745,Distrito de Faro,-8.141777,37.24533
+PRT-5498,Distrito de Setubal,-8.651045,38.31267
+PRT-746,Distrito de Lisboa,-9.171586,39.00319
+PRT-748,Distrito de Santarem,-8.477301,39.29445
+PRT-740,Distrito de Leiria,-8.777606,39.71926
+PRT-752,Distrito de Coimbra,-8.334337,40.20442
+PRT-739,Distrito de Aveiro,-8.464185,40.72395
+PRT-754,Distrito do Porto,-8.360103,41.23005
+PRT-736,Regiao Autonoma da Madeira,-16.94404,32.75617
+PRT-735,Regiao Autonoma dos Acores,-27.33518,38.36607
+PRT-755,Distrito de Viseu,-7.86963,40.80743

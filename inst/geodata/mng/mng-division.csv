@@ -1,23 +1,23 @@
-"id","name","lat","lon"
-1,"Dornod Aymag",48.7766,114.261
-2,"Bayan-Olgiy Aymag",48.8811,89.8127
-3,"Hovd Aymag",46.8037,92.4584
-4,"Suhbaatar Aymag",46.1847,113.904
-5,"Dornogovi Aymag",44.4088,109.825
-6,"Govi-Altay Aymag",45.4627,95.7776
-7,"Bayanhongor Aymag",45.8317,99.6955
-8,"Omnogovi Aymag",43.4636,103.762
-9,"Hovsgol Aymag",50.1456,99.8205
-10,"Bulgan Aymag",49.0014,103.196
-11,"Uvs Aymag",49.6911,92.8431
-12,"Selenge Aymag",48.8536,106.46
-13,"Dzavhan Aymag",48.615,96.1728
-14,"Hentiy Aymag",47.7116,110.542
-15,"Darhan-Uul Aymag",49.3586,106.306
-16,"Tov Aymag",47.1533,106.554
-17,"Arhangay Aymag",48.0061,100.92
-18,"Orhon Aymag",49.0077,104.286
-19,"Dundgovi Aymag",45.4132,106.116
-20,"Ovorhangay Aymag",45.7785,102.857
-21,"Govi-Sumber",47.74,108.346
-22,"Ulaanbaatar Hot",47.9597,106.967
+id,name,lon,lat
+MNG-3332,Dornod Aymag,115.4555,48.15358
+MNG-3208,Bayan-Olgiy Aymag,89.84863,48.53485
+MNG-3320,Hovd Aymag,92.27544,46.89519
+MNG-3333,Suhbaatar Aymag,113.5317,46.22435
+MNG-3297,Dornogovi Aymag,109.7414,44.5317
+MNG-3319,Govi-Altay Aymag,95.92905,45.34485
+MNG-3317,Bayanhongor Aymag,99.51993,45.25331
+MNG-3298,Omnogovi Aymag,104.1129,43.27487
+MNG-3321,Hovsgol Aymag,99.91335,50.2297
+MNG-3323,Bulgan Aymag,103.3971,48.94813
+MNG-3322,Uvs Aymag,92.94184,49.62578
+MNG-3326,Selenge Aymag,106.2037,49.46487
+MNG-3318,Dzavhan Aymag,96.43072,48.29808
+MNG-3315,Hentiy Aymag,110.4443,47.90218
+MNG-3328,Darhan-Uul Aymag,106.2943,49.37307
+MNG-3329,Tov Aymag,106.5666,47.66248
+MNG-3316,Arhangay Aymag,101.0102,47.8819
+MNG-3324,Orhon Aymag,104.2999,49.02433
+MNG-3325,Dundgovi Aymag,106.2848,45.52265
+MNG-3327,Ovorhangay Aymag,102.7071,45.83509
+MNG-3330,Govi-Sumber,108.3488,47.74108
+MNG-3331,Ulaanbaatar Hot,106.9508,47.93475

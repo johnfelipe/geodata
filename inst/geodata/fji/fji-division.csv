@@ -1,6 +1,6 @@
-"id","name","lat","lon"
-1,"Eastern Division",-20.6657,-178.72
-2,"Western Division",-21.6878,174.61
-3,"Central Division",-18.3823,178.132
-4,"Northern Division",-16.8107,178.308
-5,"Rotuma",-12.4964,177.067
+id,name,lon,lat
+FJI-2618,Eastern Division,80.04879,-18.38159
+FJI-2620,Western Division,177.7635,-17.73153
+FJI-2617,Central Division,178.2413,-17.94346
+FJI-2619,Northern Division,156.2334,-16.61224
+FJI-2658,Rotuma,177.0731,-12.49727

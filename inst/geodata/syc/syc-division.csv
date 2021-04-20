@@ -1,27 +1,27 @@
-"id","name","lat","lon"
-1,"unknown",-9.73919,46.4946
-2,"Inner Islands",-4.35949,55.8393
-3,"Grand Anse Mahe",-4.68654,55.4738
-4,"Anse Boileau",-4.71357,55.4923
-5,"Baie Lazare",-4.75461,55.4918
-6,"Takamaka",-4.79065,55.5173
-7,"Anse Royale",-4.7456,55.5118
-8,"Au Cap",-4.70356,55.5138
-9,"Anse aux Pins",-4.68304,55.5208
-10,"Pointe Larue",-4.67403,55.5163
-11,"Cascade",-4.66702,55.4988
-12,"Roche Caiman",-4.6495,55.4828
-13,"Plaisance",-4.65451,55.4693
-14,"Mont Fleuri",-4.63449,55.4633
-15,"Bel Air",-4.63198,55.4483
-16,"English River",-4.60746,55.4533
-17,"Anse Etoile",-4.58794,55.4543
-18,"Glacis",-4.56942,55.4433
-19,"Beau Vallon",-4.60295,55.4317
-20,"Bel Ombre",-4.62448,55.4092
-21,"Port Glaud",-4.65351,55.4262
-22,"Baie Sainte Anne",-4.32918,55.76
-23,"Grand Anse Praslin",-4.34469,55.7435
-24,"Mont Buxton",-4.61246,55.4428
-25,"Saint Louis",-4.62247,55.4388
-26,"Les Mamelles",-4.65751,55.4808
+id,name,lon,lat
+SYC-5197,NA,47.13321,-9.229125
+SYC-5212,Inner Islands,55.5165,-4.406283
+SYC-5210,Grand Anse Mahe,55.47101,-4.681095
+SYC-5199,Anse Boileau,55.49401,-4.711495
+SYC-5203,Baie Lazare,55.48952,-4.755453
+SYC-5220,Takamaka,55.5173,-4.787927
+SYC-5202,Anse Royale,55.51332,-4.748913
+SYC-5201,Au Cap,55.51455,-4.705976
+SYC-5198,Anse aux Pins,55.51777,-4.682308
+SYC-5217,Pointe Larue,55.51631,-4.674465
+SYC-5208,Cascade,55.49834,-4.666784
+SYC-5222,Roche Caiman,55.48319,-4.649349
+SYC-5216,Plaisance,55.47005,-4.653462
+SYC-5215,Mont Fleuri,55.48955,-4.623567
+SYC-5206,Bel Air,55.45139,-4.637104
+SYC-5213,English River,55.45256,-4.608376
+SYC-5200,Anse Etoile,55.45231,-4.587528
+SYC-5209,Glacis,55.44512,-4.571554
+SYC-5205,Beau Vallon,55.43085,-4.604727
+SYC-5207,Bel Ombre,55.40703,-4.625837
+SYC-5218,Port Glaud,55.41703,-4.650918
+SYC-5204,Baie Sainte Anne,55.73802,-4.313751
+SYC-5211,Grand Anse Praslin,55.71707,-4.325993
+SYC-5214,Mont Buxton,55.44256,-4.612444
+SYC-5219,Saint Louis,55.43852,-4.622431
+SYC-5221,Les Mamelles,55.48023,-4.657128

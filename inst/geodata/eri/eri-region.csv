@@ -1,7 +1,7 @@
-"id","name","lat","lon"
-1,"Southern Red Sea Region",13.5712,41.7389
-2,"Northern Red Sea Region",15.6179,40.1691
-3,"Anseba Region",16.6263,37.9175
-4,"Gash-Barka Region",15.0297,37.6058
-5,"Debub Region",14.858,38.9679
-6,"Maekel Region",15.2792,39.0563
+id,name,lon,lat
+ERI-1565,Southern Red Sea Region,41.69319,13.6158
+ERI-1562,Northern Red Sea Region,39.0562,16.15514
+ERI-1563,Anseba Region,37.79853,16.43024
+ERI-1560,Gash-Barka Region,37.41885,15.18628
+ERI-1564,Debub Region,38.90055,14.79881
+ERI-1561,Maekel Region,38.96701,15.32095

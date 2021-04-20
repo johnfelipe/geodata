@@ -1,9 +1,9 @@
-"id","name","lat","lon"
-1,"Zilinsky kraj",49.1656,19.2076
-2,"Presovsky kraj",49.1426,21.2037
-3,"Kosicky kraj",48.6623,21.2753
-4,"Bratislavsky kraj",48.2935,17.1882
-5,"Trnavsky kraj",48.3422,17.6989
-6,"Trenciansky kraj",48.8824,18.0952
-7,"Banskobystricky kraj",48.5213,19.477
-8,"Nitriansky kraj",48.1443,18.3966
+id,name,lon,lat
+SVK-1053,Zilinsky kraj,19.17458,49.17181
+SVK-1058,Presovsky kraj,21.21467,49.11719
+SVK-1057,Kosicky kraj,21.25541,48.69343
+SVK-1051,Bratislavsky kraj,17.18313,48.31963
+SVK-1056,Trnavsky kraj,17.54078,48.35749
+SVK-1055,Trenciansky kraj,18.22141,48.86229
+SVK-1052,Banskobystricky kraj,19.50637,48.51442
+SVK-1054,Nitriansky kraj,18.31193,48.15248

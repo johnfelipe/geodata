@@ -1,13 +1,13 @@
-"id","name","lat","lon"
-1,"Abkhazia",43.1479,41.0701
-2,"Samegrelo-Zemo Svanetis Mkhare",42.5492,42.3632
-3,"Shida Kartli",42.1586,43.9997
-4,"Racha-Lechkhumi and Kvemo Svaneti",42.6296,43.1304
-5,"Mtskheta-Mtianeti",42.2106,44.7435
-6,"Kakheti",41.6527,45.8579
-7,"Samtskhe-Javakheti",41.5149,43.2296
-8,"Ajaria",41.6552,42.0537
-9,"Kvemo Kartli",41.4755,44.5029
-10,"Guria",41.9634,42.1824
-11,"K'alak'i T'bilisi",41.7153,44.845
-12,"Imereti",42.093,42.9894
+id,name,lon,lat
+GEO-3015,Abkhazia,41.17246,43.09525
+GEO-3029,Samegrelo-Zemo Svanetis Mkhare,42.26478,42.68933
+GEO-3039,Shida Kartli,44.00854,42.10743
+GEO-3035,Racha-Lechkhumi and Kvemo Svaneti,43.15424,42.64233
+GEO-3034,Mtskheta-Mtianeti,44.74151,42.29339
+GEO-3033,Kakheti,45.76289,41.76207
+GEO-3038,Samtskhe-Javakheti,43.3231,41.53044
+GEO-3027,Ajaria,42.0743,41.64296
+GEO-3037,Kvemo Kartli,44.50855,41.49108
+GEO-3028,Guria,42.14587,41.96382
+GEO-3036,K'alak'i T'bilisi,44.82996,41.70226
+GEO-3030,Imereti,42.95621,42.1568

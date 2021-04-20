@@ -1,12 +1,12 @@
-"id","name","lat","lon"
-1,"Southern Nations, Nationalities, and People's Region",6.21467,36.4494
-2,"Somali Region",7.09365,43.5345
-3,"Afar Region",12.1232,41.0236
-4,"Amhara Region",11.6981,37.7222
-5,"Tigray Region",14.1003,38.2158
-6,"Benishangul-Gumuz Region",10.5396,35.6017
-7,"Gambela Region",7.86869,34.1775
-8,"Oromiya Region",7.55642,40.2242
-9,"Dire Dawa Region",9.56155,42.0364
-10,"Adis Abeba Astedader",8.966,38.7815
-11,"Harari Region",9.29063,42.1676
+id,name,lon,lat
+ETH-3129,"Southern Nations, Nationalities, and People's Region",36.72634,6.460367
+ETH-3134,Somali Region,43.32396,6.938258
+ETH-3111,Afar Region,40.75577,12.03185
+ETH-3109,Amhara Region,38.04768,11.58254
+ETH-3110,Tigray Region,38.44183,13.77767
+ETH-3132,Benishangul-Gumuz Region,35.4628,10.56552
+ETH-3130,Gambela Region,34.22185,7.821231
+ETH-3131,Oromiya Region,38.70536,7.512329
+ETH-3135,Dire Dawa Region,42.00459,9.605856
+ETH-3133,Adis Abeba Astedader,38.78601,8.977798
+ETH-3136,Harari Region,42.17585,9.291072

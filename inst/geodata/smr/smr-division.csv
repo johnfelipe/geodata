@@ -1,10 +1,10 @@
-"id","name","lat","lon"
-1,"Serravalle",43.9676,12.4721
-2,"Castello di Domagnano",43.9466,12.4721
-3,"Castello di Faetano",43.9312,12.4761
-4,"Castello di Montegiardino",43.9134,12.4699
-5,"Castello di Fiorentino",43.9021,12.4521
-6,"Chiesanuova",43.9069,12.4095
-7,"Castello di San Marino Citta",43.9215,12.4243
-8,"Castello di Acquaviva",43.9425,12.4052
-9,"Castello di Borgo Maggiore",43.9337,12.4389
+id,name,lon,lat
+SMR-4886,Serravalle,12.46391,43.96913
+SMR-4887,Castello di Domagnano,12.46807,43.94899
+SMR-4888,Castello di Faetano,12.47626,43.93438
+SMR-4889,Castello di Montegiardino,12.47,43.91421
+SMR-4890,Castello di Fiorentino,12.45236,43.90632
+SMR-4891,Chiesanuova,12.41528,43.90541
+SMR-4884,Castello di San Marino Citta,12.42064,43.92098
+SMR-4885,Castello di Acquaviva,12.40679,43.9427
+SMR-4883,Castello di Borgo Maggiore,12.43941,43.94185

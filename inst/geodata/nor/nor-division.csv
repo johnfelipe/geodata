@@ -1,22 +1,22 @@
-"id","name","lat","lon"
-1,"Troms Fylke",68.9053,19.0835
-2,"Nordland Fylke",66.7347,14.7203
-3,"Nord-Trondelag Fylke",64.2773,12.2637
-4,"Sor-Trondelag Fylke",62.9613,10.6956
-5,"Hedmark fylke",61.5285,11.2721
-6,"Akershus fylke",60.1365,11.2222
-7,"Ostfold fylke",59.4065,11.2074
-8,"Finnmark Fylke",69.5648,24.4789
-9,"Oslo County",60.0237,10.6419
-10,"Buskerud fylke",60.4253,9.04573
-11,"Vestfold fylke",59.3146,10.1269
-12,"Telemark fylke",59.5476,8.48804
-13,"Aust-Agder fylke",58.6698,8.14878
-14,"Vest-Agder Fylke",58.4481,7.30897
-15,"Rogaland Fylke",59.1585,6.41809
-16,"Hordaland Fylke",60.1134,6.89657
-17,"Sogn og Fjordane Fylke",61.5538,6.43282
-18,"More og Romsdal fylke",62.5471,8.35107
-19,"Svalbard",78.8124,18.069
-20,"Bouvetoya (general)",-54.4151,3.41677
-21,"Oppland fylke",61.5731,9.24644
+id,name,lon,lat
+NOR-900,Troms Fylke,19.62338,69.27602
+NOR-75,Nordland Fylke,14.46997,66.97995
+NOR-925,Nord-Trondelag Fylke,12.29542,64.28247
+NOR-911,Sor-Trondelag Fylke,10.41536,63.13131
+NOR-919,Hedmark fylke,11.42166,61.46872
+NOR-917,Akershus fylke,11.21214,60.03993
+NOR-924,Ostfold fylke,11.30338,59.38033
+NOR-1062,Finnmark Fylke,25.88737,69.93836
+NOR-921,Oslo County,10.65234,59.96926
+NOR-918,Buskerud fylke,9.089231,60.31851
+NOR-923,Vestfold fylke,10.11503,59.33785
+NOR-922,Telemark fylke,8.529472,59.53643
+NOR-912,Aust-Agder fylke,7.973523,58.89315
+NOR-916,Vest-Agder Fylke,7.199644,58.49845
+NOR-914,Rogaland Fylke,6.222803,59.1127
+NOR-913,Hordaland Fylke,6.307531,60.34498
+NOR-915,Sogn og Fjordane Fylke,6.57624,61.42492
+NOR-910,More og Romsdal fylke,7.695551,62.60277
+NOR-901,Svalbard,18.47974,78.86595
+BVT+00?,Bouvetoya (general),3.413145,-54.41926
+NOR-920,Oppland fylke,9.345343,61.43038

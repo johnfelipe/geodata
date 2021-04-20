@@ -1,26 +1,26 @@
-"id","name","lat","lon"
-1,"Trincomalee District",8.56202,81.0848
-2,"Mullaittivu District",9.24043,80.5667
-3,"Jaffna District",9.50669,79.6933
-4,"Kilinochchi District",9.38429,80.3341
-5,"Mannar District",8.84371,80.0854
-6,"Puttalam District",7.94944,79.9111
-7,"Gampaha District",7.12599,80.0106
-8,"Colombo District",6.85989,80.0349
-9,"Kalutara District",6.58989,80.1374
-10,"Galle District",6.19513,80.2387
-11,"Matara District",6.16548,80.5542
-12,"Hambantota District",6.2704,81.1619
-13,"Ampara District",7.1632,81.7242
-14,"Batticaloa District",7.85079,81.4613
-15,"Ratnapura District",6.57933,80.5623
-16,"Monaragala District",6.7224,81.3431
-17,"Kegalla District",7.08797,80.3478
-18,"Badulla District",7.05184,81.0255
-19,"Matale District",7.60919,80.7391
-20,"Polonnaruwa District",7.99997,81.048
-21,"Kurunegala District",7.71298,80.2369
-22,"Anuradhapura District",8.29198,80.4711
-23,"Nuwara Eliya District",6.93625,80.6991
-24,"Vavuniya District",8.89756,80.479
-25,"Kandy District",7.30186,80.718
+id,name,lon,lat
+LKA-2454,Trincomalee District,81.0953,8.553285
+LKA-2458,Mullaittivu District,80.54027,9.175256
+LKA-2459,Jaffna District,80.12061,9.693158
+LKA-2460,Kilinochchi District,80.30018,9.417408
+LKA-2457,Mannar District,80.09358,8.876418
+LKA-2462,Puttalam District,79.9113,7.970749
+LKA-2471,Gampaha District,80.01269,7.122137
+LKA-2470,Colombo District,80.01775,6.867759
+LKA-2472,Kalutara District,80.12604,6.576092
+LKA-2464,Galle District,80.24899,6.2224
+LKA-2466,Matara District,80.54059,6.142543
+LKA-2465,Hambantota District,81.10451,6.261374
+LKA-2451,Ampara District,81.56087,7.230424
+LKA-2452,Batticaloa District,81.49146,7.799143
+LKA-2463,Ratnapura District,80.5658,6.58762
+LKA-2468,Monaragala District,81.30424,6.78727
+LKA-2469,Kegalla District,80.34297,7.104221
+LKA-2467,Badulla District,81.04529,7.069169
+LKA-2449,Matale District,80.73287,7.667907
+LKA-2453,Polonnaruwa District,81.02744,7.994013
+LKA-2461,Kurunegala District,80.23646,7.664038
+LKA-2455,Anuradhapura District,80.51252,8.391916
+LKA-2450,Nuwara Eliya District,80.71202,6.975152
+LKA-2456,Vavuniya District,80.48176,8.858307
+LKA-2448,Kandy District,80.71298,7.275086

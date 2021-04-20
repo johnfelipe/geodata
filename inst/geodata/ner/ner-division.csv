@@ -1,9 +1,9 @@
-"id","name","lat","lon"
-1,"Tahoua",15.6002,5.27361
-2,"Dosso Region",12.8124,3.55023
-3,"Diffa",15.7652,13.0899
-4,"Maradi",14.1148,7.41198
-5,"Zinder",14.5314,9.66231
-6,"Tillaberi Region",13.8777,2.19539
-7,"Agadez",19.4523,10.0991
-8,"Niamey",13.562,2.12167
+id,name,lon,lat
+NER-95,Tahoua,5.232759,15.75836
+NER-93,Dosso Region,3.551471,13.20337
+NER-796,Diffa,13.20108,15.86643
+NER-91,Maradi,7.28859,14.12189
+NER-92,Zinder,10.01662,14.99044
+NER-4859,Tillaberi Region,2.182188,14.18155
+NER-800,Agadez,10.50759,19.47967
+NER-94,Niamey,2.13083,13.51687
