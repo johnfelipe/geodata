@@ -13,7 +13,7 @@ filter_json <- function(map_name = NULL, col_filter = "name", data_filter = NULL
                                                   paste0(info_filter, collapse = ", "))
   if (length(data_filter %in%  info_filter) < length(data_filter)) warning("Some categories were not joined")
 
-  geofilter <- geodata[geodata[[col_filter]] %in% data_filter, ]
+  geofilter <- geodata[geodata[[col_filter]] != data_filter, ]
   geofilter <- geofilter %>% sf::st_as_sf()
   if (is.null(object_name)) object_name <- paste0(map_name, "_filter")
   st_write(geofilter, dsn = paste0(object_name, ".json"), driver = "GeoJSON")
