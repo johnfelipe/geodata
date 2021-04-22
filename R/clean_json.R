@@ -34,9 +34,9 @@ centroids_json <- function(map_name, write = TRUE, ext = "csv") {
   df$centroids <- stringr::str_extract(string = st_as_text(df$geometry),
                                        pattern = "(?<=\\().*(?=\\))")
   df <- df %>%
-         unnest(centroids) %>%
-          separate(centroids, c("lon", "lat"), sep = " ") %>%
-           st_drop_geometry()
+    tidyr::unnest(centroids) %>%
+    tidyr::separate(centroids, c("lon", "lat"), sep = " ") %>%
+    st_drop_geometry()
 
   if (!("name" %in% names(df))) message("geo information without name")
   if (!("name" %in% names(df))) return()
@@ -44,7 +44,7 @@ centroids_json <- function(map_name, write = TRUE, ext = "csv") {
 
   if (write) {
     if (ext == "csv") {
-    write_csv(df, gsub(".topojson", ".csv", topojsonPath))
+      write_csv(df, gsub(".topojson", ".csv", topojsonPath))
     } else if (ext == "rds") {
       saveRDS(df, gsub(".topojson", "-centroides.rds", topojsonPath))
     } else {

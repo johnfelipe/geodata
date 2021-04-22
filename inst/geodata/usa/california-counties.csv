@@ -1,59 +1,59 @@
-id,name,depto,lon,lat
-US.CA.AA,Alameda,California,-121.8872,37.6466
-US.CA.AP,Alpine,California,-119.8205,38.59877
-US.CA.AM,Amador,California,-120.6463,38.44686
-US.CA.BU,Butte,California,-121.5998,39.66718
-US.CA.CA,Calaveras,California,-120.552,38.20473
-US.CA.CL,Colusa,California,-122.2365,39.17799
-US.CA.CN,Contra Costa,California,-121.9256,37.91713
-US.CA.DE,Del Norte,California,-123.8967,41.74332
-US.CA.EL,El Dorado,California,-120.5253,38.77899
-US.CA.FR,Fresno,California,-119.6515,36.75826
-US.CA.GL,Glenn,California,-122.3906,39.59932
-US.CA.HU,Humboldt,California,-123.8736,40.69944
-US.CA.IM,Imperial,California,-115.3637,33.04031
-US.CA.IN,Inyo,California,-117.412,36.5114
-US.CA.KE,Kern,California,-118.7323,35.34245
-US.CA.KI,Kings,California,-119.8162,36.07467
-US.CA.LK,Lake,California,-122.7534,39.10086
-US.CA.LS,Lassen,California,-120.5949,40.67377
-US.CA.LO,Los Angeles,California,-118.2267,34.32183
-US.CA.ME,Madera,California,-119.7635,37.21775
-US.CA.MN,Marin,California,-122.7182,38.07203
-US.CA.MP,Mariposa,California,-119.9058,37.58144
-US.CA.MI,Mendocino,California,-123.3915,39.441
-US.CA.MD,Merced,California,-120.7182,37.19295
-US.CA.MC,Modoc,California,-120.725,41.59085
-US.CA.MO,Mono,California,-118.8877,37.93953
-US.CA.MT,Monterey,California,-121.2396,36.21748
-US.CA.NA,Napa,California,-122.3299,38.50739
-US.CA.NE,Nevada,California,-120.7657,39.30191
-US.CA.OR,Orange,California,-117.7609,33.70303
-US.CA.PA,Placer,California,-120.7163,39.06418
-US.CA.PU,Plumas,California,-120.8393,40.00466
-US.CA.RI,Riverside,California,-115.9928,33.74552
-US.CA.SC,Sacramento,California,-121.3392,38.45296
-US.CA.SI,San Benito,California,-121.074,36.60572
-US.CA.SA,San Bernardino,California,-116.1797,34.84273
-US.CA.SD,San Diego,California,-116.7322,33.03468
-US.CA.SF,San Francisco,California,-122.4433,37.75537
-US.CA.SJ,San Joaquin,California,-121.2706,37.9341
-US.CA.SS,San Luis Obispo,California,-120.4059,35.38769
-US.CA.SM,San Mateo,California,-122.3302,37.42183
-US.CA.SB,Santa Barbara,California,-120.0182,34.67281
-US.CA.SL,Santa Clara,California,-121.6929,37.23124
-US.CA.SZ,Santa Cruz,California,-122.0014,37.05657
-US.CA.SH,Shasta,California,-122.0411,40.76321
-US.CA.SE,Sierra,California,-120.5173,39.5811
-US.CA.SK,Siskiyou,California,-122.5399,41.59278
-US.CA.SN,Solano,California,-121.9293,38.2789
-US.CA.SO,Sonoma,California,-122.8876,38.52874
-US.CA.ST,Stanislaus,California,-120.9972,37.55955
-US.CA.SU,Sutter,California,-121.6936,39.0342
-US.CA.TE,Tehama,California,-122.2347,40.1253
-US.CA.TR,Trinity,California,-123.1129,40.65014
-US.CA.TL,Tulare,California,-118.8014,36.22021
-US.CA.TO,Tuolumne,California,-119.954,38.02778
-US.CA.VE,Ventura,California,-119.0853,34.45692
-US.CA.YO,Yolo,California,-121.9021,38.68674
-US.CA.YU,Yuba,California,-121.3501,39.26938
+id,name,lon,lat
+US.CA.AA,Alameda,-121.8872,37.6466
+US.CA.AP,Alpine,-119.8205,38.59877
+US.CA.AM,Amador,-120.6463,38.44686
+US.CA.BU,Butte,-121.5998,39.66718
+US.CA.CA,Calaveras,-120.552,38.20473
+US.CA.CL,Colusa,-122.2365,39.17799
+US.CA.CN,Contra Costa,-121.9256,37.91713
+US.CA.DE,Del Norte,-123.8967,41.74332
+US.CA.EL,El Dorado,-120.5253,38.77899
+US.CA.FR,Fresno,-119.6515,36.75826
+US.CA.GL,Glenn,-122.3906,39.59932
+US.CA.HU,Humboldt,-123.8736,40.69944
+US.CA.IM,Imperial,-115.3637,33.04031
+US.CA.IN,Inyo,-117.412,36.5114
+US.CA.KE,Kern,-118.7323,35.34245
+US.CA.KI,Kings,-119.8162,36.07467
+US.CA.LK,Lake,-122.7534,39.10086
+US.CA.LS,Lassen,-120.5949,40.67377
+US.CA.LO,Los Angeles,-118.2267,34.32183
+US.CA.ME,Madera,-119.7635,37.21775
+US.CA.MN,Marin,-122.7182,38.07203
+US.CA.MP,Mariposa,-119.9058,37.58144
+US.CA.MI,Mendocino,-123.3915,39.441
+US.CA.MD,Merced,-120.7182,37.19295
+US.CA.MC,Modoc,-120.725,41.59085
+US.CA.MO,Mono,-118.8877,37.93953
+US.CA.MT,Monterey,-121.2396,36.21748
+US.CA.NA,Napa,-122.3299,38.50739
+US.CA.NE,Nevada,-120.7657,39.30191
+US.CA.OR,Orange,-117.7609,33.70303
+US.CA.PA,Placer,-120.7163,39.06418
+US.CA.PU,Plumas,-120.8393,40.00466
+US.CA.RI,Riverside,-115.9928,33.74552
+US.CA.SC,Sacramento,-121.3392,38.45296
+US.CA.SI,San Benito,-121.074,36.60572
+US.CA.SA,San Bernardino,-116.1797,34.84273
+US.CA.SD,San Diego,-116.7322,33.03468
+US.CA.SF,San Francisco,-122.4433,37.75537
+US.CA.SJ,San Joaquin,-121.2706,37.9341
+US.CA.SS,San Luis Obispo,-120.4059,35.38769
+US.CA.SM,San Mateo,-122.3302,37.42183
+US.CA.SB,Santa Barbara,-120.0182,34.67281
+US.CA.SL,Santa Clara,-121.6929,37.23124
+US.CA.SZ,Santa Cruz,-122.0014,37.05657
+US.CA.SH,Shasta,-122.0411,40.76321
+US.CA.SE,Sierra,-120.5173,39.5811
+US.CA.SK,Siskiyou,-122.5399,41.59278
+US.CA.SN,Solano,-121.9293,38.2789
+US.CA.SO,Sonoma,-122.8876,38.52874
+US.CA.ST,Stanislaus,-120.9972,37.55955
+US.CA.SU,Sutter,-121.6936,39.0342
+US.CA.TE,Tehama,-122.2347,40.1253
+US.CA.TR,Trinity,-123.1129,40.65014
+US.CA.TL,Tulare,-118.8014,36.22021
+US.CA.TO,Tuolumne,-119.954,38.02778
+US.CA.VE,Ventura,-119.0853,34.45692
+US.CA.YO,Yolo,-121.9021,38.68674
+US.CA.YU,Yuba,-121.3501,39.26938
