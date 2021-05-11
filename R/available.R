@@ -130,3 +130,39 @@ geodataRdsPath <- function(mapName){
 }
 
 
+#' @export
+geoinfo <- function(mapName) {
+
+  dir <- system.file("meta",package="geodata", mustWork=TRUE)
+  files <- list.files(dir,pattern = ".*.yaml",full.names = TRUE)
+  l <- purrr::map(files,function(x){
+    ll <- yaml.load_file(x)
+    purrr::map(ll, function(y){
+      geoprep <- NULL
+      geoprep$geoname <- basename(file_path_sans_ext(x))
+      geoprep$basename <- y$basename
+      geoprep
+    })
+  }) %>% purrr::flatten()
+
+  geoprep <- l[[mapName]]
+  centroids_rds <- readRDS(file =
+                             system.file(
+                               file.path("geodata", geoprep$geoname,paste0(geoprep$basename, "-centroides.rds")),
+                               package = "geodata"
+                             )
+  )
+  topo_sf <- read_sf(dsn =
+                       system.file(
+                         file.path("geodata", geoprep$geoname,paste0(geoprep$basename, ".topojson")),
+                         package = "geodata"
+                       ))
+
+  list (
+    centroids = centroids_rds,
+    geo_sf = topo_sf
+  )
+}
+
+
+
