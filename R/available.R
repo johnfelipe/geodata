@@ -146,21 +146,27 @@ geoinfo <- function(mapName) {
   }) %>% purrr::flatten()
 
   geoprep <- l[[mapName]]
-  centroids_rds <- readRDS(file =
+  centroids_rds <- readr::read_rds(file =
                              system.file(
                                file.path("geodata", geoprep$geoname,paste0(geoprep$basename, "-centroides.rds")),
                                package = "geodata"
                              )
   )
-  topo_sf <- read_sf(dsn =
+  topo_sf <- sf::read_sf(dsn =
                        system.file(
                          file.path("geodata", geoprep$geoname,paste0(geoprep$basename, ".topojson")),
+                         package = "geodata"
+                       ))
+  topo_rds <- readr::read_rds(dsn =
+                       system.file(
+                         file.path("geodata", geoprep$geoname,paste0(geoprep$basename, ".rds")),
                          package = "geodata"
                        ))
 
   list (
     centroids = centroids_rds,
-    geo_sf = topo_sf
+    geo_sf = topo_sf,
+    geo_rds = topo_rds
   )
 }
 
