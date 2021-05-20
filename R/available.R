@@ -157,7 +157,7 @@ geoinfo <- function(mapName) {
                          file.path("geodata", geoprep$geoname,paste0(geoprep$basename, ".topojson")),
                          package = "geodata"
                        ))
-  topo_rds <- readr::read_rds(dsn =
+  topo_rds <- readr::read_rds(file =
                        system.file(
                          file.path("geodata", geoprep$geoname,paste0(geoprep$basename, ".rds")),
                          package = "geodata"
