@@ -11,7 +11,7 @@ geodataMeta <- function(mapName = NULL, load_data = FALSE, debug = FALSE){
   l <- purrr::map(files,function(x){
     #x <- files[[11]]
     if(debug) message("\n--- ",basename(x))
-    ll <- yaml.load_file(x)
+    ll <- yaml::yaml.load_file(x)
     purrr::map(ll, function(y){
       #y <- ll[[1]]
       y$geoname = basename(file_path_sans_ext(x))
@@ -136,7 +136,7 @@ geoinfo <- function(mapName) {
   dir <- system.file("meta",package="geodata", mustWork=TRUE)
   files <- list.files(dir,pattern = ".*.yaml",full.names = TRUE)
   l <- purrr::map(files,function(x){
-    ll <- yaml.load_file(x)
+    ll <- yaml::yaml.load_file(x)
     purrr::map(ll, function(y){
       geoprep <- NULL
       geoprep$geoname <- basename(file_path_sans_ext(x))
