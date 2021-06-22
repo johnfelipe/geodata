@@ -1,6 +1,6 @@
-eth_administrativestate:
-  label: Ethiopia administrativestate
-  basename: eth-administrativestate
+eth_states:
+  label: Ethiopia states
+  basename: eth-states
   scope: ETH_adm1
   geographyName: name
   geographyId: id

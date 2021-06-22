@@ -81,7 +81,7 @@ geodataAltnames <- function(mapName = NULL, load_data = FALSE){
 geodataPolygon <- function(mapName = NULL){
   dm <- geodataMeta(mapName, load_data = load_data)
   path <- file.path("geodata", dm$geoname, paste0(dm$basename,".topojson"))
-  dm$centroides <- file.path("geodata", dm$geoname, paste0(dm$basename, ".csv"))
+  dm$centroids <- file.path("geodata", dm$geoname, paste0(dm$basename, ".csv"))
   tj <- topojson_read(system.file(path, package = "geodata"))
   data_map <- ggplot2::fortify(tj) %>% dplyr::mutate(.id = as.numeric(id)) %>%
     dplyr::select(-id)
@@ -126,7 +126,7 @@ geodataCsvPath <- function(mapName){
 #' @export
 geodataRdsPath <- function(mapName){
   y <- geodataMeta(mapName, load_data = FALSE)
-  system.file(file.path("geodata",y$geoname,paste0(y$basename, "-centroides.rds")),package = "geodata")
+  system.file(file.path("geodata",y$geoname,paste0(y$basename, "-centroids.rds")),package = "geodata")
 }
 
 
@@ -148,7 +148,7 @@ geoinfo <- function(mapName) {
   geoprep <- l[[mapName]]
   centroids_rds <- readr::read_rds(file =
                              system.file(
-                               file.path("geodata", geoprep$geoname,paste0(geoprep$basename, "-centroides.rds")),
+                               file.path("geodata", geoprep$geoname,paste0(geoprep$basename, "-centroids.rds")),
                                package = "geodata"
                              )
   )
@@ -172,3 +172,9 @@ geoinfo <- function(mapName) {
 
 
 
+# maps <- availableGeodata()
+# map(maps, function(ms) {
+#   print(ms)
+#   tryCatch(centroids_json(ms, ext = "rds"),
+#            error = function(e) {return()})
+# })

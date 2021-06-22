@@ -1,6 +1,6 @@
-nga_state:
-  label: Nigeria state
-  basename: nga-state
+nga_states:
+  label: Nigeria states
+  basename: nga-states
   scope: NGA_adm1
   geographyName: name
   geographyId: id
