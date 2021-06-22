@@ -1,6 +1,6 @@
-sds_state:
-  label: S. Sudan state
-  basename: sds-state
+sds_states:
+  label: S. Sudan states
+  basename: sds-states
   scope: SDS_adm1
   geographyName: name
   geographyId: id

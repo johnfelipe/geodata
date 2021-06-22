@@ -46,7 +46,7 @@ centroids_json <- function(map_name, write = TRUE, ext = "csv") {
     if (ext == "csv") {
       write_csv(df, gsub(".topojson", ".csv", topojsonPath))
     } else if (ext == "rds") {
-      saveRDS(df, gsub(".topojson", "-centroides.rds", topojsonPath))
+      saveRDS(df, gsub(".topojson", "-centroids.rds", topojsonPath))
     } else {
       stop("format must be csv or rds")
     }
