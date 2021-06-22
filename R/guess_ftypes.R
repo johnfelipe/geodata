@@ -1,27 +1,4 @@
 
-# Find name or id
-#' @export
-geoType <- function(data, map_name) {
-
-  f <- homodatum::fringe(data)
-  nms <- homodatum::fringe_labels(f)
-  d <- homodatum::fringe_d(f)
-
-  lfmap <- geodataMeta(map_name)
-  centroides <- data_centroid(lfmap$geoname, lfmap$basename)
-  vs <- NULL
-  values <- intersect(d[[1]], centroides[["id"]])
-
-  if (identical(values, character(0))||identical(values, numeric(0))) {
-    values <- intersect(d[[1]], centroides[["name"]])
-    if(!identical(values, character())) vs <- "Gnm"
-  } else {
-    vs <- "Gcd"
-  }
-  vs
-}
-
-
 # fake data
 #' @export
 fakeData <- function(map_name = NULL, by = "name", ...) {
@@ -44,27 +21,10 @@ fakeData <- function(map_name = NULL, by = "name", ...) {
 }
 
 
-# fake data points
-#' @export
-fakepoints <- function(map_name = NULL, ...) {
-  if (is.null(map_name)) return()
-  lfmap <- geodataMeta(map_name)
-  centroides <- data_centroid(lfmap$geoname, lfmap$basename)
-
-  nsample <- nrow(centroides)
-  if (nsample > 30) nsample <- 30
-  d <- data.frame(lon = sample(centroides$lon, nsample),
-                  lat = sample(centroides$lat, nsample),
-                  dim_sample = abs(rnorm(nsample, 33, 333)),
-                  stringsAsFactors = FALSE)
-  d
-}
-
-
 #' standar dataset
 #' @export
 standar_values <- function(data) {
-  l <- map(colnames(data), function(i) iconv(tolower(data[[i]]), to = "ASCII//TRANSLIT"))
+  l <- map(colnames(data), function(i) as.character(iconv(tolower(data[[i]]), to = "ASCII//TRANSLIT")))
   names(l) <- names(data)
   l <- l %>% bind_rows()
   l
@@ -126,7 +86,7 @@ guess_ftypes <- function(data, map_name) {
     col_names <- c("name")
     centroides$name <- iconv(tolower(centroides$name), to = "ASCII//TRANSLIT")
   }
-  var_geo <- find_geoinfo(as.data.frame(data), centroides)
+  var_geo <- find_geoinfo(data = as.data.frame(data), centroides)
   d <- data[var_geo]
   d <- standar_values(d)
 
