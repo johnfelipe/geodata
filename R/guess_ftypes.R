@@ -24,9 +24,9 @@ fakeData <- function(map_name = NULL, by = "name", ...) {
 #' standar dataset
 #' @export
 standar_values <- function(data) {
-  l <- map(colnames(data), function(i) as.character(iconv(tolower(data[[i]]), to = "ASCII//TRANSLIT")))
+  l <- purrr::map(colnames(data), function(i) as.character(iconv(tolower(data[[i]]), to = "ASCII//TRANSLIT")))
   names(l) <- names(data)
-  l <- l %>% bind_rows()
+  l <- l %>% dplyr::bind_rows()
   l
 }
 
@@ -35,14 +35,14 @@ standar_values <- function(data) {
 find_geoinfo <- function(data, centroids) {
 
 
-  centroids <- centroids %>% select(-lat, -lon)
+  centroids <- centroids %>% dplyr::select(-lat, -lon)
   centroids <- standar_values(centroids)
   dic_info <- data.frame(names_centroids = c("id", "name", "name_addition", "code_addition"),
                          ftype = c("Gcd", "Gnm", "Gnm", "Gcd"), stringsAsFactors = FALSE)
 
-  info_data <- paste0("^", map(colnames(centroids),
-                               function (i) {unique(centroids[[i]])
-                               }) %>% unlist(), "$", collapse = "|")
+  info_data <- paste0("^", purrr::map(colnames(centroids),
+                                      function (i) {unique(centroids[[i]])
+                                      }) %>% unlist(), "$", collapse = "|")
 
   data <- standar_values(data)
 
@@ -68,7 +68,7 @@ guess_ftypes <- function(data, map_name) {
     stop("Please type a map name")
   if (is.null(data)) return()
 
-  f <- fringe(data)
+  f <- homodatum::fringe(data)
   d <- homodatum::fringe_d(f)
   dic <- homodatum::fringe_dic(f)
   dic$id <- names(d)
@@ -100,7 +100,7 @@ guess_ftypes <- function(data, map_name) {
     if(!all(is.na(suppressWarnings(as.numeric(centroids$id))))) {
       max_gcd <- max(centroids$id)
       d_gcd <- r %>%
-        map(function(i){max(d[[i]], na.rm = TRUE) <= max(centroids$id)}) %>% unlist()
+        purrr::map(function(i){max(d[[i]], na.rm = TRUE) <= max(centroids$id)}) %>% unlist()
       r <- r[d_gcd]
     }
     ld<- map(r, function(i) {
@@ -109,16 +109,16 @@ guess_ftypes <- function(data, map_name) {
   }
 
 
-  info_gnm <- paste0("^", map(col_names,
-                              function (i) {unique(centroids[[i]])
-                              }) %>% unlist(), "$", collapse = "|")
+  info_gnm <- paste0("^", purrr::map(col_names,
+                                     function (i) {unique(centroids[[i]])
+                                     }) %>% unlist(), "$", collapse = "|")
   l <- sapply(colnames(d), function(x) {
     search_info <- !identical(grep(info_gnm, as.matrix(d[,x])), integer(0)) == TRUE
   })
   r <- names(l)[l == TRUE]
 
   if (!identical(r, character(0))) {
-    ld<- map(r, function(i) {
+    ld<- purrr::map(r, function(i) {
       dic$hdType[dic$label == i] <<- "Gnm"
     })
   }
