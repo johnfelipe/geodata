@@ -11,10 +11,10 @@ fakeData <- function(map_name = NULL, by = "name", ...) {
   centroids <- centroids[sample(1:nrow(centroids), nsample),]
   if (by == "name" & !(identical(diff_names, character()))) {
     d <- data.frame(name = centroids[[by]],
-                    name_addition = centroids[[diff_names]], sample_value = runif(nsample, 33, 333),
+                    name_addition = centroids[[diff_names]], sample_value = abs(runif(nsample, 33, 333)),
                     stringsAsFactors = FALSE)
   } else {
-    d <- data.frame(name = sample(centroids[[by]], nsample), sample_value = runif(nsample, 33, 333),
+    d <- data.frame(name = sample(centroids[[by]], nsample), sample_value = abs(runif(nsample, 33, 333)),
                     stringsAsFactors = FALSE)
   }
   d
