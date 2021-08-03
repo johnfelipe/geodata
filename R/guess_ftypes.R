@@ -61,6 +61,7 @@ find_geoinfo <- function(data, centroids) {
 
 
 # guess ftypes changed cat by Gnm or Gcd
+#' @importFrom dplyr %>%
 #' @export
 guess_ftypes <- function(data, map_name) {
   #data <- sample_data("Glt-Gln-Num-Cat-Num-Num-Cat")
