@@ -44,3 +44,26 @@ mex_municipalities:
       center: [0, 25]
       parallels: [29.5, 45.5]
       translate: [0,0]
+mex_mayors:
+  label: Mexico mayors
+  basename: mex-mayors
+  scope: alcaldias
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-102.5, 25]
+      rotate: [0, 0]
+      scale: 1.7
+      translate: [0,0]
+    equirectangular:
+      center: [-102.5, 25]
+      rotate: [0, 0]
+      scale: 1.7
+      translate: [0,0]
+    albers:
+      scale: 1.7
+      rotate: [100, 0]
+      center: [0, 25]
+      parallels: [29.5, 45.5]
+      translate: [0,0]
