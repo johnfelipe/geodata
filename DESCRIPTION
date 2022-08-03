@@ -9,7 +9,6 @@ Description: geodata package for maps
 Depends:
     R (>= 3.5.0),
     yaml,
-    geojsonio,
     sf
 Imports:
     tidyverse,
